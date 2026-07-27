@@ -1,0 +1,1929 @@
+<!--nur 148 - was fehlt?-->
+<xml>
+   <records>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 50, 1366 Januar 17, Österreich</title>
+         </titles>
+         <dates>
+            <year>1366</year>
+         </dates>
+         <pub-location>Österreich</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599747140023</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 44, 1362 Juni 25, Haimburg</title>
+         </titles>
+         <dates>
+            <year>1362</year>
+         </dates>
+         <pub-location>Haimburg</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599745352447</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 257, 1304 März 8, Kreta</title>
+         </titles>
+         <dates>
+            <year>1304</year>
+         </dates>
+         <pub-location>Kreta</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605880185343</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 13, 1307 Juli 27, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1307</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1597929797693</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 33, 1352 Juli 8, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1352</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604394002577</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 259, 1243 Februar 25, Kreta</title>
+         </titles>
+         <dates>
+            <year>1243</year>
+         </dates>
+         <pub-location>Kreta</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605878059459</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 99, 1437 Oktober 24, Straubing</title>
+         </titles>
+         <dates>
+            <year>1437</year>
+         </dates>
+         <pub-location>Straubing</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599659380507</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 31, 1352 April 12, Winterthur</title>
+         </titles>
+         <dates>
+            <year>1352</year>
+         </dates>
+         <pub-location>Winterthur</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599744922214</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 30, 1349 September 3, Köln</title>
+         </titles>
+         <dates>
+            <year>1349</year>
+         </dates>
+         <pub-location>Köln</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1597821581552</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 9, 1295 April, Frankreich</title>
+         </titles>
+         <dates>
+            <year>1295</year>
+         </dates>
+         <pub-location>Frankreich</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605617470463</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 95, 1433  Juli 28, Erfurt</title>
+         </titles>
+         <dates>
+            <year>1433</year>
+         </dates>
+         <pub-location>Erfurt</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604389519793</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 6, 1270 März 7, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1270</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1597915714638</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 5, 1246 Juli 19, Magdeburg</title>
+         </titles>
+         <dates>
+            <year>1246</year>
+         </dates>
+         <pub-location>Magdeburg</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1602677886928</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 76, 1392 Februar 21, Niedersachsen</title>
+         </titles>
+         <dates>
+            <year>1392</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1600343377746</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 260, 1232 Juli, Kreta</title>
+         </titles>
+         <dates>
+            <year>1232</year>
+         </dates>
+         <pub-location>Kreta</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605622857789</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 45, 1362 September 3, Österreich</title>
+         </titles>
+         <dates>
+            <year>1362</year>
+         </dates>
+         <pub-location>Österreich</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599746331472</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 28, 1346 Januar 2, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1346</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1597931380491</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 74, 1390 Dezember 19, Zabern</title>
+         </titles>
+         <dates>
+            <year>1390</year>
+         </dates>
+         <pub-location>Zabern</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599652382071</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 72, 1387 April 9, Bayern</title>
+         </titles>
+         <dates>
+            <year>1387</year>
+         </dates>
+         <pub-location>Bayern</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599658033369</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 91, 1428 Januar 8, Niedersachsen</title>
+         </titles>
+         <dates>
+            <year>1428</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1600347882893</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 54, 1369 Juli 27, Stuttgart</title>
+         </titles>
+         <dates>
+            <year>1369</year>
+         </dates>
+         <pub-location>Stuttgart</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599655038738</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 56, 1370 Juni 8, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1370</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1604395747133</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 262, 1279 August 2, Rialto (Venedig)</title>
+         </titles>
+         <dates>
+            <year>1279</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605878517885</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 83, 1402 Mai 21, Altenburg</title>
+         </titles>
+         <dates>
+            <year>1402</year>
+         </dates>
+         <pub-location>Altenburg</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604397796214</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 64, 1380 März, Köln</title>
+         </titles>
+         <dates>
+            <year>1380</year>
+         </dates>
+         <pub-location>[Köln]</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1597909821837</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 87, 1416 Mai 31, Mailand</title>
+         </titles>
+         <dates>
+            <year>1416</year>
+         </dates>
+         <pub-location>Mailand</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608640924068</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 48, 1365 November 12, Bayern</title>
+         </titles>
+         <dates>
+            <year>1365</year>
+         </dates>
+         <pub-location>Bayern</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599656452749</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 24, 1337 März 30, Niedersachsen und Hamburg</title>
+         </titles>
+         <dates>
+            <year>1337</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1600341447438</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 11, 1300 Mai 28, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1300</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1597928223660</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 42, 1361 April 19, Köln</title>
+         </titles>
+         <dates>
+            <year>1361</year>
+         </dates>
+         <pub-location>[Köln]</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1597844174761</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 267, 1338 April 1, Torcello, Venedig</title>
+         </titles>
+         <dates>
+            <year>1338</year>
+         </dates>
+         <pub-location>Torcello, Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607006061160</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 81, 1400 Juli 13, Niedersachsen</title>
+         </titles>
+         <dates>
+            <year>1400</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1600344211866</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 66, 1383 Juli 12, Bayern</title>
+         </titles>
+         <dates>
+            <year>1383</year>
+         </dates>
+         <pub-location>Bayern</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599656976898</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 20, 1326 September 27, Nürnberg</title>
+         </titles>
+         <dates>
+            <year>1326</year>
+         </dates>
+         <pub-location>Nürnberg</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599655964802</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 263, 1328 Januar 25, Torcello, Venedig</title>
+         </titles>
+         <dates>
+            <year>1328</year>
+         </dates>
+         <pub-location>Torcello, Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1606483231073</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 261, 1304 Januar 23, Treviso</title>
+         </titles>
+         <dates>
+            <year>1304</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607521526210</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 23, 1337 Dezember 28, Niedersachsen und Hamburg</title>
+         </titles>
+         <dates>
+            <year>1337</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1600342161588</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 105, 1446, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1446</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1598007625962</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 8, 1290 Mai 12, Worms</title>
+         </titles>
+         <dates>
+            <year>1290</year>
+         </dates>
+         <pub-location>[Worms]</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1597925048684</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 85, 1407 Dezember 17, Treviso</title>
+         </titles>
+         <dates>
+            <year>1407</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607522174983</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 256, 1305 Februar 19, Venedig</title>
+         </titles>
+         <dates>
+            <year>1305</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1606480767483</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 258, 1218 Mai 30, Konstantinopel</title>
+         </titles>
+         <dates>
+            <year>1218</year>
+         </dates>
+         <pub-location>Konstantinopel</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605620991537</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 266, 1303 April 10, Kreta</title>
+         </titles>
+         <dates>
+            <year>1303</year>
+         </dates>
+         <pub-location>Kreta</pub-location>
+         <language>lat</language>
+         <pages>6</pages>
+         <accession-num>1605879176947</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 7, 1270 Dezember 21, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1270</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1597922275724</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 40, 1358 April 20, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1358</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1604394841089</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 269, 1381 Juni, 2, Italien</title>
+         </titles>
+         <dates>
+            <year>1381</year>
+         </dates>
+         <pub-location>Italien</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607520943638</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 29, 1349 August 8, Sacili</title>
+         </titles>
+         <dates>
+            <year>1349</year>
+         </dates>
+         <pub-location>Sacili</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608633040806</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 265, 1328 Januar 25, Torcello, Venedig</title>
+         </titles>
+         <dates>
+            <year>1328</year>
+         </dates>
+         <pub-location>Torcello, Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1606484839332</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 47, 1365 Februar 20, Westfalen</title>
+         </titles>
+         <dates>
+            <year>1365</year>
+         </dates>
+         <pub-location>Westfalen</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1601558263612</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 251b, 1417 Oktober 9, Sevilla</title>
+         </titles>
+         <dates>
+            <year>1417</year>
+         </dates>
+         <pub-location>Sevilla</pub-location>
+         <language>spa</language>
+         <pages>3</pages>
+         <accession-num>1608711627883</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 60, 1377 November 23, Wien</title>
+         </titles>
+         <dates>
+            <year>1377</year>
+         </dates>
+         <pub-location>Wien</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599821411176</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 26, 1339 Juli 17, Erfurt</title>
+         </titles>
+         <dates>
+            <year>1339</year>
+         </dates>
+         <pub-location>Erfurt</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1604061585359</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 34, 1353 August 1, Prag</title>
+         </titles>
+         <dates>
+            <year>1353</year>
+         </dates>
+         <pub-location>Prag</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608635868024</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 270, 1340 März 15, Rialto (Venedig)</title>
+         </titles>
+         <dates>
+            <year>1340</year>
+         </dates>
+         <pub-location>Rialto (Venedig)</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607006593709</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 22, 1336 Juni 9, Speyer</title>
+         </titles>
+         <dates>
+            <year>1336</year>
+         </dates>
+         <pub-location>Speyer</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1599649450548</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 107, 1448 Dezember 7, Aviano</title>
+         </titles>
+         <dates>
+            <year>1448</year>
+         </dates>
+         <pub-location>Aviano</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608641552349</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 268, 1330 Januar 10, Italien</title>
+         </titles>
+         <dates>
+            <year>1330</year>
+         </dates>
+         <pub-location>Italien</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607005384362</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 4, [1227 September 14], Erfurt</title>
+         </titles>
+         <dates>
+            <year>1227</year>
+         </dates>
+         <pub-location>Erfurt</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1604060968371</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 70, 1385 November 10, Bayern</title>
+         </titles>
+         <dates>
+            <year>1385</year>
+         </dates>
+         <pub-location>Bayern</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599657514453</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 58, 1377 April 9, Niederrhein</title>
+         </titles>
+         <dates>
+            <year>1377</year>
+         </dates>
+         <pub-location>Niederrhein</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1597845350307</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 59, 1377 September 8, Wien</title>
+         </titles>
+         <dates>
+            <year>1377</year>
+         </dates>
+         <pub-location>Wien</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599820625398</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 10, 1297 Juli 26, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1297</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1604393169459</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 3, 1149 Januar 15, Magdeburg</title>
+         </titles>
+         <dates>
+            <year>1149</year>
+         </dates>
+         <pub-location>Magdeburg</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1602676836048</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 264, 1309 März 3, Malamocco</title>
+         </titles>
+         <dates>
+            <year>1309</year>
+         </dates>
+         <pub-location>Malamocco</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1606481741645</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 251d, 1320 Oktober 7, Arjona</title>
+         </titles>
+         <dates>
+            <year>1320</year>
+         </dates>
+         <pub-location>Arjona</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608710259204</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 68, 1384 Juni 25, Venedig</title>
+         </titles>
+         <dates>
+            <year>1384</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608721356906</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 89, 1424 März 10, Erfurt</title>
+         </titles>
+         <dates>
+            <year>1424</year>
+         </dates>
+         <pub-location>Erfurt</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604062376666</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 17b, 14. Jh., Frankreich</title>
+         </titles>
+         <dates>
+            <year>1378-1417</year>
+         </dates>
+         <pub-location>Frankreich</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605619554536</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 1, 879 November 22, Regensburg</title>
+         </titles>
+         <dates>
+            <year>879</year>
+         </dates>
+         <pub-location>Regensburg</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1599741666260</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 57, 1370 Juli 2, Padua</title>
+         </titles>
+         <dates>
+            <year>1370</year>
+         </dates>
+         <pub-location>Padua</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608637387426</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 37, 1356 Februar 17, Oppenheim</title>
+         </titles>
+         <dates>
+            <year>1356</year>
+         </dates>
+         <pub-location>Oppenheim</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1598002489684</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 17a, 1353 Frühjahr, Frankreich</title>
+         </titles>
+         <dates>
+            <year>1353</year>
+         </dates>
+         <pub-location>Frankreich</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1605618298204</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 93, 1430 März 31, Treviso</title>
+         </titles>
+         <dates>
+            <year>1430</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607522762661</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 62, 1379 August 21, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1379</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604396683135</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 123, 1465 Juli 11, Buda</title>
+         </titles>
+         <dates>
+            <year>1465</year>
+         </dates>
+         <pub-location>Buda</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608718984607</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 124, 1465 Oktober 9, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1465</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602851016953</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 178, 1512 März 30, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1512</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>4</pages>
+         <accession-num>1603804365119</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 141, 1475 September 20, Dirmstein</title>
+         </titles>
+         <dates>
+            <year>1475</year>
+         </dates>
+         <pub-location>Dirmstein</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1598008819472</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 101, 1444 Oktober 22 , Thüringen</title>
+         </titles>
+         <dates>
+            <year>1444</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602681180287</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 235, 1715 Juli 30, Rom</title>
+         </titles>
+         <dates>
+            <year>1715</year>
+         </dates>
+         <pub-location>Rom</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608630749721</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 188, 1526 Januar 16, Nürnberg</title>
+         </titles>
+         <dates>
+            <year>1526</year>
+         </dates>
+         <pub-location>Nürnberg</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599739133179</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 161, 1489 Juni 13, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1489</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603803118819</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 109, 1449 Mai 26, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1449</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602683452686</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 236, 1715  August 6, Appenzell</title>
+         </titles>
+         <dates>
+            <year>1715</year>
+         </dates>
+         <pub-location>Appenzell</pub-location>
+         <language>ger</language>
+         <pages>3</pages>
+         <accession-num>1599570994390</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 173, 1503 Mai 21, Lebus</title>
+         </titles>
+         <dates>
+            <year>1503</year>
+         </dates>
+         <pub-location>Lebus</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1602679020380</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 137, 1474 Oktober 19, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1474</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>4</pages>
+         <accession-num>1602854795963</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 193, 1539 Mai 16, Treviso</title>
+         </titles>
+         <dates>
+            <year>1539</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607525274760</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 130, 1470 November 22, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1470</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602852388649</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 238, 1718 August 5, Rom</title>
+         </titles>
+         <dates>
+            <year>1718</year>
+         </dates>
+         <pub-location>Rom</pub-location>
+         <language>lat</language>
+         <pages>4</pages>
+         <accession-num>1599572775498</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 192, 1539 Mai 12, Böhmen</title>
+         </titles>
+         <dates>
+            <year>1539</year>
+         </dates>
+         <pub-location>Böhmen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604399742263</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 221, 1601 Januar 31, Hamburg</title>
+         </titles>
+         <dates>
+            <year>1601</year>
+         </dates>
+         <pub-location>Hamburg</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1601036338426</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 128, 1469 Februar 13, Nürnberg</title>
+         </titles>
+         <dates>
+            <year>1469</year>
+         </dates>
+         <pub-location>Nürnberg</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1599735359337</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 215, 1605 vor Mai, Venedig</title>
+         </titles>
+         <dates>
+            <year>1605</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>4</pages>
+         <accession-num>1608625284125</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 255, 1666 Juli 16, Venedig</title>
+         </titles>
+         <dates>
+            <year>1666</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608627869687</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 139, 1475 Februar 4, Österreich</title>
+         </titles>
+         <dates>
+            <year>1475</year>
+         </dates>
+         <pub-location>Österreich</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1600169371597</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 147, 1478 Februar 9, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1478</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1598009836088</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 184, 1523 August 28, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1523</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603805228378</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 186, 1524 Februar 20, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1524</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>4</pages>
+         <accession-num>1603806454794</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 111, 1551 März 11, Böhmen</title>
+         </titles>
+         <dates>
+            <year>1551</year>
+         </dates>
+         <pub-location>Böhmen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604400331898</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 195, 1542 März 4,  Venedig</title>
+         </titles>
+         <dates>
+            <year>1542</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608622952266</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 159, 1488 August 3, Nürnberg</title>
+         </titles>
+         <dates>
+            <year>1488</year>
+         </dates>
+         <pub-location>Nürnberg</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599737157784</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 201, 1551 April 20, Rom</title>
+         </titles>
+         <dates>
+            <year>1551</year>
+         </dates>
+         <pub-location>Rom</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608644162727</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 158, 1488 Juni 9, Niedersachsen</title>
+         </titles>
+         <dates>
+            <year>1488</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1600348664721</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 180, 1513 April 25, Breslau</title>
+         </titles>
+         <dates>
+            <year>1513</year>
+         </dates>
+         <pub-location>Breslau</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1600175357173</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 149, 1478 Oktober 27, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1478</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603458662115</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 225, 1623 Oktober 24, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1623</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>4</pages>
+         <accession-num>1604059925388</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 253 I, 1735 September 24, Türkei</title>
+         </titles>
+         <dates>
+            <year>1735</year>
+         </dates>
+         <pub-location>Türkei</pub-location>
+         <language>ota</language>
+         <pages>3</pages>
+         <accession-num>1608716679421</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 116, 1457 September 17, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1457</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602850147218</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 126, 1466 Juni 21, Thorn</title>
+         </titles>
+         <dates>
+            <year>1466</year>
+         </dates>
+         <pub-location>Thorn</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1608707839473</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 254, 1657 April 11, Venedig</title>
+         </titles>
+         <dates>
+            <year>1657</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608626746245</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 211, 1591 April 5, Niedersachsen</title>
+         </titles>
+         <dates>
+            <year>1591</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>nds</language>
+         <pages>4</pages>
+         <accession-num>1601034957363</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 121, 1460 September 13, Venedig</title>
+         </titles>
+         <dates>
+            <year>1460</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608620012622</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 253 II, 1826 Juli 6, Türkei</title>
+         </titles>
+         <dates>
+            <year>1826</year>
+         </dates>
+         <pub-location>Türkei</pub-location>
+         <language>ota</language>
+         <pages>3</pages>
+         <accession-num>1608717736017</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 209, 1581 Juli 3, Treviso</title>
+         </titles>
+         <dates>
+            <year>1581</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607526030351</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 118, 1458 Dezember 13, Brescia</title>
+         </titles>
+         <dates>
+            <year>1458</year>
+         </dates>
+         <pub-location>Brescia</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608642552933</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 153, 1485 August 26, Niederrhein</title>
+         </titles>
+         <dates>
+            <year>1485</year>
+         </dates>
+         <pub-location>Niederrhein</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1597911106602</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 182, 1520 März 25, Niederrhein</title>
+         </titles>
+         <dates>
+            <year>1520</year>
+         </dates>
+         <pub-location>Niederrhein</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1597913027053</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 176, 1507 Juli 7, Wohlau</title>
+         </titles>
+         <dates>
+            <year>1507</year>
+         </dates>
+         <pub-location>Wohlau</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1600172923986</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 223, 1610 April 8, Erfurt</title>
+         </titles>
+         <dates>
+            <year>1610</year>
+         </dates>
+         <pub-location>Erfurt</pub-location>
+         <language>gmh</language>
+         <pages>6</pages>
+         <accession-num>1603807738710</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 156, 1487 November 22, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1487</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603802006771</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 108, 1449 Mai 2 , Thüringen</title>
+         </titles>
+         <dates>
+            <year>1449</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602682489609</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 140, 1475 Mai 9, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1475</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603457172991</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 207, 1572 Januar 21, Venedig</title>
+         </titles>
+         <dates>
+            <year>1572</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat, ita</language>
+         <pages>3</pages>
+         <accession-num>1608624401372</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 227, 1684 April 7, Stolp</title>
+         </titles>
+         <dates>
+            <year>1684</year>
+         </dates>
+         <pub-location>Stolp</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1604415159963</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 114, 1453 März 16, Treviso</title>
+         </titles>
+         <dates>
+            <year>1453</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607523387814</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 240, 1738 Mai 5, Padua</title>
+         </titles>
+         <dates>
+            <year>1738</year>
+         </dates>
+         <pub-location>Padua</pub-location>
+         <language>lat</language>
+         <pages>5</pages>
+         <accession-num>1608706784574</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 145, 1477 September 22, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1477</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603458280686</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 197, 1543 November 28, Aschaffenburg</title>
+         </titles>
+         <dates>
+            <year>1543</year>
+         </dates>
+         <pub-location>Aschaffenburg</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599569824330</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 231, 1706 Juni 25, Rom</title>
+         </titles>
+         <dates>
+            <year>1706</year>
+         </dates>
+         <pub-location>Rom</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608629111484</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 171, 1501 Februar 3, Venedig</title>
+         </titles>
+         <dates>
+            <year>1501</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608622219116</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 205, 1561 Januar 29, Bassano</title>
+         </titles>
+         <dates>
+            <year>1561</year>
+         </dates>
+         <pub-location>Bassano</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608646011206</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 242, 1770 Juli 17, Rom</title>
+         </titles>
+         <dates>
+            <year>1770</year>
+         </dates>
+         <pub-location>Rom</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608708899681</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 203, 1554 Februar 13, Dresden</title>
+         </titles>
+         <dates>
+            <year>1554</year>
+         </dates>
+         <pub-location>Dresden</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604398722442</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 112, 1451 Dezember 22, Coesfeld</title>
+         </titles>
+         <dates>
+            <year>1451</year>
+         </dates>
+         <pub-location>Coesfeld</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1601641469353</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 190, 1538 Dezember 7, Niedersachsen</title>
+         </titles>
+         <dates>
+            <year>1538</year>
+         </dates>
+         <pub-location>Niedersachsen</pub-location>
+         <language>nds</language>
+         <pages>3</pages>
+         <accession-num>1601033276103</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 103, 1445 April 18, Erfurt</title>
+         </titles>
+         <dates>
+            <year>1445</year>
+         </dates>
+         <pub-location>Erfurt</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1604391363607</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 155, 1487 Juli 26, Mittelrhein</title>
+         </titles>
+         <dates>
+            <year>1487</year>
+         </dates>
+         <pub-location>Mittelrhein</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599567777219</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 251a, 1518 März 15, Granada</title>
+         </titles>
+         <dates>
+            <year>1518</year>
+         </dates>
+         <pub-location>Granada</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608713632810</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 151, 1482 April 30, Freystadt</title>
+         </titles>
+         <dates>
+            <year>1482</year>
+         </dates>
+         <pub-location>Freystadt</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1600171950616</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 172, 1500 März 6, Frankenthal</title>
+         </titles>
+         <dates>
+            <year>1500</year>
+         </dates>
+         <pub-location>Frankenthal</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1599568619561</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 233, 1706 August 2, Venedig</title>
+         </titles>
+         <dates>
+            <year>1706</year>
+         </dates>
+         <pub-location>Venedig</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608720784966</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 174, 1504 September 30, Treviso</title>
+         </titles>
+         <dates>
+            <year>1504</year>
+         </dates>
+         <pub-location>Treviso</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1607523928183</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 132, 1471 September 19, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1471</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602853117018</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 251c, 1516 Januar 11, Florenz</title>
+         </titles>
+         <dates>
+            <year>1516</year>
+         </dates>
+         <pub-location>Florenz</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608712356415</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 213, 1592 August 21, Rom</title>
+         </titles>
+         <dates>
+            <year>1592</year>
+         </dates>
+         <pub-location>Rom</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1608705593270</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 136, 1474 Juli 23, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1474</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1602854268915</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 148, 1478 April 13, Straßburg</title>
+         </titles>
+         <dates>
+            <year>1478</year>
+         </dates>
+         <pub-location>Straßburg</pub-location>
+         <language>lat</language>
+         <pages>3</pages>
+         <accession-num>1599653768359</accession-num>
+      </record>
+      <record>
+         <ref-type name="Generic"/>
+         <titles>
+            <title>Urkunde 143, 1476 Dezember 17, Thüringen</title>
+         </titles>
+         <dates>
+            <year>1476</year>
+         </dates>
+         <pub-location>Thüringen</pub-location>
+         <language>gmh</language>
+         <pages>3</pages>
+         <accession-num>1603457748946</accession-num>
+      </record>
+   </records>
+</xml>
