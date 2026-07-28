@@ -39,11 +39,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="2" seite-von="34" seite-bis="35" pruefen="true">
+    <datum iso="1361-04-19">1361 April 19</datum>
     <!-- ZUR PRUEFUNG: Datumszeile fehlt im Original (nur lateinische Datierungsklausel vorhanden); Transfixe-Teile grob erkannt, bitte prüfen. -->
     <teildokumente>
       <ueberlieferungseinheit>
-        <datum>(Datum anno domini millesimo CCC° sexagesimoprimo feria secunda post</datum>
-        <ausstellungsort>dominicam Jubilate)</ausstellungsort>
+        <datierungsvermerk>(Datum anno domini millesimo CCC° sexagesimoprimo feria secunda post dominicam Jubilate)</datierungsvermerk>
         <regest>Der Offizial der Kölner Kurie (officialis curie Coloniensis) weist die Vikare, Priester und Kleriker der Kirchen in Gleuel (Gluele)', Ober- und Niederbachem (Bacheym superiori et inferiori)2 und Frechen (Vrechen)3 sowie die Notare der Stadt und Diözese Köln an, in der folgenden Rechtssache das ergangene Urteil zu vollstrecken: Der Offizial hatte den Beklagten Knappe Heinrich von Sielsdorf (de Seylstorp/Sielstorp, armiger)4 verurteilt, die Kläger Heinrich von Anrath (Anroide)5, Theodor von Weynkendünk und Magister Lambert, Organist und wie die ersteren Vikar der Kirche St. Aposteln in Köln (ecdesia sanctorum apostolorum Coloniensis)6, in jährliche, von Gütern des Beklagten zu zahlende Pensionen wiedereinzusetzen, den Klägern Genugtuung zu leisten und die Kosten des Rechtsstreit zu tragen, wie es in der Urteilsurkunde, besiegelt mit dem großen Siegel der Offizialatskurie (officialatis curie), festgehalten wurde. Heinrich von Sielsdorf hat die Möglichkeit verwirkt, innerhalb eines Jahres Appellation gegen dieses Urteil in und außerhalb von Köln einzulegen. Da die Kläger Heinrich und Theodor wie auch die Testamentsvollstrecker des Magister Lambert Johannes von Hüchelhoven (Hugilhoven)7 und seine Frau Gertrud nun um Urteilsvollstreckung gebeten haben, werden die oben genannten Adressaten bei Strafe der Amtsenthebung und Exkommunikation aufgefordert, das Vermögen des Verurteilten zu beschlagnahmen, andernfalls an dessen Wohnort oder an die Kirchentüren Kopien des Mandats anzuheften, das den Verurteilten auffordert, innerhalb von 15 Tagen nach Erhalt der Mahnung die Forderung der Kläger zu befriedigen. Falls Heinrich von Sielsdorf dem nicht folge leistet, sollen die Adressaten öffentlich dessen Exkommunikation verkünden. Desweiteren wird angewiesen, den Verurteilten vor den Offizial zu Mittwoch nach Cantate zur ersten Stunde letztmalig vorzuladen, um aufdringende Bitte der Kläger eine Schätzung ihrer Kosten und der des Gerichtsentscheids vorzunehmen bzw. wirksame Gründe dazulegen, warum eine Schätzung nicht stattfinden solle. Abschließend werden die adressierten Vikare aufgefordert, sämtliche getroffenen Maßnahmen mit besiegelten Transfixen mitzuteilen. Kanzleivermerk des Notars[?]: per Hermannum de Bower</regest>
         <ueberlieferung>
           <beglaubigungsform>keine Siegelankündigung</beglaubigungsform>
@@ -319,7 +319,6 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="15" seite-von="50" seite-bis="50" pruefen="true">
-    <!-- ZUR PRUEFUNG: Kein Signatur-Feld im Quelltext erkannt. -->
     <datum iso="1475-09-20">1475 September 20</datum>
     <regest>Dirmstein1 (Datum in castro nostro Dirmstein vicesima die mensis septembris anno domini millesimoquadringentesimo septuagesimo quinto) Bischof Reinhard von Worms (episcopus Wormaciensis) 2 erteilt für den Maria, Michael und Sebastian geweihten Altar in der Pfarrkirche von Oppau (Oppauw) 3 einen Ablaß von 40 Tagen für alle Gläubigen, die an den höchsten Festtagen, zu allen Festen der Jungfrau Maria, am Tag der Kirchen- und Altarweihe, an den Tagen der genannten Patrone, am Peter- und Paulstag und allen Festtagen der Apostel, am Cyriacustag, Mauritiustag, an den Tagen der heiligen Katharina, Barbara und Margarethe und zur Hochmesse während der Oktave nach diesen Festtagen an den vorgenannten Altar kommen.</regest>
     <ueberlieferung>
@@ -327,7 +326,8 @@
       <beschreibstoff>Pergament 351 * 212 mm, Umbug aufgeklappt, ehemals 60 mm</beschreibstoff>
       <erhaltungszustand>schlecht, an oberen Ecken Mäusefraß (?), Wasserspuren von abgestellten Gefäßen, Tinte stellenweise verblaßt, Löcher am Umbugfalz</erhaltungszustand>
       <siegel>nicht mehr vorhanden</siegel>
-      <sprache>mittellateinisch Signatur. 141</sprache>
+      <sprache>mittellateinisch</sprache>
+      <signatur>141</signatur>
     </ueberlieferung>
     <anmerkungen>
       <anmerkung seite="50" nr="1">Dirmstein: w. Frankenthal, Kr. Bad Dürkheim, seit 1472 eine Gemeinschaft zwischen Kurpfalz und Hochstift Worms (HB Hist. St., Bd. V, S. 77f.).</anmerkung>
@@ -464,9 +464,10 @@
   <urkunde nr="22" seite-von="59" seite-bis="60" pruefen="true">
     <!-- ZUR PRUEFUNG: Mehrteiliger Insert/Konfirmations-Text (Rahmenurkunde + inserierte Urkunde) nicht sauber in einzelne Einheiten zerlegt; Regest-Feld enthält beide Teile fortlaufend. -->
     <vermerk>Inserierung</vermerk>
-    <datum>1. Regest rterjbestätiaenden Urkunde (Konfirmation)</datum>
-    <ausstellungsort>1336 Juni 9</ausstellungsort>
-    <regest>[Speyer] (Datum anno domini M° CCC° XXXVI° feria secunda ante Barnabe apostoli) Die Richter des bischöflichen Gerichts zu Speyer (Judices curie Spir[ensis]) bestätigen eine inserierte Urkunde ihres Gerichts von 1318 Januar 24 über den von Eberhard und Christina von Altdoif gestifteten Altar2 in der Pfarrkirche3 zu Altdorf, dessen Ausstattung mit Einkünften, die durch Güter bzw. eine Ablösesumme gesichert sind. Die Richter und der Altarpriester Johannes erklären, daß Christina von Altdorf nunmehr die als Pfand für die Altareinkünfte gesetzten Güter mit 100 Pfund Heller abgelöst hat, daß die Einkünfte aber weder verringert noch entfremdet werden dürfen, wogegen keinerlei rechtliche Anfechtung zulässig ist. 2, Regest der inserierten Urkunde 1318 Januar 24 (Anno domini M° CCC° XVIII 0 feria tercia post diem beate Agnetis virginis) Die Richter des bischöflichen Gerichts zu Speyer beurkunden für den Ritter Eberhard von Altdorf und dessen Ehefrau Christina sowie auch für den Edelknecht (armiger) Eckbert und dessen Ehefrau Adelheid die Errichtung eines ständigen Altars in der Pfarrkirche zu Altdorf zu ihrem Seelenheil und dessen Ausstattung mit Einkünften zum Unterhalt eines diensttuenden Priesters. Eberhard und Christina stiften als jährliche Pfründe 20 Malter Weizen aus ihren Gütern im Dorf Beindersheim (Benthersheim) 4 und zwei Waldrechte in Gommersheim (Gummersheim) 5 , Eckbert und Adelheid 10 Malter Weizen, zu zahlen von dem Schultheiß Heilmann aus Gommersheim. Die Pfründe kann auch aus anderen Gütern oder mit 100 Pfund Heller, von Eckbert und Adelheid mit 40 Pfund Heller garantiert werden. Solange zumindest einer der Stifter noch lebt, soll dieser bei Vakanz die Pfründe neu vergeben; andern1 Aitdorf: s. Neustadt a. d. Weinstraße; gleichnamige Speyerer Ministerialenfam. seit 1236 urkl., im Lehensbesitz von Altdorf; Eberhard 1312 erstmals urkl. (Würdtwein: Monasticon Palatinum, T. 3, S. 419) vielleicht auch schon der 1277 erwähnte Eberhard von Altdorf (Remling: ÜB, Bd. 1, S. 346). 2 Zwei Nebenaltäre mit Pfründen sind für die Altdorfer Pfarrkirche überliefert, von denen der Marienaltar vor 1335 entstanden sein soll, wobei Stifter und Patron unbekannt sind (Palatia sacra, Teil 1,Bd. 4, S. 1-3). 3 Pfarrkirche St. Agathae 1308 ersterw. 4 Beindersheim: sw. Worms, Gem. im Landkr. Ludwigshafen. 5 Gommersheim: Gem. so. Neustadt a. d. Südliche Weinstraße. falls hat der Dompropst von Speyer einem geeigneten Priester das Amt des täglichen Messelesens zu übertragen, es sei denn, bestimmte Umstände verhindern dies oder der Kirche zu Altdorf entsteht dadurch ein Nachteil. Formale Merkmale der Rahmenurkunde</regest>
+    <datum>1336 Juni 9 / 1318 Januar 24</datum>
+    <ausstellungsort>Speyer</ausstellungsort>
+    <regest>1. Regest der bestätigenden Urkunde (Konfirmation)[Speyer] (Datum anno domini M° CCC° XXXVI° feria secunda ante Barnabe apostoli) Die Richter des bischöflichen Gerichts zu Speyer (Judices curie Spir[ensis]) bestätigen eine inserierte Urkunde ihres Gerichts von 1318 Januar 24 über den von Eberhard und Christina von Altdoif gestifteten Altar2 in der Pfarrkirche3 zu Altdorf, dessen Ausstattung mit Einkünften, die durch Güter bzw. eine Ablösesumme gesichert sind. Die Richter und der Altarpriester Johannes erklären, daß Christina von Altdorf nunmehr die als Pfand für die Altareinkünfte gesetzten Güter mit 100 Pfund Heller abgelöst hat, daß die Einkünfte aber weder verringert noch entfremdet werden dürfen, wogegen keinerlei rechtliche Anfechtung zulässig ist.</regest>
+    <regest>2, Regest der inserierten Urkunde 1318 Januar 24 (Anno domini M° CCC° XVIII 0 feria tercia post diem beate Agnetis virginis) Die Richter des bischöflichen Gerichts zu Speyer beurkunden für den Ritter Eberhard von Altdorf und dessen Ehefrau Christina sowie auch für den Edelknecht (armiger) Eckbert und dessen Ehefrau Adelheid die Errichtung eines ständigen Altars in der Pfarrkirche zu Altdorf zu ihrem Seelenheil und dessen Ausstattung mit Einkünften zum Unterhalt eines diensttuenden Priesters. Eberhard und Christina stiften als jährliche Pfründe 20 Malter Weizen aus ihren Gütern im Dorf Beindersheim (Benthersheim) 4 und zwei Waldrechte in Gommersheim (Gummersheim) 5 , Eckbert und Adelheid 10 Malter Weizen, zu zahlen von dem Schultheiß Heilmann aus Gommersheim. Die Pfründe kann auch aus anderen Gütern oder mit 100 Pfund Heller, von Eckbert und Adelheid mit 40 Pfund Heller garantiert werden. Solange zumindest einer der Stifter noch lebt, soll dieser bei Vakanz die Pfründe neu vergeben; andern1 Aitdorf: s. Neustadt a. d. Weinstraße; gleichnamige Speyerer Ministerialenfam. seit 1236 urkl., im Lehensbesitz von Altdorf; Eberhard 1312 erstmals urkl. (Würdtwein: Monasticon Palatinum, T. 3, S. 419) vielleicht auch schon der 1277 erwähnte Eberhard von Altdorf (Remling: ÜB, Bd. 1, S. 346). 2 Zwei Nebenaltäre mit Pfründen sind für die Altdorfer Pfarrkirche überliefert, von denen der Marienaltar vor 1335 entstanden sein soll, wobei Stifter und Patron unbekannt sind (Palatia sacra, Teil 1,Bd. 4, S. 1-3). 3 Pfarrkirche St. Agathae 1308 ersterw. 4 Beindersheim: sw. Worms, Gem. im Landkr. Ludwigshafen. 5 Gommersheim: Gem. so. Neustadt a. d. Südliche Weinstraße. falls hat der Dompropst von Speyer einem geeigneten Priester das Amt des täglichen Messelesens zu übertragen, es sei denn, bestimmte Umstände verhindern dies oder der Kirche zu Altdorf entsteht dadurch ein Nachteil. Formale Merkmale der Rahmenurkunde</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigte Siegel der Zeugen</beglaubigungsform>
       <zeugen>H..., prepositus ecclesie Spire 1 ; Johannes, promissarius in Altdorf</zeugen>
@@ -715,9 +716,10 @@
   </urkunde>
   <urkunde nr="36" seite-von="77" seite-bis="77" pruefen="true">
     <!-- ZUR PRUEFUNG: Fehlerhafte OCR-Extraktion auf dieser Seite (überlagerter Text/Fußnotenziffern), Regest- und Feldtext teilweise unleserlich rekonstruiert. -->
-    <vermerk>1 3 5 2 April 12</vermerk>
-    <datum>Winterthur1</datum>
-    <regest>h n n H 9 ? 6 " ^ 3 ^ ? ^ n t e r r U t h d 6 m j a r d ° m a n z a l t v o n C r i s t e * gebu/rt dru/zehenh u n d e r t jar darnah in dem zwai und fu/nfczigesten jar an dem naehsten fritaqa ze ussgaender Osterwcchen) H e r m a n n von Landenberg von Greifensee der Ältere (Grifense)2 verkauft dem Grafen Rudolf von Montfort-Feldkirch (Veltkilch)3 die Burg Welsch-Ramenswag (bürg die Waelschen Ramenswag) 4 mit allem Zubehör (mit lut, mit gut, mit grund mit grat5 mit wassergusi und mit aller zuogehoerd), wie er sie von Burkart von Ramenswag7 erw o r b e n hat, für 650 Pfund Pfennige Konstanzer Münze. Dabei handelt es sich um ein Rechtsgeschäft, das bereits zu einer Zeit getätigt wurde, als Hermann dessen V o l l z u g noch nicht gewährleisten konnte.8</regest>
+    <datum>1352 April 12</datum>
+    <ausstellungsort>Winterthur1</ausstellungsort>
+    <datierungsvermerk>(Der geben ward ze Winterrut in dem jar do man zalt von Cristes gebuirt druizehenhundert jar darnah in dem zwai und fuinfczigesten jar an dem naehsten fritag ze ussgaender Osterwochen)</datierungsvermerk>
+    <regest>Hermann von Landenberg von Greifensee der (</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigtes Siegel des Ausstellers</beglaubigungsform>
       <beschreibstoff>Pergament 255 x 165 mm, Umbug 15 mm</beschreibstoff>
@@ -1855,11 +1857,10 @@
       <anmerkung seite="154" nr="9">Fam. Ruprecht zu Eger 1474 -1750 u. Peter Ruprecht 1572 als Bürgermeister ebd. nachw.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="93" seite-von="155" seite-bis="155" pruefen="true">
-    <!-- ZUR PRUEFUNG: Nur Datierungsklausel vorhanden, kein separates Datum als eigene Zeile erkannt. -->
-    <vermerk>[15]51 März 11</vermerk>
-    <datum>(Geben a m mittwoch noch Letare anno domini ainundfunfzigk der wenigem zall)</datum>
-    <regest>Nickel Hammerschmidt (Hamerschmidtt)1 zu Pograth (Pogradtt)2 verkauft an Ulrich fÜr e n e n i c h t n ä h e r b e z e i c h ,? . U l ^ 3 u ' n e t e Geldsumme seinen zu Taubrath (Taubratt) , hinter dem Hof von Wolf Baier4 und zwischen den Höfen der Familien Pergauer5 und Kessler (Kesler)6 gelegenen Hof mit Grund- und Bodennutzungsrecht sowie allem Zubehör, von dem die Herren der Pfarrkirche St. Nikolaus zu Eqer7 so wie der Komtur daselbst8 einen jährlichen Erbzins und den Getreidezehnt erhalten und verzichtet für sich und seine Erben auf alle Ansprüche daran.</regest>
+  <urkunde nr="93" seite-von="155" seite-bis="155">
+    <datum>[15]51 März 11</datum>
+    <datierungsvermerk>(Geben a m mittwoch noch Letare anno domini ainundfunfzigk der wenigem zall)</datierungsvermerk>
+    <regest>Nickel Hammerschmidt (Hamerschmidtt)1 zu Pograth (Pogradtt)2 verkauft an Ulrich Lentz und Erben für eine nicht näher bezeichnete Geldsumme seinen zu Taubrath (Taubratt) , hinter dem Hof von Wolf Baier4 und zwischen den Höfen der Familien Pergauer5 und Kessler (Kesler)6 gelegenen Hof mit Grund- und Bodennutzungsrecht sowie allem Zubehör, von dem die Herren der Pfarrkirche St. Nikolaus zu Eqer7 so wie der Komtur daselbst8 einen jährlichen Erbzins und den Getreidezehnt erhalten und verzichtet für sich und seine Erben auf alle Ansprüche daran.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigte Siegel der Zeugen</beglaubigungsform>
       <zeugen>Peter Ruprecht9 und Georg Wassermann10, Ratsherren zu Eger</zeugen>
