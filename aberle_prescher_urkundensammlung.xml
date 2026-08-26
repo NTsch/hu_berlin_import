@@ -20,7 +20,7 @@
     <datum iso="1349-09-03">1349 September 3</datum>
     <ausstellungsort>Köln</ausstellungsort>
     <datierungsvermerk>(Des donresdaichs na sent Geliis dage zo Ceulne in der stat in den jairen uns Herrn drutzeinhundert jair ind in deme nuin ind virtzichme jairen)</datierungsvermerk>
-    <regest>Wilhelm, Markgraf von Jülich (Guilge)\ verzichtet auf den Zehnt (zeinde), der zwischen Eschweiler (Eyschwilre) 2 und Girbelsrath (Girbreiths Roide)3 "inme reide"" gelegen ist und den Gotthart von Kinzweiler [?] (van f zu Mannlehen6 innehatte und spricht Gotthart von dem damit verbundenen Dienst (mannschaft) frei.</regest>
+    <regest>Wilhelm, Markgraf von Jülich (Guilge)\ verzichtet auf den Zehnt (zeinde), der zwischen Eschweiler (Eyschwilre) 2 und Girbelsrath (Girbreiths Roide)3 "inme reide"" gelegen ist und den Gotthart von Kinzweiler [?] (van)5 zu Mannlehen6 innehatte und spricht Gotthart von dem damit verbundenen Dienst (mannschaft) frei.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigtes Siegel des Ausstellers</beglaubigungsform>
       <beschreibstoff>Pergament 230 * 95 mm, Umbug 18 mm</beschreibstoff>
@@ -35,7 +35,7 @@
       <anmerkung seite="33" nr="3">Girbelsrath: Dorf b. Merzenich, Kr. Düren, als "Girbrechtzroyde" u. "Gerbrantzraide" 1384 bzw. 1395 urkl. (ÜB f. d. Geschichte d. Niederrheins, Bd. 3, Nr. 881 u. 1010).</anmerkung>
       <anmerkung seite="33" nr="4">Reit, riet: mit Gras u. Binsen bewachsener Morast (Brinckmeier: Glossarium, Bd. 2, S. 474); rode: neu aufgerodeter Acker (ebd., S. 484).</anmerkung>
       <anmerkung seite="33" nr="5">Kinzweiler: Gem. n. Stadt Eschweiler; Gotthart von Kinzweiler nicht nachw., aber "Bernard von Kenswilre" mehrfach als Zeuge In Urkunden des Markgrafen (1348 u. 1369) (ÜB f. d. Gesch. d. Niederrheins, Bd. 3, Nr. 459 bzw. 690).</anmerkung>
-      <anmerkung seite="33" nr="8">Mannlehen: Im Spatmittelalter jedes Lehen, auf dem die Verpflichtung zu einer Dienstleistung ruhte (Haberkern/Wallach: Hilfswörterbuch, S. 410).</anmerkung>
+      <anmerkung seite="33" nr="6">Mannlehen: Im Spatmittelalter jedes Lehen, auf dem die Verpflichtung zu einer Dienstleistung ruhte (Haberkern/Wallach: Hilfswörterbuch, S. 410).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="2" seite-von="34" seite-bis="35" pruefen="true">
@@ -75,8 +75,11 @@
       </teildokument>
     </teildokumente>
     <anmerkungen>
-      <anmerkung seite="34" nr="1">Gleuel: Stadt Hürth, Erflkr. Bachern: Stadt Frechen, Erftkr.</anmerkung>
-      <anmerkung seite="34" nr="3">Frechen: Stadt im Erftkr. •* Heinrich von Sielsdorf nicht nachw.; Sielsdorf b. Gleuel. s Heinrich von Anrath nicht identifiziert, wahrscheinlich Benennung nach Anrath, Ortsteil v. Willich, Stadt im Kr. Viersen.</anmerkung>
+      <anmerkung seite="34" nr="1">Gleuel: Stadt Hürth, Erflkr.</anmerkung>
+      <anmerkung nr="2">Bachern: Stadt Frechen, Erftkr.</anmerkung>
+      <anmerkung seite="34" nr="3">Frechen: Stadt im Erftkr.</anmerkung>
+      <anmerkung nr="4">Heinrich von Sielsdorf nicht nachw.; Sielsdorf b. Gleuel.</anmerkung>
+      <anmerkung nr="5">Heinrich von Anrath nicht identifiziert, wahrscheinlich Benennung nach Anrath, Ortsteil v. Willich, Stadt im Kr. Viersen.</anmerkung>
       <anmerkung seite="34" nr="6">St. Aposteln In Köln, vgl. Anm. in Urk. Nr. 24.</anmerkung>
       <anmerkung seite="34" nr="7">Johannes von Hüchelhoven/Huchelhoven, Kölner Bürger, 1406 nachw. (Mitt. StA. Köln, H. 57. S8/1969, T. 1, S. 264); Benennung nach Hüchelhoven, Stadtteil v. Bergheim/Erft, Erftkr. o. nach der Stadt Hückelhoven, Kr. Heinsberg.</anmerkung>
     </anmerkungen>
@@ -113,11 +116,11 @@
       <signatur>64</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a M° über die Zeile geschrieben.</anmerkung>
-      <anmerkung>1 St. Maria ad Gradus in Köln 1059 gegründet, nach Säkularisation abgebrochen (Günther: Codex, T. 3,1 u. 3,2, siehe Reg.). Zur Person des Dekans gibt es verschiedene Angaben: 1. Kan. Johannes de Botis, in Urk. von 1380 Juni 11 (Mllt. StA Köln, H. 9/1886, S. 21), 2. Tilmann de Smalenborg (1372- v. 1418) Dekan (Mitt. StA. Köln, H. 57. 58./1969, T. 2, S. 617). </anmerkung>
-      <anmerkung>2 Gerlach von Summern nicht Identifiziert; wahrscheinlich Benennung nach Summern, Ortsteil v. Iserlohn, Stadt im Märkischen Siegkr.</anmerkung>
-      <anmerkung>3 St. Agldius-Altar erw.; bei Moellerwlrd dessen Stiftung Irrtümlicherwelse erst 1490 angesetzt (Moeller: Hamm, S. 88).</anmerkung>
-      <anmerkung>4 Hamm (Westf.): Stadt in Nordrhein-Westfalen; St. Georgskirche seit 1337 Pfarrkirche, mit reicher Ausstattung, u.a. 19 Vikarien (ebd.).</anmerkung>
+      <anmerkung nr="a">M° über die Zeile geschrieben.</anmerkung>
+      <anmerkung nr="1">St. Maria ad Gradus in Köln 1059 gegründet, nach Säkularisation abgebrochen (Günther: Codex, T. 3,1 u. 3,2, siehe Reg.). Zur Person des Dekans gibt es verschiedene Angaben: 1. Kan. Johannes de Botis, in Urk. von 1380 Juni 11 (Mllt. StA Köln, H. 9/1886, S. 21), 2. Tilmann de Smalenborg (1372- v. 1418) Dekan (Mitt. StA. Köln, H. 57. 58./1969, T. 2, S. 617). </anmerkung>
+      <anmerkung nr="2">Gerlach von Summern nicht Identifiziert; wahrscheinlich Benennung nach Summern, Ortsteil v. Iserlohn, Stadt im Märkischen Siegkr.</anmerkung>
+      <anmerkung nr="3">St. Agldius-Altar erw.; bei Moellerwlrd dessen Stiftung Irrtümlicherwelse erst 1490 angesetzt (Moeller: Hamm, S. 88).</anmerkung>
+      <anmerkung nr="4">Hamm (Westf.): Stadt in Nordrhein-Westfalen; St. Georgskirche seit 1337 Pfarrkirche, mit reicher Ausstattung, u.a. 19 Vikarien (ebd.).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="5" seite-von="38" seite-bis="38">
@@ -133,8 +136,8 @@
       <signatur>153</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Eberhard III. von der Mark, 1470-1496 (t) (Europ. Stammtafeln, Bd. VI, Tf. 18).</anmerkung>
-      <anmerkung>2 Rheinbach: Stadt im Rhein-Sieg-Kr.</anmerkung>
+      <anmerkung nr="1">Eberhard III. von der Mark, 1470-1496 (t) (Europ. Stammtafeln, Bd. VI, Tf. 18).</anmerkung>
+      <anmerkung nr="2">Rheinbach: Stadt im Rhein-Sieg-Kr.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="6" seite-von="39" seite-bis="39">
@@ -150,7 +153,10 @@
       <signatur>182</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="39" nr="2">ein Johann vamme Hamme 1478 urkl. (Redlich: Mülheim, S. 342). kat kate' Hütte; schlammiger Boden (Brinckmeier: Glossarium, Bd. 1, S. 1085). ' r S E S ^ ^ 1«9 urkl. (Schubert: Urkunden, S. 300); Farn, von Hemberg 1410, 1445 u. 1463 urkl. (ÜB. f. d. Gesch. d. Niederrheins, Bd. 4, s. Reg.). Hemersberg, Herrschaft im Herzogtum Jülich-Berg.</anmerkung>
+      <anmerkung seite="39" nr="1">ein Johann vamme Hamme 1478 urkl. (Redlich: Mülheim, S. 342).</anmerkung>
+      <anmerkung nr="2">kat kate' Hütte; schlammiger Boden (Brinckmeier: Glossarium, Bd. 1, S. 1085).</anmerkung>
+      <anmerkung nr="3">Menden: Stadtteil v. Mülheim a. d. R.</anmerkung>
+      <anmerkung nr="4">ein Johann von Hemberg, Erbkämmerer 1459 urkl. (Schubert: Urkunden, S. 300); Farn, von Hemberg 1410, 1445 u. 1463 urkl. (ÜB. f. d. Gesch. d. Niederrheins, Bd. 4, s. Reg.). Hemersberg, Herrschaft im Herzogtum Jülich-Berg.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="7" seite-von="40" seite-bis="40">
@@ -166,7 +172,9 @@
       <signatur>6</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="40" nr="1">Werner, Abt von Frankenthal 1270-1274 nachw. (Monasticon Windeshemense, S. 139). Kloster Grofl-Frankenthal 1119 von Erkenbert, Kammerer von Worms, auf Eigengut im Dorf Frankenthal - heute Stadt - als Augustiner-Chorherrenkloster gegründet; seit 1163 Abtei; umfangreicher Besitz in den umliegenden Dörfern, in Dirmstein eigene Propstei und Kellerei besessen M B Hist. St., Bd.V, S. 100ff.). Laumersheim: w. Frankenthal, Kr. Bad Dürkheim.</anmerkung>
+      <anmerkung seite="40" nr="1">Werner, Abt von Frankenthal 1270-1274 nachw. (Monasticon Windeshemense, S. 139).</anmerkung>
+      <anmerkung seite="40" nr="2">Kloster Grofl-Frankenthal 1119 von Erkenbert, Kammerer von Worms, auf Eigengut im Dorf Frankenthal - heute Stadt - als Augustiner-Chorherrenkloster gegründet; seit 1163 Abtei; umfangreicher Besitz in den umliegenden Dörfern, in Dirmstein eigene Propstei und Kellerei besessen HB Hist. St., Bd.V, S. 100ff.).</anmerkung>
+      <anmerkung seite="40" nr="3">Laumersheim: w. Frankenthal, Kr. Bad Dürkheim.</anmerkung>
       <anmerkung seite="40" nr="4">Hohl/hol: Bezeichnung für kleinere Vertiefungen und Gruben, vor allem Einschnitte im Gelände, durch die Wege führen (Ramge: Siedlungsnamen, S. 157).</anmerkung>
       <anmerkung seite="40" nr="5">Dirmstein: w. Frankenthal, Kr. Bad Dürkheim.</anmerkung>
     </anmerkungen>
@@ -185,11 +193,11 @@
       <druck>Urkundenbuch des Klosters Otterberg, hrsg. v. Michael Frey und Franz Xaver Remling, Mainz 1845, Nr. 171, S. 126. Grundlage der Edition bildete das Kopialbuch des Klosters - heute im Stadtarchiv Mainz aufbewahrt5 -, das um 1360 angelegt wurde und dessen Abschrift obenstehender Urkunde einige geringfügige Textabweichungen aufweist.</druck>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>Ritter Heinrich von Waldeck außerdem urkl. 1235, 1272 u. 1282 (ÜB des Klosters Otterberg, Nr. 67, 178, 230). Die Reichsministerialen von Waldeck hatten im 13, Jh. im Hunsrückgebiet große Bedeutung.</anmerkung>
-      <anmerkung>Zisterzienserkloster Otterberg, Kr. Kaiserslautern, bekannt für seine riesige Klosterkirche (Baubeginn 1190), mit umfangreichem Grundbesitz und -rechten im 13. Jh. (vgl. Karte 72: Das Zisterzienserkloster Otterberg. Besitz um 1260; Gesamtbesitz, in: Pfalzatlas). </anmerkung>
-      <anmerkung>Albisheim: so. Kirchheim-Bolanden, Donnersbergkr.</anmerkung>
-      <anmerkung>Es könnte sich um Philipp V. von Bolanden -1248 ersterwähnt, f 1276; Sohn des Reichstruchseß' Werner IV. von Bolanden - handeln, oder um Philipp I. von Hohenfels, den Begründereiner BolandenSeitenlinie, 1220 ersterwähnt, 11277 (Europ. Stammtafeln, Bd. III, Tf. 86; wobei dort irritierenderweise Philipp I. von Hohenfels gleichzeitig als Philipp der V. von Bolanden geführt wird). Die Herren von Bolanden waren im 12. bis zum Anfang des 14. Jhs. ein bedeutendes Reichsministerialengeschlecht in der Pfalz. </anmerkung>
-      <anmerkung>Siehe: Münch/Dolch: Kopialbuch, in: Mitteilungen des Historischen Vereins der Pfalz 90/1992, S. 539.</anmerkung>
+      <anmerkung nr="1">Ritter Heinrich von Waldeck außerdem urkl. 1235, 1272 u. 1282 (ÜB des Klosters Otterberg, Nr. 67, 178, 230). Die Reichsministerialen von Waldeck hatten im 13, Jh. im Hunsrückgebiet große Bedeutung.</anmerkung>
+      <anmerkung nr="2">Zisterzienserkloster Otterberg, Kr. Kaiserslautern, bekannt für seine riesige Klosterkirche (Baubeginn 1190), mit umfangreichem Grundbesitz und -rechten im 13. Jh. (vgl. Karte 72: Das Zisterzienserkloster Otterberg. Besitz um 1260; Gesamtbesitz, in: Pfalzatlas). </anmerkung>
+      <anmerkung nr="3">Albisheim: so. Kirchheim-Bolanden, Donnersbergkr.</anmerkung>
+      <anmerkung nr="4">Es könnte sich um Philipp V. von Bolanden -1248 ersterwähnt, † 1276; Sohn des Reichstruchseß' Werner IV. von Bolanden - handeln, oder um Philipp I. von Hohenfels, den Begründereiner BolandenSeitenlinie, 1220 ersterwähnt, 11277 (Europ. Stammtafeln, Bd. III, Tf. 86; wobei dort irritierenderweise Philipp I. von Hohenfels gleichzeitig als Philipp der V. von Bolanden geführt wird). Die Herren von Bolanden waren im 12. bis zum Anfang des 14. Jhs. ein bedeutendes Reichsministerialengeschlecht in der Pfalz. </anmerkung>
+      <anmerkung nr="5">Siehe: Münch/Dolch: Kopialbuch, in: Mitteilungen des Historischen Vereins der Pfalz 90/1992, S. 539.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="9" seite-von="42" seite-bis="42">
@@ -207,7 +215,8 @@
       <signatur>8</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="42" nr="1">Beginen seit 1275 in Worms erw.; mehrere Klausen unterhalten (ÜB Worms I, S. 240 und II, siehe Reg.). Kloster Schönau b. Heidelberg, Rhein-Neckar-Kr., 1142 als Zisterzienserkloster gestiftet; seit dem 12. Jh. Hauskloster der weifischen und wittelsbachischen Pfalzgrafenfamilien (HB Hist. St., Bd. VI, S. 708ff.).</anmerkung>
+      <anmerkung seite="42" nr="1">Beginen seit 1275 in Worms erw.; mehrere Klausen unterhalten (ÜB Worms I, S. 240 und II, siehe Reg.).</anmerkung>
+      <anmerkung nr="2">Kloster Schönau b. Heidelberg, Rhein-Neckar-Kr., 1142 als Zisterzienserkloster gestiftet; seit dem 12. Jh. Hauskloster der weifischen und wittelsbachischen Pfalzgrafenfamilien (HB Hist. St., Bd. VI, S. 708ff.).</anmerkung>
       <anmerkung seite="42" nr="3">"sitam juxta curiam"; Wormser Pfleghof des Klosters Schönau 1216 ersterw., in folgenden Jahrzehnten allmählich vergrößert durch Schenkungen der Wormser Bürger u. planmäßigen Erwerb; zahlreiche Häuser des Klosters in Worms "curia" genannt; eigentlicher Hof b. dem Pfauentor, in dessen Nachbarschaft einige Mietshäuser im Klosterbesitz (Schaab: Zisterzienserabtei, S. 94f.).</anmerkung>
       <anmerkung seite="42" nr="4">Werner, Pfründer am Domstift, nicht identifiziert; Hl.-Kreuz-Altar in der Stiftskirche St. Paul 1161 ersterw. (Bauer: Baugeschichte, S. 28).</anmerkung>
       <anmerkung seite="42" nr="5">Jacobus, Kaplan im Zisterzienserinnenkloster Kirschgarten (vgl. Anm. in Urk. Nr. 14) nicht nachgewiesen.</anmerkung>
@@ -229,19 +238,19 @@
       <signatur>11</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Werner von Saulheim, Angehöriger einer der seit 1137 in Nieder-Saulheim, Kr. Alzey-Worms, ansässigen Adelsfamilien, urkl. 1289 (Hessische Urkunden, Bd. 2, S. 420).</anmerkung>
-      <anmerkung>2 Vielleicht identisch mit dem Junker Götzen von Saulheim in einer Urk. von 1310 (ebd., Bd. 3, S. 641).</anmerkung>
-      <anmerkung>3 Johannes von Saulheim als Ritter 1310 urkl. (ebd., Bd. 2, S. 420 u. Bd. 3, S. 641).</anmerkung>
-      <anmerkung>4 Antoniterkloster vor der Gaupforte Oppenheims, unter Rudolf von Habsburg 1287 gegründet; um 1300 verschiedene Stiftungen bezeugt (Festschrift Oppenheim, S. 73).</anmerkung>
-      <anmerkung>5 Herren von Bolanden, vgl. Urk. Nr. 8; Werner ist ein häufiger Vorname in diesem Geschlecht, es könnte sich vielleicht um den Werner handeln, der Propst an St. Victor und Archidiakon in Mainz war, 1284ersterw., 11324 (Europ. Stammtafeln., Bd. III, Tf. 86).</anmerkung>
-      <anmerkung>6 Pistor: Müller, Bäcker.</anmerkung>
-      <anmerkung>7 Köngernheim: Dorf w. Oppenheim, Kr. Mainz-Bingen.</anmerkung>
-      <anmerkung>8 "Petrus advocatus de Selse" Zeuge in einer Urkunde von 1304 (Hessische Urkunden, Bd. 2, Nr. 639).</anmerkung>
-      <anmerkung>9 Dualis=Divisa: Grenzen, Grenzmarken. </anmerkung>
-      <anmerkung>10 pueri: Diener, Hörige; Söhne.</anmerkung>
-      <anmerkung>11 Selzen: Dorfw. Oppenheim, Kr. Mainz-Bingen.</anmerkung>
-      <anmerkung>12 Nierstein: n. Oppenheim, Gem. im Kr. Mainz-Bingen.</anmerkung>
-      <anmerkung>13 Jornale: Flachenmaß; Acker von der Größe, daß ihn ein Paar Ochsen an einem Tag pflügen können (Brinckmeier Glossarium, Bd. 1, S. 1070)</anmerkung>
+      <anmerkung nr="1">Werner von Saulheim, Angehöriger einer der seit 1137 in Nieder-Saulheim, Kr. Alzey-Worms, ansässigen Adelsfamilien, urkl. 1289 (Hessische Urkunden, Bd. 2, S. 420).</anmerkung>
+      <anmerkung nr="2">Vielleicht identisch mit dem Junker Götzen von Saulheim in einer Urk. von 1310 (ebd., Bd. 3, S. 641).</anmerkung>
+      <anmerkung nr="3">Johannes von Saulheim als Ritter 1310 urkl. (ebd., Bd. 2, S. 420 u. Bd. 3, S. 641).</anmerkung>
+      <anmerkung nr="4">Antoniterkloster vor der Gaupforte Oppenheims, unter Rudolf von Habsburg 1287 gegründet; um 1300 verschiedene Stiftungen bezeugt (Festschrift Oppenheim, S. 73).</anmerkung>
+      <anmerkung nr="5">Herren von Bolanden, vgl. Urk. Nr. 8; Werner ist ein häufiger Vorname in diesem Geschlecht, es könnte sich vielleicht um den Werner handeln, der Propst an St. Victor und Archidiakon in Mainz war, 1284ersterw., 11324 (Europ. Stammtafeln., Bd. III, Tf. 86).</anmerkung>
+      <anmerkung nr="6">Pistor: Müller, Bäcker.</anmerkung>
+      <anmerkung nr="7">Köngernheim: Dorf w. Oppenheim, Kr. Mainz-Bingen.</anmerkung>
+      <anmerkung nr="8">"Petrus advocatus de Selse" Zeuge in einer Urkunde von 1304 (Hessische Urkunden, Bd. 2, Nr. 639).</anmerkung>
+      <anmerkung nr="9">Dualis=Divisa: Grenzen, Grenzmarken. </anmerkung>
+      <anmerkung nr="10">pueri: Diener, Hörige; Söhne.</anmerkung>
+      <anmerkung nr="11">Selzen: Dorfw. Oppenheim, Kr. Mainz-Bingen.</anmerkung>
+      <anmerkung nr="12">Nierstein: n. Oppenheim, Gem. im Kr. Mainz-Bingen.</anmerkung>
+      <anmerkung nr="13">Jornale: Flachenmaß; Acker von der Größe, daß ihn ein Paar Ochsen an einem Tag pflügen können (Brinckmeier Glossarium, Bd. 1, S. 1070)</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="11" seite-von="45" seite-bis="46">
@@ -260,7 +269,7 @@
     <anmerkungen>
       <anmerkung seite="45" nr="1">Nazarii ist eigentlich am 12. Juni; nur in Frankreich, der Schweiz und b. Deutschen Orden fällt der Festtag nach Grotefend auf den 28. Juli. Für die spätere Datierung würde allerdings der Umstand sprechen, daß eine Einverständniserklärung des Veldenzer Grafen zum beurkundeten Verkauf (siehe Anm. Gundheim) auf 1307 Juni 14 datiert ist und damit nur vor dem späteren Termin liegen würde.</anmerkung>
       <anmerkung seite="45" nr="2">Jofried von Leiningen, 1303-1344 urkl. (Lebensdaten im weiteren nach: Toussaint: Grafen, Stammtafeln S. 249 und 251).</anmerkung>
-      <anmerkung seite="45" nr="3">Agnes von Ochsenstein, um 1303/1305 Heirat mit Jofried, t nach 1313.</anmerkung>
+      <anmerkung seite="45" nr="3">Agnes von Ochsenstein, um 1303/1305 Heirat mit Jofried, † nach 1313.</anmerkung>
       <anmerkung seite="45" nr="4">Friedrich IV. von Leiningen, urkl. 1254-1316 (f).</anmerkung>
       <anmerkung seite="45" nr="5">Johanna (Jeanne-Julienne) von Apremont (1281-1317/19(t)), zweite Frau Friedrichs IV. und Mutter von Jofried.</anmerkung>
       <anmerkung seite="45" nr="6">Deralte Ritter Friedrich von Meckenheim, 1281-1308 urkl.</anmerkung>
@@ -290,9 +299,10 @@
       <signatur>28</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="47" nr="1">Godelmann von Lichtenberg 1334 ersterw., 1372 noch Edelknecht, t vor 1376; Mitglied des von den Veldenzer Grafen eingesetzten Burgmannengeschlechts der Finchel von Lichtenberg auf der namensgebenden Burg b. Kusel (Haarbeck: Burgmannen, S. 106f.).</anmerkung>
+      <anmerkung seite="47" nr="1">Godelmann von Lichtenberg 1334 ersterw., 1372 noch Edelknecht, † vor 1376; Mitglied des von den Veldenzer Grafen eingesetzten Burgmannengeschlechts der Finchel von Lichtenberg auf der namensgebenden Burg b. Kusel (Haarbeck: Burgmannen, S. 106f.).</anmerkung>
       <anmerkung seite="47" nr="2">Wilhelm VII., Herr von Manderscheid, 11386 (Grote: Stammtafeln, S. 174).</anmerkung>
-      <anmerkung seite="47" nr="3">Ritter Bertolt/ Bertolt der Dürre von Sötern 1325-1349 (Möller: Stammtafeln, S. 112, Tfln. LXXNIf.). A Edelknechte Philipp von Sötern (1338-1343, t vor 1352) und sein Bruder Johann von Sötern (13381368, f vor 1380). Im Dorf Nieder-Sötern (sw. Birkenfeld im Hochwald) waren zwei gleichnamige Rittergeschlechter in enger Gemeinschaft ansässig, von denen eine Farn. - die der Brüder Philipp und Johann - seit 1380 den Beinamen Mohr trug (ebd.).</anmerkung>
+      <anmerkung seite="47" nr="3">Ritter Bertolt/ Bertolt der Dürre von Sötern 1325-1349 (Möller: Stammtafeln, S. 112, Tfln. LXXNIf.).</anmerkung>
+      <anmerkung nr="4">Edelknechte Philipp von Sötern (1338-1343, † vor 1352) und sein Bruder Johann von Sötern (13381368, † vor 1380). Im Dorf Nieder-Sötern (sw. Birkenfeld im Hochwald) waren zwei gleichnamige Rittergeschlechter in enger Gemeinschaft ansässig, von denen eine Fam. - die der Brüder Philipp und Johann - seit 1380 den Beinamen Mohr trug (ebd.).</anmerkung>
       <anmerkung seite="47" nr="5">Der Graf von Veldenz.</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -310,7 +320,8 @@
       <signatur>37</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="48" nr="1">Antze zu dem Span als Schöffe urkl. 1345 (Franck: Geschichte, Urk. Nr. 78). Franziskanerkloster in Oppenheim 1318 ersterw., erhielt viele Schenkungen und Stiftungen der Oppenheimer Bürger (Festschrift Oppenheim, S. 72).</anmerkung>
+      <anmerkung seite="48" nr="1">Antze zu dem Span als Schöffe urkl. 1345 (Franck: Geschichte, Urk. Nr. 78).</anmerkung>
+      <anmerkung nr="2">Franziskanerkloster in Oppenheim 1318 ersterw., erhielt viele Schenkungen und Stiftungen der Oppenheimer Bürger (Festschrift Oppenheim, S. 72).</anmerkung>
       <anmerkung seite="48" nr="3">wahrscheinlich vom Namen einer Oppenheimer Familie abgeleitet; vgl. Heinrich Funcke de Leheym 1312 urkl. (Franck: Geschichte, Urk. Nr. 59).</anmerkung>
       <anmerkung seite="48" nr="4">Rüdiger de Vetea Moneta/zu der Alten Münze als Schöffe urkl. 1345 und 1351, als Konsul 1361 (ebd., Urkk. Nr. 78, 83 und 99).</anmerkung>
     </anmerkungen>
@@ -329,7 +340,8 @@
       <signatur>105</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="49" nr="1">Laumersheim: w. Frankenthal, Kr. Bad Dürkheim. Kloster Kirschgarten 1226 von Richezzo Henrici, Bischof zu Worms, gestiftet und Zisterzienserinnen eingeräumt; seit 1440ern von Augustiner-Chorherren unter dem Prior Berthold von Scharms übernommen; für den Besitz des Frauenklosters Klein-Frankenthal bisher 1468 der erste Nachweis: eine Urkunde des Kurfürsten Friedrich von Bayern für das Kloster Kirschgarten (Weißenberger: Geschichte, S. 64ff. u. Regest Nr. 163).</anmerkung>
+      <anmerkung seite="49" nr="1">Laumersheim: w. Frankenthal, Kr. Bad Dürkheim.</anmerkung>
+      <anmerkung nr="2">Kloster Kirschgarten 1226 von Richezzo Henrici, Bischof zu Worms, gestiftet und Zisterzienserinnen eingeräumt; seit 1440ern von Augustiner-Chorherren unter dem Prior Berthold von Scharms übernommen; für den Besitz des Frauenklosters Klein-Frankenthal bisher 1468 der erste Nachweis: eine Urkunde des Kurfürsten Friedrich von Bayern für das Kloster Kirschgarten (Weißenberger: Geschichte, S. 64ff. u. Regest Nr. 163).</anmerkung>
       <anmerkung seite="49" nr="3">Frauenkloster Klein-Frankenthal von Erkenberts Frau Richlindis gegründet (vgl. Urk. Nr. 7).</anmerkung>
       <anmerkung seite="49" nr="4">Dirmstein: w. Frankenthal, Kr. Bad Dürkheim.</anmerkung>
       <anmerkung seite="49" nr="5">Hl.-Kreuz-Altar des Klosters Kirschgarten 1431 erw. (Weißenberger: Geschichte, Regest Nr. 133a).</anmerkung>
@@ -369,7 +381,8 @@
       <signatur>147</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="51" nr="2">Hofheim: Gem. Lampertheim, nö. Worms. , Jakob, Schaffner bzw. Pfleger des Wormser Hofs 1467 u. 1477 urkl. (Schaab: Zisterzienserabtei, S. 95A.).</anmerkung>
+      <anmerkung seite="51" nr="1">Hofheim: Gem. Lampertheim, nö. Worms.</anmerkung>
+      <anmerkung nr="2">Jakob, Schaffner bzw. Pfleger des Wormser Hofs 1467 u. 1477 urkl. (Schaab: Zisterzienserabtei, S. 95A.).</anmerkung>
       <anmerkung seite="51" nr="3">Kloster Schönau, vgl. Anm. in Urk. Nr. 9.</anmerkung>
       <anmerkung seite="51" nr="4">1292 kaufte Kloster Schönau den Zisterzienserinnen v. Altenzeil b. Mainz ihren Hof in Hotneim aD, der 1559 noch bestand. (Schaab: Zisterzienserabtei, S. 149).</anmerkung>
       <anmerkung seite="51" nr="5">Herren von Neuhausen nicht nachgewiesen; Neuhausen: heute Stadtteil von Worms.</anmerkung>
@@ -391,7 +404,8 @@
       <signatur>155</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="52" nr="1">Morsch, heute Frankenthal-Mörsch. Kloster Groß-Frankenthal seit 1468 dem strengen Konvent der Windsheimer Kongregation unterstellt - statt einem Abt nun ein Prior an der Spitze des Klosters (vgl. Urk. Nr. 7).</anmerkung>
+      <anmerkung seite="52" nr="1">Mörsch, heute Frankenthal-Mörsch.</anmerkung>
+      <anmerkung nr="2">Kloster Groß-Frankenthal seit 1468 dem strengen Konvent der Windsheimer Kongregation unterstellt - statt einem Abt nun ein Prior an der Spitze des Klosters (vgl. Urk. Nr. 7).</anmerkung>
       <anmerkung seite="52" nr="3">Baugut: Baugrund/Grundstück, das zum Anbau von Feldfrüchten dient (Haberkern/Wallach: Hilfswörterbuch, S. 64).</anmerkung>
       <anmerkung seite="52" nr="4">Niclas Mütter von Landenburg nicht identifiziert; vielleicht ein Geschlecht, das sich nach der Burg Landsberg - auch Moscheilandsburg genannt-, heute Ruine bei Obermoschel, benannte.</anmerkung>
     </anmerkungen>
@@ -412,7 +426,9 @@
     <anmerkungen>
       <anmerkung seite="53" nr="1">Keller: 1. auf Fronhöfen, in Klöstern Unterbeamter des Meiers zur Aufsicht über Weinberge, Keller; 2. in Territorien (z. B. Grundherrschaft) der Beamte, der die Naturalabgaben verwaltete u. später an der Spitze der Wirtschaftsverwaltung stand (Haberkern/Wallach; Hilfswörterbuch, S. 331f.).</anmerkung>
       <anmerkung seite="53" nr="2">Dirmstein: w. Frankenthal, Kr. Bad Dürkheim.</anmerkung>
-      <anmerkung seite="53" nr="3">Kloster Groß-Frankenthal, vgl. Urk. Nr. 17. * Morsch: heute Frankenthal-Mörsch; der sogenannte Morscher Kirchenacker in der Frankenthaler Gemarkung umfaßte 1601, als ihn die Schaffnerei Frankenthal kaufte, 25 Morgen 8 Ruten Acker (Biundo: Roxheim, S. 85f.). Roxheim: nö. Frankenthal, Kr. Ludwigshafen.</anmerkung>
+      <anmerkung seite="53" nr="3">Kloster Groß-Frankenthal, vgl. Urk. Nr. 17.</anmerkung>
+      <anmerkung nr="4">Mörsch: heute Frankenthal-Mörsch; der sogenannte Morscher Kirchenacker in der Frankenthaler Gemarkung umfaßte 1601, als ihn die Schaffnerei Frankenthal kaufte, 25 Morgen 8 Ruten Acker (Biundo: Roxheim, S. 85f.).</anmerkung>
+      <anmerkung nr="5">Roxheim: nö. Frankenthal, Kr. Ludwigshafen.</anmerkung>
       <anmerkung seite="53" nr="6">von Babinheim: wahrscheinlich Ministerialenfam., die sich nach Babinheim b. Kerzenheim, das als Wüstung (Pfalzatlas, Karte-Nr. 70) vermerkt ist oder nach dem Dorf Bobenheim (heute Kreis Ludwigshafen) benannte; für 1444 ist ein Beckerheintz von Babinheim als Pächter in einer Urk. des Offizials des Propstes von St. Paul in Worms erw. (Biundo: Roxheim, S. 90: Stadtarchiv Speyer, Hochstift Worms, Urk. Nr. 25).</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -431,7 +447,8 @@
       <signatur>197</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="55" nr="1">Neuhoff, genannt Ley, altes clevesches-westfälisches Adelsgeschlecht (Kneschke: Adels-Lexikon, Bd. VI, S. 4871). Michael Freysen/Freis als erzbischöflicher Kammerschreiber 1540-1545 urkl. (Protokolle des Mainzer Domkapitels, Bd. 3, 2. Hälfte 2 Teile, siehe Reg.).</anmerkung>
+      <anmerkung seite="55" nr="1">Neuhoff, genannt Ley, altes clevesches-westfälisches Adelsgeschlecht (Kneschke: Adels-Lexikon, Bd. VI, S. 4871).</anmerkung>
+      <anmerkung nr="2">Michael Freysen/Freis als erzbischöflicher Kammerschreiber 1540-1545 urkl. (Protokolle des Mainzer Domkapitels, Bd. 3, 2. Hälfte 2 Teile, siehe Reg.).</anmerkung>
       <anmerkung seite="55" nr="3">Alzey: Stadt im Kr. Alzey-Worms.</anmerkung>
       <anmerkung seite="55" nr="4">Bacharach: Stadt im Kr. Mainz-Bingen, bildete mit Diebach, Steeg und Manubach einen Pfarrei- und Gerichtsverband (Samtgemeinde), die sogenannten Viertäler von Bacharach (HB Hist. St., Bd. V, S. 269t).</anmerkung>
       <anmerkung seite="55" nr="5">Heute Oberdiebach: Kr. Mainz-Bingen.</anmerkung>
@@ -453,9 +470,9 @@
       <signatur>236</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Landammann: in der Schweiz urspr. oberster Richter in den Länderkantonen, dann mit Verwaltungsbefugnissen betraut (Haberkern/Wallach: Hilfswörterbuch, S. 368); Conrad Zellweger Landammann 1710-1729 (Walser: Chronik, Bd. 2, S. 412).</anmerkung>
-      <anmerkung>2 Grub: Gem. im Bezirk Vorderland, Kanton Appenzell/ Außerrhoden.</anmerkung>
-      <anmerkung>3 Leinwandschau in St. Gallen: Verkaufsmesse der Leinwandweber im Kanton Appenzell (Ruesch: Lebensverhältnisse, S. 146).</anmerkung>
+      <anmerkung nr="1">Landammann: in der Schweiz urspr. oberster Richter in den Länderkantonen, dann mit Verwaltungsbefugnissen betraut (Haberkern/Wallach: Hilfswörterbuch, S. 368); Conrad Zellweger Landammann 1710-1729 (Walser: Chronik, Bd. 2, S. 412).</anmerkung>
+      <anmerkung nr="2">Grub: Gem. im Bezirk Vorderland, Kanton Appenzell/ Außerrhoden.</anmerkung>
+      <anmerkung nr="3">Leinwandschau in St. Gallen: Verkaufsmesse der Leinwandweber im Kanton Appenzell (Ruesch: Lebensverhältnisse, S. 146).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="21" seite-von="57" seite-bis="58">
@@ -472,7 +489,8 @@
       <signatur>238</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="57" nr="1">Clemens XL, Papst 1700-1721. Franz Ludwig von Pfalz-Neuburg, *1664, Erzbischof v. Trier 1716-1729,11732 (Europ. Stammtafeln, Bd. I, Tf. 34).</anmerkung>
+      <anmerkung seite="57" nr="1">Clemens XL, Papst 1700-1721.</anmerkung>
+      <anmerkung nr="2">Franz Ludwig von Pfalz-Neuburg, *1664, Erzbischof v. Trier 1716-1729,11732 (Europ. Stammtafeln, Bd. I, Tf. 34).</anmerkung>
       <anmerkung seite="57" nr="3">Ludwig Franz Pisa 1715 erw. (Lorenzi: Beiträge, Bd. II, S. 524).</anmerkung>
       <anmerkung seite="57" nr="4">Linz a. Rhein: Stadt im Kr. Neuwied.</anmerkung>
       <anmerkung seite="57" nr="5">Linzer Pfarrkirche St. Martin, 1206 Grundsteinlegung für Neubau; Kirche mit Besitz und Zehnt in Linz schon 873 an das adlige Damenstift Gerresheim übereignet; 1217 erfolgte Inkorporation (Laak: Werdegang, S. 242ff.).</anmerkung>
@@ -521,11 +539,11 @@
       <signatur>74</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a Verlust der Endung durch Beschneidung der Urkunde am rechten Rand.</anmerkung>
-      <anmerkung>b Übergeschriebene "e" in der Form eines senkrechten Strichs.</anmerkung>
-      <anmerkung>1 Wegen Tilgung des Stadtnamens Austeilungsort Zabern nicht eindeutig belegbar, aber möglich: In Zabern übte das Offizialgericht des Straßburger Bischofs lange Zeit die Gerichtsbarkeit aus und scheint auch als Beurkundungsstelle, wie allgemein in Frankreich, kaum jedoch in Deutschland üblich, in Anspruch genommen worden zu sein; beim Ankauf der Urkunde für den diplomatischen Apparat ging man von Zabern aus, wie die Beschriftung des Aufbewahrungsumschlages verdeutlicht.</anmerkung>
-      <anmerkung>2 Getilgt.</anmerkung>
-      <anmerkung>3 Stelle getilgt; vielleicht Straßburger Pfennige.</anmerkung>
+      <anmerkung nr="a">Verlust der Endung durch Beschneidung der Urkunde am rechten Rand.</anmerkung>
+      <anmerkung nr="b">Übergeschriebene "e" in der Form eines senkrechten Strichs.</anmerkung>
+      <anmerkung nr="1">Wegen Tilgung des Stadtnamens Austeilungsort Zabern nicht eindeutig belegbar, aber möglich: In Zabern übte das Offizialgericht des Straßburger Bischofs lange Zeit die Gerichtsbarkeit aus und scheint auch als Beurkundungsstelle, wie allgemein in Frankreich, kaum jedoch in Deutschland üblich, in Anspruch genommen worden zu sein; beim Ankauf der Urkunde für den diplomatischen Apparat ging man von Zabern aus, wie die Beschriftung des Aufbewahrungsumschlages verdeutlicht.</anmerkung>
+      <anmerkung nr="2">Getilgt.</anmerkung>
+      <anmerkung nr="3">Stelle getilgt; vielleicht Straßburger Pfennige.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="24" seite-von="62" seite-bis="63">
@@ -542,14 +560,14 @@
       <signatur>148</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a Stelle wegen Übermalens mit blauem Stift kaum lesbar.</anmerkung>
-      <anmerkung>1 Sixtus IV., Papst 1471-1484. </anmerkung>
-      <anmerkung>2 St. Peter und Michael 1400 urkl. erw. (ÜB Straßburg, Bd. 7, S. 508 Z. 42). </anmerkung>
-      <anmerkung>3 Gorkum: Stadt in Süd-Niederlanden. </anmerkung>
-      <anmerkung>4 St. Aposteln zu Köln seit 1021 als Kollegiatsstift eingerichtet. </anmerkung>
-      <anmerkung>5 St. Katharinenkloster 1234 urkl. erw. (Regg. der Bischöfe v. Straßburg, Bd. 2, Nr. 1016); CecilienAltar 1386 urkl. erw. (ÜB Straßburg, Bd. 7, S. 655 Z. 19). </anmerkung>
-      <anmerkung>6 Stefan Pfalzgraf u. Herzog zu Bayern nicht eindeutig zu identifizieren: Für den Zeitpunkt der Urk. gibt es keinen regierenden Stefan unter den bayrischen Pfalzgrafen, allerdings zwei Familienangehörige dieses Namens der mittleren Kurlinie/Haus Simmern: 1. Stefan 1421-1485 Dompropst zu Köln, 2. Stefan 1457-1489, Dompropst (Europ. Stammtafeln, Bd. I, Tf. 32); wahrscheinlich mit dem zweiten identisch: 3. Stefan 1457-1519 Dompropst zu Straßburg (HB bayr. Gesch., III/3, Tf. II).</anmerkung>
-      <anmerkung>7 St. Thomas-Stift 1218 urkl. erw. (Regg. der Bischöfe v. Straßburg, Bd. 2, Nr. 842).</anmerkung>
+      <anmerkung nr="a">Stelle wegen Übermalens mit blauem Stift kaum lesbar.</anmerkung>
+      <anmerkung nr="1">Sixtus IV., Papst 1471-1484. </anmerkung>
+      <anmerkung nr="2">St. Peter und Michael 1400 urkl. erw. (ÜB Straßburg, Bd. 7, S. 508 Z. 42). </anmerkung>
+      <anmerkung nr="3">Gorkum: Stadt in Süd-Niederlanden. </anmerkung>
+      <anmerkung nr="4">St. Aposteln zu Köln seit 1021 als Kollegiatsstift eingerichtet. </anmerkung>
+      <anmerkung nr="5">St. Katharinenkloster 1234 urkl. erw. (Regg. der Bischöfe v. Straßburg, Bd. 2, Nr. 1016); CecilienAltar 1386 urkl. erw. (ÜB Straßburg, Bd. 7, S. 655 Z. 19). </anmerkung>
+      <anmerkung nr="6">Stefan Pfalzgraf u. Herzog zu Bayern nicht eindeutig zu identifizieren: Für den Zeitpunkt der Urk. gibt es keinen regierenden Stefan unter den bayrischen Pfalzgrafen, allerdings zwei Familienangehörige dieses Namens der mittleren Kurlinie/Haus Simmern: 1. Stefan 1421-1485 Dompropst zu Köln, 2. Stefan 1457-1489, Dompropst (Europ. Stammtafeln, Bd. I, Tf. 32); wahrscheinlich mit dem zweiten identisch: 3. Stefan 1457-1519 Dompropst zu Straßburg (HB bayr. Gesch., III/3, Tf. II).</anmerkung>
+      <anmerkung nr="7">St. Thomas-Stift 1218 urkl. erw. (Regg. der Bischöfe v. Straßburg, Bd. 2, Nr. 842).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="25" seite-von="64" seite-bis="64">
@@ -566,13 +584,13 @@
       <signatur>54</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a übergeschriebenes "e" undeutlich, vielleicht nur "u"-Haken.</anmerkung>
-      <anmerkung>1 Eberhart III. von Württemberg 1344-1392,*1315 f1392 (Europ. Stammtafeln, Bd. I, Tf. 75)</anmerkung>
-      <anmerkung>2 Konrad IV. von Hürnheim 1350-1397, kaufte 1368 Niederalfingen; die Edlen Herren von Hürnheim eines der bedeutendsten Geschlechter des nördlichen Schwaben (Bauer: Versuch, S. 119-182). </anmerkung>
-      <anmerkung>3 Lewenfels: Burg nicht identifiziert; Löwenstein im Landkr. Heilbronn unwahrscheinlich, da noch im 14. Jh. eine gleichnamige Familie die Burg innehatte.</anmerkung>
-      <anmerkung>4 Ahelfingen: Burg Hohenalfingen, Landkr. Aalen.</anmerkung>
-      <anmerkung>5 Marbach am Neckar: Stadt im Landkr. Ludwigsburg.</anmerkung>
-      <anmerkung>6 Schorndorf: Stadt im Rems-Murr-Kr. 1</anmerkung>
+      <anmerkung nr="a">übergeschriebenes "e" undeutlich, vielleicht nur "u"-Haken.</anmerkung>
+      <anmerkung nr="1">Eberhart III. von Württemberg 1344-1392,*1315 †1392 (Europ. Stammtafeln, Bd. I, Tf. 75)</anmerkung>
+      <anmerkung nr="2">Konrad IV. von Hürnheim 1350-1397, kaufte 1368 Niederalfingen; die Edlen Herren von Hürnheim eines der bedeutendsten Geschlechter des nördlichen Schwaben (Bauer: Versuch, S. 119-182). </anmerkung>
+      <anmerkung nr="3">Lewenfels: Burg nicht identifiziert; Löwenstein im Landkr. Heilbronn unwahrscheinlich, da noch im 14. Jh. eine gleichnamige Familie die Burg innehatte.</anmerkung>
+      <anmerkung nr="4">Ahelfingen: Burg Hohenalfingen, Landkr. Aalen.</anmerkung>
+      <anmerkung nr="5">Marbach am Neckar: Stadt im Landkr. Ludwigsburg.</anmerkung>
+      <anmerkung nr="6">Schorndorf: Stadt im Rems-Murr-Kr. 1</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="26" seite-von="65" seite-bis="66">
@@ -605,7 +623,8 @@
       <signatur>48</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="67" nr="8">Lücke im Text, da Verlust des linken Rands der Urk. Name des Ausstellers fehlt, da Urkundenfragm.</anmerkung>
+      <anmerkung seite="67" nr="a">Lücke im Text, da Verlust des linken Rands der Urk.</anmerkung>
+      <anmerkung nr="1">Name des Ausstellers fehlt, da Urkundenfragm.</anmerkung>
       <anmerkung seite="67" nr="2">Holzhausen nicht eindeutig identifizierbar, mehrere Orte dieses Namens in der Umgebung von München nachw.: 1. Holzhausen b. Vilsbiberg, nö. München; 2. b. Landsberg, s. Augsburg; 3. b. Wolfratshausen, s. München.</anmerkung>
       <anmerkung seite="67" nr="3">Ulrich Schafswol, als Münchner Bürger urkl. 1381 (Monumenta Boica, Bd. XVIII, S. 217).</anmerkung>
       <anmerkung seite="67" nr="4">Wahrscheinliche Währung - Angabe fehlt, da Urkundenfragm.</anmerkung>
@@ -649,7 +668,9 @@
       <signatur>70</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="69" nr="3">Ulrich Schafswol, vgl. Urk. Nr. 27. Ulrich Rephun, urkl. 1391 und 1393 (Monumenta Boica, Bd. XXIII, Nr. 276, 284). Lange, Salzspeditor zu Augsburg, urkl. 1391 (ebd., S. 277).</anmerkung>
+      <anmerkung nr="1">Ulrich Schafswol, vgl. Urk. Nr. 27.</anmerkung>
+      <anmerkung nr="2">Ulrich Rephun, urkl. 1391 und 1393 (Monumenta Boica, Bd. XXIII, Nr. 276, 284).</anmerkung>
+      <anmerkung seite="69" nr="3">Lange, Salzspeditor zu Augsburg, urkl. 1391 (ebd., S. 277).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="30" seite-von="70" seite-bis="70">
@@ -667,7 +688,7 @@
     </ueberlieferung>
     <anmerkungen>
       <anmerkung seite="70" nr="1">Graf Albrecht von Abensberg, urkl. 1367-1407, um 1405Viztumin Oberbayern; Geburts- u. Sterbedaten nicht bekannt (Dollinger/Stark: Grafen, S. 1-234).</anmerkung>
-      <anmerkung seite="70" nr="2">Peters /Petronilla von Abensberg, Tochter Albrechts von Haidau; Albrecht geehelicht 1382, f1396.</anmerkung>
+      <anmerkung seite="70" nr="2">Peters /Petronilla von Abensberg, Tochter Albrechts von Haidau; Albrecht geehelicht 1382, †1396.</anmerkung>
       <anmerkung seite="70" nr="3">Marquart Zöllner vom Rotenstein, als Deutschordensherr urkl. 1367-1394 (Regesta Ordinis S. Mariae Theutonicorum, siehe Registerbd. z. Teil 1. 2).</anmerkung>
       <anmerkung seite="70" nr="4">Deutschordenskomturei St. Ägidien in Regensburg seit 1210 vorhanden (Schwertl: Beziehungen, S. 405).</anmerkung>
       <anmerkung seite="70" nr="5">Mangolding: Gem. Mintraching, so. Neutraubling, Landkr. Regensburg.</anmerkung>
@@ -690,7 +711,8 @@
       <signatur>99</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="71" nr="1">Albrecht III., Herzog in Bayern 1438 [!]-1460, *1401 (Europ. Stammtafeln, Bd. I, Tf. 27). Oberpfälzischer Zweig der Herren von Puchberg mit wahrscheinlichem Stammsitz Buchberg, Gem. Sengenthal, Kr. Neumarkt i. d. Oberpfälz; außerdem Dörfer Hinter- und Vorder-Buchberg b. Eschelkam existent; im 14.-16. Jh. reiches und angesehenes Rittergeschlecht (Oswald: Herren, S. 19-32).</anmerkung>
+      <anmerkung seite="71" nr="1">Albrecht III., Herzog in Bayern 1438 [!]-1460, *1401 (Europ. Stammtafeln, Bd. I, Tf. 27).</anmerkung>
+      <anmerkung nr="2">Oberpfälzischer Zweig der Herren von Puchberg mit wahrscheinlichem Stammsitz Buchberg, Gem. Sengenthal, Kr. Neumarkt i. d. Oberpfälz; außerdem Dörfer Hinter- und Vorder-Buchberg b. Eschelkam existent; im 14.-16. Jh. reiches und angesehenes Rittergeschlecht (Oswald: Herren, S. 19-32).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="32" seite-von="72" seite-bis="72">
@@ -707,12 +729,12 @@
       <signatur>128</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a sexagesimo - später von anderer Hand eingefügt; im weiteren Text sind von derselben Hand einige berichtigende Ergänzungen angebracht.</anmerkung>
-      <anmerkung>1 Argentoratus = Straßburg, Ordensprovinz.</anmerkung>
-      <anmerkung>2 Johannes Philippi, Ordensvikar in Nürnberg Mitte des 15. Jhs., Anhänger der Observanten innerhalb der Franziskaner (Bauerreiss: Kirchengeschichte, S. 73).</anmerkung>
-      <anmerkung>3 Franziskaner seit 1224 in Nürnberg ansässig; Nürnberger Franziskanerobservanten sehr angesehen - mehrere ratsfähige Bürger sind Ordensmitglieder geworden (ebd., S. 70).</anmerkung>
-      <anmerkung>4 Ordensfamilien in nördlich und südlich der Alpen liegend eingeteilt - Ergebnis der Observantenreform der Franziskaner, die seit 1426 auch in Süddeutschland wirksam wurde.</anmerkung>
-      <anmerkung>5 Klarissen spätestens seit 1279 in Nürnberg ansässig (Lexikon f. Theologie, Bd. 7, Sp. 1073).</anmerkung>
+      <anmerkung nr="a">sexagesimo - später von anderer Hand eingefügt; im weiteren Text sind von derselben Hand einige berichtigende Ergänzungen angebracht.</anmerkung>
+      <anmerkung nr="1">Argentoratus = Straßburg, Ordensprovinz.</anmerkung>
+      <anmerkung nr="2">Johannes Philippi, Ordensvikar in Nürnberg Mitte des 15. Jhs., Anhänger der Observanten innerhalb der Franziskaner (Bauerreiss: Kirchengeschichte, S. 73).</anmerkung>
+      <anmerkung nr="3">Franziskaner seit 1224 in Nürnberg ansässig; Nürnberger Franziskanerobservanten sehr angesehen - mehrere ratsfähige Bürger sind Ordensmitglieder geworden (ebd., S. 70).</anmerkung>
+      <anmerkung nr="4">Ordensfamilien in nördlich und südlich der Alpen liegend eingeteilt - Ergebnis der Observantenreform der Franziskaner, die seit 1426 auch in Süddeutschland wirksam wurde.</anmerkung>
+      <anmerkung nr="5">Klarissen spätestens seit 1279 in Nürnberg ansässig (Lexikon f. Theologie, Bd. 7, Sp. 1073).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="33" seite-von="73" seite-bis="73">
@@ -729,11 +751,12 @@
       <signatur>159</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="73" nr="1">Peterstag Kettenfeier: I.August. „ .4 , „ , , « Niclas Groß seit 1460 Pfleger des Spitals, fl491 (Knefelkamp: Spital, S. 374).</anmerkung>
-      <anmerkung seite="73" nr="3">Heilig-Geist-Spital, gestiftet von Konrad Groß (siehe Urk. Nr. 26), Baubeginn 1333 (Reicke:</anmerkung>
-      <anmerkung seite="73" nr="2">«Hanns Hailer bekannt als Verfasser des Nürnberger Geschlechterbuchs (1490) (ebd S. m</anmerkung>
-      <anmerkung seite="73" nr="5">Jörg Koler in den Ratsbüchern 1508 erwähnt, Koler - eine der Stifterfam. des Spitals (Knefelkamp. Spital, S. 151; 372). _ „ n ,_.</anmerkung>
-      <anmerkung seite="73" nr="6">Philip Pirckheimer/Pirckamer, 1455 nachw. (Reicke: Geschichte S 1015 .</anmerkung>
+      <anmerkung seite="73" nr="1">Peterstag Kettenfeier: 1.August.</anmerkung>
+      <anmerkung nr="2">Niclas Groß seit 1460 Pfleger des Spitals, fl491 (Knefelkamp: Spital, S. 374).</anmerkung>
+      <anmerkung seite="73" nr="3">Heilig-Geist-Spital, gestiftet von Konrad Groß (siehe Urk. Nr. 26), Baubeginn 1333 (Reicke: Geschichte, S. 187).</anmerkung>
+      <anmerkung seite="73" nr="4">Hanns Hailer bekannt als Verfasser des Nürnberger Geschlechterbuchs (1490) (ebd S. 99).</anmerkung>
+      <anmerkung seite="73" nr="5">Jörg Koler in den Ratsbüchern 1508 erwähnt, Koler - eine der Stifterfam. des Spitals (Knefelkamp. Spital, S. 151; 372).</anmerkung>
+      <anmerkung seite="73" nr="6">Philip Pirckheimer/Pirckamer, 1455 nachw. (Reicke: Geschichte S. 1015).</anmerkung>
       <anmerkung seite="73" nr="7">Für Pirckheimer ist der Jahrtag im Kalender des Spitals verzeichnet (Knefelkamp: Spital, S. 270).</anmerkung>
       <anmerkung seite="73" nr="8">Großschwarzenlohe, heute Wendelstein-Großschwarzenlohe, s. Nürnberg.</anmerkung>
     </anmerkungen>
@@ -764,7 +787,7 @@
     <ueberlieferung>
       <beglaubigungsform>angekündigte eigenhändige Beglaubigung des Ausstellers: Signum [Monogramm] Hludouuici serenissi regis atque invictissimi". Rekognition des Kanzlers: Uuolfherius6 cancellarius advicem Liutberti7 archicappellani recognovi et et' [Rekognitionszeichen; Anbringungsstelle des durchgedrückten Siegels].</beglaubigungsform>
       <beschreibstoff>Pergament 513/515 * 455/450 mm</beschreibstoff>
-      <erhaltungszustand>schlecht, dunkle Flecken, durch Loch in der 3. Textzeile v. unten geringer Textverlust, Nadeleinstiche an den Rändern (durch zurückliegende Befestigung der Urkunde auf planem Untergrund) a "kl.": kalendas oder kalendarum aufzulösen. "Zwischen XX u. Villi Rasur von X oder XI (MGH DD Ludowici lunioris, S. 350f. Nr. 13, Anm. x). c Falsche Indiktion XI statt XIII (s. Bemerkungen Sickels in: Kaiserurkk. in Abb., S. 173). d Alle Orte oder zumindestens "Engilsdiosdorpf ad Beregun" u. "Staffelun" mit hellerer Tinte in frei gelassenen Raum von demselben Schreiber nachgetragen (MGH DD Ludowici lunioris, S. 350). e Korrektur am "c" (MGH DD Ludowici lunioris, S. 351 Anm. s); zur Verwendung des Prädikats "invictissimus" für Ludwig d. J. siehe Eggert: Reich, S. 275f. 'Wegen zu knappen Raums für Rekognitionszeichen u. Siegel "gegen die Regel auf der Höhe der darüberstehenden Signumzeile" ein zweites "et" geschrieben (MGH DD Ludowici lunioris, S. 351 Anm. v). 1 Ludwig III., der Jüngere. König von Ostfranken 876 August 28; t 882 Januar 20. 2 Beide Namensformen wurden verwendet: Thietmar von Salzburg, urkl. erw. 874-907(t), Erzbischof seit 877. 3 Die folgenden Ortsangaben nach Salzburger ÜB, Bd. 2, Nr. 25: Flossing b. Mühldorf, Oberbayern. 4 Staffing: Wüstung b. Dorfen-Eibach, Oberbayern. 5 Engelsdorf: Wüstung b. Landshut, Niederbayern. 6 Kanzler Wolfher, 876 November 11 - 880 März 23, später Bischof v. Minden, 1886 September 15 (Bresslau: HB, Bd. 1, S. 432); Urk. geschrieben v. Wolfher C, namentlich unbekannt; einer von drei Ingrossatoren innerhalb des Zeitraums des Vorkommens der Rekognition durch Wolfher (Kaiserurkk. in Abb., S. 167f.). 7 Erzkapellan Luitbert, 877 Januar 4 - 8 8 2 Januar 18, Erzbischof v. Mainz, t 889 Februar 1 (ebd., S. 432f.).</erhaltungszustand>
+      <erhaltungszustand>schlecht, dunkle Flecken, durch Loch in der 3. Textzeile v. unten geringer Textverlust, Nadeleinstiche an den Rändern (durch zurückliegende Befestigung der Urkunde auf planem Untergrund)</erhaltungszustand>
       <siegel>nicht mehr vorhanden1</siegel>
       <sprache>mittellateinisch</sprache>
       <signatur>1</signatur>
@@ -772,6 +795,19 @@
       <literatur_regest>Johann Friedrich Böhmer: Regesta Imperii, I: Die Regesten d. Kaiserreiches unter den Karolingern 751-918, 2. Aufl., neu bearb. v. E. Mühlbacher, 1. Bd., Innsbruck 1908, Nr. 1564. Abbildung: Kaiserurkk. in Abbildungen, hrsg. v. Heinrich Sybel u. Theodor v. Sickel, Lfg. VII Tf. 13; Textband, Berlin 1891, S. 173; Teilabdruck in: Friedrich Beck, Reiner Groß, Manfred Unger: Aus tausend Jahren deutscher Geschichte, Berlin 1989, S. 20 Abb. 2.</literatur_regest>
     </ueberlieferung>
     <anmerkungen>
+      <anmerkung seite="75" nr="a">"kl.": kalendas oder kalendarum aufzulösen.</anmerkung>
+      <anmerkung seite="75" nr="b">Zwischen XX u. Villi Rasur von X oder XI (MGH DD Ludowici lunioris, S. 350f. Nr. 13, Anm. x).</anmerkung>
+      <anmerkung seite="75" nr="c">Falsche Indiktion XI statt XIII (s. Bemerkungen Sickels in: Kaiserurkk. in Abb., S. 173).</anmerkung>
+      <anmerkung seite="75" nr="d">Alle Orte oder zumindestens "Engilsdiosdorpf ad Beregun" u. "Staffelun" mit hellerer Tinte in frei gelassenen Raum von demselben Schreiber nachgetragen (MGH DD Ludowici lunioris, S. 350).</anmerkung>
+      <anmerkung seite="75" nr="e">Korrektur am "c" (MGH DD Ludowici lunioris, S. 351 Anm. s); zur Verwendung des Prädikats "invictissimus" für Ludwig d. J. siehe Eggert: Reich, S. 275f.</anmerkung>
+      <anmerkung seite="75" nr="f">Wegen zu knappen Raums für Rekognitionszeichen u. Siegel "gegen die Regel auf der Höhe der darüberstehenden Signumzeile" ein zweites "et" geschrieben (MGH DD Ludowici lunioris, S. 351 Anm. v).</anmerkung>
+      <anmerkung seite="75" nr="1">Ludwig III., der Jüngere. König von Ostfranken 876 August 28; † 882 Januar 20.</anmerkung>
+      <anmerkung seite="75" nr="2">Beide Namensformen wurden verwendet: Thietmar von Salzburg, urkl. erw. 874-907(t), Erzbischof seit 877.</anmerkung>
+      <anmerkung seite="75" nr="3">Die folgenden Ortsangaben nach Salzburger ÜB, Bd. 2, Nr. 25: Flossing b. Mühldorf, Oberbayern. </anmerkung>
+      <anmerkung seite="75" nr="4">Staffing: Wüstung b. Dorfen-Eibach, Oberbayern.</anmerkung>
+      <anmerkung seite="75" nr="5">Engelsdorf: Wüstung b. Landshut, Niederbayern.</anmerkung>
+      <anmerkung seite="75" nr="6">Kanzler Wolfher, 876 November 11 - 880 März 23, später Bischof v. Minden, 1886 September 15 (Bresslau: HB, Bd. 1, S. 432); Urk. geschrieben v. Wolfher C, namentlich unbekannt; einer von drei Ingrossatoren innerhalb des Zeitraums des Vorkommens der Rekognition durch Wolfher (Kaiserurkk. in Abb., S. 167f.).</anmerkung>
+      <anmerkung seite="75" nr="7">Erzkapellan Luitbert, 877 Januar 4 - 882 Januar 18, Erzbischof v. Mainz, † 889 Februar 1 (ebd., S. 432f.).</anmerkung>
       <anmerkung seite="76" nr="1">Gemmensiegel seit 1897 vermißt (ebd., S. 350); noch abgebildet in: Kaiserurkk. in Abb.</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -789,8 +825,10 @@
       <signatur>31</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="77" nr="1">Winterthur: Bezirkshauptstadt im Kanton Zürich. Hermann IV. von Landenberg (1300-1361), Landvogt, Hauptmann und Pfleger zu Glarus, im Aargau, Thurgau, Elsaß u. auf dem Schwarzwald 1330-1354 (Diener: Landenberg, S. 38).</anmerkung>
-      <anmerkung seite="77" nr="3">Rudolf IV. von Montfort-Feldkirch, 1350-1375 (Hopf: Atlas, Abt. I, Bd. 1, S. 78f). * Burg Welsch-Ramenswag: BH Bludenz, Vorarlberg.</anmerkung>
+      <anmerkung seite="77" nr="1">Winterthur: Bezirkshauptstadt im Kanton Zürich.</anmerkung>
+      <anmerkung nr="2">Hermann IV. von Landenberg (1300-1361), Landvogt, Hauptmann und Pfleger zu Glarus, im Aargau, Thurgau, Elsaß u. auf dem Schwarzwald 1330-1354 (Diener: Landenberg, S. 38).</anmerkung>
+      <anmerkung seite="77" nr="3">Rudolf IV. von Montfort-Feldkirch, 1350-1375 (Hopf: Atlas, Abt. I, Bd. 1, S. 78f).</anmerkung>
+      <anmerkung nr="4">Burg Welsch-Ramenswag: BH Bludenz, Vorarlberg.</anmerkung>
       <anmerkung seite="77" nr="5">Grund und grat: zusammenfassende Rechtsformel für die Erdflache oder für den Grundbesitz in Berg und Tal (Grimm: Wörterbuch, Bd. 4, Abt. I, T. 5, Sp. 2036).</anmerkung>
       <anmerkung seite="77" nr="6">Wassergusi: Wasserergüsse (Grimm: Wörterbuch, Bd. 13, Sp. 2416), vielleicht im Sinne v. Wasserlaufe oder -fälle.</anmerkung>
       <anmerkung seite="77" nr="7">Ramenswager, thurgauisches Rittergeschlecht, Erbauer der gleichnamigen Burg (HB Hist. St. Österreichs, Bd. II, S. 466).</anmerkung>
@@ -813,7 +851,8 @@
       <signatur>44</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="78" nr="1">Haimburg: BH Völkermarkt, Kärnten. Rudolf IV., der Stifter gen., *1339, t1365, seit 1358 Herzog (Hödl: Habsburg, Stammtafeln im Anhang).</anmerkung>
+      <anmerkung seite="78" nr="1">Haimburg: BH Völkermarkt, Kärnten.</anmerkung>
+      <anmerkung nr="2">Rudolf IV., der Stifter gen., *1339, †1365, seit 1358 Herzog (Hödl: Habsburg, Stammtafeln im Anhang).</anmerkung>
       <anmerkung seite="78" nr="3">Albrecht und Leopold.</anmerkung>
       <anmerkung seite="78" nr="4">St. Veit an der Glan, BH St. Veit, Kärnten.</anmerkung>
       <anmerkung seite="78" nr="5">Klarissinnenkloster 1323 von den Aufensteinern außerhalb der Stadtmauern gestiftet.</anmerkung>
@@ -864,8 +903,8 @@
   <urkunde nr="40" seite-von="82" seite-bis="82">
     <datum iso="1377-09-08">1377 September 8</datum>
     <ausstellungsort>Wien</ausstellungsort>
-    <datierungsvermerk>(Geben ze W i e n an unsr Frawen tag ze herbste nach Kristi gepuerd dreutzehn hundert jar darnach in dem siben und sibenczigistem jare)</datierungsvermerk>
-    <regest>Leopold, Herzog zu Österreich (österrich)', erklärt, daß Rudolf von Stadeck (Stadegg)2, d e r wegen Schulden an Christen und Juden etwas verkaufen muß, seine Einnahme v o n 12 Pfund und 40 Wiener Pfennige (gestiftes und aigens geltes) in dem Mürztal bei Langenwang (Langenwank) 3 und bei Krieglach (Krueglach) 4 an den Abt und Konvent vom Kloster Neuberg (Newenperg) 5 verkauft hat, dem damit die Wahrung d e s Kaufes zugesichert wird. 6</regest>
+    <datierungsvermerk>(Geben ze Wien an unsr Frawen tag ze herbste nach Kristi gepuerd dreutzehn hundert jar darnach in dem siben und sibenczigistem jare)</datierungsvermerk>
+    <regest>Leopold, Herzog zu Österreich (österrich)', erklärt, daß Rudolf von Stadeck (Stadegg)2, der wegen Schulden an Christen und Juden etwas verkaufen muß, seine Einnahme von 12 Pfund und 40 Wiener Pfennige (gestiftes und aigens geltes) in dem Mürztal bei Langenwang (Langenwank) 3 und bei Krieglach (Krueglach) 4 an den Abt und Konvent vom Kloster Neuberg (Newenperg) 5 verkauft hat, dem damit die Wahrung des Kaufes zugesichert wird. 6</regest>
     <ueberlieferung>
       <beglaubigungsform>keine Siegelankündigung Kanzleivermerk (unter dem Text): dominus dux per litteram p... Medl... et de Rappach7</beglaubigungsform>
       <beschreibstoff>Pergament 270 * 135 mm, Umbug 31 mm</beschreibstoff>
@@ -875,7 +914,8 @@
       <signatur>59</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="82" nr="1">Leopold III., * 1 3 5 1 , t1386, seit 1365 Herzog (Hödl: Habsburg, Stammtafeln). Rudolf V. aus dem Ministerialengeschlecht von Stadeck urkl. 1360, 1377 (Pirchegger Landesfürst, Stammtafel nach S. 224).</anmerkung>
+      <anmerkung seite="82" nr="1">Leopold III., * 1351, †1386, seit 1365 Herzog (Hödl: Habsburg, Stammtafeln).</anmerkung>
+      <anmerkung nr="2">Rudolf V. aus dem Ministerialengeschlecht von Stadeck urkl. 1360, 1377 (Pirchegger Landesfürst, Stammtafel nach S. 224).</anmerkung>
       <anmerkung seite="82" nr="3">Langenwang: BH Mürzzuschlag, Steiermark.</anmerkung>
       <anmerkung seite="82" nr="4">Krieglach: BH Mürzzuschlag, Steiermark.</anmerkung>
       <anmerkung seite="82" nr="5">Kloster Neuberg, vgl. Anm. in Urk. Nr. 38.</anmerkung>
@@ -897,16 +937,17 @@
       <signatur>60</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="83" nr="1">Leopold III., vgl. Anm. in Urk. Nr. 40. Rudolf V. f1390, mit dem der Familienzweig Montfort-Feldkirch in männlicher Linie erlosch; übereignete vor seinem Tod das Familienvermögen den Habsburger Herzögen (siehe Bergmann: Urkunden, S. 71 Regest XII: Gänzliche Überlassung der Stadt und Grafschaft Feldkirch an Österreich 1379).</anmerkung>
-      <anmerkung seite="83" nr="3">Konrad von Montfort-Bregenz, f1393 (Die Montforter, Stammtafel Kat. Nr. 2).</anmerkung>
+      <anmerkung seite="83" nr="1">Leopold III., vgl. Anm. in Urk. Nr. 40.</anmerkung>
+      <anmerkung nr="2">Rudolf V. †1390, mit dem der Familienzweig Montfort-Feldkirch in männlicher Linie erlosch; übereignete vor seinem Tod das Familienvermögen den Habsburger Herzögen (siehe Bergmann: Urkunden, S. 71 Regest XII: Gänzliche Überlassung der Stadt und Grafschaft Feldkirch an Österreich 1379).</anmerkung>
+      <anmerkung seite="83" nr="3">Konrad von Montfort-Bregenz, †1393 (Die Montforter, Stammtafel Kat. Nr. 2).</anmerkung>
       <anmerkung seite="83" nr="4">Heinrich III. von Montfort-Werdenberg-Heiligenberg, zu Rheinegg, tum 1392 (Gull: Grafen, Stammtafeln im Anhang).</anmerkung>
       <anmerkung seite="83" nr="5">Bregenzer Wald: Bergland der Allgäuer Alpen in Vorarlberg.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="42" seite-von="84" seite-bis="84">
     <datum iso="1475-02-04">1475 Februar 4</datum>
-    <datierungsvermerk>(Gebn ist n a c h Christs gebuorde im virtzehenhundert und funfundsybntzigisten jaren am sambstag vor sand Dorothea tag der heiligis junkhfraun)</datierungsvermerk>
-    <regest>Ursula, Witwe des Welser Bürgers Wolfgang Kramer1, und dessen Sohn Johannes verkaufen für sich, alle Erben und den noch unmündigen Sohn Wolfgang dem Welser Bürger Niclas Aicher und seinen Erben den Hof zu "Vitzing" mit Z u behör in d e r Pfarrei Gunskirchen (Guntzkirch)2 für eine bereits bezahlte Geldsumme. D e r Hof ist ein Lehnsgut der Herren von Polheim, und zwar zur Hälfte von Sigmund von Polheim, Hauptmann zu Radkersburg (Polhaim phlegerauf Radkespurg) 3 und seinen Brüdern, zu einem Viertel von den Söhnen des verstorbenen Weikart von Polheim zu Wartenburg (Polhaim zu Warttnburgk seligen suonen)4 und zu einem weiteren Viertel von dem Herrn Weikart von Polheim zu Leibnitz auf der Steiermark (Polhaim zu Leibnytz auf der Steirmarch). 5 Mit dem Verkauf des Hofs gehen alle Rechte und Ansprüche auf den Käufer über, soweit das dem Recht im Land ob der Enns entspricht. Wenn durch Krieg oder ungünstige Umstände (irrung) dem Käufer Schaden am Hof entsteht, soll er mittels a n derer Güter der Ursula Kramer entschädigt werden.</regest>
+    <datierungsvermerk>(Gebn ist nach Christs gebuorde im virtzehenhundert und funfundsybntzigisten jaren am sambstag vor sand Dorothea tag der heiligis junkhfraun)</datierungsvermerk>
+    <regest>Ursula, Witwe des Welser Bürgers Wolfgang Kramer1, und dessen Sohn Johannes verkaufen für sich, alle Erben und den noch unmündigen Sohn Wolfgang dem Welser Bürger Niclas Aicher und seinen Erben den Hof zu "Vitzing" mit Zubehör in der Pfarrei Gunskirchen (Guntzkirch)2 für eine bereits bezahlte Geldsumme. Der Hof ist ein Lehnsgut der Herren von Polheim, und zwar zur Hälfte von Sigmund von Polheim, Hauptmann zu Radkersburg (Polhaim phlegerauf Radkespurg) 3 und seinen Brüdern, zu einem Viertel von den Söhnen des verstorbenen Weikart von Polheim zu Wartenburg (Polhaim zu Warttnburgk seligen suonen)4 und zu einem weiteren Viertel von dem Herrn Weikart von Polheim zu Leibnitz auf der Steiermark (Polhaim zu Leibnytz auf der Steirmarch). 5 Mit dem Verkauf des Hofs gehen alle Rechte und Ansprüche auf den Käufer über, soweit das dem Recht im Land ob der Enns entspricht. Wenn durch Krieg oder ungünstige Umstände (irrung) dem Käufer Schaden am Hof entsteht, soll er mittels anderer Güter der Ursula Kramer entschädigt werden.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigte Siegel der Zeugen</beglaubigungsform>
       <zeugen>Hans Hohenfuortter und Wolfgang Gstettner</zeugen>
@@ -917,8 +958,10 @@
       <signatur>139</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="84" nr="1">Kramer, vgl. Anm. in Urk. Nr. 39. Gunskirchen: BH Wels.</anmerkung>
-      <anmerkung seite="84" nr="3">Sigismund II. von Polheim, t1505 (Zedier: Lexikon, Bd. 28, Sp. 1469ff.). Weikart, Herr zu Polheim und Wartenburg, f 1464; seine Söhne: Weikart von Polheim und Wartenburg (t1489), Bernhard (*1456, t1504) und Wolfgang zu Polheim, Wartenburg und Puechheim (*1458, t 1512) (ebd.).</anmerkung>
+      <anmerkung seite="84" nr="1">Kramer, vgl. Anm. in Urk. Nr. 39.</anmerkung>
+      <anmerkung nr="2">Gunskirchen: BH Wels.</anmerkung>
+      <anmerkung seite="84" nr="3">Sigismund II. von Polheim, †1505 (Zedier: Lexikon, Bd. 28, Sp. 1469ff.).</anmerkung>
+      <anmerkung nr="4">Weikart, Herr zu Polheim und Wartenburg, † 1464; seine Söhne: Weikart von Polheim und Wartenburg (†1489), Bernhard (*1456, †1504) und Wolfgang zu Polheim, Wartenburg und Puechheim (*1458, † 1512) (ebd.).</anmerkung>
       <anmerkung seite="84" nr="5">Burg Leibnitz gegenüber der gleichnamigen Stadt 1369-1575 Ansitz der Polheimer, heute Schloß Polheim (HB Hist. St. Österreichs, Bd. II, S. 105).</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -936,7 +979,8 @@
       <signatur>151</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="85" nr="1">Freystadt/Kozuchow: Stadt in Niederschlesien. Hans Scholz Bürger(meister) zu Freystadt, 1471 u.1491 urkl. erw. (Cod. dipl. Silesiae, Bd. 24, siehe Reg.).</anmerkung>
+      <anmerkung seite="85" nr="1">Freystadt/Kozuchow: Stadt in Niederschlesien.</anmerkung>
+      <anmerkung nr="2">Hans Scholz Bürger(meister) zu Freystadt, 1471 u.1491 urkl. erw. (Cod. dipl. Silesiae, Bd. 24, siehe Reg.).</anmerkung>
       <anmerkung seite="85" nr="3">Hans Wiesenberg/Wesenburg Bürger zu Freystadt, 1478, 1458 u. 1486 urkl. erw. (ebd.).</anmerkung>
       <anmerkung seite="85" nr="4">Daniel Thieme Bürger(meister) zu Freystadt, 1410-1491 urkl. erw. (ebd.).</anmerkung>
       <anmerkung seite="85" nr="5">Andris Swop Tuchmachermeister, Bürger zu Freystadt, 1461 u. 1472 urkl. erw. (ebd.).</anmerkung>
@@ -964,7 +1008,8 @@
       <signatur>176</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="87" nr="1">Wohlau/StadtWotöw. Herzöge von Münsterberg und Oels: Albrecht 1498-1511(t); Karl I. 1498-1502/1511 gemeinsam mit seinen Brüdern Georg und Albrecht, dann bis 1536 (t) allein regiert (HB Hist. St. Schlesiens, S. 602f.).</anmerkung>
+      <anmerkung seite="87" nr="1">Wohlau/Stadt Wołów.</anmerkung>
+      <anmerkung nr="2">Herzöge von Münsterberg und Oels: Albrecht 1498-1511(t); Karl I. 1498-1502/1511 gemeinsam mit seinen Brüdern Georg und Albrecht, dann bis 1536 (t) allein regiert (HB Hist. St. Schlesiens, S. 602f.).</anmerkung>
       <anmerkung seite="87" nr="3">Nickel Reichembach, Bielergen., von Cunczendorff 1505 und 1517 Zeuge in herzoglichenUrkk. (Lehns-u. Besitzurkk., T. 1, S. 273); Kunzendorf/Golpdzinöw: sw. Trebnitz. Heinrich I., d. Ä., von Münsterberg (1459, 1462), 1465-1472 gemeinsam mit seinen Brüdern, dann bis 1498 allein regiert; von Oels (einschließlich Wohlau) seit 1495, Vater der urkundenden Herzöge (HB Hist. St. Schlesiens, S. 602f.).</anmerkung>
       <anmerkung seite="87" nr="5">Trebnitz/Stadt Trzebnica; Weichbild: in Schlesien ein Wirtschafts- und Gerichtsbezirk mit einer Stadt als Mittelpunkt und 15-20 umliegenden Dörfern (ebd., S. 642f.).</anmerkung>
       <anmerkung seite="87" nr="6">Kowale/Kawallen: Dorf w. Trebnitz.</anmerkung>
@@ -972,10 +1017,10 @@
       <anmerkung seite="87" nr="8">Mutscheinitz: niederschlesisches Geschlecht, urkl. erw. seit dem 14. Jh. u. durch zahlreiche Angehörige in Diensten der schlesischen Herzöge bekannt; ältester Sitz Polgsen/Petczyn: Kr. Wohlau (Siebmacher: Wappenbuch, Bd. 6 Abt. 8, T. 1, S. 73f.); Melchior Mutscheinitz zu Polgsen, Hauptmann, 1481 und 1505 Zeuge in herzoglichen Urkk. (Lehns-u. Besitzurkk., T. 1, S. 273 u. T. 2, S. 288); Steinau a. d. Oder/Stadt Sinawa: Kr. Wohlau.</anmerkung>
       <anmerkung seite="87" nr="9">Rohr/Rorau: Uradel Schlesiens, urkl. erw. s. Anfang des 14. Jhs.; Melchior von Rorau, Erbherr auf Medzibor, Kr. Polnisch-Wartenberg, baut 1481 Kirche daselbst (Siebmacher: Wappenbuch, Bd. 6 Abt. 8, T. 1,S. 88f.).</anmerkung>
       <anmerkung seite="87" nr="10">Christoph Mutscheinitz zu Polgsen 1490 Zeuge in Urk. (ebd., T. 2, S. 98).</anmerkung>
-      <anmerkung>1 Gellendorf/ Skokowa: nw. Trebnitz. </anmerkung>
-      <anmerkung>2 Podattzyn vielleicht Podasch/Bratschelhof, ehem. Rittergut im Kr. Militsch, Niederschlesien (Schies. Güter-Adreßbuch). </anmerkung>
-      <anmerkung>3 Caspar von Rorau seit 1500 Kanzler der Herzöge zu Oels (Siebmacher: Wappenbuch, Bd. 6 Abt. 8, T. 1, S. 88f.), 1492f. u. 1495f. urkl. erw. (Cod. dipl. Silesiae, Bd. 24, s. Reg.) und 1505, 1512 urkl. erw. (Lehns- u. Besitzurkk., T. 1, S. 273 und T.2, S. 114). </anmerkung>
-      <anmerkung>4 Balthasar Schlepkogel Kanzleischreiber, 1505 urkl. erw. (ebd., T. 1, S. 273).</anmerkung>
+      <anmerkung nr="1">Gellendorf/ Skokowa: nw. Trebnitz. </anmerkung>
+      <anmerkung nr="2">Podattzyn vielleicht Podasch/Bratschelhof, ehem. Rittergut im Kr. Militsch, Niederschlesien (Schies. Güter-Adreßbuch). </anmerkung>
+      <anmerkung nr="3">Caspar von Rorau seit 1500 Kanzler der Herzöge zu Oels (Siebmacher: Wappenbuch, Bd. 6 Abt. 8, T. 1, S. 88f.), 1492f. u. 1495f. urkl. erw. (Cod. dipl. Silesiae, Bd. 24, s. Reg.) und 1505, 1512 urkl. erw. (Lehns- u. Besitzurkk., T. 1, S. 273 und T.2, S. 114). </anmerkung>
+      <anmerkung nr="4">Balthasar Schlepkogel Kanzleischreiber, 1505 urkl. erw. (ebd., T. 1, S. 273).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="45" seite-von="89" seite-bis="90">
@@ -993,7 +1038,8 @@
       <signatur>180</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="89" nr="1">Breslau/Wroctaw. Herzog Karl von Münsterberg, vgl. Anm. in Urk. Nr. 44.</anmerkung>
+      <anmerkung seite="89" nr="1">Breslau/Wroctaw.</anmerkung>
+      <anmerkung nr="2">Herzog Karl von Münsterberg, vgl. Anm. in Urk. Nr. 44.</anmerkung>
       <anmerkung seite="89" nr="3">Trebnitzsches Weichbild, vgl. Anm. in Urk. Nr. 44.</anmerkung>
       <anmerkung seite="89" nr="4">Ellguth: später Schön-Ellguth/Ligota Pipkna, s. Trebnitz.</anmerkung>
       <anmerkung seite="89" nr="5">Zaudengericht, vgl. Anm. in Urk. Nr. 44.</anmerkung>
@@ -1019,11 +1065,11 @@
       <signatur>24</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Haversvorde/Haveresvorde: wüst n. Holzminden, Arnold von 1303 -1345 u. Friedrich von 1345 zusammen mit Arnold nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.).</anmerkung>
-      <anmerkung>2 Zur Farn, von Hagen/Haghene/lndago/de Indagine u. zu den Empfängern vgl. Urk. Nr. 47, Anm. 2.</anmerkung>
-      <anmerkung>3 Smedersen o. Smidersen: Wüstung bei Polle, n. Holzminden; vgl. Urk. Nr. 47, Anm. 3. </anmerkung>
-      <anmerkung>4 Ystrup = Isinctorpe: ö. Blomberg bei Detmold o. Istrup = llsendorp: nw. Lemgo bei Detmold (Westfälisches ÜB, Bd. 4, 3. Abt.).</anmerkung>
-      <anmerkung>5 Ein Günther von Bola 1365 als Kämmerer des Klosters Kaltenborn nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.).</anmerkung>
+      <anmerkung nr="1">Haversvorde/Haveresvorde: wüst n. Holzminden, Arnold von 1303 -1345 u. Friedrich von 1345 zusammen mit Arnold nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.).</anmerkung>
+      <anmerkung nr="2">Zur Farn, von Hagen/Haghene/lndago/de Indagine u. zu den Empfängern vgl. Urk. Nr. 47, Anm. 2.</anmerkung>
+      <anmerkung nr="3">Smedersen o. Smidersen: Wüstung bei Polle, n. Holzminden; vgl. Urk. Nr. 47, Anm. 3. </anmerkung>
+      <anmerkung nr="4">Ystrup = Isinctorpe: ö. Blomberg bei Detmold o. Istrup = llsendorp: nw. Lemgo bei Detmold (Westfälisches ÜB, Bd. 4, 3. Abt.).</anmerkung>
+      <anmerkung nr="5">Ein Günther von Bola 1365 als Kämmerer des Klosters Kaltenborn nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="47" seite-von="92" seite-bis="92">
@@ -1039,7 +1085,8 @@
       <signatur>23</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="92" nr="1">Waltershausen im Kr. Alfeld, s. Hildesheim, Fam. von 1265 -1351 u. mehrfach als "famuli" nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.) u. Hoogeweg: ÜB, T. 4 u. 5. Fam. von Hagen/Haghene/lndago/de Indagine 1276 -1409 u. ein Arnold von 1353 -1374, ein Heinrich von 1319 ebd. nachw.; die Edelherren von Hagen nannten sich nach der Burg im "Hagen", ab 1348 Gebhardshagen u. seit 1942 Stadtteil v. Salzgitter (HB Hist. St., Bd. II).</anmerkung>
+      <anmerkung seite="92" nr="1">Waltershausen im Kr. Alfeld, s. Hildesheim, Fam. von 1265 -1351 u. mehrfach als "famuli" nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.) u. Hoogeweg: ÜB, T. 4 u. 5.</anmerkung>
+      <anmerkung nr="2">Fam. von Hagen/Haghene/lndago/de Indagine 1276 -1409 u. ein Arnold von 1353 -1374, ein Heinrich von 1319 ebd. nachw.; die Edelherren von Hagen nannten sich nach der Burg im "Hagen", ab 1348 Gebhardshagen u. seit 1942 Stadtteil v. Salzgitter (HB Hist. St., Bd. II).</anmerkung>
       <anmerkung seite="92" nr="3">Smedersen o. Smidersen: Wüstung bei Polle, n. Holzminden (Westfälisches ÜB, Bd. 4, 3. Abt.). Bei Sudendorf: ÜB, Bd. 1, Urk.-Nr. 173 v. 1303 Febr. 15 wird das Dorf Smedersen im Zusammenhang mit Arnold von Haversvorde, Wasmod von Hagen u. Brüning von Waltershausen erwähnt; vgl. auch Urk. Nr. 46.</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -1057,7 +1104,9 @@
       <signatur>76</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="93" nr="1">Ort Lengerich: sw. Osnabrück, Kirchspiel (vgl. die Geschichtliche Karte bei Philippi/Bär: Osnabrücker ÜB, Bd. 1, Anhang). Außerhalb des Mauerringes der Stadt Osnabrück lag das 1011 gestiftete Kollegiatstift St. Johann, um das sich die Neustadt bildete, im 13. Jh. ein eigenes Gemeinwesen, seit 1306 mit der Altstadt vereinigt (HB Hist. St., Bd. II). Ort Kalldorf: Ober- u. Niederkalldorf im Lippischen, Farn, von Callendorpe/Callenthorpe/Kallendorpe nachw. 1244 -1406 bei Philippi/Bär: Osnabrücker ÜB, Bd. 2 u. 4, bei Sudendorf: ÜB, Bd. 11 (Reg.) sowie im Westfälischen ÜB, Bd. 10.</anmerkung>
+      <anmerkung seite="93" nr="1">Ort Lengerich: sw. Osnabrück, Kirchspiel (vgl. die Geschichtliche Karte bei Philippi/Bär: Osnabrücker ÜB, Bd. 1, Anhang).</anmerkung>
+      <anmerkung nr="2">Außerhalb des Mauerringes der Stadt Osnabrück lag das 1011 gestiftete Kollegiatstift St. Johann, um das sich die Neustadt bildete, im 13. Jh. ein eigenes Gemeinwesen, seit 1306 mit der Altstadt vereinigt (HB Hist. St., Bd. II).</anmerkung>
+      <anmerkung nr="3">Ort Kalldorf: Ober- u. Niederkalldorf im Lippischen, Farn, von Callendorpe/Callenthorpe/Kallendorpe nachw. 1244 -1406 bei Philippi/Bär: Osnabrücker ÜB, Bd. 2 u. 4, bei Sudendorf: ÜB, Bd. 11 (Reg.) sowie im Westfälischen ÜB, Bd. 10.</anmerkung>
       <anmerkung seite="93" nr="4">Ein Oberdorf bei Buer, Kr. Melle nicht nachw.</anmerkung>
       <anmerkung seite="93" nr="5">Markendorf im Kirchspiel Buer, Kr. Melle nachw. bei Philippi/Bär: Osnabrücker ÜB, Bd. 4.</anmerkung>
       <anmerkung seite="93" nr="6">Löhiingdorf Teil der Bauerschaft Markendorf, Kirchspiel Buer ebd. nachw.</anmerkung>
@@ -1079,24 +1128,24 @@
       <signatur>81</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Erich, Herzog von Braunschweig-Grubenhagen * um 1380 - f 28. 5. 1427 (Europ. Stammtafeln, Bd. I, Tf. 68). </anmerkung>
-      <anmerkung>2 Ort Cramme sw. Wolfenbüttel. Im Goth. TB freiherr. Häuser 9/1859, S. 124 -126 u. bei Kneschke: Adels-Lexikon, 2. Bd., S. 347: Eintrag über die Herren von Cramm: altes niedersächsisches u. braunschweigisches Adelsgeschlecht, ab 1181 in Hildesheimer Urk. nachw.; Ritter Gottschalk von Cramm, Vetter Burchards u. Gerhards 1344 -1412; Bodo von [ca. 1380] -1406; Burchard von, Bruder Gerhards, Knappe, [ca. 1380] -1427, vermutl. identisch mit Burchard, Vogt auf dem Calenberg; Gerhard von, Knappe, [ca. 1380] -1419, alle nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.) u. bei Doebner. ÜB Hildesheim, Bd. 3 sowie ebd. in Bd. 2, Urk. Nr. 1205, S. 662, dat. mit [ca. 1380 -1400] alle gemeinsam, wie in dieser Urk.: Gottschalk, Burchard, Bode und Gherd van Cramme.</anmerkung>
-      <anmerkung>3 Albrecht II., Herzog von Braunschweig-Grubenhagen zu Salzderhelden, 1361 - t vor 11. 9.1383.</anmerkung>
-      <anmerkung>4 Heinrich von Cramm ebd. nachw. 1363 -1398, jedoch nicht als Ritter.</anmerkung>
-      <anmerkung>5 Bodenburg: Stadt s. Bad Salzdetfurth bei Hildesheim, das Schloß gehörte der Farn, von Steinberg.</anmerkung>
-      <anmerkung>6 Die Bürgen lassen sich ebenfalls bei Sudendorf: ÜB, Reg. u. bei Doebner: ÜB Hildesheim, Bd. 2 u. 3 nachweisen: Ritter Clawenberg Hoye 1383 -1424 nachw., Hoye vor Friedland, bei Reinhausen.</anmerkung>
-      <anmerkung>7 Knappe Egbrecht von FredenA/reden 1347 -1402 nachw., Freden so. Alfeld.</anmerkung>
-      <anmerkung>8 Ein Hermann von Medem 1318-1399 nachw.</anmerkung>
-      <anmerkung>9 Dietrich von Uslar 1345 -1405, ein Ernst von 1318 -1418 nachw., Uslar: Stadt so. Holzminden.</anmerkung>
-      <anmerkung>10 Dietrich van deme Dike nur 1405 nachw.</anmerkung>
-      <anmerkung>11 Fam. von Sulingen 1227 -1340 nachw.</anmerkung>
-      <anmerkung>12 Farn, von Gustedt 1226 -1419 nachw., Gustedt bei Bockenem.</anmerkung>
-      <anmerkung>13 Farn, von Minnigerode 1274 -1405 nachw.</anmerkung>
+      <anmerkung nr="1">Erich, Herzog von Braunschweig-Grubenhagen * um 1380 - f 28. 5. 1427 (Europ. Stammtafeln, Bd. I, Tf. 68). </anmerkung>
+      <anmerkung nr="2">Ort Cramme sw. Wolfenbüttel. Im Goth. TB freiherr. Häuser 9/1859, S. 124 -126 u. bei Kneschke: Adels-Lexikon, 2. Bd., S. 347: Eintrag über die Herren von Cramm: altes niedersächsisches u. braunschweigisches Adelsgeschlecht, ab 1181 in Hildesheimer Urk. nachw.; Ritter Gottschalk von Cramm, Vetter Burchards u. Gerhards 1344 -1412; Bodo von [ca. 1380] -1406; Burchard von, Bruder Gerhards, Knappe, [ca. 1380] -1427, vermutl. identisch mit Burchard, Vogt auf dem Calenberg; Gerhard von, Knappe, [ca. 1380] -1419, alle nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.) u. bei Doebner. ÜB Hildesheim, Bd. 3 sowie ebd. in Bd. 2, Urk. Nr. 1205, S. 662, dat. mit [ca. 1380 -1400] alle gemeinsam, wie in dieser Urk.: Gottschalk, Burchard, Bode und Gherd van Cramme.</anmerkung>
+      <anmerkung nr="3">Albrecht II., Herzog von Braunschweig-Grubenhagen zu Salzderhelden, 1361 - t vor 11. 9.1383.</anmerkung>
+      <anmerkung nr="4">Heinrich von Cramm ebd. nachw. 1363 -1398, jedoch nicht als Ritter.</anmerkung>
+      <anmerkung nr="5">Bodenburg: Stadt s. Bad Salzdetfurth bei Hildesheim, das Schloß gehörte der Farn, von Steinberg.</anmerkung>
+      <anmerkung nr="6">Die Bürgen lassen sich ebenfalls bei Sudendorf: ÜB, Reg. u. bei Doebner: ÜB Hildesheim, Bd. 2 u. 3 nachweisen: Ritter Clawenberg Hoye 1383 -1424 nachw., Hoye vor Friedland, bei Reinhausen.</anmerkung>
+      <anmerkung nr="7">Knappe Egbrecht von FredenA/reden 1347 -1402 nachw., Freden so. Alfeld.</anmerkung>
+      <anmerkung nr="8">Ein Hermann von Medem 1318-1399 nachw.</anmerkung>
+      <anmerkung nr="9">Dietrich von Uslar 1345 -1405, ein Ernst von 1318 -1418 nachw., Uslar: Stadt so. Holzminden.</anmerkung>
+      <anmerkung nr="10">Dietrich van deme Dike nur 1405 nachw.</anmerkung>
+      <anmerkung nr="11">Fam. von Sulingen 1227 -1340 nachw.</anmerkung>
+      <anmerkung nr="12">Farn, von Gustedt 1226 -1419 nachw., Gustedt bei Bockenem.</anmerkung>
+      <anmerkung nr="13">Farn, von Minnigerode 1274 -1405 nachw.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="50" seite-von="96" seite-bis="96">
     <datum iso="1428-01-08">1428 Januar 8</datum>
-    <datierungsvermerk>(Gegeven is na Godesbort dusent veirhundert in dem achteundtwintigestem jare a m donnersdage na der hilgen drier Konninge dage)</datierungsvermerk>
+    <datierungsvermerk>(Gegeven is na Godesbort dusent veirhundert in dem achteundtwintigestem jare am donnersdage na der hilgen drier Konninge dage)</datierungsvermerk>
     <regest>Bernhard (Bernd), Herzog von Braunschweig (Brunßwig) und Lüneburg (Luneborg) 1 , belehnt Lubbert Zweidorf (Tweydorppe)2 als älteren seiner Brüder mit einem Zins von 48 Schillingen neuer Braunschweiger Pfennige aus den Einkünften von 6 Hufen Land zu Stöckheim (Stochern)3, den die Herren des Ägidienklosters 4 zu zahlen haben, mit dem halben Zehnten von der Feldmark zu Engelnstedt (Engelor[n]stede) 5 und einer zehntfreien Hufe in der Feldmark zu Apelnstedt (Appelerstede) 6 , die Luder von Bröckel (van Brokelde)7 zu Lehen hat, einschließlich allem Zubehör, wie diese Einkünfte vorher Lubberts verstorbener Vater zu Lehen hatte.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigtes Siegel des Ausstellers</beglaubigungsform>
@@ -1107,7 +1156,8 @@
       <signatur>91</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="96" nr="1">Bernhard I., Herzog von Braunschweig-Lüneburg 1373 - 1 1 1 . 6. 1434,1388 Lüneburg, 1409 Braunschweig (Europ. Stammtafeln, Bd. I, Tf. 71 u. Hopf: Atlas, S. 187). Farn, von Twedorp/Twedorpe u. 1356 -1360 ein Lubbert Twedorpe nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.) u. bei Garzmann: ÜB Braunschweig, Bd. 5; Ort Twedorp = Zweidorf bei Vechelde w. Braunschweig.</anmerkung>
+      <anmerkung seite="96" nr="1">Bernhard I., Herzog von Braunschweig-Lüneburg 1373 - 1 1 1 . 6. 1434,1388 Lüneburg, 1409 Braunschweig (Europ. Stammtafeln, Bd. I, Tf. 71 u. Hopf: Atlas, S. 187).</anmerkung>
+      <anmerkung nr="2">Fam. von Twedorp/Twedorpe u. 1356 -1360 ein Lubbert Twedorpe nachw. bei Sudendorf: ÜB, Bd. 11 (Reg.) u. bei Garzmann: ÜB Braunschweig, Bd. 5; Ort Twedorp = Zweidorf bei Vechelde w. Braunschweig.</anmerkung>
       <anmerkung seite="96" nr="3">Groß Stöckheim Ortsteil Wolfenbüttel o. Klein Stöckheim, jetzt Stöckheim Ortsteil Braunschweig.</anmerkung>
       <anmerkung seite="96" nr="4">Ägidienkloster in Braunschweig beim Ägidienmarkt, Benediktinerkloster, 1115 geweiht.</anmerkung>
       <anmerkung seite="96" nr="5">Engelnstedt bei Wolfenbüttel.</anmerkung>
@@ -1128,12 +1178,12 @@
       <signatur>158</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a Tilgung durch Rasur.</anmerkung>
-      <anmerkung>1 Moritz, Graf von Spiegelberg 1476 - 1 1 5 . 11.1527, Domherrin Köln (Europ. Stammtafeln, Bd. III, Tf 63).</anmerkung>
-      <anmerkung>2 Ort Nordholz bei Lauenstein, nahe Hameln; die Böcke von nachw. bei Sudendorf: ÜB, Bd. 11 (Reg bei Hoogeweg: ÜB, T 6 sowie bei Doebner: ÜB Hildesheim, Bd. 4: hier 14^5 ein Ritter Hermann Bot von Northolz.</anmerkung>
-      <anmerkung>3 Verdebeke vermutl. Werbeke/Werenbeke/Wertbeke: Wüstung bei Schulenburg in der Deistergegenc nw. Hildesheim (Sudendorf: ÜB, Reg.).</anmerkung>
-      <anmerkung>4 Lede: wüst bei Gronau, sw. Hildesheim.</anmerkung>
-      <anmerkung>5 Oldendorf = Altes Dorf: mehrere Varianten sind möglich, vermutl. Wüstung bei Gronau, aber auch wüst vor Alfeld, s. Hildesheim; wüst bei Hildesheim o. Oldendorf bei Lauenstein, nw. Hameln (Sudendorf: ÜB, Reg. u. Hoogeweg: ÜB, T 5 u. 6).</anmerkung>
+      <anmerkung nr="a">Tilgung durch Rasur.</anmerkung>
+      <anmerkung nr="1">Moritz, Graf von Spiegelberg 1476 - 1 1 5 . 11.1527, Domherrin Köln (Europ. Stammtafeln, Bd. III, Tf 63).</anmerkung>
+      <anmerkung nr="2">Ort Nordholz bei Lauenstein, nahe Hameln; die Böcke von nachw. bei Sudendorf: ÜB, Bd. 11 (Reg bei Hoogeweg: ÜB, T 6 sowie bei Doebner: ÜB Hildesheim, Bd. 4: hier 14^5 ein Ritter Hermann Bot von Northolz.</anmerkung>
+      <anmerkung nr="3">Verdebeke vermutl. Werbeke/Werenbeke/Wertbeke: Wüstung bei Schulenburg in der Deistergegenc nw. Hildesheim (Sudendorf: ÜB, Reg.).</anmerkung>
+      <anmerkung nr="4">Lede: wüst bei Gronau, sw. Hildesheim.</anmerkung>
+      <anmerkung nr="5">Oldendorf = Altes Dorf: mehrere Varianten sind möglich, vermutl. Wüstung bei Gronau, aber auch wüst vor Alfeld, s. Hildesheim; wüst bei Hildesheim o. Oldendorf bei Lauenstein, nw. Hameln (Sudendorf: ÜB, Reg. u. Hoogeweg: ÜB, T 5 u. 6).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="52" seite-von="98" seite-bis="98">
@@ -1150,7 +1200,8 @@
       <signatur>190</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="98" nr="1">Die Herren von Cramm: vgl. Urk. Nr. 49, Anm. 2. Papenstieg: Hildesheimer Straße 1452 -1496 bei Doebner: ÜB Hildesheim, Bd. 7 u. 8 (1451 -1597) nachw.</anmerkung>
+      <anmerkung seite="98" nr="1">Die Herren von Cramm: vgl. Urk. Nr. 49, Anm. 2.</anmerkung>
+      <anmerkung nr="2">Papenstieg: Hildesheimer Straße 1452 -1496 bei Doebner: ÜB Hildesheim, Bd. 7 u. 8 (1451 -1597) nachw.</anmerkung>
       <anmerkung seite="98" nr="3">Ort Oberg s. Peine, w. Braunschweig; Farn, von in Hildesheim ebd. nachw., vielleicht handelt es sich bei Burchard von Oberg um den spateren Bischof von Hildesheim (1557 -1573).</anmerkung>
       <anmerkung seite="98" nr="4">Siegfried von Cramm als Pfarrer der Andreaskirche, Dechant des Andreasstiftes u. Domherr zu Hildesheim 1510-1526 nachw. bei Doebner: ÜB Hildesheim, Bd. 8.</anmerkung>
       <anmerkung seite="98" nr="5">Ort Münchhausen wüst bei Winzlar (Sudendorf: ÜB, Reg.); Farn, von in Hildesheim ebd. nachw., der Vater des Zeugen, Statius von, 1513 in Urk. Nr. 529 ebd. nachw.</anmerkung>
@@ -1200,7 +1251,7 @@
     <!-- ZUR PRUEFUNG: Mehrteiliger Insert-Text (Rahmenurkunde + inserierte Papstbulle) nicht sauber in einzelne Einheiten zerlegt. -->
     <vermerk>Inserierung/Fragment</vermerk>
     <datum>[Nach 1365 Februar 20 bzw. nach 1365 April 22] 1</datum>
-    <regest>Der Thesaurar des Bonifatiusstiftes zu Hameln (ecclesie Hamelenfsis])2 in der Diözese Minden (Mindenfsis]...) und päpstliche iudex delegatus gibt allen edlen Herren in Oestinghausen (Ostinchusen) 3 , Warstein (Warsten)4, Lippborg (Lyborch)5, Beckum (Bechern) und Ahlen (Alen)7 sowie allen Vorstehern der Kirchen und Kapellen in der Provinz Köln (...Colonien[sem]) die inserierte Bulle Papst Urbans V. (Urbani domini ... pape quinti) 8 , von 1365 Februar 20/1365 April 22, über dessen Entscheidung hinsichtlich der Klage Gerlach Torks, Stiftsherr zu St. Ägidius in Wiedenbrück (ecclesie Widenburgen[sis]) 9 , Diözese Osnabrück (Osnab[urgensis]...) bekannt und verfügt unter Androhung der Exkommunikation, die peremptorische Vorladung des Franko von Warstein, genannt Plate10, Laie aus der Diözese Köln und des Wilkin von Me[i/r ?]... 11, Laie aus der Diözese Münster (Monasterienfsis]...) zum nächsten Gerichtstag in der Kirche zu Hameln, binnen 20 Tagen nach Erhalt zu vollziehen. 2, Regest der inserierten, bestätigten Papstbulle 1365 Februar 20 oder 1365 April 22 12 Avignon (Datum Avinione X. kalendas ma[rtii/ii] [pontificatus] nostri anno tertio) Die Urkunde enthält keine Datumsangabe, da sie nur als Fragment erhalten ist. Sie muß aber bald nach Ausstellung und Empfang der päpstlichen Bulle ausgefertigt worden sein. 2 Für das Bonifatiusstift in Hameln lassen sich 2 Thesaurare nachw.: Gottfried Amelungi (1361 - 1379) u. Ludolf Senepmole (14. Jh.), in: Meinardus: ÜB Hameln, Bd. 1. 3 Oestinghausen: Kirchspiel n. Soest (Westfälisches ÜB, Bd. 7, Reg.). 4 Warstein: Stadt u. Kirchspiel nö. Arnsberg. 5 Lippborg: Kirchspiel s. Beckum. 6 Beckum: Stadt nö. Hamm. 7 Ahlen: Stadt u. Kirchspiel n. Hamm. 8 Pontifikatsjahre Urbans V. (Guilhelmus Grimoaldi): 1362 Sept. 28 -11370 Dez. 19. 9 Wiedenbrück: nö. Beckum, Stadt u. Kirchspiel, die Urpfarrei Wiedenbrück war dem Bistum Osnabrück zugeteilt, seit 1259 Kollegiatstift St. Ägidius als Hauptkirche (HB Hist. St., Bd. III); Farn. Tork/Torc nachw. als Burgmannen, Ritter u. Knechte im Westfälischen ÜB, Bd. 7 u bei Philippi/Bär: Osnabrücker ÜB, Bd. 2 u. 3. 10 Ein Franco de Warstein 1296 nachw. im Westfälischen ÜB, Bd. 7 (Reg.). 11 In der Urk. ist leider nach "Mei" o. "Mer" Zeilenende aufgrund des rechtsseitigen Beschnitts. Vielleicht handelt es sich um Wilkin von Meinhövel. Farn, von als Ritter u. Domkanoniker in Münster nachw., Burg Meinhövel im Kirchspiel Nordkirchen, Kr. Lüdinghausen, Diözese Münster (vgl. ebd.). 12 Als Datierungsaufiösung kommen zwei Varianten in Frage, da aufgrund des fragmentarischen Erhaltungszustandes der Urk. nur "ma" für den Monat zu lesen ist u. daher die X. Kaienden des März o. des Mai möglich sind. Papst Urban V. beauftragt den Thesaurar des Bonifatiusstiftes zu Hameln aufgrund einer Klage des Stiftsherrn Gerlach Tork zu Wiedenbrück, wonach Franko von Warstein, genannt Plate und Wilkin von Me[i/r ?]... dem Vater des Klägers, Hermann Tork, Wucherzinsen abgenötigt haben, mit der gerichtlichen Untersuchung des Falls und ordnet an, wenn die Redlichkeit der Klägerpartei überprüft und die benannten Zeugen befragt Rind, sollen sich die Beklagten unter Androhung der Strafen, die im Laterankonzil gegen Wucher ausgesprochen wurden, mit ihrem Kapital zufriedengeben und die Wucherzinsen an die Kläger zurückzahlen.</regest>
+    <regest>Der Thesaurar des Bonifatiusstiftes zu Hameln (ecclesie Hamelenfsis])2 in der Diözese Minden (Mindenfsis]...) und päpstliche iudex delegatus gibt allen edlen Herren in Oestinghausen (Ostinchusen) 3 , Warstein (Warsten)4, Lippborg (Lyborch)5, Beckum (Bechern) und Ahlen (Alen)7 sowie allen Vorstehern der Kirchen und Kapellen in der Provinz Köln (...Colonien[sem]) die inserierte Bulle Papst Urbans V. (Urbani domini ... pape quinti) 8 , von 1365 Februar 20/1365 April 22, über dessen Entscheidung hinsichtlich der Klage Gerlach Torks, Stiftsherr zu St. Ägidius in Wiedenbrück (ecclesie Widenburgen[sis]) 9 , Diözese Osnabrück (Osnab[urgensis]...) bekannt und verfügt unter Androhung der Exkommunikation, die peremptorische Vorladung des Franko von Warstein, genannt Plate10, Laie aus der Diözese Köln und des Wilkin von Me[i/r ?]... 11, Laie aus der Diözese Münster (Monasterienfsis]...) zum nächsten Gerichtstag in der Kirche zu Hameln, binnen 20 Tagen nach Erhalt zu vollziehen. 2, Regest der inserierten, bestätigten Papstbulle 1365 Februar 20 oder 1365 April 22 12 Avignon (Datum Avinione X. kalendas ma[rtii/ii] [pontificatus] nostri anno tertio) Die Urkunde enthält keine Datumsangabe, da sie nur als Fragment erhalten ist. Sie muß aber bald nach Ausstellung und Empfang der päpstlichen Bulle ausgefertigt worden sein. 2 Für das Bonifatiusstift in Hameln lassen sich 2 Thesaurare nachw.: Gottfried Amelungi (1361 - 1379) u. Ludolf Senepmole (14. Jh.), in: Meinardus: ÜB Hameln, Bd. 1. 3 Oestinghausen: Kirchspiel n. Soest (Westfälisches ÜB, Bd. 7, Reg.). 4 Warstein: Stadt u. Kirchspiel nö. Arnsberg. 5 Lippborg: Kirchspiel s. Beckum. 6 Beckum: Stadt nö. Hamm. 7 Ahlen: Stadt u. Kirchspiel n. Hamm. 8 Pontifikatsjahre Urbans V. (Guilhelmus Grimoaldi): 1362 Sept. 28 -11370 Dez. 19. 9 Wiedenbrück: nö. Beckum, Stadt u. Kirchspiel, die Urpfarrei Wiedenbrück war dem Bistum Osnabrück zugeteilt, seit 1259 Kollegiatstift St. Ägidius als Hauptkirche (HB Hist. St., Bd. III); Fam. Tork/Torc nachw. als Burgmannen, Ritter u. Knechte im Westfälischen ÜB, Bd. 7 u bei Philippi/Bär: Osnabrücker ÜB, Bd. 2 u. 3. 10 Ein Franco de Warstein 1296 nachw. im Westfälischen ÜB, Bd. 7 (Reg.). 11 In der Urk. ist leider nach "Mei" o. "Mer" Zeilenende aufgrund des rechtsseitigen Beschnitts. Vielleicht handelt es sich um Wilkin von Meinhövel. Farn, von als Ritter u. Domkanoniker in Münster nachw., Burg Meinhövel im Kirchspiel Nordkirchen, Kr. Lüdinghausen, Diözese Münster (vgl. ebd.). 12 Als Datierungsaufiösung kommen zwei Varianten in Frage, da aufgrund des fragmentarischen Erhaltungszustandes der Urk. nur "ma" für den Monat zu lesen ist u. daher die X. Kaienden des März o. des Mai möglich sind. Papst Urban V. beauftragt den Thesaurar des Bonifatiusstiftes zu Hameln aufgrund einer Klage des Stiftsherrn Gerlach Tork zu Wiedenbrück, wonach Franko von Warstein, genannt Plate und Wilkin von Me[i/r ?]... dem Vater des Klägers, Hermann Tork, Wucherzinsen abgenötigt haben, mit der gerichtlichen Untersuchung des Falls und ordnet an, wenn die Redlichkeit der Klägerpartei überprüft und die benannten Zeugen befragt Rind, sollen sich die Beklagten unter Androhung der Strafen, die im Laterankonzil gegen Wucher ausgesprochen wurden, mit ihrem Kapital zufriedengeben und die Wucherzinsen an die Kläger zurückzahlen.</regest>
     <ueberlieferung>
       <beglaubigungsform>ungewiß</beglaubigungsform>
       <beschreibstoff>Pergament 247 x 190/186 mm</beschreibstoff>
@@ -1225,7 +1276,8 @@
       <signatur>112</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="104" nr="1">Schiachhecke im Kirchspiel Vreden. Farn. Valke/auch von Valke bei Darpe: Güter- u. Einkünfte-Verz. 1388 - 1666 für Marienbrink, Varlar u. Nottuln nachw.</anmerkung>
+      <anmerkung seite="104" nr="1">Schiachhecke im Kirchspiel Vreden.</anmerkung>
+      <anmerkung nr="2">Fam. Valke/auch von Valke bei Darpe: Güter- u. Einkünfte-Verz. 1388 - 1666 für Marienbrink, Varlar u. Nottuln nachw.</anmerkung>
       <anmerkung seite="104" nr="3">Beim Stift Asbeck bestand ein Armenhaus, das "Spital beim Stifte", 1477 urkl. erwähnt. 1423 tauschte das Stift Asbeck mit dem Hause Asbeck Garten beim Stift (vgl. ebd., S. 185f.).</anmerkung>
       <anmerkung seite="104" nr="4">Zuordnung zur Farn, von Asbeck nicht eindeutig möglich, da es mehrere Erben Deitmer gab. Vielleicht Deitmer (Detmarink) im Kirchspiel Saerbeck, n. Münster o. Hof De(i)tmarink (Deiters): DarupDeiters im Kirchspiel Nottuln (ebd. S. 318: Reg.).</anmerkung>
       <anmerkung seite="104" nr="5">Auch hier verschiedene Varianten möglich, vermutl. aber das Erbe Odinkhof. öink im Kirchspiel Schöppingen, Bauerschaft Eggenrode, ö. Ahaus, da sich hier ein Zusammenhang mit Farn, von Asbeck 1487 nachw. läßt (ebd. S. 239: Pachtverhältnisse des 15. Jhs. Stift Nottuln u. S. 357: Reg.).</anmerkung>
@@ -1243,7 +1295,7 @@
       <siegel>ehemals angehängtes Siegel an Pergamentpressel fehlt</siegel>
       <sprache>mittellateinisch</sprache>
       <signatur>3</signatur>
-      <druck>Heinemann v., Otto: Codex Dipiomaticus Anhaltinus, Teil 1: 936 - 1 2 1 2 , Dessau 1867, S. 260f., Nr. 345, hier noch mit Siegelfragment. Textkritischer Druck: Israel, Friedrich/Möllenberg, Walter: Urkundenbuch des Erzstifts Magdeburg, Teil 1: 937 -1192 (Geschichtsquellen der Provinz Sachsen und des Freistaates Anhalt, Neue Reihe Bd. 18), Magdeburg 1937, S. 337-339, Nr. 269. Regesten: Mülverstedt v., Georg Adalbert: Regesta Archiepiscopatus Magdeburgensis. Sammlung von Auszügen aus Urkunden und Annalisten zur Geschichte des Erzstifts und Herzogtums Magdeburg. 1. Teil: Bis zum Tode des Erzbischofs Wichmann (1192), Magdeburg 1876, S. 493f., Nr. 1231 mit ausführlichem Regest. 1 Die Zeugen sind bei Heinemann: C.D.A., T. 6: Reg. nachw. Bischof Anselm von Havelberg 1126 -1155, f 1158. Bischof Wigger von Brandenburg 1138 -1160. 4 S. Anm. 2. 5 S . Anm. 10. 6 Dechant Azzeko/Hazecho 1142 -1161 nachw., auch Propst des Stifts' St. Sebastiani in Magdeburg. 7 Erzdiakon Otto, auch Kämmerer u. Propst zu St. Bibra (nw. Naumburg) 1144 -1159 nachw. 8 Propst Evermod des Klosters Unser Lieben Frauen in Magdeburg 1140 -1148, Bischof von Ratzeburg 1154 -1178. In den Texteditionen u. bei Mülverstedt: Regesta, bisher übersehen. 9 Albrecht der Bär, Markgraf von Brandenburg 1134-11170, hier als Vogt des Klosters Nienburg. 10 Hermann I., Sohn Albrechts, Graf von Orlamünde f 19. 10. 1176. 11 Otto I., Sohn Albrechts, Markgraf von Brandenburg 1170 - f 1184. 12 Groß-Veltheim am Elm, so. Braunschweig; Werner III., Graf von Veitheim u. von Osterburg 1141 1170 nachw. 13 Kloster Hillersleben a. d. Ohre, zwischenWolmirstedt u. Neuhaldensleben; Otto I., Graf von Hillersleben, Schutzvogt des Klosters daselbst 1129 - 1 ca. 1152. 14 Ludwig von Wippra a. d. Wipper, n. Sangerhausen 1135-1152 nachw. 15 Burchard von Querfurt, Burggraf zu Magdeburg 1135 - 1 ca. 1156, Bruder Erzbischof Konrads von Magdeburg. 16 Vgl. die textkritischen Bemerkungen bei Israöl/Möllenberg: ÜB Erzstifts, S. 339. 2 3 Krabbo, Hermann: Regesten der Markgrafen von Brandenburg aus askanischem Hause. Erste Lieferung, Leipzig 1910, S. 32, Nr. 163. Raumer v., Georg Wilhelm: Regesta Historiae Brandenburgensis. Chronologisch geordnete Auszüge aus allen Chroniken und Urkunden zur Geschichte der Mark Brandenburg. Bd. 1: bis 1200, Berlin 1836, S. 192, Nr. 1123 zum Jahr 1148.</druck>
+      <druck>Heinemann v., Otto: Codex Dipiomaticus Anhaltinus, Teil 1: 936 - 1212 , Dessau 1867, S. 260f., Nr. 345, hier noch mit Siegelfragment. Textkritischer Druck: Israel, Friedrich/Möllenberg, Walter: Urkundenbuch des Erzstifts Magdeburg, Teil 1: 937 -1192 (Geschichtsquellen der Provinz Sachsen und des Freistaates Anhalt, Neue Reihe Bd. 18), Magdeburg 1937, S. 337-339, Nr. 269. Regesten: Mülverstedt v., Georg Adalbert: Regesta Archiepiscopatus Magdeburgensis. Sammlung von Auszügen aus Urkunden und Annalisten zur Geschichte des Erzstifts und Herzogtums Magdeburg. 1. Teil: Bis zum Tode des Erzbischofs Wichmann (1192), Magdeburg 1876, S. 493f., Nr. 1231 mit ausführlichem Regest. 1 Die Zeugen sind bei Heinemann: C.D.A., T. 6: Reg. nachw. Bischof Anselm von Havelberg 1126 -1155, † 1158. Bischof Wigger von Brandenburg 1138 -1160. 4 S. Anm. 2. 5 S . Anm. 10. 6 Dechant Azzeko/Hazecho 1142 -1161 nachw., auch Propst des Stifts' St. Sebastiani in Magdeburg. 7 Erzdiakon Otto, auch Kämmerer u. Propst zu St. Bibra (nw. Naumburg) 1144 -1159 nachw. 8 Propst Evermod des Klosters Unser Lieben Frauen in Magdeburg 1140 -1148, Bischof von Ratzeburg 1154 -1178. In den Texteditionen u. bei Mülverstedt: Regesta, bisher übersehen. 9 Albrecht der Bär, Markgraf von Brandenburg 1134-11170, hier als Vogt des Klosters Nienburg. 10 Hermann I., Sohn Albrechts, Graf von Orlamünde f 19. 10. 1176. 11 Otto I., Sohn Albrechts, Markgraf von Brandenburg 1170 - † 1184. 12 Groß-Veltheim am Elm, so. Braunschweig; Werner III., Graf von Veitheim u. von Osterburg 1141 1170 nachw. 13 Kloster Hillersleben a. d. Ohre, zwischenWolmirstedt u. Neuhaldensleben; Otto I., Graf von Hillersleben, Schutzvogt des Klosters daselbst 1129 - 1 ca. 1152. 14 Ludwig von Wippra a. d. Wipper, n. Sangerhausen 1135-1152 nachw. 15 Burchard von Querfurt, Burggraf zu Magdeburg 1135 - 1 ca. 1156, Bruder Erzbischof Konrads von Magdeburg. 16 Vgl. die textkritischen Bemerkungen bei Israöl/Möllenberg: ÜB Erzstifts, S. 339. 2 3 Krabbo, Hermann: Regesten der Markgrafen von Brandenburg aus askanischem Hause. Erste Lieferung, Leipzig 1910, S. 32, Nr. 163. Raumer v., Georg Wilhelm: Regesta Historiae Brandenburgensis. Chronologisch geordnete Auszüge aus allen Chroniken und Urkunden zur Geschichte der Mark Brandenburg. Bd. 1: bis 1200, Berlin 1836, S. 192, Nr. 1123 zum Jahr 1148.</druck>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="58" seite-von="108" seite-bis="109">
@@ -1307,7 +1359,9 @@
       <anmerkung seite="111" nr="6">Johann von Schepelitz: Domherr in Stendal, Propst in Seehausen, als Protonotar nachw. 1370-1372.</anmerkung>
       <anmerkung seite="111" nr="7">Urk. v. 1356 bei Riedel: C.D.B, nur in dieser inserierten Form überliefert.</anmerkung>
       <anmerkung seite="111" nr="8">Fam. Baier/Beyer: Johanns Witwe Sophie nachw. bei Riedel: C.D.B. 1348: A, Bd. 23, S. 38 u. 1351: A, Bd. 19, S. 225.</anmerkung>
-      <anmerkung seite="112" nr="1">Ludwig der Ältere, Markgraf v. Brandenburg: * 1316 - f 1361, Kurfürst 1324 -1351. Heinrich II. von Brandt o. Banz, Bischof von Lebus 1354-1365. Fam. von Falkenberg/Falkenburg: Hasso von Wedel von Falkenburg als Hofmeister nachw 13551366.</anmerkung>
+      <anmerkung seite="112" nr="1">Ludwig der Ältere, Markgraf v. Brandenburg: * 1316 - † 1361, Kurfürst 1324 -1351.</anmerkung>
+      <anmerkung nr="2">Heinrich II. von Brandt o. Banz, Bischof von Lebus 1354-1365.</anmerkung>
+      <anmerkung nr="3">Fam. von Falkenberg/Falkenburg: Hasso von Wedel von Falkenburg als Hofmeister nachw 1355-1366.</anmerkung>
       <anmerkung seite="112" nr="4">Fam, von Rochow: Johann von, 1350-1373 nachw.</anmerkung>
       <anmerkung seite="112" nr="5">Fam. von Bredow: Peter von, 1347-1366 nachw.</anmerkung>
       <anmerkung seite="112" nr="6">Fam. von der Schulenburg: Heinrich von, 1351-1357 nachw.</anmerkung>
@@ -1330,8 +1384,8 @@
       <anmerkung seite="113" nr="2">Markt in Erfurt bei der heutigen Andreasstr.</anmerkung>
       <anmerkung seite="113" nr="3">Dorf Tieftal o. Tiefthal nw. Erfurt.</anmerkung>
       <anmerkung seite="113" nr="4">Marbach: Dorf bei Erfurt.</anmerkung>
-      <anmerkung seite="113" nr="5">llversgehofen: früher Dorf n. Erfurt, jetzt Teil der Stadt.</anmerkung>
-      <anmerkung seite="113" nr="8">Borntal: Flurname in der Feldmark bei Erfurt.</anmerkung>
+      <anmerkung seite="113" nr="5">Ilversgehofen: früher Dorf n. Erfurt, jetzt Teil der Stadt.</anmerkung>
+      <anmerkung seite="113" nr="6">Borntal: Flurname in der Feldmark bei Erfurt.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="61" seite-von="114" seite-bis="114">
@@ -1347,15 +1401,15 @@
       <signatur>108</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Milwitz: Erfurter Patrizierfam.</anmerkung>
-      <anmerkung>2 Hacstete: Wüstung Hattstedt bei Wandersieben sw. Erfurt (Overmann: ÜB, T. 1) o. Dorf Hochstedt ö. Erfurt (Beyer: ÜB Stadt Erfurt, T. 1 u. 2).</anmerkung>
-      <anmerkung>3 Wüstes Dorf Schmidstedt so. Erfurt.</anmerkung>
-      <anmerkung>4 Fam. von Tutelstete/Tutilstete/Tulstete/Tullestete als Bürger von Erfurt ebd. nachw.</anmerkung>
+      <anmerkung nr="1">Milwitz: Erfurter Patrizierfam.</anmerkung>
+      <anmerkung nr="2">Hacstete: Wüstung Hattstedt bei Wandersieben sw. Erfurt (Overmann: ÜB, T. 1) o. Dorf Hochstedt ö. Erfurt (Beyer: ÜB Stadt Erfurt, T. 1 u. 2).</anmerkung>
+      <anmerkung nr="3">Wüstes Dorf Schmidstedt so. Erfurt.</anmerkung>
+      <anmerkung nr="4">Fam. von Tutelstete/Tutilstete/Tulstete/Tullestete als Bürger von Erfurt ebd. nachw.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="62" seite-von="115" seite-bis="115">
     <datum iso="1449-05-26">1449 Mai 26</datum>
-    <datierungsvermerk>(Datum anno domini M° CCCC° XLIX0 deß nehisten tages noch Urbani deß heylghen bobyst)</datierungsvermerk>
+    <datierungsvermerk>(Datum anno domini M° CCCC° XLIX° deß nehisten tages noch Urbani deß heylghen bobyst)</datierungsvermerk>
     <regest>Günther Lutenberch, Bürger zu Erfurt (Erffurte), verpfändet dem Kollegium zur Himmelspforte daselbst einen Jahreszins von 6 Rheinischen Gulden für ein Darlehen von 100 Rheinischen Gulden aus den Einkünften von 2 Acker Weingarten am Blozzenburg-Berg (Bloessinborch)1, von denen Claus von Dachbach (Dachbech)2 einen jährlichen Erbzins erhält, und von 4 Acker Ackerland am Steigerwald3, von denen Dietrich Padijß" einen jährlichen Erbzins erhält. Der Aussteller verspricht, den Zins pünktlich, zweimal jährlich, zu Severi und Urbani zu zahlen.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigtes Siegel des Ausstellers</beglaubigungsform>
@@ -1366,7 +1420,9 @@
       <signatur>109</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="115" nr="1">Der Berg Blozzenburg bei Melchendorf in der Feldmark so. Erfurt. Fam von Dachbach/Dachebech als Bürger von Erfurt nachw. bei Beyer: ÜB Stadt Erfurt, T. 2. Steigerwald s. der Stadt, im Volksmund "der Steiger genannt, Anhöhe mit Waldung.</anmerkung>
+      <anmerkung seite="115" nr="1">Der Berg Blozzenburg bei Melchendorf in der Feldmark sö. Erfurt.</anmerkung>
+      <anmerkung nr="2">Fam. von Dachbach/Dachebech als Bürger von Erfurt nachw. bei Beyer: ÜB Stadt Erfurt, T. 2.</anmerkung>
+      <anmerkung nr="3">Steigerwald s. der Stadt, im Volksmund "der Steiger genannt, Anhöhe mit Waldung.</anmerkung>
       <anmerkung seite="115" nr="4">Vermutl. Fam. Pardis, Pardisz, Paradisz als Bürger von Erfurt nachw. ebd., Overmann: ÜB, T. 3 u. bei Burkhardt: ÜB Stadt Arnstadt.</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -1383,12 +1439,12 @@
       <signatur>116</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Kühnhausen: Dorf n. Erfurt.</anmerkung>
-      <anmerkung>2 Georgenthal: Zisterzienserkloster u. Dorf bei Ohrdruf, w. Arnstadt. Das Kloster hatte einen eigenen Hof im Brühl zu Erfurt.</anmerkung>
-      <anmerkung>3 Stottemheim: Dorf nö. Erfurt.</anmerkung>
-      <anmerkung>4 Doppeldorf mit Gispersleben-Kiliani nw. Erfurt.</anmerkung>
-      <anmerkung>5 Erfurter Patrizierfam.</anmerkung>
-      <anmerkung>6 Tröchtelborn: Dorf nw. Erfurt.</anmerkung>
+      <anmerkung nr="1">Kühnhausen: Dorf n. Erfurt.</anmerkung>
+      <anmerkung nr="2">Georgenthal: Zisterzienserkloster u. Dorf bei Ohrdruf, w. Arnstadt. Das Kloster hatte einen eigenen Hof im Brühl zu Erfurt.</anmerkung>
+      <anmerkung nr="3">Stottemheim: Dorf nö. Erfurt.</anmerkung>
+      <anmerkung nr="4">Doppeldorf mit Gispersleben-Kiliani nw. Erfurt.</anmerkung>
+      <anmerkung nr="5">Erfurter Patrizierfam.</anmerkung>
+      <anmerkung nr="6">Tröchtelborn: Dorf nw. Erfurt.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="64" seite-von="117" seite-bis="117">
@@ -1428,7 +1484,7 @@
   <urkunde nr="66" seite-von="119" seite-bis="119">
     <datum iso="1471-09-19">1471 September 19</datum>
     <datierungsvermerk>(Gegebin ist nach Christi geburt thusentffierhundirt darnach in deme eynundesuebbenczigisten jare an deme donnerstage nach deme tage sancti Lamperti des heiigen bisschoffen)</datierungsvermerk>
-    <regest>Heinrich Fasolt, Bürger zu Erfurt (Erlfurt), und seine Ehefrau Elisabeth verpfänden dem Kollegium zur Himmelspforte daselbst einen Jahreszins von 6 Rheinischen Gulden für ein Darlehen von 100 Rheinischen Gulden. Der Zins lastet auf 2 3A Acker Weingarten am Cyriaksberg1, von denen der Propst des Cyriaksklosters zu Erfurt einen jährlichen Erbzins erhält, 3 V, Acker Weingarten am "Hernberge", von denen die Domherren zu St. Marien daselbst einen jährlichen Erbzins erhalten, und auf 14 1 A Acker Ackerland am Weg nach Azmannsdorf (Atzmansdoerffer wege)2, unterhalb des Stolbergs3 gelegen, von denen Rodulf Ziegler (Czigeler)4, wohnhaftig zum "Bernkopphe" in der Futtergasse5, und Frau Katherin auf dem Sande6 einen jährlichen Erbzins erhalten. Die Aussteller versprechen, den Zins pünktlich, zweimal jährlich, zu Michaelis und Walpurgis in Erfurt zu zahlen.</regest>
+    <regest>Heinrich Fasolt, Bürger zu Erfurt (Erlfurt), und seine Ehefrau Elisabeth verpfänden dem Kollegium zur Himmelspforte daselbst einen Jahreszins von 6 Rheinischen Gulden für ein Darlehen von 100 Rheinischen Gulden. Der Zins lastet auf 2 3/4 Acker Weingarten am Cyriaksberg1, von denen der Propst des Cyriaksklosters zu Erfurt einen jährlichen Erbzins erhält, 3 1/4 Acker Weingarten am "Hernberge", von denen die Domherren zu St. Marien daselbst einen jährlichen Erbzins erhalten, und auf 14 1/2 Acker Ackerland am Weg nach Azmannsdorf (Atzmansdoerffer wege)2, unterhalb des Stolbergs3 gelegen, von denen Rodulf Ziegler (Czigeler)4, wohnhaftig zum "Bernkopphe" in der Futtergasse5, und Frau Katherin auf dem Sande6 einen jährlichen Erbzins erhalten. Die Aussteller versprechen, den Zins pünktlich, zweimal jährlich, zu Michaelis und Walpurgis in Erfurt zu zahlen.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigtes Siegel des Ausstellers</beglaubigungsform>
       <beschreibstoff>Pergament 335 x 235 mm, 40 mm Umbug</beschreibstoff>
@@ -1438,9 +1494,12 @@
       <signatur>132</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="119" nr="1">örtlichkeit in Erfurt. Azmannsdorf: Dorfö. Erfurt. Stolberg o. Stalberg: Flurname bei Erfurt. * Ziegler: Erfurter Patrizierfam.</anmerkung>
+      <anmerkung seite="119" nr="1">Örtlichkeit in Erfurt.</anmerkung>
+      <anmerkung nr="2">Azmannsdorf: Dorfö. Erfurt.</anmerkung>
+      <anmerkung nr="3">Stolberg o. Stalberg: Flurname bei Erfurt.</anmerkung>
+      <anmerkung nr="4">Ziegler: Erfurter Patrizierfam.</anmerkung>
       <anmerkung seite="119" nr="5">Straße in Erfurt.</anmerkung>
-      <anmerkung seite="119" nr="8">Auf dem Sande: Straßenname in Erfurt. Die Erfurter Patrizierfam. von der Sachsen nannte sich auch "auf dem Sande", so 1493 nachw. bei Overmann: ÜB, T. 3.</anmerkung>
+      <anmerkung seite="119" nr="6">Auf dem Sande: Straßenname in Erfurt. Die Erfurter Patrizierfam. von der Sachsen nannte sich auch "auf dem Sande", so 1493 nachw. bei Overmann: ÜB, T. 3.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="67" seite-von="120" seite-bis="120">
@@ -1456,8 +1515,8 @@
       <signatur>136</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>Pfarrkirche in Erfurt.</anmerkung>
-      <anmerkung>2 Utinsberg: Dorf Utzberg ö. Erfurt. Farn, von Utinsberg als Bürger von Erfurt nachw. bei Beyer: ÜB Stadt Erfurt, T. 2.</anmerkung>
+      <anmerkung nr="1">Pfarrkirche in Erfurt.</anmerkung>
+      <anmerkung nr="2">Utinsberg: Dorf Utzberg ö. Erfurt. Farn, von Utinsberg als Bürger von Erfurt nachw. bei Beyer: ÜB Stadt Erfurt, T. 2.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="68" seite-von="121" seite-bis="121">
@@ -1475,7 +1534,8 @@
       <besonderheit>in den Umbug eingehängter Pergamentstreifen mit genauer Lagebeschreibung der Ackerflächen, 250 x 65 mm</besonderheit>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="121" nr="2">Doppeldorf mit Gispersleben-Kiliani nw. Erfurt, Stadtkr. Erfurt. Vgl. Anm. 1.</anmerkung>
+      <anmerkung seite="121" nr="1">Doppeldorf mit Gispersleben-Kiliani nw. Erfurt, Stadtkr. Erfurt.</anmerkung>
+      <anmerkung nr="2">Vgl. Anm. 1.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="69" seite-von="122" seite-bis="122">
@@ -1492,7 +1552,9 @@
       <signatur>140</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="122" nr="3">llversgehofen: früher Dorf n. Erfurt, jetzt Teil der Stadt. Rabinsteyne: Flurname bei Erfurt. Stolberg o. Stalberg: Flurname bei Erfurt.</anmerkung>
+      <anmerkung seite="122" nr="1">Ilversgehofen: früher Dorf n. Erfurt, jetzt Teil der Stadt.</anmerkung>
+      <anmerkung nr="2">Rabinsteyne: Flurname bei Erfurt.</anmerkung>
+      <anmerkung nr="3">Stolberg o. Stalberg: Flurname bei Erfurt.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="70" seite-von="123" seite-bis="123">
@@ -1508,7 +1570,8 @@
       <signatur>143</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="123" nr="2">Möbisburg: Dorf sw. Erfurt, Stadtkr. Erfurt. Der Kirchberg: unmittelbar n. des Dorfes Möbisburg, zur Gera hin vorstoßender Höhenrücken.</anmerkung>
+      <anmerkung seite="123" nr="1">Möbisburg: Dorf sw. Erfurt, Stadtkr. Erfurt.</anmerkung>
+      <anmerkung nr="2">Der Kirchberg: unmittelbar n. des Dorfes Möbisburg, zur Gera hin vorstoßender Höhenrücken.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="71" seite-von="124" seite-bis="124">
@@ -1558,16 +1621,16 @@
       <signatur>156</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Hongede: Dorf so. Mühlhausen.</anmerkung>
-      <anmerkung>2 Wachsenburg: Burg nw. Arnstadt.</anmerkung>
-      <anmerkung>3 Friedrich III., der Weise: 1486 -1525, Kurfürst.</anmerkung>
-      <anmerkung>4 Johann I., der Beständige: 1486 -1532, seit 1525 Kurfürst.</anmerkung>
-      <anmerkung>5 Dorf Bischleben s. Erfurt, Gerichtsstätte. </anmerkung>
-      <anmerkung>6 Johannes Faber/Fabri: Kollegiat im Kollegium zur Himmelspforte, vgl. Urk. Nr. 74, Anm. 2. </anmerkung>
-      <anmerkung>7 Gerhardus Hunt aus Berka: inskribiert im Kollegium im Sommersemester 1478,1484 Magisterpromotion, 1495 an der Pest gestorben (vgl. die Personalnotizen bei Oergel: Collegium, in: MVGAE 19/1898, S. 97).</anmerkung>
-      <anmerkung>8 Erfurter Patrizierfam.</anmerkung>
-      <anmerkung>9 Erfurter Patrizierfam. In den Matrikeln der Erfurter Universität sind mehrere Personen mit Namen Johannes Milwitz nachw. (Weissenborn: Akten, Bd. 1), jedoch nicht als Kollegiat im Kollegium zur Himmelspforte.</anmerkung>
-      <anmerkung>10 Günther Milwitz, Erfurter Bürger, war kurzzeitig Kollegiat im Kollegium zur Himmelspforte, Dr. jur. zu Padua, Rektor der Universität in den Wintersemestern 1468/69 u. 1474/75, Dekan der juristischen Fakultät 1485 (vgl. die Personalnotizen bei Oergel: Collegium, in: MVGAE 19/1889, S. 95).</anmerkung>
+      <anmerkung nr="1">Hongede: Dorf so. Mühlhausen.</anmerkung>
+      <anmerkung nr="2">Wachsenburg: Burg nw. Arnstadt.</anmerkung>
+      <anmerkung nr="3">Friedrich III., der Weise: 1486 -1525, Kurfürst.</anmerkung>
+      <anmerkung nr="4">Johann I., der Beständige: 1486 -1532, seit 1525 Kurfürst.</anmerkung>
+      <anmerkung nr="5">Dorf Bischleben s. Erfurt, Gerichtsstätte. </anmerkung>
+      <anmerkung nr="6">Johannes Faber/Fabri: Kollegiat im Kollegium zur Himmelspforte, vgl. Urk. Nr. 74, Anm. 2. </anmerkung>
+      <anmerkung nr="7">Gerhardus Hunt aus Berka: inskribiert im Kollegium im Sommersemester 1478,1484 Magisterpromotion, 1495 an der Pest gestorben (vgl. die Personalnotizen bei Oergel: Collegium, in: MVGAE 19/1898, S. 97).</anmerkung>
+      <anmerkung nr="8">Erfurter Patrizierfam.</anmerkung>
+      <anmerkung nr="9">Erfurter Patrizierfam. In den Matrikeln der Erfurter Universität sind mehrere Personen mit Namen Johannes Milwitz nachw. (Weissenborn: Akten, Bd. 1), jedoch nicht als Kollegiat im Kollegium zur Himmelspforte.</anmerkung>
+      <anmerkung nr="10">Günther Milwitz, Erfurter Bürger, war kurzzeitig Kollegiat im Kollegium zur Himmelspforte, Dr. jur. zu Padua, Rektor der Universität in den Wintersemestern 1468/69 u. 1474/75, Dekan der juristischen Fakultät 1485 (vgl. die Personalnotizen bei Oergel: Collegium, in: MVGAE 19/1889, S. 95).</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="74" seite-von="127" seite-bis="127">
@@ -1653,7 +1716,8 @@
       <besonderheit>Der Urkunde ist ein Schriftstück beigelegt (Sign. 53 a), datiert vom 6. April 1610, mit der Zustimmungserklärung des Erbzinsherrn und der Auflistung der zu leistenden Erbzinsgebühr, beglaubigt durch eigenhändige Unterschrift des Wilhelm Fachen und seines Dieners David Richter. Papier 198 x 325 mm</besonderheit>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="131" nr="1">1n Anlehnung an Urk. Nr. 79, da auch dort die Datierung nach altem Stil erfolgte. Hermann Zurlinden o. Lindanus: geb. 1565, entstammte einer Rheinberger Patrizierfam. (Rheinberg: ehemals Berka, Niederrhein), 1586 Eintritt in das Kollegium, 1595 Magister der Artistenfakultät, 1596 Wahl zum Dekan der Himmelspforte, dieses Amt behielt er bis zu seinem Tode 1644 inne, mehrfach Dekan der Artistenfakultät u. Rektor der Erfurter Universität. Hermann Lindanus war eine der bedeutendsten Persönlichkeiten der Himmelspforte (vgl. Oergel: Collegium, in: MVGAE 20/1899, S. 17-30).</anmerkung>
+      <anmerkung seite="131" nr="1">1n Anlehnung an Urk. Nr. 79, da auch dort die Datierung nach altem Stil erfolgte.</anmerkung>
+      <anmerkung nr="2">Hermann Zurlinden o. Lindanus: geb. 1565, entstammte einer Rheinberger Patrizierfam. (Rheinberg: ehemals Berka, Niederrhein), 1586 Eintritt in das Kollegium, 1595 Magister der Artistenfakultät, 1596 Wahl zum Dekan der Himmelspforte, dieses Amt behielt er bis zu seinem Tode 1644 inne, mehrfach Dekan der Artistenfakultät u. Rektor der Erfurter Universität. Hermann Lindanus war eine der bedeutendsten Persönlichkeiten der Himmelspforte (vgl. Oergel: Collegium, in: MVGAE 20/1899, S. 17-30).</anmerkung>
       <anmerkung seite="131" nr="3">Melchendorf: Dorf so. Erfurt.</anmerkung>
       <anmerkung seite="131" nr="4">Wilhelm Fachaeus nachw. bei Weissenborn: Acten, Bd. 2, S. 476, Z. 9: Eintrag seines Sohnes in die Matrikel 1592: "Balthasar Fachaeus de Weißensee filius clarissimi viri domini Wilhelmi Fachaei juris utriusque doctoris ac proconsulis Erffurdiensis dedit 1 florenum in auro Renensi".</anmerkung>
       <anmerkung seite="131" nr="5">Anweisung als Dorsualvermerk auf der Urk.</anmerkung>
@@ -1672,7 +1736,8 @@
       <signatur>225</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="133" nr="1">Dorf Zimmern infra o. Niederzimmern am Ettersberg, nw. Weimar. Hermann Zurlinden o. Lindanus: vgl. Urk. Nr. 78, Anm. 2.</anmerkung>
+      <anmerkung seite="133" nr="1">Dorf Zimmern infra o. Niederzimmern am Ettersberg, nw. Weimar.</anmerkung>
+      <anmerkung nr="2">Hermann Zurlinden o. Lindanus: vgl. Urk. Nr. 78, Anm. 2.</anmerkung>
       <anmerkung seite="133" nr="3">Vermerk auf dem Umbug der Urk., links neben der Pressel.</anmerkung>
     </anmerkungen>
   </urkunde>
@@ -1691,8 +1756,8 @@
     </ueberlieferung>
     <anmerkungen>
       <anmerkung seite="134" nr="1">Urkunde ohne Datierung: Da Graf Lampert am 14. September 1227 gestorben ist, muß die Urkunde bald nach seinem Tode ausgestellt worden sein. Vgl. Dobenecken Regesta, Bd. 2, Nr. 2446, Anm. 1.</anmerkung>
-      <anmerkung seite="134" nr="2">Ernst IV. von Gleichen 1228 -11287, Heinrich I. von Gleichenstein 1227 - f 1257, nach Hopf: Atlas.</anmerkung>
-      <anmerkung seite="134" nr="3">Lampert II. 1 1 8 8 - t 1227 Sept. 14.</anmerkung>
+      <anmerkung seite="134" nr="2">Ernst IV. von Gleichen 1228 -11287, Heinrich I. von Gleichenstein 1227 - † 1257, nach Hopf: Atlas.</anmerkung>
+      <anmerkung seite="134" nr="3">Lampert II. 1188 - † 1227 Sept. 14.</anmerkung>
       <anmerkung seite="134" nr="4">Zur Geschichte des Martinshospitals vgl. Beyer: Geschichte Hospitäler, in: MVGAE 19/1898, S. 127175.</anmerkung>
       <anmerkung seite="134" nr="5">Vgl. Urk. Nr. 70, S. 34 bei Beyer: ÜB Stadt Erfurt, T. 1 u. Dobenecker: Regesta, Bd. 2, S. 380, Nr. 2117.</anmerkung>
       <anmerkung seite="134" nr="6">Siegfried II. von Eppstein, Erzbischof von Mainz 1200 -1230.</anmerkung>
@@ -1724,7 +1789,8 @@
       <literatur_regest>Overmann, Alfred: Urkundenbuch der Erfurter Stifter und Klöster, Teil 3: Die Urkunden des Augustiner - Eremitenklosters (1331 - 1565), Magdeburg 1934, S. 22, Urk. Nr. 28 nach einer Abschrift im Kopiar des Klosters aus dem Staatsarchiv Magdeburg.4</literatur_regest>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="136" nr="1">Ringleben: Dorf nw. Erfurt, so. Gebesee. Die Herren von Ringleben, Ministerialen, Linie der Herren von Herbsleben: Albert, Hugo u. Johann seit 1319 nachw., Brüder u. Söhne Hugos von Ringleben: 1297 - 1 1 3 2 6 (Stammtafel bei Posse: Siegel Adel, Bd. 2, S. 80).</anmerkung>
+      <anmerkung seite="136" nr="1">Ringleben: Dorf nw. Erfurt, so. Gebesee.</anmerkung>
+      <anmerkung nr="2">Die Herren von Ringleben, Ministerialen, Linie der Herren von Herbsleben: Albert, Hugo u. Johann seit 1319 nachw., Brüder u. Söhne Hugos von Ringleben: 1297 - 1326 (Stammtafel bei Posse: Siegel Adel, Bd. 2, S. 80).</anmerkung>
       <anmerkung seite="136" nr="3">Riethnordhausen: Dorf so. Gebesee, n. Erfurt. Pleban Amelung 1339, 1341 u. 1342 nachw. bei Overmann: ÜB, T. 3.</anmerkung>
       <anmerkung seite="136" nr="4">Die Urk. steht im Zusammenhang mit der im ÜB vorhergehenden Urk. Nr. 27, S. 21: Die Herren zu Ringleben gestatten die Übertragung einer von ihnen lehnsabhängigen, halben Hufe daselbst an das Augustiner-Eremitenkloster in Erfurt.</anmerkung>
     </anmerkungen>
@@ -1750,7 +1816,7 @@
   <urkunde nr="83" seite-von="138" seite-bis="138">
     <datum iso="1433-07-28">1433 Juli 28</datum>
     <datierungsvermerk>(Gegebin nach Cristi geburt vierczenhundert jare in deme dryundedryßigesten jare am dinstage nach sendte Jacoffs tage dez heilgin zcwolffboten)</datierungsvermerk>
-    <regest>Hans Fischer (Fyscher)1, seine Ehefrau Kethe und Günther Luttinberg, Bürger z u Erfurt (Erffurte), verpfänden dem Rat der Stadt daselbst einen Jahreszins von 25 Rheinischen Gulden für ein Darlehen von 500 Rheinischen Gulden. Der Zins lastet auf 12 Acker Weingarten bei Niedernissa (Nedern Nuseße)2, von denen Katherin Margrefe (Marcgrefe) 3 und ihr Sohn einen jährlichen Erbzins erhalten, 2 Acker Weingarten und 3 Acker Ackerland daselbst, von denen der Propst des Reglerklosters zu Erfurt einen jährlichen Erbzins erhält und auf dem Haus zum "Phyfferchin", das sich bei der Kirche St. Veit befindet und von dem Günther Logke einen jährlichen Erbzins erhält. Die Aussteller versprechen, den Zins pünktlich, zweimal jährlich, zu Lichtmeß und Jacobi in Erfurt zu zahlen.</regest>
+    <regest>Hans Fischer (Fyscher)1, seine Ehefrau Kethe und Günther Luttinberg, Bürger zu Erfurt (Erffurte), verpfänden dem Rat der Stadt daselbst einen Jahreszins von 25 Rheinischen Gulden für ein Darlehen von 500 Rheinischen Gulden. Der Zins lastet auf 12 Acker Weingarten bei Niedernissa (Nedern Nuseße)2, von denen Katherin Margrefe (Marcgrefe) 3 und ihr Sohn einen jährlichen Erbzins erhalten, 2 Acker Weingarten und 3 Acker Ackerland daselbst, von denen der Propst des Reglerklosters zu Erfurt einen jährlichen Erbzins erhält und auf dem Haus zum "Phyfferchin", das sich bei der Kirche St. Veit befindet und von dem Günther Logke einen jährlichen Erbzins erhält. Die Aussteller versprechen, den Zins pünktlich, zweimal jährlich, zu Lichtmeß und Jacobi in Erfurt zu zahlen.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigte Siegel von Hans Fischer und Johannes Schwabhausen (Swabehusen/Swabehusin) 4 , Bürger zu Erfurt, dieser siegelt für Günther Luttinberg</beglaubigungsform>
       <zeugen>Johannes Schwabhausen</zeugen>
@@ -1761,7 +1827,8 @@
       <signatur>95</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="138" nr="1">Zwei Schreibweisen im Text. Drei Schreibweisen im Text: Nedern Nuseße/Neddern Nuseße/Neden Nuseße: Doppeldorf Ober- u. Niedernissa so. Erfurt.</anmerkung>
+      <anmerkung seite="138" nr="1">Zwei Schreibweisen im Text.</anmerkung>
+      <anmerkung nr="2">Drei Schreibweisen im Text: Nedern Nuseße/Neddern Nuseße/Neden Nuseße: Doppeldorf Ober- u. Niedernissa so. Erfurt.</anmerkung>
       <anmerkung seite="138" nr="3">Zwei Schreibweisen im Text.</anmerkung>
       <anmerkung seite="138" nr="4">Schwabhausen: Groß- u. Klein-Schwabhausen: Doppeldorf zw. Jena u. Weimar.</anmerkung>
     </anmerkungen>
@@ -1780,8 +1847,9 @@
       <signatur>103</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="139" nr="1">Ichtershausen: n. Arnstadt. Heinrich Stubich als Vikar zu St. Severi in Erfurt 1459 nachw. bei Overmann: ÜB, T. 3.</anmerkung>
-      <anmerkung seite="139" nr="3">Horhusen/Harhußen; Dorf Haarhausen n. Arnstadt.</anmerkung>
+      <anmerkung seite="139" nr="1">Ichtershausen: n. Arnstadt.</anmerkung>
+      <anmerkung nr="2">Heinrich Stubich als Vikar zu St. Severi in Erfurt 1459 nachw. bei Overmann: ÜB, T. 3.</anmerkung>
+      <anmerkung seite="139" nr="3">Horhusen/Harhußen: Dorf Haarhausen n. Amstadt.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="85" seite-von="140" seite-bis="142">
@@ -1800,13 +1868,17 @@
       <literatur_regest>Schmid, Eduard: Die Lobdeburg bei Jena. Nach Urkunden und sichern Nachrichten, Jena 1840, Urk. Nr. 140, S. 98 f., regestiert nach dem Kopialbuch "Diplomata Jenensia" 6 b, Nr. 8 aus dem Geheimen Staatsarchiv Weimar, nach B. G. Struvens, ... und Johann Georg Leuckfeld: Kurze Nachricht von dem ehmaligen AugustinerServiten-Kloster Himmelgarten ohnweit Nordhausen, Halberstadt und Leipzig 1723 bei M. Teubner. Interpretiert bei: Großkopf, Hans: Die Herren von Lobdeburg bei Jena. Ein thüringisch-osterländisches Dynastengeschlecht vom 12. bis zum 15. Jh., Neustadt a. d. Orla 1929, S. 44ff. und Anm. 300.</literatur_regest>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="140" nr="1">Lobdeburg: Ruine oberhalb Lobeda, jetzt zu Jena, im Saaletal gelegen. Die Lokalisierung des Sitzes dieses Zweiges der Dynastenfam. ist nicht eindeutig. Entweder Schloß u. Dorf Burgau a. d. Saale, s. Lobeda/Jena o. Berga a. d. Elster, bei Weida. Obwohl sich alle nachw. Besitzungen bei Burgau a. d. Saale befanden, geht man heute davon aus, daß der namengebende Ort Berga a. d. Elster war (vgl. Patze/Schlesinger: Geschichte Thüringens 2/1, S. 195f.).</anmerkung>
-      <anmerkung seite="140" nr="3">Die Herren von Lobdeburg: edelfreies Geschlecht. Es gibt zwei Varianten der genealogischen Zuordnung der Aussteller. Nach Schmid: Lobdeburg, S. 39ff. u. Hopf: Atlas handelt es sich um die fünf Söhne Ottos VI. 1257 -1268: Otto VII. 1282 -1305 u. Hartmann VII. 1282 -1332 als die Älteren, Hartmann VIII. t ca. 1305 u. Otto VIII. 1297 -1343, Deutschordensritter, als die Jüngeren u. den jüngsten Bruder Otto IX. 1323 -1327. Schmid übersetzt die Zeile 5: "consensu promittentes etiam et obligantes nos presentibus Ottonis fratris nostri iunioris" mit "in Gegenwart unseres jüngeren Bruders Otto", was so nicht zutrifft, da sich "presentibus" nicht auf "Ottonis" bezieht. Dies meint auch H. Großkopf. Nach Großkopf: Herren, S. 44f. sind Otto VII. (1264) -1301 u. Hartmann IX. (1264) -1323, Söhne Hartmanns VIII. 1255 -1264, als die Älteren anzusehen sowie ihre Cousins Hartmann XII. 1297 -1353 u. Otto X. 1297 -1345, Söhne Ottos VI. 1257 -1264, als die Jüngeren zu identifizieren. Schwierigkeiten bereitet die Zuordnung des jüngeren Bruders Otto, da beide Brüderpaare noch einen jüngeren Bruder Otto hatten. Großkopf interpretiert die betr. Zeile so, daß der jüngste Bruder Otto abwesend ist u. nur seine Einwilligung zur Schenkung angeführt wird. Er sieht in Otto IX., Bruder der Älteren (1294 -1311, Deutschordensritter), den Abwesenden u. meint, daß Otto XI. (1298 -1350), Bruder der Jüngeren, noch zu klein gewesen ist. Die Verfasserin geht davon aus, daß von dem noch einmal gesondert aufgeführten "jüngeren Bruder Otto" nur die Zustimmung eingeholt wurde. Bemerkenswert ist, daß Otto u. Hartmann, die Älteren, in der Urk. nicht als Brüder bezeichnet werden, im Gegensatz zu den Jüngeren. A Oßmannstedt: Dorf nö. Weimar, a. d. Hm.</anmerkung>
+      <anmerkung seite="140" nr="1">Lobdeburg: Ruine oberhalb Lobeda, jetzt zu Jena, im Saaletal gelegen.</anmerkung>
+      <anmerkung nr="2">Die Lokalisierung des Sitzes dieses Zweiges der Dynastenfam. ist nicht eindeutig. Entweder Schloß u. Dorf Burgau a. d. Saale, s. Lobeda/Jena o. Berga a. d. Elster, bei Weida. Obwohl sich alle nachw. Besitzungen bei Burgau a. d. Saale befanden, geht man heute davon aus, daß der namengebende Ort Berga a. d. Elster war (vgl. Patze/Schlesinger: Geschichte Thüringens 2/1, S. 195f.).</anmerkung>
+      <anmerkung seite="140" nr="3">Die Herren von Lobdeburg: edelfreies Geschlecht. Es gibt zwei Varianten der genealogischen Zuordnung der Aussteller. Nach Schmid: Lobdeburg, S. 39ff. u. Hopf: Atlas handelt es sich um die fünf Söhne Ottos VI. 1257 -1268: Otto VII. 1282 -1305 u. Hartmann VII. 1282 -1332 als die Älteren, Hartmann VIII. t ca. 1305 u. Otto VIII. 1297 -1343, Deutschordensritter, als die Jüngeren u. den jüngsten Bruder Otto IX. 1323 -1327. Schmid übersetzt die Zeile 5: "consensu promittentes etiam et obligantes nos presentibus Ottonis fratris nostri iunioris" mit "in Gegenwart unseres jüngeren Bruders Otto", was so nicht zutrifft, da sich "presentibus" nicht auf "Ottonis" bezieht. Dies meint auch H. Großkopf. Nach Großkopf: Herren, S. 44f. sind Otto VII. (1264) -1301 u. Hartmann IX. (1264) -1323, Söhne Hartmanns VIII. 1255 -1264, als die Älteren anzusehen sowie ihre Cousins Hartmann XII. 1297 -1353 u. Otto X. 1297 -1345, Söhne Ottos VI. 1257 -1264, als die Jüngeren zu identifizieren. Schwierigkeiten bereitet die Zuordnung des jüngeren Bruders Otto, da beide Brüderpaare noch einen jüngeren Bruder Otto hatten. Großkopf interpretiert die betr. Zeile so, daß der jüngste Bruder Otto abwesend ist u. nur seine Einwilligung zur Schenkung angeführt wird. Er sieht in Otto IX., Bruder der Älteren (1294 -1311, Deutschordensritter), den Abwesenden u. meint, daß Otto XI. (1298 -1350), Bruder der Jüngeren, noch zu klein gewesen ist. Die Verfasserin geht davon aus, daß von dem noch einmal gesondert aufgeführten "jüngeren Bruder Otto" nur die Zustimmung eingeholt wurde. Bemerkenswert ist, daß Otto u. Hartmann, die Älteren, in der Urk. nicht als Brüder bezeichnet werden, im Gegensatz zu den Jüngeren.</anmerkung>
+      <anmerkung nr="4">Oßmannstedt: Dorf nö. Weimar, a. d. Hm.</anmerkung>
       <anmerkung seite="140" nr="5">Kloster Himmelgarten, Patrozinium Hl. Maria; so. Nordhausen, Kr. Nordhausen. 1295 Gründung des Klosters in einer verlassenen Kapelle zu Rossungen (Russungen) durch Serviten, von hier aus Gründung des Servitenklosters in Oßmannstedt um 1359, Flucht der Mönche im Bauernkrieg (vgl. Opfermann: Klöster, S. 72).</anmerkung>
-      <anmerkung seite="140" nr="8">Dietrich II. (1253) -1309 u. Heinrich III. (1253) -1305, Grafen von Honstein, Ilfeld-Bilsteiner Stamm, nach Köhler; Stammtafeln, in: ZHarzV 42/1909.</anmerkung>
-      <anmerkung seite="141" nr="1">Rabis: ö. Lobdeburg. Rastenberg: Stadt n. Weimar, ö. Sömmerda. Schlöben: ö. Lobeda, nw. Stadtroda.</anmerkung>
+      <anmerkung seite="140" nr="6">Dietrich II. (1253) - 1309 u. Heinrich III. (1253) - 1305, Grafen von Honstein, Ilfeld-Bilsteiner Stamm, nach Köhler; Stammtafeln, in: ZHarzV 42/1909.</anmerkung>
+      <anmerkung seite="141" nr="1">Rabis: ö. Lobdeburg.</anmerkung>
+      <anmerkung nr="2">Rastenberg: Stadt n. Weimar, ö. Sömmerda.</anmerkung>
+      <anmerkung nr="3">Schlöben: ö. Lobeda, nw. Stadtroda.</anmerkung>
       <anmerkung seite="141" nr="4">So aufgelöst bei Schmid: Lobdeburg, S. 98f. ohne weiteren Nachweis.</anmerkung>
-      <anmerkung seite="141" nr="5">Burgold Puster, Konrad Buler o. Boler u. Konrad von Würzburg als Burgmannen der Herren von Lobdeburg nachw. bei Dobenecker: Regesta, Bd. 3. Farn. Puster: orlamündisches Vasallengeschlecht.</anmerkung>
+      <anmerkung seite="141" nr="5">Burgold Puster, Konrad Buler o. Boler u. Konrad von Würzburg als Burgmannen der Herren von Lobdeburg nachw. bei Dobenecker: Regesta, Bd. 3. Fam. Puster: orlamündisches Vasallengeschlecht.</anmerkung>
       <anmerkung seite="141" nr="6">Siegelidentifikation bei Rackwitz: Urk. Servitenkloster, S. 6 nach Struvens: Archiv.</anmerkung>
       <anmerkung seite="141" nr="7">Der Text aus Struven bei Rackwitz ist bis auf einige abweichende Lesarten identisch mit dem Original: "Lobodeburg", "Azmenstete" u. in der Zeugenreihe "Haldo, milites", "Henricus, vicarius in Globen", "Burgoldus dictus Bustaer", außerdem wurden die Z. 8 u. 9 im Druck ausgelassen. Urk. Nr. 2, S. 6 bei Rackwitz mit gleichem Datum steht im Zusammenhang mit Urk. 1: die Aussteller übergeben die Kirche zu Oßmannstedt mit allen Rechten zum beständigen Eigentum an das Kloster Himmelgarten u. verkaufen dazu 4 Hufen im Dorf mit allen Rechten; die selben Zeugen wie Nr. 1, vgl. auch Schmid: Lobdeburg, Urk. Nr, 140 u. 141.</anmerkung>
     </anmerkungen>
@@ -1825,7 +1897,7 @@
       <signatur>33</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="143" nr="1">Albrecht, Graf von Beichlingen, Rothenburger Linie: 1331 -1362,11367 nach Europ. Stammtafeln, Bd. III, Tf. 52; nach Hopf: Atlas: Albrecht I. von Brücken 1328 -1362; nach Leitzmann: Geschichte irr ZVThGA 8/1871, S. 240: f vor 1359.</anmerkung>
+      <anmerkung seite="143" nr="1">Albrecht, Graf von Beichlingen, Rothenburger Linie: 1331 -1362,11367 nach Europ. Stammtafeln, Bd. III, Tf. 52; nach Hopf: Atlas: Albrecht I. von Brücken 1328 -1362; nach Leitzmann: Geschichte irr ZVThGA 8/1871, S. 240: † vor 1359.</anmerkung>
       <anmerkung seite="143" nr="2">Gebhard von Querfurt: 1329 - 1 2 5 . Nov. 1383, bis 1356 in Vitzenburg, dann in Querfurt (Europ. Stammtafeln, Bd. III, Tf.39), nach Hopf: Atlas: Gebhard XI. (1342 -11383).</anmerkung>
       <anmerkung seite="143" nr="3">Brücken a. d. Helme, sw. Sangerhausen, gehörte zum frühen Besitz der Beichlinger.</anmerkung>
       <anmerkung seite="143" nr="4">Auleben: Dorf so. Heringen, nachw. bei Dobenecker: Regesta, Bd. 3 (Reg.) u. bei Burkhardt: ÜB Stadt Arnstadt, S. 132, Nr. 181: Oweleyben.</anmerkung>
@@ -1850,7 +1922,7 @@
       <signatur>40</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="145" nr="1">Grafen von Honstein, Ilfeld-Bilsteiner Stamm: Heinrich VI., der Ältere, zu Klettenberg, erw. 1315 1366/67, als Senior der älteren Linie ab 1356 u. seine Cousins Dietrich V. zu Honstein u. Heringen, erw. 1315 - f 1379 u. Ulrich (Ulman) I. zu Honstein u. Kelbra, erw. 1339 - ( t 1414). Die Übersetzung von "fratrueles" mit Bruderssöhne in bezug auf den vorgenannten Heinrich trifft nicht zu. Die als Onkel in Frage kommenden Heinriche waren bereits 1356 tot, so daß nur Cousin Heinrich VI. gemeint sein kann. Nach Köhler urkundete dieser ab 1356 bei wichtigen Geschäften mit Dietrich V. und Ulrich I. zusammen (Köhler: Stammtafeln, in: ZHarzV 42/1909 u. Europ. Stammtafeln, Bd. III, Tf. 47).</anmerkung>
+      <anmerkung seite="145" nr="1">Grafen von Honstein, Ilfeld-Bilsteiner Stamm: Heinrich VI., der Ältere, zu Klettenberg, erw. 1315 1366/67, als Senior der älteren Linie ab 1356 u. seine Cousins Dietrich V. zu Honstein u. Heringen, erw. 1315 - † 1379 u. Ulrich (Ulman) I. zu Honstein u. Kelbra, erw. 1339 - ( † 1414). Die Übersetzung von "fratrueles" mit Bruderssöhne in bezug auf den vorgenannten Heinrich trifft nicht zu. Die als Onkel in Frage kommenden Heinriche waren bereits 1356 tot, so daß nur Cousin Heinrich VI. gemeint sein kann. Nach Köhler urkundete dieser ab 1356 bei wichtigen Geschäften mit Dietrich V. und Ulrich I. zusammen (Köhler: Stammtafeln, in: ZHarzV 42/1909 u. Europ. Stammtafeln, Bd. III, Tf. 47).</anmerkung>
       <anmerkung seite="145" nr="2">Kloster llfeld, Patrozinium Hl. Maria: ca. 10 km nö. Nordhausen, 1189 von Graf Elger II. von llfeldHonstein-Bilstein u. seiner Gemahlin Lutrude gestiftet u. von Kloster Pöhlde aus mit Prämonstratensern besetzt, seit 1246 Abtei, 1546 säkularisiert (Opfermann: Klöster, S. 54).</anmerkung>
       <anmerkung seite="145" nr="3">Mauderode: Mowerterode 1233/Mewerterade, Mawerderode 1358/Mowerterode 1391, Dorf in der Grafschaft Klettenberg, nw. Nordhausen, sw. llfeld (Meyer: Wüstungskarte, in: ZHarzV 10/1877, S. 119 u. Karte).</anmerkung>
       <anmerkung seite="145" nr="4">Alexander von Wernrode, Sohn des Ritters Albert von Wernrode, 8. Abt des Klosters und erw. als solcher vom 22. April 1352 bis 18. Okt. 1365 bei Köhler: llfelder Regesten.</anmerkung>
@@ -1870,7 +1942,8 @@
       <signatur>56</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="147" nr="2">Flurstedt: Dorf nö. Apolda. Thamsbrück: Stadt n, Langensalza.</anmerkung>
+      <anmerkung seite="147" nr="1">Flurstedt: Dorf nö. Apolda.</anmerkung>
+      <anmerkung nr="2">Thamsbrück: Stadt n, Langensalza.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="89" seite-von="148" seite-bis="149">
@@ -1886,22 +1959,22 @@
       <signatur>62</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="148" nr="1">Nach Hopf: Atlas u. Apfelstedt: Geschichte, S. 12f.: Günther XIV. in Hermannstein 1368 -1379, nach Europ. Stammtafeln, Bd. I/Il, Tf. 158: Günther XIII. f n a c h 1378. Käfernburg so. Arnstadt.</anmerkung>
+      <anmerkung seite="148" nr="1">Nach Hopf: Atlas u. Apfelstedt: Geschichte, S. 12f.: Günther XIV. in Hermannstein 1368 -1379, nach Europ. Stammtafeln, Bd. I/Il, Tf. 158: Günther XIII. † nach 1378. Käfernburg so. Arnstadt.</anmerkung>
       <anmerkung seite="148" nr="3">Hermannstein: Burg bei Manebach, w. Ilmenau.</anmerkung>
-      <anmerkung seite="148" nr="4">Nach Hopf: Atlas: Gebhard II. 1354 -11382, nach Europ. Stammtafeln, Bd. III, Tf. 41: Gebhard IV. 1357-15. Nov. 1382. s Nach Hopf: Atlas: Busso V. 1382 -1390, f vor 1392.</anmerkung>
-      <anmerkung seite="148" nr="6">Zuordnung nicht eindeutig möglich: nach Suhle: Beiträge, in: ZHarzV 41/42 (1908/1909) vermutl. Heinrich XIV. t nach 1392 o. Heinrich XVI. 1371 -1402, nach Hopf: Atlas: Heinrich VII. 1347; 1379 1390.</anmerkung>
+      <anmerkung seite="148" nr="4">Nach Hopf: Atlas: Gebhard II. 1354 -11382, nach Europ. Stammtafeln, Bd. III, Tf. 41: Gebhard IV. 1357-15. Nov. 1382. s Nach Hopf: Atlas: Busso V. 1382 -1390, † vor 1392.</anmerkung>
+      <anmerkung seite="148" nr="6">Zuordnung nicht eindeutig möglich: nach Suhle: Beiträge, in: ZHarzV 41/42 (1908/1909) vermutl. Heinrich XIV. † nach 1392 o. Heinrich XVI. 1371 -1402, nach Hopf: Atlas: Heinrich VII. 1347; 1379 1390.</anmerkung>
       <anmerkung seite="148" nr="7">Auch hier Zuordnung nicht sicher: nach Suhle: Beiträge: Heinrich XIII. 1360 Domherr zu Merseburg u. 1384 -1393 Bischof von Merseburg (auch als Heinrich VI. von Stolberg) o. Heinrich XV. 1365 Domherr zu Merseburg u. 1403 Gegenbischof in Merseburg, bei Hopf: Atlas: als Heinrich VIII.</anmerkung>
       <anmerkung seite="148" nr="8">Hedersleben: Dorf nö. Eisleben, Schultheiß Andreas 1391 nachw. bei Posse: C.D.S. I, B, Bd. 1: S. 300, Nr. 404.</anmerkung>
       <anmerkung seite="148" nr="9">Benndorfnw. Naumburg.</anmerkung>
       <anmerkung seite="148" nr="10">Hermann von Zimmern zusammen mit Schultheiß Andreas 1391 nachw., vgl. Anm. 8. Vermutl. Dorf Zimmern ö. Apolda o. sw. Langensalza (s. a. Dobenecker: Regesta, Bd. 4).</anmerkung>
-      <anmerkung seite="148" nr="11">Nach Hopf: Atlas u. Apfelstedt: Geschichte: Günther XV. 1376 -1385, letzter Sproß des Hauses Käfernburg, 1378 o. 1379 Ehe mit Mechthild blieb kinderlos, Wallfahrt ins Hl. Land, dort gestorben, Beisetzung im Kloster Georgenthal. Vor der Reise setzte er seiner Mutter u. seiner Gemahlin die Grafschaft Käfernburg als Leibgedinge u. die Burg zu lebenslänglicher Wohnung aus. Nach Europ. Stammtafeln, Bd. I/Il, Tf. 158: Günther XIV. f 1385.</anmerkung>
-      <anmerkung seite="148" nr="12">Mechthild t um 1387, Tochter des Grafen Albrecht von Mansfeld (Europ. Stammtafeln, Bd. I/Il, Tf. 158 u. Bd. III, Tf. 41: hier als Mathilde), nach Apfelstedt: Geschichte: Tochter des in der Urk. genannten Grafen Gebhard von Mansfeld o. Burchards von Mansfeld.</anmerkung>
+      <anmerkung seite="148" nr="11">Nach Hopf: Atlas u. Apfelstedt: Geschichte: Günther XV. 1376 -1385, letzter Sproß des Hauses Käfernburg, 1378 o. 1379 Ehe mit Mechthild blieb kinderlos, Wallfahrt ins Hl. Land, dort gestorben, Beisetzung im Kloster Georgenthal. Vor der Reise setzte er seiner Mutter u. seiner Gemahlin die Grafschaft Käfernburg als Leibgedinge u. die Burg zu lebenslänglicher Wohnung aus. Nach Europ. Stammtafeln, Bd. I/Il, Tf. 158: Günther XIV. † 1385.</anmerkung>
+      <anmerkung seite="148" nr="12">Mechthild † um 1387, Tochter des Grafen Albrecht von Mansfeld (Europ. Stammtafeln, Bd. I/Il, Tf. 158 u. Bd. III, Tf. 41: hier als Mathilde), nach Apfelstedt: Geschichte: Tochter des in der Urk. genannten Grafen Gebhard von Mansfeld o. Burchards von Mansfeld.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="90" seite-von="150" seite-bis="151" pruefen="true">
     <datum iso="1402-05-21">1402 Mai 21</datum>
     <ausstellungsort>Alten bürg</ausstellungsort>
-    <datierungsvermerk>(Gegeben ist z c r Oldenburg am suntage d e ' heiligen Dryvaldigheittage nach Gots gebort virczenhundert jar unde darnach in dem andern jare)</datierungsvermerk>
+    <datierungsvermerk>(Gegeben ist zou Oldenburg am suntage der heiligen Dryvaldigheittage nach Gots gebort virczenhundert jar unde darnach in dem andern jare)</datierungsvermerk>
     <regest>Die Brüder Friedrich und Wilhelm, Landgrafen von Thüringen (Duringen) und Markgrafen zu Meißen (Missen)1, Urkunden, daß ihre Geheimen Räte zwischen ihnen und dem Grafen Heinrich von Honstein (Honsteyn), Lohra (Lare) und Klettenberg (Clettinberg)2, seinen Söhnen, den Grafen Heinrich, Ernst und Günther 3 , den Brüdern und Grafen Günther, Albrecht und Volrad von Mansfeld", dem Grafen Ulrich von Regenstein (Reynsteyn) 5 sowie den Brüdern und Herren Johann, Busse und Proze von Querfurt (Quemfurte) 6 eine Übereinkunft getroffen haben, worauf Friedrich und Wilhelm versprechen, dem Grafen Otto von Honstein 7 , Sohn des genannten Grafen Heinrich, zur Übergabe des bischöflichen Schlosses in Merseburg und des Bistums bei der Kurie in Rom zu verhelfen. 8 Auch werden den Adligen Schutz und Beistand zugesichert.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigte Sekretsiegel der Aussteller</beglaubigungsform>
@@ -1910,14 +1983,14 @@
       <siegel>2 angehängte Wachssiegel an Pergamentpresseln, 3 Siegelstückchen abgebrochen. Links: Gemmensiegel Friedrichs, Siegelbild beschädigt Ø 35 mm. Rechts: Sekretsiegel Wilhelms, gebrochen und beschädigt, Ø 50mm1.</siegel>
       <sprache>frühneuhochdeutsch</sprache>
       <anmerkungen>
-        <anmerkung>Friedrich IV., der Streitbare * 1370 -11428, 1422 -1428 als Friedrich I. Kurfürst von Sachsen; Wilhelm IL, der Reiche * 1371 - 1425.</anmerkung>
-        <anmerkung>Nach Köhler: Stammtafeln, in: ZHarzV 42/1909 u. Europ. Stammtafeln, Bd. III, Tf. 47: Heinrich VII. 1366/7-f 1408.</anmerkung>
-        <anmerkung>Die Grafen von Honstein: Heinrich X. zu Klettenberg, erw. 1379 -11428/30; Ernst I. zu Klettenberg, erw. 1395 -1426/30; Günther erw. 1395 -1430 (vgl. ebd.).</anmerkung>
-        <anmerkung>Die Grafen von Mansfeld: Günther *(1360) -1412, Albrecht *(1376) -1416 u. Volrad *(1380) - 1450 nach Europ. Stammtafeln, Bd. III, Tf. 41.</anmerkung>
-        <anmerkung>Nach Schmidt: Genealogie, in: ZHarzV 22/1889: Ulrich VIII. 1371 -1410, nach Hopf: Atlas, S. 198f.: Ulrich IX. von Blankenburg u. Reinstein 1353 -1409.</anmerkung>
-        <anmerkung>Die Herren von Querfurt: nach Hopf: Atlas, S. 166f.: Johann II. 1411. Busse oder Busso III. 1396, Proze III. 1396-1423.</anmerkung>
-        <anmerkung>Otto von Honstein 1391 - 1407 , 4. Sohn Heinrichs VII., gehörte seit 1391 dem Domkapitel zu Merseburg an, 1403 -1406 Bischof von Merseburg, 1403 auch Propst in Nordhausen (vgl. die Lit. unter Anm. 2 u. Müller-Alpermann: Stand u. Herkunft, S. 49 - 51).</anmerkung>
-        <anmerkung>In der Lit. finden sich nur wenige Hinweise zu Ottos Amtseinsetzung: Der Vorgänger Ottos, Heinrich VI. von Oriamünde, wählte gegen den Willen des Kapitels Otto zu seinem Koadjutor, nach Heinrichs Resignation wurde Otto mit dem Bistum providiert (vgl. ebd. u. Streich: Reiseherrschaft u. Residenzbildung, S. 46, Anm. 84).</anmerkung>
+        <anmerkung nr="1">Friedrich IV., der Streitbare * 1370 -11428, 1422 -1428 als Friedrich I. Kurfürst von Sachsen; Wilhelm IL, der Reiche * 1371 - 1425.</anmerkung>
+        <anmerkung nr="2">Nach Köhler: Stammtafeln, in: ZHarzV 42/1909 u. Europ. Stammtafeln, Bd. III, Tf. 47: Heinrich VII. 1366/7-f 1408.</anmerkung>
+        <anmerkung nr="3">Die Grafen von Honstein: Heinrich X. zu Klettenberg, erw. 1379 -11428/30; Ernst I. zu Klettenberg, erw. 1395 -1426/30; Günther erw. 1395 -1430 (vgl. ebd.).</anmerkung>
+        <anmerkung nr="4">Die Grafen von Mansfeld: Günther *(1360) -1412, Albrecht *(1376) -1416 u. Volrad *(1380) - 1450 nach Europ. Stammtafeln, Bd. III, Tf. 41.</anmerkung>
+        <anmerkung nr="5">Nach Schmidt: Genealogie, in: ZHarzV 22/1889: Ulrich VIII. 1371 -1410, nach Hopf: Atlas, S. 198f.: Ulrich IX. von Blankenburg u. Reinstein 1353 -1409.</anmerkung>
+        <anmerkung nr="6">Die Herren von Querfurt: nach Hopf: Atlas, S. 166f.: Johann II. 1411. Busse oder Busso III. 1396, Proze III. 1396-1423.</anmerkung>
+        <anmerkung nr="7">Otto von Honstein 1391 - 1407 , 4. Sohn Heinrichs VII., gehörte seit 1391 dem Domkapitel zu Merseburg an, 1403 -1406 Bischof von Merseburg, 1403 auch Propst in Nordhausen (vgl. die Lit. unter Anm. 2 u. Müller-Alpermann: Stand u. Herkunft, S. 49 - 51).</anmerkung>
+        <anmerkung nr="8">In der Lit. finden sich nur wenige Hinweise zu Ottos Amtseinsetzung: Der Vorgänger Ottos, Heinrich VI. von Oriamünde, wählte gegen den Willen des Kapitels Otto zu seinem Koadjutor, nach Heinrichs Resignation wurde Otto mit dem Bistum providiert (vgl. ebd. u. Streich: Reiseherrschaft u. Residenzbildung, S. 46, Anm. 84).</anmerkung>
       </anmerkungen>
       <signatur>83</signatur>
     </ueberlieferung>
@@ -1929,16 +2002,20 @@
     <datum iso="1554-02-13">1554 Februar 13</datum>
     <ausstellungsort>Dresden</ausstellungsort>
     <datierungsvermerk>(Geben zu Dresden dinstags nach Invocavit und der geburt Christi unsers lieben Herren und Seligmachers tawsentfunffhundert und im vierundfunffzigsten)</datierungsvermerk>
-    <regest>Kurfürst August, Herzog von Sachsen usw.1, belehnt nach Ableben seines Bruders Moritz, Kurfürst und Herzog von Sachsen2, Valentin und Joachim von Hausen (Hawsen), Söhne des verstorbenen Christophs von Hausen, und Georg 3 , Sigmund, Hans und Friedrich von Hausen, Söhne des verstorbenen Melchiors von Hausen 4 , sowie Vetter Berit von Hausen mit ihrem umfangreichen Lehnsbesitz an Land, G ü tern, Zinsen und Einkünften5 zur gesamten Hand mit allen bisher besessenen Freiheiten, Würden und Rechten und zwar Valentin und Joachim zu Lützensömmern (Lutzensomerinngen) 6 mit dem Besitz in Lützensömmern, Kutzleben 7 , Haus-Sömmern (Haus Sumerinngen) 8 , Mittel-Sömmern (Mittl Sommeringen) 9 , Hom-Sömmern (Hörn Sommeringen) 10 , Weißensee (Weyssennsehe) 11 , Frömmstedt (Frembstett) 12 , Bilzingsleben (Bultzisleubenn)13, Kindelbrück (Kinndelbrucken)14, Ludersborn 15 , Ringleben (Rinnckleuben) 16 und Wenigen-Ballhausen (Wenigennbalnhausen) 17 sowie Georg, Sigmund, Hans und Friedrich zu Schönstedt (Sonnersstett/Schonnerstedt/Shonnstet) 18 mit dem Besitz in Schönstedt, Großengottern (Bishofsguttern)19, "Helbenshausen", "Oberaw Buchenaw", Langensalza Thamcfh'-' U w ? V 6 n ( U f f h o v e n )52 ' l l l e b e n (Hleuben)3. Merxleben (Merxleuben)' und Thamsbruck (Tumisbrucken) . ' s d ? r ' f t U d I s s d b e n r m : a n g e k Ü n d i g t e s S i e 9 e l d e s Ausstellers und eigenhändige Unterlinks unten: Augustus Churfuerst Zeugen, herr Wolf, graff und herr zu Barby und Muhlinngen [Mühlingen]6- herr Uinstoff von Tawbenheim [Taubenheim], ritter7; herr Jeronimus Kisewetter IKiesewetter], unser cantzler 3 , herr Ulrich Mordeysen [Mordeisen], beide der recht doctores ; Aßmus von der Pfortten [Pforte]10 und andere der unsern mehr...</regest>
+    <regest>Kurfürst August, Herzog von Sachsen usw.1, belehnt nach Ableben seines Bruders Moritz, Kurfürst und Herzog von Sachsen2, Valentin und Joachim von Hausen (Hawsen), Söhne des verstorbenen Christophs von Hausen, und Georg 3 , Sigmund, Hans und Friedrich von Hausen, Söhne des verstorbenen Melchiors von Hausen 4 , sowie Vetter Berit von Hausen mit ihrem umfangreichen Lehnsbesitz an Land, G ü tern, Zinsen und Einkünften5 zur gesamten Hand mit allen bisher besessenen Freiheiten, Würden und Rechten und zwar Valentin und Joachim zu Lützensömmern (Lutzensomerinngen) 6 mit dem Besitz in Lützensömmern, Kutzleben 7 , Haus-Sömmern (Haus Sumerinngen) 8 , Mittel-Sömmern (Mittl Sommeringen) 9 , Hom-Sömmern (Hörn Sommeringen) 10 , Weißensee (Weyssennsehe) 11 , Frömmstedt (Frembstett) 12 , Bilzingsleben (Bultzisleubenn)13, Kindelbrück (Kinndelbrucken)14, Ludersborn 15 , Ringleben (Rinnckleuben) 16 und Wenigen-Ballhausen (Wenigennbalnhausen) 17 sowie Georg, Sigmund, Hans und Friedrich zu Schönstedt (Sonnersstett/Schonnerstedt/Shonnstet) 18 mit dem Besitz in Schönstedt, Großengottern (Bishofsguttern)19, "Helbenshausen", "Oberaw Buchenaw", Langensalza (Saltza)1, Ufhoven (Uffhoven)2, Illeben (Illeuben)3, Merxleben (Merxleuben)4, und Thamsbrück (Tumisbrucken)5.</regest>
     <ueberlieferung>
       <beschreibstoff>Pergament 560 x 440 mm, 120 mm Umbug</beschreibstoff>
       <erhaltungszustand>gut, besonders im rechten und unteren Teil Flecken, ein kreisrunder Fleck rechts oben, vermutlich vom Siegel, Risse im linken Falz und im Umbug an der Siegelbefestigung</erhaltungszustand>
       <siegel>angehängtes rotes Wachssiegel ( Ø 80 mm) in brauner Wachsschüssel ( Ø 110 mm) an Pergamentpressel, Schüssel außen beschädigt, Pressel gerissen und wieder angenäht, jedoch seitenverkehrt</siegel>
       <sprache>frühneuhochdeutsch</sprache>
+      <beglaubigungsform>angekündigtes Siegel des Ausstellers und eigenhändige Unterschrift desselben: links unten: Augustus Churfuerst </beglaubigungsform>
+      <zeugen>herr Wolf, graff und herr zu Barby und Muhlinngen [Mühlingen]6- herr Uinstoff von Tawbenheim [Taubenheim], ritter7; herr Jeronimus Kisewetter [Kiesewetter], unser cantzler 3 , herr Ulrich Mordeysen [Mordeisen], beide der recht doctores ; Aßmus von der Pfortten [Pforte]10 und andere der unsern mehr...</zeugen>
       <signatur>203</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung seite="152" nr="1">Albertinische Linie des Hauses Sachsen: August I. * 31. 7. 1 5 2 6 - 1 1 1 2 . 1586, Kurfürst 1553 - 1586. Moritz I.* 21. 3. 1521 - f 11. 7. 1553, Herzog seit 1541, Kurfürst 1547 -1553. Von Hausen: thüringischer Uradel mit gleichnamigem, nicht mehr existierendem Stammhaus so. Kindelbrück, nahe der Unstrut, schon zeitig gesessen in Lützensömmern, Schönstedt u. Großballhausen, die Herren von Hausen treten in die landgräfliche Ministerialitat über. Die Stammreihen weisen nur Georg als Sohn Melchiors aus: * um 1541 - f um 1586, Herr auf Schönstedt (Goth. TB uradl. Häuser 9/1908; Jahrbuch dt. Adel, Bd. 3, S. 173ff.). Davon abweichend Königs Stammreihe in: Gen. Adels-Historie, 2. T., S. 475-483, hier hat Melchior 2 Söhne: Friedrich (Schönstedt u. Großballhausen) und Longinus (Schönstedt u. Lützensömmern).</anmerkung>
+      <anmerkung seite="152" nr="1">Albertinische Linie des Hauses Sachsen: August I. * 31. 7. 1526 - † 11. 12. 1586, Kurfürst 1553 - 1586.</anmerkung>
+      <anmerkung nr="2">Moritz I.* 21. 3. 1521 - f 11. 7. 1553, Herzog seit 1541, Kurfürst 1547 -1553.</anmerkung>
+      <anmerkung nr="3">Von Hausen: thüringischer Uradel mit gleichnamigem, nicht mehr existierendem Stammhaus so. Kindelbrück, nahe der Unstrut, schon zeitig gesessen in Lützensömmern, Schönstedt u. Großballhausen, die Herren von Hausen treten in die landgräfliche Ministerialitat über. Die Stammreihen weisen nur Georg als Sohn Melchiors aus: * um 1541 - f um 1586, Herr auf Schönstedt (Goth. TB uradl. Häuser 9/1908; Jahrbuch dt. Adel, Bd. 3, S. 173ff.). Davon abweichend Königs Stammreihe in: Gen. Adels-Historie, 2. T., S. 475-483, hier hat Melchior 2 Söhne: Friedrich (Schönstedt u. Großballhausen) und Longinus (Schönstedt u. Lützensömmern).</anmerkung>
       <anmerkung seite="152" nr="4">Melchior 1516 - 1540, 1554 tot, Herr auf Schönstedt.</anmerkung>
       <anmerkung seite="152" nr="5">In der Urk. werden für jeden einzelnen Ort Besitz, Einkünfte und Rechte detailliert aufgeführt.</anmerkung>
       <anmerkung seite="152" nr="8">Lützensömmern o. Klein-Sömmem: Dorf nö. Tennstedt, w. Weißensee.</anmerkung>
@@ -1955,16 +2032,16 @@
       <anmerkung seite="152" nr="17">Klein- o. Wenigen-Ballhausen: Dorf u. Schloß ö. Tennstedt, nö. Langensalza.</anmerkung>
       <anmerkung seite="152" nr="18">Schönstedt: Dorf so. Großengottern, w. Langensalza.</anmerkung>
       <anmerkung seite="152" nr="19">Großengottern, früher Bischofsgottern: w. Thamsbrück, so. Mühlhausen.</anmerkung>
-      <anmerkung>1 Langensalza: Stadt so. Mühlhausen.</anmerkung>
-      <anmerkung>2 Ufhoven: sw. Langensalza.</anmerkung>
-      <anmerkung>3 Hieben: Dorf bei Langensalza.</anmerkung>
-      <anmerkung>4 Merxleben: Dorf nö. Langensalza.</anmerkung>
-      <anmerkung>5 Thamsbruck: Stadt n. Langensalza.</anmerkung>
-      <anmerkung>6 Die Grafen von Barby-Mühlingen: Wolfgang I. seit 1522 Mitregent, allein 1535 - f 1565, Barby so. Magdeburg, Mühlingen n. Bernburg.</anmerkung>
-      <anmerkung>7 Christoph von Taubenheim auf Bedra, ernestinischer Rat u. Amtmann zu Altenburg 1493 -1554 (Herrmann/Wartenberg: Korrespondenz, Reg. v. Bd. 3); Taubenheim: Dorf nw. Wilsdruff, s. Meißen.</anmerkung>
-      <anmerkung>8 Dr. Hieronymus Kiesewetter, Kanzler von Herzog August, 1512 -1586 (vgl. ebd.).</anmerkung>
-      <anmerkung>9 Dr. Ulrich Mordeisen, albertinischer Rat u. Kanzler, 1519-1572 (ebd.).</anmerkung>
-      <anmerkung>10 Pforte/Pforta: Schulpforte bei Bad Kosen, w. Naumburg, seit 1137 Zisterzienserkloster, nach der Säkularisierung gründete Moritz von Sachsen hier 1543 eine fürstliche Landesschule.</anmerkung>
+      <anmerkung seite="153" nr="1">Langensalza: Stadt so. Mühlhausen.</anmerkung>
+      <anmerkung seite="153" nr="2">Ufhoven: sw. Langensalza.</anmerkung>
+      <anmerkung seite="153" nr="3">Hieben: Dorf bei Langensalza.</anmerkung>
+      <anmerkung seite="153" nr="4">Merxleben: Dorf nö. Langensalza.</anmerkung>
+      <anmerkung seite="153" nr="5">Thamsbruck: Stadt n. Langensalza.</anmerkung>
+      <anmerkung seite="153" nr="6">Die Grafen von Barby-Mühlingen: Wolfgang I. seit 1522 Mitregent, allein 1535 - † 1565, Barby so. Magdeburg, Mühlingen n. Bernburg.</anmerkung>
+      <anmerkung seite="153" nr="7">Christoph von Taubenheim auf Bedra, ernestinischer Rat u. Amtmann zu Altenburg 1493 -1554 (Herrmann/Wartenberg: Korrespondenz, Reg. v. Bd. 3); Taubenheim: Dorf nw. Wilsdruff, s. Meißen.</anmerkung>
+      <anmerkung seite="153" nr="8">Dr. Hieronymus Kiesewetter, Kanzler von Herzog August, 1512 -1586 (vgl. ebd.).</anmerkung>
+      <anmerkung seite="153" nr="9">Dr. Ulrich Mordeisen, albertinischer Rat u. Kanzler, 1519-1572 (ebd.).</anmerkung>
+      <anmerkung seite="153" nr="10">Pforte/Pforta: Schulpforte bei Bad Kosen, w. Naumburg, seit 1137 Zisterzienserkloster, nach der Säkularisierung gründete Moritz von Sachsen hier 1543 eine fürstliche Landesschule.</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="92" seite-von="154" seite-bis="154">
@@ -1986,7 +2063,7 @@
       <anmerkung seite="154" nr="3">Fam. Schmidt zu Eger 1399 -1804 u. ein Erhard Schmidt 1553 ebd. nachw.</anmerkung>
       <anmerkung seite="154" nr="4">Mathes Felber 1539 ebd. nachw.</anmerkung>
       <anmerkung seite="154" nr="5">Fam. Mayer zu Eger 1495 -1808 u. Hans Mayer 1538, 1564 sowie 1565 ebd. nachw.</anmerkung>
-      <anmerkung seite="154" nr="6">örtlichkeit in Eger. In einer Urkunde v. 1493 August 21 kauft Caspar Richter ein Haus am Rosenpuhel (vgl. ebd.).</anmerkung>
+      <anmerkung seite="154" nr="6">Örtlichkeit in Eger. In einer Urkunde v. 1493 August 21 kauft Caspar Richter ein Haus am Rosenpuhel (vgl. ebd.).</anmerkung>
       <anmerkung seite="154" nr="7">Fam. Richter zu Eger 1474 -1539 u. die nachgelassene Witwe des Hans Richter, Dorothea, 1537 ebd. nachw.</anmerkung>
       <anmerkung seite="154" nr="8">Fam. Brunner auch Prunner o. Pronnerzu Eger 1432 -1631 u. Michael Brunner 1548 ebd. nachw.</anmerkung>
       <anmerkung seite="154" nr="9">Fam. Ruprecht zu Eger 1474 -1750 u. Peter Ruprecht 1572 als Bürgermeister ebd. nachw.</anmerkung>
@@ -1994,7 +2071,7 @@
   </urkunde>
   <urkunde nr="93" seite-von="155" seite-bis="155">
     <datum>[15]51 März 11</datum>
-    <datierungsvermerk>(Geben a m mittwoch noch Letare anno domini ainundfunfzigk der wenigem zall)</datierungsvermerk>
+    <datierungsvermerk>(Geben am mittwoch noch Letare anno domini ainundfunfzigk der wenigem zall)</datierungsvermerk>
     <regest>Nickel Hammerschmidt (Hamerschmidtt)1 zu Pograth (Pogradtt)2 verkauft an Ulrich Lentz und Erben für eine nicht näher bezeichnete Geldsumme seinen zu Taubrath (Taubratt) , hinter dem Hof von Wolf Baier4 und zwischen den Höfen der Familien Pergauer5 und Kessler (Kesler)6 gelegenen Hof mit Grund- und Bodennutzungsrecht sowie allem Zubehör, von dem die Herren der Pfarrkirche St. Nikolaus zu Eqer7 so wie der Komtur daselbst8 einen jährlichen Erbzins und den Getreidezehnt erhalten und verzichtet für sich und seine Erben auf alle Ansprüche daran.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigte Siegel der Zeugen</beglaubigungsform>
@@ -2006,16 +2083,16 @@
       <signatur>111</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>1 Fam. Hammerschmidt zu Eger (1479 -1516) u. Nickel Hammerschmidt zu Taubrath (1541 Febr. 1: Hans Kessler verkauft Nickel Hammerschmidt einen Hof zu Taubrath), jedoch nicht zu Pograth nachw. bei Siegl: Kataloge Egerer Stadtarchiv.</anmerkung>
-      <anmerkung>2 Pograth: so. Eger, tschechisch Podhrad (Ortslexikon böhmische Lander u. Schwarz: Ortsnamen Sudetenländer).</anmerkung>
-      <anmerkung>3 Taubrath: so. Eger, tschechisch Doubrava (vgl. ebd.).</anmerkung>
-      <anmerkung>4 Fam. Baier zu Taubrath u. zu Eger 1440 -1768 u. Wolf Baier 1536 sowie sein Testament 1547 November 9 nachw. bei Siegl: Kataloge Egerer Stadtarchiv.</anmerkung>
-      <anmerkung>5 Fam. Pergauer mit Besitz in Taubrath u. später auch als Farn. Bergauer zu Eger bis 1750 ebd. nachw.</anmerkung>
-      <anmerkung>6 Farn. Kessler zu Eger 1441 -1606 u. mit Besitz in Taubrath ebd. nachw.</anmerkung>
-      <anmerkung>7 Eger in Westböhmen: heute Cheb. </anmerkung>
-      <anmerkung>8 In Eger befanden sich die Kommenden des Deutschen Ordens u. des Kreuzherrenordens. Komtur der Deutschherren war 1540 -1559 Nicolaus Sachs, Komtur u. Spitalmeister der Kreuzherren war 1528 -1559 Sebastian Hörn (vgl. Siegl: Kataloge Egerer Stadtarchiv, S. 209f.).</anmerkung>
-      <anmerkung>9 Farn. Ruprecht zu Eger 1474 -1750 u. Peter Ruprecht 1572 als Bürgermeister ebd. nachw. </anmerkung>
-      <anmerkung>10 Farn. Wassermann zu Eger 1496 -1595 u. Georg Wassermann 1534 - 1595 ebd. nachw. 3 Pommern</anmerkung>
+      <anmerkung nr="1">Fam. Hammerschmidt zu Eger (1479 -1516) u. Nickel Hammerschmidt zu Taubrath (1541 Febr. 1: Hans Kessler verkauft Nickel Hammerschmidt einen Hof zu Taubrath), jedoch nicht zu Pograth nachw. bei Siegl: Kataloge Egerer Stadtarchiv.</anmerkung>
+      <anmerkung nr="2">Pograth: so. Eger, tschechisch Podhrad (Ortslexikon böhmische Lander u. Schwarz: Ortsnamen Sudetenländer).</anmerkung>
+      <anmerkung nr="3">Taubrath: so. Eger, tschechisch Doubrava (vgl. ebd.).</anmerkung>
+      <anmerkung nr="4">Fam. Baier zu Taubrath u. zu Eger 1440 -1768 u. Wolf Baier 1536 sowie sein Testament 1547 November 9 nachw. bei Siegl: Kataloge Egerer Stadtarchiv.</anmerkung>
+      <anmerkung nr="5">Fam. Pergauer mit Besitz in Taubrath u. später auch als Fam. Bergauer zu Eger bis 1750 ebd. nachw.</anmerkung>
+      <anmerkung nr="6">Fam. Kessler zu Eger 1441 -1606 u. mit Besitz in Taubrath ebd. nachw.</anmerkung>
+      <anmerkung nr="7">Eger in Westböhmen: heute Cheb. </anmerkung>
+      <anmerkung nr="8">In Eger befanden sich die Kommenden des Deutschen Ordens u. des Kreuzherrenordens. Komtur der Deutschherren war 1540 -1559 Nicolaus Sachs, Komtur u. Spitalmeister der Kreuzherren war 1528 -1559 Sebastian Hörn (vgl. Siegl: Kataloge Egerer Stadtarchiv, S. 209f.).</anmerkung>
+      <anmerkung nr="9">Fam. Ruprecht zu Eger 1474 -1750 u. Peter Ruprecht 1572 als Bürgermeister ebd. nachw. </anmerkung>
+      <anmerkung nr="10">Fam. Wassermann zu Eger 1496 -1595 u. Georg Wassermann 1534 - 1595 ebd. nachw. 3 Pommern</anmerkung>
     </anmerkungen>
   </urkunde>
   <urkunde nr="94" seite-von="156" seite-bis="156">
@@ -2032,13 +2109,13 @@
       <signatur>227</signatur>
     </ueberlieferung>
     <anmerkungen>
-      <anmerkung>a Die "Acht" bei Achtzig übergeschrieben.</anmerkung>
-      <anmerkung>b Das "Sa" bei Sameil an zwei Textstellen nachgeschrieben.</anmerkung>
-      <anmerkung>1 Stolp in Hinterpommern, heute: Slupsk. Der Rat der Stadt bestand bis 1720 aus 3 Bürgermeistern, 2 Kämmerern u. 7 Ratsherren (Dt. Städtebuch, I).</anmerkung>
-      <anmerkung>2 Zwei Schreibweisen des Familiennamens im Text.</anmerkung>
-      <anmerkung>3 Danzig, heute: Gdarisk.</anmerkung>
-      <anmerkung>4 Zu dieser Zeit existierten zwei Hospitäler in Stolp: das Heilig-Geist-Hospital vor dem Neuen Tore, 1311 gegründet u. reichste u. vornehmste Stiftung der Stadt, 1590 mit 40 Hospitanten sowie das St. Georgs-Hospital neben dem Hospital St. Spiritus, es entstand ca. 150 Jahre später, auch das "Siechenhaus" genannt, da für Pest- u. Seuchenbefallene u. von Anfang an das Armenhaus, 1590 mit 30 Hospitanten, 1901/1902 wurden im Neubau an der Amtsstr. beide Hospitäler vereinigt (vgl. Borck/Bonin: Hospitäler Stadt Stolp u. den Abschnitt: Gesundheits- u. Fürsorgewesen der Stadt Stolp, in: Schuppius: Stolp v. 1600 -1650, S. 51 - 58).</anmerkung>
-      <anmerkung>5 Der Familienname "Peter" konnte ebd., im bevölkerungskundlichen Anhang bzw. bei ders.: Familiennamen v. Stolp, nicht nachgewiesen werden.</anmerkung>
+      <anmerkung nr="a">Die "Acht" bei Achtzig übergeschrieben.</anmerkung>
+      <anmerkung nr="b">Das "Sa" bei Sameil an zwei Textstellen nachgeschrieben.</anmerkung>
+      <anmerkung nr="1">Stolp in Hinterpommern, heute: Slupsk. Der Rat der Stadt bestand bis 1720 aus 3 Bürgermeistern, 2 Kämmerern u. 7 Ratsherren (Dt. Städtebuch, I).</anmerkung>
+      <anmerkung nr="2">Zwei Schreibweisen des Familiennamens im Text.</anmerkung>
+      <anmerkung nr="3">Danzig, heute: Gdarisk.</anmerkung>
+      <anmerkung nr="4">Zu dieser Zeit existierten zwei Hospitäler in Stolp: das Heilig-Geist-Hospital vor dem Neuen Tore, 1311 gegründet u. reichste u. vornehmste Stiftung der Stadt, 1590 mit 40 Hospitanten sowie das St. Georgs-Hospital neben dem Hospital St. Spiritus, es entstand ca. 150 Jahre später, auch das "Siechenhaus" genannt, da für Pest- u. Seuchenbefallene u. von Anfang an das Armenhaus, 1590 mit 30 Hospitanten, 1901/1902 wurden im Neubau an der Amtsstr. beide Hospitäler vereinigt (vgl. Borck/Bonin: Hospitäler Stadt Stolp u. den Abschnitt: Gesundheits- u. Fürsorgewesen der Stadt Stolp, in: Schuppius: Stolp v. 1600 -1650, S. 51 - 58).</anmerkung>
+      <anmerkung nr="5">Der Familienname "Peter" konnte ebd., im bevölkerungskundlichen Anhang bzw. bei ders.: Familiennamen v. Stolp, nicht nachgewiesen werden.</anmerkung>
     </anmerkungen>
   </urkunde>
 </urkundensammlung>
