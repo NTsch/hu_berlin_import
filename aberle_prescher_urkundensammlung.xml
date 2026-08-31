@@ -348,7 +348,7 @@
       <anmerkung seite="49" nr="6">Ulrich von Stetten, als Burgmann in Oppenheim 1447 urkl. (Franck: Geschichte, Urk. Nr. 186, S. 483). Burg Stetten ö. Kirchheim-Bolanden; sich nach der Burg nennende Ministerialen im 14. Jh. durch den Pfalzgrafen mehrfach belehnt (Spieß: Lehnbuch, Nr. 132f., Erläuterungen).</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="15" seite-von="50" seite-bis="50" pruefen="true">
+  <urkunde nr="15" seite-von="50" seite-bis="50">
     <datum iso="1475-09-20">1475 September 20</datum>
     <ausstellungsort>Dirmstein<footnote>1</footnote></ausstellungsort>
     <datierungsvermerk>(Datum in castro nostro Dirmstein vicesima die mensis septembris anno domini millesimoquadringentesimo septuagesimo quinto)</datierungsvermerk>
@@ -811,7 +811,7 @@
       <anmerkung seite="76" nr="1">Gemmensiegel seit 1897 vermißt (ebd., S. 350); noch abgebildet in: Kaiserurkk. in Abb.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="36" seite-von="77" seite-bis="77" pruefen="true">
+  <urkunde nr="36" seite-von="77" seite-bis="77">
     <datum>1352 April 12</datum>
     <ausstellungsort>Winterthur<footnote>1</footnote></ausstellungsort>
     <datierungsvermerk>(Der geben ward ze Winterrut in dem jar do man zalt von Cristes gebuirt druizehenhundert jar darnah in dem zwai und fuinfczigesten jar an dem naehsten fritag ze ussgaender Osterwochen)</datierungsvermerk>
@@ -1208,7 +1208,7 @@
       <anmerkung seite="98" nr="6">Ort Halle bei Wickensen/Braunschweig; Farn, von in Hildesheim ebd. nachw.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="53" seite-von="99" seite-bis="99" pruefen="true">
+  <urkunde nr="53" seite-von="99" seite-bis="99">
     <datum>[15]91 April 5 [alter Stil]</datum>
     <datierungsvermerk>(Gescheen montags in den heiligen Ostern anno der weiniger zahl<footnote>1</footnote> einundneunzigk)</datierungsvermerk>
     <regest>Statius von Münchhausen (Monnighausen)<footnote>2</footnote>, Sohn des verstorbenen Oberst Hilmar von Münchhausen, bestätigt Hans Storren<footnote>3</footnote>, Bürger zu Hildesheim (Hildenßheim), daß dieser ihm ein Darlehen von 1.500 Reichstalern gewährt hat und verspricht, bis zur Tilgung der Gesamtschuld, die Zahlung von <footnote>6</footnote> % Jahreszins mit dem beidseitigen Recht, diesen Vertrag jährlich zu Weihnachten aufkündigen zu können. Die Bürgen des Ausstellers Christoph Wolf von Gadenstedt (Gadenstitt)* und Hilmar von Münchhausen, Bruder des Ausstellers und Sohn des Obersten, verpflichten sich, bei Säumigkeit und nach Mahnung der Gläubiger, zum Einlager in Hildesheim.</regest>
@@ -1971,7 +1971,7 @@
       <anmerkung seite="148" nr="12">Mechthild † um 1387, Tochter des Grafen Albrecht von Mansfeld (Europ. Stammtafeln, Bd. I/Il, Tf. 158 u. Bd. III, Tf. 41: hier als Mathilde), nach Apfelstedt: Geschichte: Tochter des in der Urk. genannten Grafen Gebhard von Mansfeld o. Burchards von Mansfeld.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="90" seite-von="150" seite-bis="151" pruefen="true">
+  <urkunde nr="90" seite-von="150" seite-bis="151">
     <datum iso="1402-05-21">1402 Mai 21</datum>
     <ausstellungsort>Alten bürg</ausstellungsort>
     <datierungsvermerk>(Gegeben ist zou Oldenburg am suntage der heiligen Dryvaldigheittage nach Gots gebort virczenhundert jar unde darnach in dem andern jare)</datierungsvermerk>
