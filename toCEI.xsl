@@ -32,6 +32,29 @@
     </xsl:template>
     
     <xsl:template match="urkunde">
+        <xsl:choose>
+            <xsl:when test="teildokumente">
+                <xsl:apply-templates select="teildokumente/ueberlieferungseinheit"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:call-template name="charter-contents"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="ueberlieferungseinheit[1]">
+        <xsl:call-template name="charter-contents"/>
+        
+    </xsl:template>
+    
+    <xsl:template match="ueberlieferungseinheit[position() != 1]">
+        <xsl:call-template name="charter-contents">
+            <xsl:with-param name="main-charter-ref" select="..//signatur/text()"/>
+        </xsl:call-template>
+    </xsl:template>
+    
+    <xsl:template name="charter-contents">
+        <xsl:param name="main-charter-ref"/>
         <cei:text type='charter'>
             <cei:front>
                 <xsl:apply-templates select="ueberlieferung/druck"/>
@@ -58,14 +81,18 @@
                         </cei:auth>
                     </cei:witnessOrig>
                     <cei:diplomaticAnalysis>
+                        <xsl:apply-templates select="vermerk"/>
                         <xsl:apply-templates select="ueberlieferung/besonderheit"/>
                         <xsl:apply-templates select="datierungsvermerk"/>
                     </cei:diplomaticAnalysis>
                     <xsl:apply-templates select="ueberlieferung/sprache"/>
                 </cei:chDesc>
             </cei:body>
-            
-            <cei:back></cei:back>
+            <cei:back>
+                <xsl:if test="$main-charter-ref">
+                    <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) inseriert in: ', $main-charter-ref, '.1')"/>
+                </xsl:if>
+            </cei:back>
         </cei:text>
     </xsl:template>
     
@@ -149,14 +176,15 @@
         </cei:quoteOriginaldatierung>
     </xsl:template>
     
-    <xsl:template match="besonderheit">
+    <xsl:template match="besonderheit | vermerk">
         <cei:p>
             <xsl:apply-templates/>
         </cei:p>
     </xsl:template>
     
     <!-- TODO: -->
-    <!-- Transfixe / Fragmente (?) getrennt mit cei:class Transfix (+ VID-Referenz) -->
     <!-- Fußnoten -->
+    <!-- archIdentifier -->
+    <!-- imgs -->
     
 </xsl:stylesheet>
