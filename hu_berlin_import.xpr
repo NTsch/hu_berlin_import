@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>mueller_urkundensammlung.xml</String>
+                                    <String>aberle_prescher_urkundensammlung.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>aberle_prescher_urkundensammlung.xml</String>
+                                    <String>mueller_urkundensammlung.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

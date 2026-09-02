@@ -50,6 +50,7 @@
           <erhaltungszustand>gut</erhaltungszustand>
           <siegel>ehemals an Pressel abhängendes Wachssiegel des Ausstellers bis auf geringen Rest nicht mehr vorhanden</siegel>
           <sprache>mittellateinisch</sprache>
+          <signatur>42</signatur>
         </ueberlieferung>
       </ueberlieferungseinheit>
       <teildokument bezeichnung="1. Transfix">
@@ -70,7 +71,6 @@
           <beschreibstoff>Pergament 170 x 21/39 mm</beschreibstoff>
           <erhaltungszustand>wegen verblaßter Tinte schlecht lesbar</erhaltungszustand>
           <sprache>mittellateinisch</sprache>
-          <signatur>42</signatur>
         </ueberlieferung>
       </teildokument>
     </teildokumente>
@@ -104,7 +104,7 @@
   </urkunde>
   <urkunde nr="4" seite-von="37" seite-bis="37">
     <vermerk>Fragment</vermerk>
-    <datum>1380 März</datum>
+    <datum iso="1380-03-99">1380 März</datum>
     <ausstellungsort>[Köln]</ausstellungsort>
     <datierungsvermerk>(Datum anno domini M° trecentesimo octuagesimo mensis martii die ...)</datierungsvermerk>
     <regest>Der Dekan der Kirche St. Maria ad Gradus in Köln (decanus ecclesie beate Marie ad gradus Coloniensis)', Archidiakon für das Dekanat Dortmund (archidiaconus [...] Tremonie[nsis]), weist die Vikare und Kleriker der Kirchen, Kapellen und Altäre an, seine auf Bitten des Pastors Gerlach von Stimmern (de Summeren, pastorem)<footnote>2</footnote> getroffene Entscheidung bezüglich der Einkünfte des St. Ägidius-Altars<footnote>3</footnote> in der Kirche zu Hamm (ecclesia Hammonensis)' öffentlich zu verkünden und gegen Widersetzliche (rebelles) durchzusetzen. Die Adressaten werden aufgefordert, mit besiegelten Transfixen die von ihnen getroffenen Maßnahmen mitzuteilen.</regest>
@@ -254,7 +254,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="11" seite-von="45" seite-bis="46">
-    <datum>1307 Juli 27[1]</datum>
+    <datum iso="1307-07-27">1307 Juli 27[1]</datum>
     <datierungsvermerk>(Diz geschach und dirre brief ist gegeben an deme dunrestage vor sante Natzerien tage da man zalthe von Cristes geburthe druzehen hundert jar und dar nach in deme sibendem jare)</datierungsvermerk>
     <regest>Jofried von Leiningen (Schofrid [...] von Liningen)<footnote>2</footnote> und seine Ehefrau Agnes <footnote>3</footnote> verkaufen mit Einverständnis seiner Eltern, des Grafen Friedrich von Leiningen' und dessen Frau Johanna <footnote>5</footnote> , dem Ritter Friedrich von Meckenheim <footnote>6</footnote> dem Alten die Burg Gundheim (Guntheim) <footnote>7</footnote> mit Burgmannen, Burglehen und allen Rechten und Zubehör in der Gemarkung des Dorfes Gundheim für 2000 Pfund Heller und verzichten damit auf alle Ansprüche und verbrieften Rechte bezüglich der Burg, insbesondere verzichtet Agnes gänzlich auf ihr Wittum, das auf die Burg angewiesen worden war. Die Wormser Richter bestätigen den Verkauf.</regest>
     <ueberlieferung>
@@ -327,7 +327,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="14" seite-von="49" seite-bis="49">
-    <datum>1446</datum>
+    <datum iso="1446-99-99">1446</datum>
     <datierungsvermerk>(Gegeben is do man schreiff von Gotes gebuort in latin millesimo quadringentesimo quadragesimo sexto)</datierungsvermerk>
     <regest>Ludwig Hutscher zu Laumersheim (Lwmerßheym)' hat vom Kloster Kirschgarten (Kirßgarten) , Besitzer und Verwalter des Frauenklosters Frankenthal (Frankendael)<footnote>3</footnote> Guter in Erbpacht genommen, und zwar einen Morgen Acker "an dem Dirmsteinerberge" neben dem Acker des Frauenklosters Frankenthal, einen Morgen "an dem Mergelwege", dem Acker der von Werswar benachbart, und drei Viertel neben dem Acker des Hl.-Kreuz-Altars <footnote>5</footnote> ebenfalls dort. Die jährliche Pacht von 26 Schilling Heller Wormser Wahrung ist den Konventualen oder ihrem Schaffner am St. Martinstag, spätestens aber bis Weihnachten zu zahlen, da andernfalls die Güter wieder dem Kloster verfallen. Hutscher gelobt, die Güter ordentlich zu bewirtschaften.</regest>
     <ueberlieferung>
@@ -506,7 +506,7 @@
   </urkunde>
   <urkunde nr="22" seite-von="59" seite-bis="60" pruefen="true">
     <vermerk>Inserierung</vermerk>
-    <datum>1336 Juni/ 1318 Januar 24</datum>
+    <datum iso="1336-06-99">1336 Juni/ 1318 Januar 24</datum>
     <ausstellungsort>Speyer</ausstellungsort>
     <datierungsvermerk>(Datum anno domini M° CCC° XXXVI° feria secunda ante Barnabe apostoli) / (Anno domini M° CCC° XVIII° feria tercia post diem beate Agnetis virginis)</datierungsvermerk>
     <regest>Regest der bestätigenden Urkunde (Konfirmation): Die Richter des bischöflichen Gerichts zu Speyer (Judices curie Spir[ensis]) bestätigen eine inserierte Urkunde ihres Gerichts von 1318 Januar 24 über den von Eberhard und Christina von Altdoif gestifteten Altar<footnote>2</footnote> in der Pfarrkirche<footnote>3</footnote> zu Altdorf, dessen Ausstattung mit Einkünften, die durch Güter bzw. eine Ablösesumme gesichert sind. Die Richter und der Altarpriester Johannes erklären, daß Christina von Altdorf nunmehr die als Pfand für die Altareinkünfte gesetzten Güter mit 100 Pfund Heller abgelöst hat, daß die Einkünfte aber weder verringert noch entfremdet werden dürfen, wogegen keinerlei rechtliche Anfechtung zulässig ist. | Regest der inserierten Urkunde: Die Richter des bischöflichen Gerichts zu Speyer beurkunden für den Ritter Eberhard von Altdorf und dessen Ehefrau Christina sowie auch für den Edelknecht (armiger) Eckbert und dessen Ehefrau Adelheid die Errichtung eines ständigen Altars in der Pfarrkirche zu Altdorf zu ihrem Seelenheil und dessen Ausstattung mit Einkünften zum Unterhalt eines diensttuenden Priesters. Eberhard und Christina stiften als jährliche Pfründe 20 Malter Weizen aus ihren Gütern im Dorf Beindersheim (Benthersheim)und zwei Waldrechte in Gommersheim (Gummersheim), Eckbert und Adelheid 10 Malter Weizen, zu zahlen von dem Schultheiß Heilmann aus Gommersheim. Die Pfründe kann auch aus anderen Gütern oder mit 100 Pfund Heller, von Eckbert und Adelheid mit 40 Pfund Heller garantiert werden. Solange zumindest einer der Stifter noch lebt, soll dieser bei Vakanz die Pfründe neu vergeben; andern<footnote>1</footnote> Aitdorf: s. Neustadt a. d. Weinstraße; gleichnamige Speyerer Ministerialenfam. seit 1236 urkl., im Lehensbesitz von Altdorf; Eberhard 1312 erstmals urkl. (Würdtwein: Monasticon Palatinum, T. 3, S. 419) vielleicht auch schon der 1277 erwähnte Eberhard von Altdorf (Remling: ÜB, Bd. 1, S. 346). Zwei Nebenaltäre mit Pfründen sind für die Altdorfer Pfarrkirche überliefert, von denen der Marienaltar vor 1335 entstanden sein soll, wobei Stifter und Patron unbekannt sind (Palatia sacra, Teil 1,Bd. 4, S. 1-3). <footnote>3</footnote> Pfarrkirche St. Agathae 1308 ersterw. <footnote>4</footnote> Beindersheim: sw. Worms, Gem. im Landkr. Ludwigshafen. <footnote>5</footnote> Gommersheim: Gem. so. Neustadt a. d. Südliche Weinstraße. falls hat der Dompropst von Speyer einem geeigneten Priester das Amt des täglichen Messelesens zu übertragen, es sei denn, bestimmte Umstände verhindern dies oder der Kirche zu Altdorf entsteht dadurch ein Nachteil.</regest>
@@ -779,7 +779,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="35" seite-von="75" seite-bis="76">
-    <datum iso="0879-11-22">879 November 22</datum>
+    <datum iso="879-11-22">879 November 22</datum>
     <ausstellungsort>Regensburg</ausstellungsort>
     <datierungsvermerk>(Data X kalendas a decembris anno dominicae incarnationis DCCCLXXVIIIP, indictione Xl c anno IUI regni Hludouuici regis in orientali Francia regnantis actum Reganesburg)</datierungsvermerk>
     <regest>König Ludwig (Hludouuicus)[der Jüngere] <footnote>1</footnote> übereignet auf Bitte des Erzbischofs Thietmar (/Diotmar)<footnote>2</footnote> dessen [Salzburger] Kirche die Orte" Flossing (Flozzinga)<footnote>3</footnote>, Staffing (Staffelung und das Lehen Berewins (Berenuuin) im Tausch gegen Engelsdorf (Engildiosdorpf). 5</regest>
@@ -811,7 +811,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="36" seite-von="77" seite-bis="77">
-    <datum>1352 April 12</datum>
+    <datum iso="1352-04-12">1352 April 12</datum>
     <ausstellungsort>Winterthur<footnote>1</footnote></ausstellungsort>
     <datierungsvermerk>(Der geben ward ze Winterrut in dem jar do man zalt von Cristes gebuirt druizehenhundert jar darnah in dem zwai und fuinfczigesten jar an dem naehsten fritag ze ussgaender Osterwochen)</datierungsvermerk>
     <regest>Hermann von Landenberg von Greifensee der Ältere (Grifense)<footnote>2</footnote> verkauft dem Grafen Rudolf von Montfort-Feldkirch (Veltkilch)<footnote>3</footnote> die Burg Welsch-Ramenswag (burg die Waelschen Ramenswag) <footnote>4</footnote> mit allem Zubehör (mit lut, mit gut, mit grund, mit grat<footnote>5</footnote>, mit wassergusi und mit aller zuogehoerd), wie er sie von Burkart von Ramenswag<footnote>7</footnote> erworben hat, für 650 Pfund Pfennige Konstanzer Münze. Dabei handelt es sich um ein Rechtsgeschäft, das bereits zu einer Zeit getätigt wurde, als Hermann dessen Vollzug noch nicht gewährleisten konnte.8</regest>
@@ -1208,7 +1208,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="53" seite-von="99" seite-bis="99">
-    <datum>[15]91 April 5 [alter Stil]</datum>
+    <datum iso="1591-04-05">[15]91 April 5 [alter Stil]</datum>
     <datierungsvermerk>(Gescheen montags in den heiligen Ostern anno der weiniger zahl<footnote>1</footnote> einundneunzigk)</datierungsvermerk>
     <regest>Statius von Münchhausen (Monnighausen)<footnote>2</footnote>, Sohn des verstorbenen Oberst Hilmar von Münchhausen, bestätigt Hans Storren<footnote>3</footnote>, Bürger zu Hildesheim (Hildenßheim), daß dieser ihm ein Darlehen von 1.500 Reichstalern gewährt hat und verspricht, bis zur Tilgung der Gesamtschuld, die Zahlung von <footnote>6</footnote> % Jahreszins mit dem beidseitigen Recht, diesen Vertrag jährlich zu Weihnachten aufkündigen zu können. Die Bürgen des Ausstellers Christoph Wolf von Gadenstedt (Gadenstitt)* und Hilmar von Münchhausen, Bruder des Ausstellers und Sohn des Obersten, verpflichten sich, bei Säumigkeit und nach Mahnung der Gläubiger, zum Einlager in Hildesheim.</regest>
     <ueberlieferung>
@@ -1248,7 +1248,7 @@
   </urkunde>
   <urkunde nr="55" seite-von="101" seite-bis="102" pruefen="true">
     <vermerk>Inserierung/Fragment</vermerk>
-    <datum>[Nach 1365 Februar 20 bzw. nach 1365 April 22]<footnote>1</footnote> /  1365 Februar 20 oder 1365 April 22 <footnote>12</footnote></datum>
+    <datum iso="1365-02-20">[Nach 1365 Februar 20 bzw. nach 1365 April 22]<footnote>1</footnote> /  1365 Februar 20 oder 1365 April 22 <footnote>12</footnote></datum>
     <datierungsvermerk>(Datum Avinione X. kalendas ma[rtii/ii] [pontificatus] nostri anno tertio)</datierungsvermerk>
     <ausstellungsort>Avignon</ausstellungsort>
     <regest>Der Thesaurar des Bonifatiusstiftes zu Hameln (ecclesie Hamelen[sis])<footnote>2</footnote> in der Diözese Minden (Minden[sis]...) und päpstliche iudex delegatus gibt allen edlen Herren in Oestinghausen (Ostinchusen) <footnote>3</footnote> , Warstein (Warsten)<footnote>4</footnote>, Lippborg (Lyborch)<footnote>5</footnote>, Beckum (Bechern) und Ahlen (Alen)<footnote>7</footnote> sowie allen Vorstehern der Kirchen und Kapellen in der Provinz Köln (...Colonien[sem]) die inserierte Bulle Papst Urbans V. (Urbani domini ... pape quinti) <footnote>8</footnote> , von 1365 Februar 20/1365 April 22, über dessen Entscheidung hinsichtlich der Klage Gerlach Torks, Stiftsherr zu St. Ägidius in Wiedenbrück (ecclesie Widenburgen[sis]) <footnote>9</footnote> , Diözese Osnabrück (Osnab[urgensis]...) bekannt und verfügt unter Androhung der Exkommunikation, die peremptorische Vorladung des Franko von Warstein, genannt Plate<footnote>10</footnote>, Laie aus der Diözese Köln und des Wilkin von Me[i/r ?]... 11, Laie aus der Diözese Münster (Monasterien[sis]...) zum nächsten Gerichtstag in der Kirche zu Hameln, binnen 20 Tagen nach Erhalt zu vollziehen. | Regest der inserierten, bestätigten Papstbulle:  | Regest der inserierten, bestätigten Papstbulle: Papst Urban V. beauftragt den Thesaurar des Bonifatiusstiftes zu Hameln aufgrund einer Klage des Stiftsherrn Gerlach Tork zu Wiedenbrück, wonach Franko von Warstein, genannt Plate und Wilkin von Me[i/r ?]... dem Vater des Klägers, Hermann Tork, Wucherzinsen abgenötigt haben, mit der gerichtlichen Untersuchung des Falls und ordnet an, wenn die Redlichkeit der Klägerpartei überprüft und die benannten Zeugen befragt Rind, sollen sich die Beklagten unter Androhung der Strafen, die im Laterankonzil gegen Wucher ausgesprochen wurden, mit ihrem Kapital zufriedengeben und die Wucherzinsen an die Kläger zurückzahlen.</regest>
@@ -1333,7 +1333,7 @@
     <!-- ZUR PRUEFUNG: Dreiteiliger Konfirmations-Text (drei ineinander inserierte Urkunden); Einheiten-Trennung und Feldzuordnung unsicher, bitte manuell prüfen. -->
     <teildokumente>
       <ueberlieferungseinheit vermerk="Haupteintrag">
-        <datum>1503 Mai 21</datum>
+        <datum iso="1503-05-21">1503 Mai 21</datum>
         <ausstellungsort>Lebus</ausstellungsort>
         <datierungsvermerk>(Datum Castro nostro Lubus dominica vocem Jocunditatis anno domini millesimoquingentesimo tercio)</datierungsvermerk>
         <regest>Dietrich, Bischof von Lebus (...Lubucens[is])\ bestätigt den Geschwistern Peter, Georg, Johann und Margaretha Hakemann (Hakeman)<footnote>2</footnote> die inserierten Urkunden Ludwigs d. Römers<footnote>3</footnote> und Ottos<footnote>4</footnote>, Kurfürsten und Markgrafen von Brandenburg (...Brandenburgen[ses]), von 1356 Juli 15 und 1371 Juli 13, über die Schenkung von Zolleinkünften an den von Kuno, Fritzko und Hermann Hakemann, Bürgern zu Frankfurt (...Franckford[e]n[sium]), gestifteten Altar zu Ehren der Verkündigung Mariens und der Hll. Märtyrer Alexius und Ludwig<footnote>5</footnote> in der Pfarrkirche St. Marien<footnote>6</footnote> daselbst und bekräftigt deren Zugehörigkeit zum Altar und zum Inhaber der Altarpfründe mit der Bedingung, daß wöchentlich für die Stifter eine Messe abgehalten wird und der Familie Hakemann und Erben das Präsentationsrecht an diesem Altar vorbehalten bleibt.</regest>
@@ -1351,7 +1351,7 @@
         </ueberlieferung>
       </ueberlieferungseinheit>
       <ueberlieferungseinheit vermerk="Nebeneintrag">
-        <datum>1371 Juli 13<footnote>7</footnote> / 1373 Januar 12</datum>
+        <datum iso="1371-07-13">1371 Juli 13<footnote>7</footnote> / 1373 Januar 12</datum>
         <datierungsvermerk>(Actum Franckenford die beate Margarethe virginis anno domini millesimo tricentesimo septuagesimo primo et...)</datierungsvermerk>
         <ausstellungsort>Frankfurt / Berlin</ausstellungsort>
         <datierungsvermerk>(Datum Berlin anno eiusdem millesimo CCC° septuagesimo tercio feria quarta proxima post diem Epiphanie domini)</datierungsvermerk>
@@ -1730,7 +1730,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="78" seite-von="131" seite-bis="132">
-    <datum>1610 April 8 [alter Stil]1</datum>
+    <datum iso="1610-04-08">1610 April 8 [alter Stil]1</datum>
     <ausstellungsort>Erfurt</ausstellungsort>
     <datierungsvermerk>(Actum Erffordt in die Resurrectionis domini nach Christi unsers Herren undt Seliqmacners geburdt im sechtzehenhunderten undt zehenden jhare)</datierungsvermerk>
     <regest>Johannes Kayser, Bürger zu Erfurt, verpfändet dem Dekan Magister Hermann Zurlinden (von der Lienden)<footnote>2</footnote> und den anderen Kollegiaten des Kollegiums zur Himmelspforte daselbst einen Jahreszins von <footnote>6</footnote> Gulden für ein Darlehen von 100 Gulden, für vorerst <footnote>1</footnote> Jahr. Der Zins lastet auf <footnote>2</footnote> Acker Weingarten zu Melchendorf (Melchendorff) <footnote>3</footnote> gelegen, von denen Wilhelm Fachen, Doktor beider Rechte und oberster Ratsmeister zu Erfurt<footnote>4</footnote>, einen jährlichen Erbzins erhält. Die Zinsverschreibung soll in das "Rhaths Stadthandelbuch" aufgenommen werden, was am <footnote>9</footnote> Mai 1610 angewiesen wird. 5</regest>
@@ -1752,7 +1752,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="79" seite-von="133" seite-bis="133">
-    <datum>1623 Oktober 24 [alter Stil]</datum>
+    <datum iso="1623-10-24">1623 Oktober 24 [alter Stil]</datum>
     <datierungsvermerk>(Actum freittages war der vierundtzwantziegste monatstagk Octobris nach Christi unsers Herren undt Seliegmachers geburdt im sechtzehenhunderten drey undt zwantziegsten jhare)</datierungsvermerk>
     <regest>Hans Hörn zu Zimmern am Ettersberg (Ziemmem am Ettersberge)<footnote>1</footnote> verpfändet dem Dekan Magister Hermann Zurlinden (Lindanus)<footnote>2</footnote> und den anderen Kollegiaten des Kollegiums zur Himmelspforte in Erfurt (Erffordt) einen Jahreszins von <footnote>3</footnote> Gulden, 12 Groschen und <footnote>8</footnote> Pfennigen für ein Darlehen von 60 Gulden, für vorerst <footnote>3</footnote> Jahre. Der Zins lastet auf Haus und Hof des Ausstellers mit allem Zubehör, zwischen den Häusern von Hans Dheinhart und Catharina Rheinboth, Schwester des Ausstellers, gelegen, wovon die Erben des verstorbenen Ägidius Naeken einen jährlichen Erbzins erhalten. Hans Hörn verspricht, den Zins pünktlich, zweimal jährlich, zu Walpurgis und Michaelis in Erfurt zu zahlen. Die Zinsverschreibung soll in das "Rhaths Voigteyhandelbuch" aufgenommen werden, was am 5. November 1623 von den regierenden Stadträten angenommen wird.3</regest>
     <ueberlieferung>
@@ -1770,7 +1770,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="80" seite-von="134" seite-bis="135">
-    <datum iso="1227-09-14">[Nach 1227 September 14]1</datum>
+    <datum iso="1227-09-14">[Nach 1227 September 14]<footnote>1</footnote></datum>
     <regest>Die Grafen Ernst und Heinrich von Gleichen (in Glichen)<footnote>2</footnote>, Söhne des verstorbenen Grafen Lambert von Gleichen<footnote>3</footnote>, bestätigen dem Martinshospital an der Breiten Straße zu Erfurt (Erphordie) <footnote>4</footnote> die von ihrem Vater gewährte Befreiung <footnote>5</footnote> aller Güter, die das Hospital in Zukunft erwerben wird, von den Vogteirechten und verzichten ebenfalls darauf, mit Ausnahme der Güter, für die sich Graf Lambert die Vogteirechte vorbehalten hat, gemäß eines Privilegs des Erzbischofs Siegfried von Mainz (Magunt[ini]) <footnote>6</footnote> , wonach für den jeweiligen Inhaber der Stadtvogtei das Recht bekräftigt wird, bei der Wahl des Hospitalvorstehers mitzuwirken.</regest>
     <ueberlieferung>
       <beglaubigungsform>angekündigtes Siegel der Aussteller Zeugen<footnote>7</footnote>: Guntherus, decanus maioris ecclesie in Erphord[ia]8; Ludewicus, scolasticus<footnote>9</footnote>; Giselbertus, cantor<footnote>10</footnote>; Ludewicus et Heinricus in Meldingen [Meilingen] 11 ; Siboldus dictus Gute<footnote>12</footnote>; Fridericus de Meinwarsburc [Möbisburg]13; Cunradus de Porta<footnote>14</footnote>; Heinricus, plebanus sancti Bartolomei' <footnote>5</footnote> ; Luotegerus de Bezingen [Bessingen] 16 ; Harmannus de Guotingen [Göttingen]; Gotscalcus Dives; Gotscalcus Longus 17 et alii quamplures</beglaubigungsform>
@@ -2099,7 +2099,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="93" seite-von="155" seite-bis="155">
-    <datum>[15]51 März 11</datum>
+    <datum iso="1551-03-11">[15]51 März 11</datum>
     <datierungsvermerk>(Geben am mittwoch noch Letare anno domini ainundfunfzigk der wenigem zall)</datierungsvermerk>
     <regest>Nickel Hammerschmidt (Hamerschmidtt)<footnote>1</footnote> zu Pograth (Pogradtt)<footnote>2</footnote> verkauft an Ulrich Lentz und Erben für eine nicht näher bezeichnete Geldsumme seinen zu Taubrath (Taubratt) , hinter dem Hof von Wolf Baier<footnote>4</footnote> und zwischen den Höfen der Familien Pergauer<footnote>5</footnote> und Kessler (Kesler)<footnote>6</footnote> gelegenen Hof mit Grund- und Bodennutzungsrecht sowie allem Zubehör, von dem die Herren der Pfarrkirche St. Nikolaus zu Eqer<footnote>7</footnote> so wie der Komtur daselbst<footnote>8</footnote> einen jährlichen Erbzins und den Getreidezehnt erhalten und verzichtet für sich und seine Erben auf alle Ansprüche daran.</regest>
     <ueberlieferung>
