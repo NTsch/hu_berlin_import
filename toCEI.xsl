@@ -46,6 +46,9 @@
     </xsl:template>
     <xsl:template name="charter-contents">
         <xsl:param name="main-charter-ref"/>
+        <xsl:variable name="signatur" select="ueberlieferung/signatur/text()"/>
+        <xsl:variable name="record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $signatur, ','))]]"/>
+        <xsl:variable name="access-no" select="$record/accession-num/text()"/>
         <cei:text type="charter">
             <cei:front>
                 <cei:sourceDesc>
@@ -69,18 +72,27 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <cei:chDesc>
-                    <xsl:apply-templates select="regest"/>
+                    <cei:abstract>
+                        <xsl:apply-templates select="regest"/>
+                        <xsl:if test="ueberlieferung/zeugen">
+                            <xsl:text> | Zeugen: </xsl:text>
+                        </xsl:if>
+                        <xsl:apply-templates select="ueberlieferung/zeugen"/>
+                    </cei:abstract>
                     <cei:issued>
                         <xsl:apply-templates select="datum"/>
                         <xsl:apply-templates select="ausstellungsort"/>
                     </cei:issued>
                     <cei:witnessOrig>
                         <xsl:call-template name="images">
-                            <xsl:with-param name="signatur" select="ueberlieferung/signatur/text()"
-                            />
+                            <xsl:with-param name="record" select="$record"/>
+                            <xsl:with-param name="access-no" select="$access-no"/>
                         </xsl:call-template>
                         <cei:archIdentifier>
                             <cei:institution>Humboldt-Universität zu Berlin</cei:institution>
+                            <xsl:call-template name="charter-link">
+                                <xsl:with-param name="access-no" select="$access-no"/>
+                            </xsl:call-template>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
                             <cei:material>Pergament</cei:material>
@@ -89,7 +101,6 @@
                         </cei:physicalDesc>
                         <cei:auth>
                             <xsl:call-template name="seal-data"/>
-                            <xsl:apply-templates select="ueberlieferung/zeugen"/>
                         </cei:auth>
                     </cei:witnessOrig>
                     <cei:diplomaticAnalysis>
@@ -117,9 +128,7 @@
         </cei:idno>
     </xsl:template>
     <xsl:template match="regest">
-        <cei:abstract>
-            <xsl:apply-templates/>
-        </cei:abstract>
+        <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="datum">
         <cei:date value="{replace(@iso/data(), '-', '')}">
@@ -151,9 +160,7 @@
         </cei:condition>
     </xsl:template>
     <xsl:template match="zeugen">
-        <cei:subscriptio>
-            <xsl:apply-templates/>
-        </cei:subscriptio>
+        <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="beschreibstoff">
         <cei:dimensions>
@@ -181,10 +188,8 @@
         </cei:note>
     </xsl:template>
     <xsl:template name="images">
-        <xsl:param name="signatur"/>
-        <xsl:variable name="record"
-            select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $signatur, ','))]]"/>
-        <xsl:variable name="access-no" select="$record/accession-num/text()"/>
+        <xsl:param name="record"/>
+        <xsl:param name="access-no"/>
         <xsl:variable name="image-no" select="xs:int($record/pages/text())"/>
         <xsl:for-each select="1 to $image-no">
             <cei:figure>
@@ -194,7 +199,12 @@
             </cei:figure>
         </xsl:for-each>
     </xsl:template>
+    <xsl:template name="charter-link">
+        <xsl:param name="access-no"/>
+        <cei:ref>
+            <xsl:value-of select="concat('https://www.digi-hub.de/viewer/image/', $access-no)"/>
+        </cei:ref>
+    </xsl:template>
 </xsl:stylesheet>
 <!--TODO-->
 <!--include URL like https://www.digi-hub.de/viewer/image/1602679020380/1/-->
-<!--//cei:condition/cei:note checken, da ist was faul-->

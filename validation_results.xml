@@ -3,60 +3,8 @@
         <charterUri>/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml</charterUri>
         <report>
             <status>invalid</status>
-            <duration unit="msec">20</duration>
-            <message level="Error" line="29" column="55">cvc-complex-type.2.4.a: Invalid content was
-                found starting with element 'cei:note'. One of
-                '{"http://www.monasterium.net/NS/cei":foreign,
-                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
-                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
-                "http://www.monasterium.net/NS/cei":c}' is expected.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <duration unit="msec">20</duration>
-            <message level="Error" line="30" column="189">cvc-complex-type.2.4.a: Invalid content
-                was found starting with element 'cei:note'. One of
-                '{"http://www.monasterium.net/NS/cei":foreign,
-                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
-                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
-                "http://www.monasterium.net/NS/cei":c}' is expected.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <duration unit="msec">20</duration>
-            <message level="Error" line="34" column="87">cvc-complex-type.2.4.a: Invalid content was
-                found starting with element 'cei:note'. One of
-                '{"http://www.monasterium.net/NS/cei":foreign,
-                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
-                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
-                "http://www.monasterium.net/NS/cei":c}' is expected.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <duration unit="msec">20</duration>
-            <message level="Error" line="29" column="125">cvc-complex-type.2.4.a: Invalid content
-                was found starting with element 'cei:note'. One of
-                '{"http://www.monasterium.net/NS/cei":foreign,
-                "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
-                "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
-                "http://www.monasterium.net/NS/cei":c}' is expected.</message>
-        </report>
-    </validationResult>
-    <validationResult>
-        <charterUri>/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <duration unit="msec">20</duration>
-            <message level="Error" line="30" column="56">cvc-complex-type.2.4.a: Invalid content was
+            <duration unit="msec">12</duration>
+            <message level="Error" line="80" column="78">cvc-complex-type.2.4.a: Invalid content was
                 found starting with element 'cei:note'. One of
                 '{"http://www.monasterium.net/NS/cei":foreign,
                 "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
