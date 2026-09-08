@@ -95,20 +95,57 @@
                             </xsl:call-template>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
-                            <cei:material>Pergament</cei:material>
-                            <xsl:apply-templates select="ueberlieferung/beschreibstoff"/>
+                            <cei:material>
+                                <xsl:choose>
+                                    <xsl:when test="contains(document-uri(/), 'aberle')">
+                                        <xsl:text>Pergament</xsl:text>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[1]"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </cei:material>
+                            <cei:dimension>
+                                <xsl:choose>
+                                    <xsl:when test="contains(document-uri(/), 'aberle')">
+                                        <xsl:value-of select="substring-after(string-join(ueberlieferung/erhaltungszustand//text()), 'Pergament ')"/>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[3]"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </cei:dimension>
                             <xsl:apply-templates select="ueberlieferung/erhaltungszustand"/>
+                            <xsl:if test="contains(document-uri(/), 'mueller')">
+                                <cei:p>
+                                    <xsl:value-of select="substring-after(ueberlieferung/beschreibung/text(), '; ')"/>
+                                </cei:p>
+                            </xsl:if>
                         </cei:physicalDesc>
+                        <xsl:apply-templates select="ueberlieferung/rueckvermerke"/>
                         <cei:auth>
                             <xsl:call-template name="seal-data"/>
+                            <xsl:apply-templates select="dokumentform"/>
+                            <xsl:apply-templates select="ueberlieferung/unterschriften"/>
+                            <xsl:apply-templates select="ueberlieferung/notar"/>
                         </cei:auth>
                     </cei:witnessOrig>
                     <cei:diplomaticAnalysis>
                         <xsl:apply-templates select="vermerk"/>
                         <xsl:apply-templates select="ueberlieferung/besonderheit"/>
                         <xsl:apply-templates select="datierungsvermerk"/>
+                        <xsl:apply-templates select="ueberlieferung/schreiber"/>
                     </cei:diplomaticAnalysis>
-                    <xsl:apply-templates select="ueberlieferung/sprache"/>
+                    <cei:lang_MOM>
+                        <xsl:choose>
+                            <xsl:when test="contains(document-uri(/), 'aberle')">
+                                <xsl:apply-templates select="ueberlieferung/sprache"/>
+                            </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[2]"/>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                    </cei:lang_MOM>
                 </cei:chDesc>
             </cei:body>
             <cei:back>
@@ -141,13 +178,14 @@
         </cei:placeName>
     </xsl:template>
     <xsl:template name="seal-data">
-        <cei:sealDesc>
-            <xsl:value-of select="ueberlieferung/beglaubigungsform"/>
-            <xsl:if test="ueberlieferung/beglaubigungsform and ueberlieferung/siegel">
-                <xsl:text>; </xsl:text>
-            </xsl:if>
-            <xsl:value-of select="ueberlieferung/siegel"/>
-        </cei:sealDesc>
+        <xsl:if test="ueberlieferung/beglaubigungsform">
+            <cei:sealDesc>
+                <xsl:value-of select="ueberlieferung/beglaubigungsform"/>
+                <xsl:if test="ueberlieferung/beglaubigungsform and ueberlieferung/siegel">
+                    <xsl:text>; </xsl:text>
+                </xsl:if>
+                <xsl:value-of select="ueberlieferung/siegel"/>
+            </cei:sealDesc></xsl:if>
     </xsl:template>
     <xsl:template match="druck | literatur_regest">
         <cei:bibl>
@@ -162,16 +200,6 @@
     <xsl:template match="zeugen">
         <xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="beschreibstoff">
-        <cei:dimensions>
-            <xsl:value-of select="substring-after(text(), 'Pergament ')"/>
-        </cei:dimensions>
-    </xsl:template>
-    <xsl:template match="sprache">
-        <cei:lang_MOM>
-            <xsl:apply-templates/>
-        </cei:lang_MOM>
-    </xsl:template>
     <xsl:template match="datierungsvermerk">
         <cei:quoteOriginaldatierung>
             <xsl:apply-templates/>
@@ -181,6 +209,33 @@
         <cei:p>
             <xsl:apply-templates/>
         </cei:p>
+    </xsl:template>
+    <xsl:template match="dokumentform">
+        <cei:sealDesc>
+            <xsl:apply-templates/>
+        </cei:sealDesc>
+    </xsl:template>
+    <xsl:template match="unterschriften">
+        <cei:subscriptio>
+            <xsl:apply-templates/>
+        </cei:subscriptio>
+    </xsl:template>
+    <xsl:template match="notar">
+        <cei:notariusDesc>
+            <xsl:apply-templates/>
+        </cei:notariusDesc>
+    </xsl:template>
+    <xsl:template match="rueckvermerke">
+        <cei:rubrum>
+            <xsl:apply-templates/>
+        </cei:rubrum>
+    </xsl:template>
+    <xsl:template match="schreiber">
+        <cei:scriptDesc>
+            <cei:scribe>
+                <xsl:apply-templates/>
+            </cei:scribe>
+        </cei:scriptDesc>
     </xsl:template>
     <xsl:template match="footnote">
         <cei:note>
@@ -206,5 +261,3 @@
         </cei:ref>
     </xsl:template>
 </xsl:stylesheet>
-<!--TODO-->
-<!--include URL like https://www.digi-hub.de/viewer/image/1602679020380/1/-->

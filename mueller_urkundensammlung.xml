@@ -22,11 +22,10 @@
 -->
 <urkundensammlung quelle="mueller_urkundensammlung.pdf" seiten-gedruckt="11-46" anzahl="56">
   <urkunde nr="1" seite-von="16" seite-bis="16" region="Frankreich">
-    <datum>1295 April</datum>
-    <regest>Prior Stephan von St. Arnulf in Crépy-en-Valois (Crispeyo)<footnote>1</footnote> bestätigt im Namen des Priorats Varenelles dem Priorat de Fontanis den Besitz eines Gartens.</regest>
+    <datum iso='12950499'>1295 April</datum>
+    <regest>Prior Stephan von St. Arnulf in Crépy-en-Valois (Crispeyo)<footnote>1</footnote> bestätigt im Namen des Priorats Varenelles dem Priorat de Fontanis den Besitz eines Gartens. | Insert: Guiars von Estuiens, Herr von Mailg, beurkundet, dass Auclos, Witwe des Raoul le Vidant, und ihre Kinder Agnesoz, Jehannete, Perrinez und Jehannin dem Prior Pierre, der Priorin und dem Konvent von Fontaines ein Grundstück in Mailg für die Summe von 6 kleinen Pfund der Münze von Tours verkauft haben. (datum anno domini millesimo ducentesimo nonagesimo quinto, mense aprili)</regest>
     <ueberlieferung>
-      <inseriert>Guiars von Estuiens, Herr von Mailg, beurkundet, dass Auclos, Witwe des Raoul le Vidant, und ihre Kinder Agnesoz, Jehannete, Perrinez und Jehannin dem Prior Pierre, der Priorin und dem Konvent von Fontaines ein Grundstück in Mailg für die Summe von 6 kleinen Pfund der Münze von Tours verkauft haben. (datum anno domini millesimo ducentesimo nonagesimo quinto, mense aprili)</inseriert>
-      <besonderheiten>sehr dünnes Pergament, schlichte Initiale A (Signatur: 9)</besonderheiten>
+      <besonderheit>sehr dünnes Pergament, schlichte Initiale A (Signatur: 9)</besonderheit>
       <beschreibung>Pergament, Latein und Französisch, 28,0 x 30,7 cm (Umbug: 3, 8 cm); fleckig, Faltungsbrüche, Befestigungslöcher für Siegel; Rückvermerke: Datum, verblasster Vermerk</beschreibung>
       <signatur>9</signatur>
     </ueberlieferung>
@@ -35,7 +34,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="2" seite-von="16" seite-bis="16" region="Frankreich">
-    <datum>(1353 Frühjahr)</datum>
+    <datum iso='13539999'>(1353 Frühjahr)</datum>
     <regest>Supplik des Balduin genannt Libosk[e]ns, armer Priester der Diözese Cambrai, an Papst (Innozenz VI.), ihm ein Benefizium aus der Kollatur der Benediktinerabteien St-Sauveur in Anchin (Diöz. Arras) oder der Abtei St-Lambert in Liessies (Diöz. Cambrai). Das Datum ergibt sich aus der Nennung Papst Clemens’ VI. (1342–1352, domni C. pape sexti praedecessoris vestri), bei dem sich der Supplikant bereits vergeblich um ein Benefizium bemüht hatte, und dem anschließenden Pontifikat Innocenz’ VI. An diesen war die Supplik wohl gerichtet. Der einzige bekannte Petitionstermin für Innozenz VI. war der 25. Januar 1353.<footnote>2</footnote></regest>
     <ueberlieferung>
       <beschreibung>Pergament, Latein, 15,0 x 8,0 cm; einige Löcher mit geringem Textverlust, am unteren Rand Textverlust durch Beschneiden</beschreibung>
@@ -47,10 +46,10 @@
   </urkunde>
   <urkunde nr="3" seite-von="17" seite-bis="17" region="Frankreich" pruefen="true">
     <!-- ZUR PRUEFUNG: Kein Jahr im Regest angegeben (Datierung unsicher, aus Wasserzeichen/Schrift erschlossen); Datum bleibt unvollständig. -->
-    <datum>(1378–1417)</datum>
+    <datum iso="13789999">(1378–1417)</datum>
     <regest>Supplik des Simon Guarnerii, Priester in der Diözese Evreux, an Papst (Clemens VII., 1378– 1394, oder Benedikt XII., 1394–1417), ihm ein Benefizium aus der Kollatur der folgenden Klöster zuzuweisen: einer (nicht identifizierten) Abtei Notre-Dame (Diöz. Evreux)<footnote>3</footnote>, SaintLéger in Préaux (Diöz. Lisieux), Saint-Pierre de Chateauneuf (Castelnouo, Diöz. Coutances), Le Bec-Helluin (Diöz. Rouen), Saint-Évroult (Diöz. Lisieux). Zugewiesen wird ihm ein Benefizium aus dem Besitz der Abtei St-Pierre in Préaux (Diöz. Lisieux). Die Schrift macht eine Datierung ins 14. Jh. wahrscheinlich. Die Entwicklung des Formulars scheint in die spät- oder nachavignonesische Zeit zu weisen; nach 1378 gehörte die Region der avignonesischen Observanz an.</regest>
     <ueberlieferung>
-      <besonderheiten>am oberen Rand Vermerke von anderer Hand (Signatur: 17 b) Italien Torcello – Kreta Vgl. dazu oben S. 5-8</besonderheiten>
+      <besonderheit>am oberen Rand Vermerke von anderer Hand (Signatur: 17 b) Italien Torcello – Kreta Vgl. dazu oben S. 5-8</besonderheit>
       <beschreibung>Pergament, Latein, 14,5 x 10,7 cm; Löcher mit geringem Textverlust, rechte Seite abgeschnitten, dadurch Textverlust, zum rechten Rand hin zudem Schrift verblasst.</beschreibung>
       <signatur>17 b</signatur>
     </ueberlieferung>
@@ -59,11 +58,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="4" seite-von="18" seite-bis="18" region="Italien - Torcello">
-    <datum>1218 Mai 30</datum>
+    <datum iso="12180530">1218 Mai 30</datum>
     <ausstellungsort>Konstantinopel, Hagia Sophia</ausstellungsort>
     <regest>Patriarch Gervasius von Konstantinopel<footnote>4</footnote> bestätigt der Abtei St. Thomas in Torcello das Kloster de Cristo genannt Gerghiri, das durch eine Übertragung der damaligen Vikare und Legaten Konstantinopels auf Kreta, T. und P., an die Abtei gelangt war und in dem die Zisterzienserregel befolgt werden soll. (anno domini millesimo CCXVIII, penultimo die madii, indictione VI, patriarchatus vero nostri anno tertio)</regest>
     <ueberlieferung>
-      <besonderheiten>schlichte Initiale G; im Wortlaut deutlich einer päpstlichen littera cum serico nachempfunden (Signatur: 258)</besonderheiten>
+      <besonderheit>schlichte Initiale G; im Wortlaut deutlich einer päpstlichen littera cum serico nachempfunden (Signatur: 258)</besonderheit>
       <beschreibung>Pergament, Latein, 20,8 x 16,9 cm (Umbug: 2,2 cm); zerknittert (jetzt geglättet); Siegel fehlt, Siegelbefestigung aus roter Seide</beschreibung>
       <signatur>258</signatur>
     </ueberlieferung>
@@ -72,7 +71,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="5" seite-von="18" seite-bis="18" region="Italien - Torcello">
-    <datum>1232 Juli</datum>
+    <datum iso="12320799">1232 Juli</datum>
     <regest>Erzbischof Jakob von Kreta<footnote>5</footnote> teilt dem Zisterzienser und Priester Bartholomäus mit, dass er auf Bitten des Bartholomäus und seiner Mitbrüder aus der Kirche St. Maria nahe des Kastells in Heraklion (Candia) auf jegliche Belastung der Kirche und ihrer Besitzungen verzichtet und den dort lebenden Mönchen stellvertretend für deren Mutterkloster St. Thomas in Torcello<footnote>6</footnote> die alleinige Jurisdiktion über die genannte Kirche überträgt. Er verbietet den Mönchen, Personen aufzunehmen, die vom Erzbischof mit einer Kirchenstrafe belegt wurden, und behält sich die gewöhnlichen Abgaben vor. Die Urkunde ist vom Aussteller unterschrieben.</regest>
     <ueberlieferung>
       <notar>Proguardinus, Notar (notarius sacri palatii) und Kanzler des Herzogtums Kreta</notar>
@@ -86,7 +85,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="6" seite-von="19" seite-bis="19" region="Italien - Torcello">
-    <datum>1243 Februar 25<footnote>7</footnote></datum>
+    <datum iso="12430225">1243 Februar 25<footnote>7</footnote></datum>
     <regest>Notarielle Abschrift einer Urkunde des Patriarchen Gervasius von Konstantinopel vom 30. Mai 1218, in dem dieser dem Kloster St. Thomas in Torcello die Übertragung des Klosters Gerghiri auf Kreta (= Nr. 4) bestätigt.</regest>
     <ueberlieferung>
       <notar>Andreas de Mosada, Notar des Erzbischofs von Trient (anno domini millesimo ducentesimo quadragesimo secundo, indictione quinta decima, die quarto exeunte februarii) Vgl. Nr. 4.</notar>
@@ -98,13 +97,13 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="7" seite-von="19" seite-bis="19" region="Italien - Torcello">
-    <datum>1279 August 2</datum>
+    <datum iso="12790802">1279 August 2</datum>
     <ausstellungsort>Rialto (Venedig)</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Vertrag zwischen Abt Christinus und dem Konvent des Thomasklosters in Torcello mit Petrus und Thomas Minoto sowie deren Erben. Für einen Zeitraum von bis zu zwanzig Jahren überträgt das Thomaskloster die Kirche St. Maria de militibus und ein Kloster mit dem griechischen Namen Gerari, beide auf Kreta, mit allen angeschlossenen Besitzungen zur Pacht in Höhe von vier Pfund venezianischer Groschen. Der Vertrag regelt Teilzahlungen in verschiedenen Fällen von Bürgerkrieg (guerra), das Eintreiben der Abgaben sowie das Vorgehen bei Nichtzahlung der Pacht. Bei groben Vertragsverletzungen müssen die doppelte Pacht und überdies fünf Pfund Gold Konventionalstrafe gezahlt werden.</regest>
     <ueberlieferung>
       <notar>Angelus Beaqua, Pleban der Kirche S. Moisé, Notar und Kanzler des Dogen von Venedig<footnote>8</footnote> (anno ab incarnacione domini nostri Ihesu Christi millesimo ducentesimo septuagesimo nono, mense augusto, die secundo intrante, indictione septima)</notar>
-      <beschreibung>Pergament, Latein, 26,0 x 70,5 cm, nach unten schmaler werdend; Beschädigung durch Faltungsbrüche (restauriert), dadurch geringer Textverlust; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: u.a. Datumsangabe</beschreibung>
+      <beschreibung>Pergament, Latein, 26,0 x 70,5 cm; nach unten schmaler werdend; Beschädigung durch Faltungsbrüche (restauriert), dadurch geringer Textverlust; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: u.a. Datumsangabe</beschreibung>
       <signatur>262</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -113,24 +112,24 @@
   </urkunde>
   <urkunde nr="8" seite-von="20" seite-bis="20" region="Italien - Torcello" pruefen="true">
     <!-- ZUR PRUEFUNG: Physische Beschreibung bezieht sich auf zwei zusammengehörige Fragmente (Nr. 8a/8b) eines Rotulus; nicht als getrennte Einheiten modelliert, siehe &lt;beschreibung&gt;. -->
-    <datum>1303 April 10</datum>
+    <datum iso="13030410">1303 April 10</datum>
     <regest>Detailliertes Verzeichnis der Ländereien und Besitztümer des Klosters St. Thomas in Torcello, gegliedert in die villae Falla, Caltana, Scaltania, Scortegarie, Prohencagi, Marani, Caselis, Ca()gnani, Burbiagii. Die Bestandsaufnahme erfolgte auf Initiative des Mönchs Gerardus, Syndikus und Prokurator des Klosters, und wurde von Benedikt, apertegator de Balato, aufgezeichnet.</regest>
     <ueberlieferung>
       <zeugen>Gerardus; Henricus Faber de Scaltanigo; Johannes Faber de Sala; Jacobinus, Pelegrinus de Caltana und Petrus de Caltana (anno eiusdem millesimo trecentesimo tercio, indictione prima, die [...] decimo intrante aprilis) Nr. 8a:</zeugen>
-      <besonderheiten>Am unteren Rand von Nr. 8a sind Nahtlöcher erkennbar, die aus der ursprünglichen Verbindung mit Nr. 8b resultieren; beide Stücke stammen von derselben Hand. Die Aufbewahrung des Gesamtstückes als Rotulus ist wahrscheinlich, da Nr. 8b keinerlei Feuchtigkeitsspuren aufweist und das Rolleninnere gebildet haben dürfte. In der unteren linken Hälfte von Nr. 8a Riss durch Naht geschlossen. (Signatur: 266 / 266a)</besonderheiten>
-      <beschreibung>Pergament, Latein, hochrechteckiger Streifen von 17,0–17,5 x 80 cm; Lesbarkeit durch Feuchtigkeit stark beeinträchtigt; Rückvermerke: Daten und Regesten Nr. 8b: Pergament, Latein, 17,7–18,7 x 41,3–43,5 cm, unten stumpfwinklig auslaufend; am rechten unteren Rand geringer Textverlust durch Abriss eines Pergamentstücks; keine Rückvermerke</beschreibung>
+      <besonderheit>Am unteren Rand von Nr. 8a sind Nahtlöcher erkennbar, die aus der ursprünglichen Verbindung mit Nr. 8b resultieren; beide Stücke stammen von derselben Hand. Die Aufbewahrung des Gesamtstückes als Rotulus ist wahrscheinlich, da Nr. 8b keinerlei Feuchtigkeitsspuren aufweist und das Rolleninnere gebildet haben dürfte. In der unteren linken Hälfte von Nr. 8a Riss durch Naht geschlossen. (Signatur: 266 / 266a)</besonderheit>
+      <beschreibung>Pergament, Latein, hochrechteckiger Streifen von 17,0–17,5 x 80 cm; Lesbarkeit durch Feuchtigkeit stark beeinträchtigt; Rückvermerke: Daten und Regesten Nr. 8b: Pergament, Latein, 17,7–18,7 x 41,3–43,5 cm; unten stumpfwinklig auslaufend; am rechten unteren Rand geringer Textverlust durch Abriss eines Pergamentstücks; keine Rückvermerke</beschreibung>
       <signatur>266 / 266a</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="9" seite-von="20" seite-bis="20" region="Italien - Torcello" pruefen="true">
     <!-- ZUR PRUEFUNG: Enthält ein inseriertes Notariatsinstrument mit eigenem Datum/Notar/Zeugen (1217, 1304); Verschachtelung nicht separat modelliert, im Fließtext enthalten. -->
-    <datum>1304 März 8</datum>
+    <datum iso="13040308">1304 März 8</datum>
     <regest>Notarielle Bestätigung einer im Wortlaut kopierten Urkunde: Pietro Ziani, Doge von Venedig<footnote>9</footnote>, hat im September 1217 mit Zustimmung seiner iudices und consiliarii dem Abt Aymo<footnote>10</footnote> und den Zisterziensermönchen des Thomasklosters in Torcello das Kloster Gergeri auf Kreta mit allem Zubehör und allen Besitzungen übertragen, um mit seiner Familie der Wohltaten und Gebete der Mönche teilhaftig zu werden. Von der Übertragung ausgenommen sind Güter, die sich auf denjenigen Ländereien befinden, die der Doge den Rittern der Insel übertragen hatte, sowie einige näher bezeichnete, die in seinem (oder Venedigs?) Besitz verbleiben sollten. Mit der Ausführung der Übertragung war der Vertreter des Dogen auf Kreta, der duca di Candia Paolo Querino (Paulus Quirinus)<footnote>11</footnote>, beauftragt worden.<footnote>12</footnote> Inserierte Abschrift der Urkunde von 1217 September, Rialto (Venedig)</regest>
     <ueberlieferung>
       <notar>Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen | Antonius, Priester von St. Bartholomäus und Notar</notar>
       <zeugen>Philippus Marcello, consiliator; Johannes Badoua(r)ius, iudex; Marinus Permarino, consiliator; Marinus Gradonico, iudex; Jacobus Longo, iudex; Jacobus Damolino, consiliator; Daniel Teupolo, consiliarius; Marinus Storlato, consiliator; Dominicus Quirinus, consiliator; Marcus Barbani, camelarior communis; Johannes Maurocenus, avocator communis; Nicolas Faletro, avocator; Benedictus Nauaglario, vicedominus; Octavianus Quirinus; Pantaleon Barbo; Jonatha Fuscarenus (anno domini millesimo ducentesimo septimodecimo, mense septembris, indictione sexta) | Petrus Barba(rus), Priester von St. Martin und Notar; Johannes Viliani, iudex, bestätigen die Übereinstimmung der Abschrift mit dem Original. (anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quarto, mense marcii, die octavo intrante, indictione secunda) Vgl. Nr. 16.</zeugen>
-      <besonderheiten>Ausrisse am Rand (meist restauriert), auffällige Initiale (Abb. siehe Anhang) (Signatur: 257)</besonderheiten>
-      <beschreibung>Pergament, Latein, 28,9 x 59,1 cm, Rücken mit Halsansatz; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: nicht lesbar</beschreibung>
+      <besonderheit>Ausrisse am Rand (meist restauriert), auffällige Initiale (Abb. siehe Anhang) (Signatur: 257)</besonderheit>
+      <beschreibung>Pergament, Latein, 28,9 x 59,1 cm; Rücken mit Halsansatz; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: nicht lesbar</beschreibung>
       <signatur>257</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -141,14 +140,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="10" seite-von="21" seite-bis="21" region="Italien - Torcello">
-    <datum>1305 Februar 19</datum>
+    <datum iso="13050219">1305 Februar 19</datum>
     <ausstellungsort>Torcello, Venedig, Kloster St. Thomas<footnote>13</footnote></ausstellungsort>
     <regest>Notariatsinstrument mit Signum und Bestätigung des Notars (Exemplar des Klosters): Abt Ugo von St. Thomas in Torcello überträgt den anwesenden Blasius (Blaxius), Jacobus und Marcus sowie dem nicht anwesenden B(er)tucius [Deca Venerio]<footnote>14</footnote>, Mitglieder der Dreifaltigkeitsbruderschaft in Venedig, den gesamten Besitz, über den das Kloster selbst, die zu ihm gehörende Kirche der Ritter in Heraklion St. Maria de militibus auf Kreta und das ebendort befindliche Kloster Gergeri verfügen, samt allem Zubehör auf fünf Jahre. Im Gegenzug versprechen die drei Genannten für sich und ihren nicht anwesenden Bruder, (1.) im Sinne eines Pachtzinses jährlich fünfeinhalb Pfund venezianischer Groschen von gutem Silber an das Thomaskloster abzugeben, im Kriegsfall jedoch nur vier; (2.) in der erwähnten Kirche St. Maria einen Priester zu unterhalten, der dort Gottesdienste feiern soll, sowie diesem (3.) ein Wohnhaus zur Verfügung zu stellen. Falls dies ein Mönch aus dem Thomaskloster sein sollte, so wollen sie ihm für jedes Jahr, in dem er in der Kirche Residenz hält, 20 venezianische Groschen zahlen, und er soll alle Einkünfte und Opfergaben sowohl der Kirche St. Maria als auch des Klosters Gergeri erhalten, die in der Zeit seiner Residenz anfallen. Kirche und Kloster sollen in der Jurisdiktion und Weisungsgewalt des Abtes des Thomasklosters bleiben. Außerdem übernehmen die vier Genannten die Auslagen für den Bruder aus dem Thomaskloster, der nach Kreta reisen wird, um sie in den Besitz der übertragenen Güter einzusetzen. Der Notar wurde von beiden Parteien beauftragt, jeweils eine Ausfertigung der Urkunde herzustellen.</regest>
     <ueberlieferung>
       <notar>Homobonus, Sohn des Albertus Taurus de Verona</notar>
       <zeugen>Subprior Aymo sowie Guido, Oddo, Petrus, Jacobus, Stephanus, Johannes und Gerardus, sämtlich Mönche in St. Thomas (anno eiusdem nativitatis millesimo trecentesimo quarto, indictione secunda, die decimo nono, mense februarii) Vgl. Nr. 11.</zeugen>
-      <besonderheiten>schlichte Initiale I (Signatur: 256)</besonderheiten>
-      <beschreibung>Pergament, Latein, 26,1 x 47/54,6/46,5 cm, unten stumpfwinklig auslaufend; Handzeichen des Notars am Urkundenanfang (Abb. siehe Anhang); Rückvermerke: Datum und Kurzregest</beschreibung>
+      <besonderheit>schlichte Initiale I (Signatur: 256)</besonderheit>
+      <beschreibung>Pergament, Latein, 26,1 x 47/54,6/46,5 cm; unten stumpfwinklig auslaufend; Handzeichen des Notars am Urkundenanfang (Abb. siehe Anhang); Rückvermerke: Datum und Kurzregest</beschreibung>
       <signatur>256</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -157,13 +156,13 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="11" seite-von="22" seite-bis="22" region="Italien - Torcello">
-    <datum>1309 (März) 3</datum>
+    <datum iso="13090303">1309 (März) 3</datum>
     <ausstellungsort>Malamocco</ausstellungsort>
     <regest>Notarielle Niederschrift einer Appellation des Thomasklosters in Torcello, vertreten durch seinen Abt Petrus<footnote>15</footnote>, an den Papst wegen eines Verstoßes gegen die Prozessordnung. Der Archidiakon Donatus von Malamocco (Mauthamauci), Beauftragter des päpstlichen Legaten Napoleon (Orsini), Kardinaldiakon von St. Hadrian (Andriano)<footnote>16</footnote>, hatte im Prozess zwischen den vier Brüdern Blasius, Jacobus, Marcus (Marcius) und Bertucius Deca Venerio aus Venedig einerseits und Torcello andererseits am 25. Februar desselben Jahres ein Zwischenurteil (sententia interlocutoria) gegen die Abtei gefällt und den Brüdern den umstrittenen Besitz auf Kreta zugesprochen, obwohl in dieser Sache bereits ein Appellationsverfahren vor einem päpstlichen Delegaten, dem Prior Galvanus von St. Jakob de Schiriali vor Treviso, anhängig war.</regest>
     <ueberlieferung>
       <notar>Marcus Colpe, päpstlicher Notar (anno eiusdem millesimo trecentesimo nono, indictione septima, die tercio [mensis] mar[tii]) Vgl. Nr. 10.</notar>
-      <besonderheiten>schlichte Initiale I (Signatur: 264)</besonderheiten>
-      <beschreibung>Pergament, Latein, 19,5 x 24,4/30,4 cm, unten stumpfwinklig auslaufend; restauriert, stark verblasst, Beeinträchtigung der Lesbarkeit durch Wasserfleck oben rechts; Rückvermerke: nicht lesbar</beschreibung>
+      <besonderheit>schlichte Initiale I (Signatur: 264)</besonderheit>
+      <beschreibung>Pergament, Latein, 19,5 x 24,4/30,4 cm; unten stumpfwinklig auslaufend; restauriert, stark verblasst, Beeinträchtigung der Lesbarkeit durch Wasserfleck oben rechts; Rückvermerke: nicht lesbar</beschreibung>
       <signatur>264</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -172,6 +171,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="12" seite-von="23" seite-bis="23" region="Italien - Torcello" pruefen="true">
+    <datum iso="13280125">1328 Januar 25</datum>
     <!-- ZUR PRUEFUNG: Bildet zusammen mit Nr. 12a ein Urkundenpaar; Materialbeschreibung und Signatur sind nur bei Nr. 12a vermerkt (gilt vermutlich für beide). -->
     <datum>1328 Januar 25</datum>
     <ausstellungsort>Torcello, Venedig, im Kloster St. Margarethe<footnote>17</footnote></ausstellungsort>
@@ -189,14 +189,14 @@
   </urkunde>
   <urkunde nr="12a" seite-von="23" seite-bis="23" region="Italien - Torcello" pruefen="true">
     <!-- ZUR PRUEFUNG: Gehört mit Nr. 12 zusammen (gleicher Streit, gleiches Datum); siehe Anmerkung bei Nr. 12. -->
-    <datum>1328 Januar 25</datum>
+    <datum iso="13280125">1328 Januar 25</datum>
     <ausstellungsort>Torcello, Venedig, im Kloster St. Margarethe<footnote>21</footnote></ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Äbtissin Magdalena und der Konvent von St. Margarethe in Torcello versprechen, sich dem oben genannten Schiedsgericht zu unterwerfen.</regest>
     <ueberlieferung>
       <notar>Clemens Scampaco, Sohn des Thomas Scampaco, kaiserlicher Notar</notar>
       <zeugen>Petrus Dominico, Gefolgsmann des Abtes von Brondolo; Niculeto Barrarolo, Advokat (anno domini millesimo trecentesimo vigesimoseptimo indictione decima die vigesimoquinto intrante mensis januarii) Vgl. Nr. 13.</zeugen>
-      <besonderheiten>schlichte Initiale I (Signatur: 263)</besonderheiten>
+      <besonderheit>schlichte Initiale I (Signatur: 263)</besonderheit>
       <beschreibung>Pergament, Latein, 30,0 x 54,0 cm; fleckig; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke verblasst</beschreibung>
       <signatur>263</signatur>
     </ueberlieferung>
@@ -205,14 +205,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="13" seite-von="24" seite-bis="24" region="Italien - Torcello">
-    <datum>1328 Januar 25</datum>
+    <datum iso="13280125">1328 Januar 25</datum>
     <ausstellungsort>Torcello, Venedig, im Kloster St. Thomas<footnote>22</footnote></ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Selbstverpflichtung des Abtes Petrus<footnote>23</footnote> und des Konvents von St. Thomas in Torcello, den in Nr. 12 beschriebenen Streit mit der Abtei St. Margarethe durch ein Schiedsgericht zu beenden. Das Mandat des Abtes Wilhelm von Cîteaux an die beiden Äbte ist in Paraphrase inseriert. Es handelt sich um einen Teil einer wechselseitigen Selbstverpflichtung der beiden Streitparteien; der andere Teil ist Nr. 12. Bis auf die Namen, den Ausstellungsort und das angefügte Notariatsinstrument (Nr. 12a) ist der Text beider Stücke identisch. Man kann daher annehmen, dass der Notar Clemens Scampago beide Streitparteien am selben Tag in ihren Klöstern aufgesucht hat.</regest>
     <ueberlieferung>
       <notar>Clemens Scampago, Sohn des Thomas Scampaco, kaiserlicher Notar</notar>
       <zeugen>Madius Ridesii de Tarvisio; Leonardo de Paredo (Diöz. Ceneda); Johannes de Cividale de Belluno, sämtlich Gefolgsleute des Abtes von Follina, sowie Marachinus de Torcello, bischöflicher Advokat (anno domini millesimo trecentesimo vigesimo septimo, indictione decima, die vigesimoquinto intrante mense januarii) Vgl. Nr. 12.</zeugen>
-      <besonderheiten>sehr dickes Pergament; abgeplatzte Schrift an Faltstellen; schlichte Initiale I (Signatur: 265)</besonderheiten>
+      <besonderheit>sehr dickes Pergament; abgeplatzte Schrift an Faltstellen; schlichte Initiale I (Signatur: 265)</besonderheit>
       <beschreibung>Pergament, Latein, 26,4 x 24,0 cm; Unterstreichungen; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: Regest</beschreibung>
       <signatur>265</signatur>
     </ueberlieferung>
@@ -222,14 +222,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="14" seite-von="24" seite-bis="24" region="Italien - Torcello">
-    <datum>1330 Januar 1024<footnote>24</footnote></datum>
+    <datum iso="13300110">1330 Januar 10<footnote>24</footnote></datum>
     <ausstellungsort>Kloster St. Jakob di Palude<footnote>25</footnote></ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Die Priorin Caterina Minio und der Konvent des Klosters St. Jakob di Palude bestätigen, dass sie sich der Zisterzienserregel und dem Abt Petrus von St. Thomas in Torcello<footnote>26</footnote> unterordnen. Abt Petrus übernimmt die Visitation, er muss bei der Neuwahl der Priorin zugegen sein und seine Zustimmung geben.</regest>
     <ueberlieferung>
       <notar>Clemens Scampaco, Sohn des Thomas Scampaco, kaiserlicher Notar und Schreiber von Torcello (anno millesimo trecentesimo vigintesimo nono, indictione duodecima, die decimo intrante mense ianuarii)</notar>
-      <besonderheiten>schlichte Initiale I (Signatur: 268)</besonderheiten>
-      <beschreibung>Pergament, Latein, 14,3 x 43,0 cm, nach unten spitz zulaufend; restauriert, fleckig; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke</beschreibung>
+      <besonderheit>schlichte Initiale I (Signatur: 268)</besonderheit>
+      <beschreibung>Pergament, Latein, 14,3 x 43,0 cm; nach unten spitz zulaufend; restauriert, fleckig; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke</beschreibung>
       <signatur>268</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -239,13 +239,13 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="15" seite-von="25" seite-bis="25" region="Italien - Torcello">
-    <datum>1338 April 1</datum>
+    <datum iso="13380401">1338 April 1</datum>
     <ausstellungsort>Torcello, Venedig, Kloster St. Thomas</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Abt Nikolaus<footnote>27</footnote> und der Konvent des Thomasklosters in Torcello verpachten dem Paulo Trevissano, Patron des Arsenals von Venedig, das Kloster Gergeri auf Kreta. Ausgenommen ist der Besitz einiger namentlich erwähnter Personen und Körperschaften. Der Vertrag soll vom Mai 1339 an für fünf Jahre gelten, die Pacht beträgt jährlich 29 Pfund venezianischer Groschen. Im ersten Jahr wird der Pächter außerdem zur Zahlung von 25 Pfund zur Errichtung eines Gebäudes nahe der Kirche St. Maria de militibus bei Heraklion (Candia) aufgefordert. Im einzelnen wird geregelt: Im Kriegsfalle muss nicht die Pachtsumme, sondern nur die Hälfte des Ertrages gezahlt werden; den Landbewohnern dürfen keine weiteren Lasten auferlegt werden; die Rückgabebestimmungen sind genau festgelegt.</regest>
     <ueberlieferung>
       <notar>Priester Thomas de Iustin(o)p(o)li, Kapellan von St. Margarethe in Torcello, kaiserlicher Notar (anno nativitatis eiusdem millessimo tricentessimo trigessimo octavo, indictione sexta, … die primo mensis aprilis)</notar>
-      <beschreibung>Pergament, Latein, 31,5 x 63,2/72,3 cm, stumpfwinklig auslaufend; großer Faltungsbruch mit Textverlust; Handzeichen des Notars am Textanfang (Abb. siehe Anhang); Rückvermerke von jeweils anderer Hand: zwei italienische Regesten, 1338 Nicolaus abbas</beschreibung>
+      <beschreibung>Pergament, Latein, 31,5 x 63,2/72,3 cm; stumpfwinklig auslaufend; großer Faltungsbruch mit Textverlust; Handzeichen des Notars am Textanfang (Abb. siehe Anhang); Rückvermerke von jeweils anderer Hand: zwei italienische Regesten, 1338 Nicolaus abbas</beschreibung>
       <signatur>267</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -253,13 +253,13 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="16" seite-von="25" seite-bis="26" region="Italien - Torcello">
-    <datum>1340 März 15</datum>
+    <datum iso="13400315">1340 März 15</datum>
     <ausstellungsort>Rialto (Venedig)</ausstellungsort>
     <regest>Der Doge Bartolomeo Gradenigo (Bartholomeus Gradonico)<footnote>28</footnote> bestätigt die von Abt Nikolaus<footnote>29</footnote> von St. Thomas in Torcello vorgelegte Abschrift einer Schenkungsurkunde, die vollständig inseriert ist: Im September 1217 hat der Doge Pietro Ziani (Petrus Ciani)<footnote>30</footnote> dem Abt Aymo<footnote>31</footnote> von St. Thomas und dessen Nachfolgern das Kloster Gereri auf Kreta mit all seinen Besitzungen zum Nießbrauch übertragen. Dabei wird Paolo Querino (Paulus Quirinus), Herzog von Kreta, als Ausführender der Schenkung genannt. Die Abschrift des offenbar verlorenen Originals wurde am 8. März 1304 angefertigt.<footnote>32</footnote> Verlorene Schenkungsurkunde von 1217 September, Rialto (Venedig)</regest>
     <ueberlieferung>
       <notar>Priester Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen von Venedig | Antonius, Priester von St. Bartholomäus und Notar | Priester Nikolaus, Pleban von S. Canc(iano), Notar und Kanzler des Dogen von Venedig</notar>
       <zeugen>Phylippus Marcello, consiliator<footnote>33</footnote>; Johannes Badouarius, iudex; Marinus Permarino, consiliator; Marinus Gradonico, iudex; Jacobus Longo, iudex communis; Jacobus de Mol(ino), consiliator; Daniel Teupulo, consiliator; Marinus Storlato, consiliator; Dominicus Quirinus, consiliator; Marcus Barbani, camerarius comunis; Johannes Mauroceno, aduocator comunis; Nicolao Falet(r)o, aduocator; Benedictus Nauiaglario vicedominus; Octauianus Querinus; Pantaleon Barbo; Jonatha Fuscarenus (anno millesimo ducentesimo septimo decimo, mense septembris, indictione sexta) Inserierte Abschrift der vorausgehenden Urkunde von 1304 März 8 | Petrus Barba(rus), Priester von St. Martin und Notar; Johannes Viliani, iudex, bestätigen die Übereinstimmung der Abschrift mit dem Original. (anno ab incarnatione domini nostri Jhesu Christi Millesimo trigentesimo quarto mensis Marcii die octauo intrante, indictione secunda) | Ioanes Nicolao Michael und Marinus Pasqualigo, beide iudices, mit eigenhändiger Unterschrift (anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quadragesimo, mense martii, die quinta decima intrante, indictione octaua) Vgl. Nr. 9.</zeugen>
-      <besonderheiten>Pergament zeigt Umrisse des Tieres: Rücken mit Halsansatz unten; sehr große, schlichte Initiale I (Signatur: 270)</besonderheiten>
+      <besonderheit>Pergament zeigt Umrisse des Tieres: Rücken mit Halsansatz unten; sehr große, schlichte Initiale I (Signatur: 270)</besonderheit>
       <beschreibung>Pergament, Latein, 36,2 x 66,8 cm; restaurierte Löcher; Randbemerkung des Schreibers 1217 markiert den Beginn des Inserts; Rückvermerke: drei von jeweils anderer Hand</beschreibung>
       <signatur>270</signatur>
     </ueberlieferung>
@@ -273,14 +273,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="17" seite-von="27" seite-bis="27" region="Italien - Torcello">
-    <datum>1381 Juni 2</datum>
+    <datum iso="13810602">1381 Juni 2</datum>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Vier Dokumente werden im Wortlaut wiedergegeben, welche die als Kommende verliehene Abtei St. Thomas in Torcello sowie deren Besitz auf Kreta, namentlich das Kloster St. Maria de Cavalense in Heraklion, betreffen. Im Einzelnen sind dies (in der Reihenfolge des Dokuments): 1380 September 7, Rom, Haus des Bischofs von Faenza Franciscus de Urbino, Bischof von Faenza<footnote>34</footnote> und Administrator des Klosters St. Thomas in Torcello, bestellt Bischof Julianus von Chersonisos auf Kreta (Chironensis)<footnote>35</footnote> und Bartholomeus Jacobi de Regio, Kanoniker in Chersonisos, zu Prokuratoren des Klosters St. Maria de Cavalense in Heraklion (de Candida [!]) und stattet diese mit umfassenden Handlungsvollmachten aus.</regest>
     <ueberlieferung>
       <notar>Jacobus Cictareli | Georgus Aymo</notar>
       <zeugen>Petrus de Fan()i; Paulus de Urbin(o), Kaplan des Bischof von Faenza (anno millesimo trecentesimo octuagesimo, indictione tercia, tempore serenissimi patris et domini nostri domini Urbani divina providentia pape sexti anno tercio, die septimo mensis septembris) 1380 Oktober 8, Rom, Senatorenpalast auf dem Kapitol Der Senator Petrus de Passis (oficium sacri senatus regentes in alma urbe)<footnote>36</footnote> bestätigt ein Instrument des römischen Notars Jacobus Cictareli vom 15. September (1380) für Bischof Petrus von Pánormus auf Kreta (Millopota)<footnote>37</footnote>, dessen Inhalt nicht genannt wird, sowie die vorgenannte Prokuratorenvollmacht des Bischofs von Faenza für Bartholomeus Jacobi vom 7. September 1380. (die octavo mensis octobris, pontificatus eminentissimi in Christo patris domini nostri domni Urbani diuina providentia papae sexti anno tercio, mccclxxx, indictione tercia) 1380 September 7, Rom, St. Peter Papst Urban VI.<footnote>38</footnote> überträgt dem Franciscus de Urbino, Bischof von Faenza, das Kloster St. Thomas in Torcello als Kommende. (VII idus septembris pontificatus nostri anno tercio) (1381 vor Juni 2) Bischof Julianus (von Chersonisos, Prokurator des Bischofs Franciscus von Faenza als Kommendatar der Abtei St. Thomas in Torcello) verpachtet dem Jacobus Manolesus das Kloster (St. Maria de Cavalense) auf Kreta für 310 Golddukaten. Von diesen Einnahmen hat der Pächter den Unterhalt des Priesters in der Klosterkirche zu tragen. Das Datum ergibt sich aus der inhaltlichen Folge der Inserte, deren jüngstes es sein muss, und dem Datum der Gesamturkunde. | Amadeus de Laude; Gerardus Desde, beide Priester (anno ab incarnatione domini nostri Ihesu Christi millesimo trecentesimo octuagesimo primo, mense Iunii, die secundo, indictione quarta)</zeugen>
       <rueckvermerke>Datum</rueckvermerke>
-      <besonderheiten>Unterstreichungen Das genannte Kloster St. Maria de Cavalense in Heraklion dürfte mit der in Nr. 7, 10 und 15 genannten Kirche St. Maria de militibus identisch sein (vgl. oben die Einleitung Torcello– Kreta). (Signatur: 269) Treviso</besonderheiten>
+      <besonderheit>Unterstreichungen Das genannte Kloster St. Maria de Cavalense in Heraklion dürfte mit der in Nr. 7, 10 und 15 genannten Kirche St. Maria de militibus identisch sein (vgl. oben die Einleitung Torcello– Kreta). (Signatur: 269) Treviso</besonderheit>
       <beschreibung>Pergament, Latein, 32,2 x 51,2 cm; Textverlust durch Löcher am rechten Rand, restauriert, Handzeichen des Notars (Abb. siehe Anhang); Unterschriften zum Teil nicht lesbar;</beschreibung>
       <signatur>269</signatur>
     </ueberlieferung>
@@ -293,25 +293,25 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="18" seite-von="28" seite-bis="28" region="Italien - Treviso">
-    <datum>1304 Januar 23</datum>
+    <datum iso="13040123">1304 Januar 23</datum>
     <ausstellungsort>[Treviso]</ausstellungsort>
     <regest>Notarielle Abschrift (exemplum) einer detaillierten Erbteilung zwischen den Geschwistern Villanellus, Albigetus und Passasalta/Passasclata, Kinder des Bartholomäus (Bortholameus) Cine vom 29. Dezember 125939. Der Text des Jahres 1304 wurde nicht aus dem Original von 1259 gewonnen, sondern aus einer Abschrift desselben vom 30. März 1298. Originalurkunde von 1259 Dezember 29</regest>
     <ueberlieferung>
       <notar>Johannes de Marchis, notarius sacri palatii, aus den Aufzeichnungen seines Vaters Heinrich und auf Geheiß des Rates von Treviso | Petrus Martini de Plombino auf Geheiß des Linardus de Verona, Konsul von Treviso zur Zeit des Podestà Nicolaus de Locio. (millesimo trecentesimo quarto, indictione secunda, die Iovis XXIII intrante januarii) Als Ausstellungsort ist Treviso zu erschließen. Für das damalige Treviso ist als Jahresanfang der 25. Dezember anzunehmen, so dass die Angabe millesimo ducentesimo sessagessimo in heutiger Zählung zu 1259 aufzulösen ist. Die Kombination der Datumselemente lässt zudem 1260 nicht zu, da hier der 29. Dezember auf einen Mittwoch fiele.</notar>
       <zeugen>die Brüder Jacob und Heinrich de mille Ma(r)chis; Ma(r)tha de Ma(r)chis Frasanellis; Johannes Crosnelle; Notar Albertus; Eccelinus. (millesimo ducentesimo sessagessimo, indictione tercia, die lunae tercio exeunte decembri) Abschrift von 1298 März 30</zeugen>
-      <besonderheiten>Initialen nur vorgezeichnet (Signatur: 261)</besonderheiten>
+      <besonderheit>Initialen nur vorgezeichnet (Signatur: 261)</besonderheit>
       <beschreibung>Pergament, Latein, 14,3 x 74,3 cm; zum Teil stark verblasst; Handzeichen des Notars mittig in den Text eingefügt (Abb. siehe Anhang); Rückvermerke: u.a. Datum</beschreibung>
       <signatur>261</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="19" seite-von="29" seite-bis="29" region="Italien - Treviso">
-    <datum>1407 Dezember 17</datum>
+    <datum iso="14071217">1407 Dezember 17</datum>
     <ausstellungsort>Treviso</ausstellungsort>
     <regest>Notariatsinstrument über einen Ehevertrag: Jakob Pelipanus und sein Vater, Magister Anthonius, bestätigen den Empfang der Morgengabe (dos) für die Ehefrau Monega, Tochter des Vondram, im Wert von 500 Pfund Denaren, zum Teil in Münzen, zum Teil in beweglichen Gütern. Sie haften dafür mit ihrem gesamten Besitz. Es folgt eine Erbregelung zwischen den Eheleuten. Stirbt Monega, ohne dass aus der Ehe Kinder hervorgegangen sind, so verbleibt die Morgengabe zur Hälfte beim Ehemann, über die andere Hälfte kann Monega testamentarisch frei verfügen; beim Tod des Ehemanns erhält die Ehefrau die gesamte Morgengabe zurück nebst der Hälfte der Güter des Jakob. Angefügt ist ein Vermerk, in dem Bobonus, Kanzleinotar der Stadt Treviso, die wortgetreue Eintragung des Schriftstückes ins städtische Amtsbuch<footnote>40</footnote> unter dem Datum des 3. Januar 1408 bestätigt.</regest>
     <ueberlieferung>
       <notar>Coneglanus, Sohn des Johannes, kaiserlicher Notar; Bobonus S. Petri de Lafraschada, kaiserlicher Notar und Kanzleinotar von Treviso (etiam notarius et officialis ad officium cancelarie)</notar>
       <zeugen>Daniel de Chumreas; Jacobus Storcario; Magister Bartholameo Cupario; Petro Buxo Baronario; Franciscus Pelipa(n)us (anno eiusdem nativitatis millesimo quadringentesimo septimo, indictione quinta decima, die sabati decimo septimo mensis decembris)</zeugen>
-      <besonderheiten>sehr dunkles Pergament, schlichte Initiale I (Signatur: 85)</besonderheiten>
+      <besonderheit>sehr dunkles Pergament, schlichte Initiale I (Signatur: 85)</besonderheit>
       <beschreibung>Pergament, Latein, 18,0 x 48,4 cm; drei Faltungen quer, Urkunde insgesamt fleckig, an einer Stelle nicht lesbar, Handzeichen eines Notars vor dem Textbeginn (Abb. siehe Anhang)</beschreibung>
       <signatur>85</signatur>
     </ueberlieferung>
@@ -320,26 +320,26 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="20" seite-von="30" seite-bis="30" region="Italien - Treviso">
-    <datum>1430 März 31</datum>
+    <datum iso="14300331">1430 März 31</datum>
     <ausstellungsort>Treviso</ausstellungsort>
     <regest>Notarieller Kreditvertrag: Die Magister Jakob de Bononia und Franciscus verpflichten sich, dem in Treviso tätigen jüdischen Schneider Mathis de Constancia 20 Dukaten reinen Goldes sowie den zugehörigen Zins gemäß der Vereinbarung der Kommune von Treviso mit den jüdischen Einwohnern bis zur Messe am Festtag des heiligen Lukas im kommenden Oktober (18.) zurück zu zahlen. Sollten Jakob und Franciscus zum genannten Termin das Darlehen nicht ablösen, so müssen sie dennoch den Zins zahlen und sind ferner gehalten, den Darlehensbetrag in doppelter Höhe zu begleichen. Als Sicherheit benennen die Schuldner Immobilienbesitz, aus dem die Ansprüche des Mathis hinsichtlich Kredit und Zinsen befriedigt werden können.</regest>
     <ueberlieferung>
       <notar>Appollonius, Sohn des Pierpaolo de Mundis, Notar in Treviso und kaiserlicher Notar</notar>
       <zeugen>Anthonius Barbatorius; Franco Sartor (anno eiusdem nativitatis millesimo quadringentessimo trigesimo, indictione octaua, die veneris vltimo mensis marcii)</zeugen>
-      <beschreibung>Pergament, 15,0 x 22,3 cm; abgeplatzte Tinte, unregelmäßige Einschnitte; Handzeichen des Notars (Abb. siehe Anhang)</beschreibung>
+      <beschreibung>Pergament, Latein, 15,0 x 22,3 cm; abgeplatzte Tinte, unregelmäßige Einschnitte; Handzeichen des Notars (Abb. siehe Anhang)</beschreibung>
       <signatur>93</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="21" seite-von="30" seite-bis="30" region="Italien - Treviso" pruefen="true">
     <!-- ZUR PRUEFUNG: Enthält im Fließtext eine Geldbetragsangabe ('88 Pfund') am Zeilenanfang, die bei der automatisierten Fussnotenerkennung Sonderbehandlung brauchte; Text wurde geprüft und ist vollständig, aber bitte gegenlesen. -->
-    <datum>1453 März 16</datum>
+    <datum iso="14530316">1453 März 16</datum>
     <ausstellungsort>Treviso, Palazzo comunale</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Die Erklärung des Johannes de Mazocho, Schuldner des Notars Zaninus aus Treviso, über die Begleichung einer Schuld. Gemäß einem öffentlichen Dokument des Notars Ba[r]tholomeus de Vallefugana vom 19. Dezember 1452, das der unterzeichnende Notar eingesehen hat, schuldet Johannes dem Zaninus 57 Pfund und weitere Summen aus einem Verkauf und einem Kreditgeschäft. Johannes erklärt, insgesamt 88 Pfund erhalten zu haben, darunter die erwähnten 57, und übergibt dem Zaninus zur Begleichung der Schuld Land in der Ortschaft Arcade (Archadia)<footnote>41</footnote>.</regest>
     <ueberlieferung>
       <notar>Baptista de Fregona, Notar in Treviso</notar>
       <zeugen>Gaspare de Petrarumba; Hieronymus de Farra, Notare und Bürger von Treviso (anno eiusdem nativitatis millesimo quadringentesimo quinquagesimo tertio, indictione prima, die vero veneris sexto decimo mensis martii)</zeugen>
-      <besonderheiten>sehr dickes Pergament, schlichte Initiale I (Signatur: 114)</besonderheiten>
+      <besonderheit>sehr dickes Pergament, schlichte Initiale I (Signatur: 114)</besonderheit>
       <beschreibung>Pergament, Latein, 20,3 x 31,6 cm; leicht fleckig, Handzeichen des Notars (Abb. siehe Anhang), Rückvermerke: Datum, Regest von vermutlich gleicher Hand wie Vorderseite</beschreibung>
       <signatur>114</signatur>
     </ueberlieferung>
@@ -348,12 +348,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="22" seite-von="31" seite-bis="31" region="Italien - Treviso">
-    <datum>1504 September 30</datum>
+    <datum iso="15040930">1504 September 30</datum>
     <regest>Notariatsinstrument über den Verkauf von Grundbesitz: Sebastianus, Sohn des Nikolaus Salpimonis aus Vidor (Villa Vidori)<footnote>42</footnote>, verkauft dem Viktor, Sohn des Rugero de Bigutino, ein Stück Land in Villa Vigolini mit allen zugehörigen Rechten. Der detaillierte Vertrag ist mit einer Konventionalstrafe in Höhe von 50 Pfund gesichert.</regest>
     <ueberlieferung>
       <notar>Franciscinus, Sohn des Franciscinus Temarignago, kaiserlicher Notar in Treviso</notar>
       <zeugen>Priester Gaspare de Vincentia; Laurentius, Sohn des Vendraminus de Merchadro, beide wohnhaft in Villa Vigolini (anno eiusdem natiuitatis millesimo quingentesimo quarto, indictione septima, die uero lune XXX mensis setembris)</zeugen>
-      <besonderheiten>große, schlichte Initiale I, in einigen Zeilen Wortunterstreichungen in rot und schwarz (Signatur: 174)</besonderheiten>
+      <besonderheit>große, schlichte Initiale I, in einigen Zeilen Wortunterstreichungen in rot und schwarz (Signatur: 174)</besonderheit>
       <beschreibung>Pergament, Latein, 39,0 x 21,6 cm; rechter Urkundenrand beschädigt (restauriert), dadurch an den Zeilenenden Lesbarkeit zum Teil erheblich beeinträchtigt, fleckig, Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: nicht lesbar</beschreibung>
       <signatur>174</signatur>
     </ueberlieferung>
@@ -362,40 +362,40 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="23" seite-von="31" seite-bis="31" region="Italien - Treviso">
-    <datum>1539 Mai 16</datum>
+    <datum iso="15390516">1539 Mai 16</datum>
     <ausstellungsort>Treviso, im Haus des Notars Petrus de Bononia</ausstellungsort>
     <regest>Notariatsinstrument über den Verkauf eines halben Feldes Ackerland samt einer plantata von Columbanus de Comdiotis de Pirro an Bernardinus Pasqueto de Dita zum Preis von 62 Pfund: Der Verkäufer bestätigt, für den in der Ortschaft Pirro am so genannten Großfeld (campo grande) zwischen den Besitzungen der beiden Geschäftspartner und der öffentlichen Straße gelegenen Besitz bereits 18 Pfund der Kaufsumme am Vortag erhalten zu haben, weitere 44 Pfund erhält er bei Vertragsschluss. Er gibt alle Besitzrechte am Verkaufsobjekt auf, verspricht, dem Käufer in etwaigen Streitfällen zur Seite zu stehen, und haftet mit seinem gesamten Vermögen für die Einhaltung des Vertrages. Der Verkäufer kann den Besitz innerhalb der nächsten vier Jahre zum selben Preis zurückkaufen.</regest>
     <ueberlieferung>
       <notar>Nikolaus de Marostica aus Treviso</notar>
       <zeugen>Jakob de Bononia, Notar in Treviso (anno eiusdem natiuitatis millesimo quingentesimo trigesimo nono, indictione duodecima, die vero veneris sexto decimo mensis maii)</zeugen>
       <rueckvermerke>italienisch</rueckvermerke>
-      <besonderheiten>schlichte Initiale I (Signatur: 193)</besonderheiten>
+      <besonderheit>schlichte Initiale I (Signatur: 193)</besonderheit>
       <beschreibung>Pergament, Latein, 12,3 x 31,6 cm; Löcher, Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
       <signatur>193</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="24" seite-von="32" seite-bis="32" region="Italien - Treviso">
-    <datum>1581 Juli 3</datum>
+    <datum iso="15810703">1581 Juli 3</datum>
     <ausstellungsort>Treviso</ausstellungsort>
     <regest>Andreas Bosellus überträgt im Namen und mit Vollmacht seines Vaters Hieronymus an den Doktor der Medizin Hieronymus Aprimo ein Feld in Paderno am Ort Pra dall’Aqua, ferner Land in Paderno am Ort Il Pra da Cason, sechs weitere Landmaß (petia) in Paderno, ein weiteres ebenda am Ort La Lovara. Die im einzelnen in ihrer Lage, ihrem Vorbesitz und ihrem Wert durch Verweis auf diesbezügliche Urkunden genau bestimmten Besitzungen ergeben einen Kaufpreis von 597 Pfund 18 Schillingen, dazu Auslagen für die Beurkundung und andere Notwendigkeiten in Höhe von 45 Pfund 6 Schillingen, zahlbar innerhalb von sieben Jahren.</regest>
     <ueberlieferung>
       <notar>Johannes Angelus Istrana, kaiserlicher Notar und Bürger von Treviso</notar>
       <zeugen>Laurentius Guimanus, Bürger Schultheiß/Gerichtsbote (preco) aus Treviso von Treviso; Antonius Gambarinus, (anno eiusdem natiuitatis millesimo quingentesimo octingentesimo primo, indictione nona, die lunae tertio mensis julii)</zeugen>
       <rueckvermerke>Regest, italienisch, stark verblichen.</rueckvermerke>
-      <besonderheiten>große, schlichte Initiale I (Signatur: 209) Venedig</besonderheiten>
+      <besonderheit>große, schlichte Initiale I (Signatur: 209) Venedig</besonderheit>
       <beschreibung>Pergament, Latein, 21,9 x 34,1 cm; Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
       <signatur>209</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="25" seite-von="32" seite-bis="32" region="Italien - Venedig">
-    <datum>1384 Juni 25</datum>
+    <datum iso="13840625">1384 Juni 25</datum>
     <ausstellungsort>Venedig</ausstellungsort>
     <regest>Notariatsinstrument über den Verkauf eines Hauses: Christianus Calegarius de Sacillo und seine Tochter Gaiarda verkaufen mit Zustimmung von deren Ehemann Chaterinus an Bernardus Calegarius, den Bruder des Chaterinus, ein ummauertes, in seiner Lage genau bezeichnetes Haus in Sacili (Sacili)<footnote>43</footnote> aus der Mitgift der Gaiarda mit den daran haftenden Rechten und Pflichten zum Preis von 120 Pfund venezianischer Groschen. Für den Fall einer Vertragsverletzung werden eine Konventionalstrafe in Höhe des doppelten Kaufpreises sowie die Übernahme entstandener Kosten vereinbart.</regest>
     <ueberlieferung>
       <notar>Thomas de Thomasio, Sohn des Notars Bartolomeus de Sacillo, Notar und iudex in S. Giovanni Nuovo in Venedig</notar>
       <zeugen>Johannes de Pulariaco; Laurencius Calegarius; Benvenutus Calegarius (anno natiuitatis eiusdem millisimo trecentesimo octogesimo quarto, indictione septima, die vigesimo quinto mensis junii)</zeugen>
       <rueckvermerke>2 in Italienisch, 1 in Latein</rueckvermerke>
-      <besonderheiten>schlichte, aber sehr große Initiale I (Signatur: 68)</besonderheiten>
+      <besonderheit>schlichte, aber sehr große Initiale I (Signatur: 68)</besonderheit>
       <beschreibung>Pergament, Latein, 38,8 x 25,1 cm; leicht fleckig, restaurierte Faltungsbrüche, verblasste Schrift, dadurch geringer Textverlust, Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
       <signatur>68</signatur>
     </ueberlieferung>
@@ -404,25 +404,25 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="26" seite-von="33" seite-bis="33" region="Italien - Venedig">
-    <datum>1460 September 13</datum>
+    <datum iso="14600913">1460 September 13</datum>
     <regest>Die venezianischen iudices Bartholomeus Contareno, Bernardus Bembo und Alvisius Mudatio übertragen Hieronymus und Petrus Michael, den Söhnen des Jakob Michael, als den Rechtsnachfolgern der unten genannten Samaritana 24 Felder in der Grundherrschaft Noverete im Ort El Breo, sieben im Ort El Paradiso, sechs in La Pradaria zu Besitz und Nießbrauch zum Preis von 568 Golddukaten. Sie tun dies aufgrund einer Pfandurkunde der Samaritana, der Frau des Jakob Michael, in Höhe von 1754 Dukaten, ausgestellt am 3. Oktober 1457 von dem Priester Thomas de Pavonibus, Notar der curia. Die Urkunde trägt die Unterschriften der iudices Bartholomeus Contareno und Ludovico Mudatio.</regest>
     <ueberlieferung>
       <notar>Nikolaus Rubeus, Pleban von St. Leonhard in Venedig und Notar der curia</notar>
       <zeugen>Baldasare Bartholomei; Petrus Basilii (anno ab incarnatione domini nostri Jesu Christi millesimo quadringentesimo sexagesimo, mensis septembris, die tertio decimo, indictione decima)</zeugen>
-      <besonderheiten>sehr dünnes Pergament, schlichte Initiale I (Signatur: 121)</besonderheiten>
-      <beschreibung>Pergament, Latein, 25,0 x 31,3 cm, fleckig; Löcher, Schrift zum Teil verblasst, Handzeichen des Notars (Abb. siehe Anhang)</beschreibung>
+      <besonderheit>sehr dünnes Pergament, schlichte Initiale I (Signatur: 121)</besonderheit>
+      <beschreibung>Pergament, Latein, 25,0 x 31,3 cm; fleckig; Löcher, Schrift zum Teil verblasst, Handzeichen des Notars (Abb. siehe Anhang)</beschreibung>
       <signatur>121</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="27" seite-von="33" seite-bis="33" region="Italien - Venedig">
-    <datum>1501 Februar 3</datum>
+    <datum iso="15010203">1501 Februar 3</datum>
     <ausstellungsort>Venedig, Pfarrei (confinium) St. Gervasius<footnote>44</footnote></ausstellungsort>
     <regest>Notariatsinstrument über das Testament der Elisabeth, Witwe des Petrus Manolus: Ihrer Tochter Angela, Gattin des Johann Antonius de Rompiaxe, vererbt sie 300 Golddukaten und verpfändet zur Sicherung des Erbteils der Tochter ihren Besitz in derselben Höhe.</regest>
     <ueberlieferung>
       <notar>Bernardinus Bono, Priester an St. Gervasius und kaiserlicher Notar</notar>
       <zeugen>Magister Demetrius Aromatario und Stephanus Rimario, beide aus der Pfarrei St. Gervasius (anno nativitatis eiusdem millesimo quingentesimo, inditione tertia, die tertio mensis februarii)</zeugen>
       <rueckvermerke>Datum und Regesten von drei verschiedenen Händen</rueckvermerke>
-      <besonderheiten>schlichte Initiale I (Signatur: 171)</besonderheiten>
+      <besonderheit>schlichte Initiale I (Signatur: 171)</besonderheit>
       <beschreibung>Pergament, Latein, 20,8 x 31,5 cm; Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
       <signatur>171</signatur>
     </ueberlieferung>
@@ -431,14 +431,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="28" seite-von="33" seite-bis="33" region="Italien - Venedig">
-    <datum>1542 März 4</datum>
+    <datum iso="15420304">1542 März 4</datum>
     <ausstellungsort>Venedig, Markusplatz, Notariat des Johannes Maria de Cauancis</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Nikolaus Guiatus verkauft dem Aloysius Fontana anderthalb Felder in Vitriegi zum Preis von 65 Dukaten zu je 6 Pfund und 4 Schillingen. Nikolaus und sein Neffe Michael Guiatus hatten laut eines Instruments des venezianischen Notars Georgius Draco vom 19. Mai 1539 dem Aloysius Fontana acht Felder in der Ortschaft Scaltenigo (Scaltanici)<footnote>45</footnote> verkauft; hieraus bestanden noch Zehntlasten. Damit dem Aloysius Fontana deshalb kein Schaden entstehe, übergibt ihm Nikolaus Guiatus auch namens seines Neffen ein halbes Feld in Scaltenigo, aus dem Aloysius den Zehnten bestreiten wird.</regest>
     <ueberlieferung>
       <notar>Johannes Maria [de] Cauancis, kaiserlicher und venezianischer Notar, der aufgrund Arbeitsüberlastung aber das Vorliegende nicht selbst geschrieben hat</notar>
       <zeugen>Franciscus de Franceschinis; Paulus Leoncinus (anno natiuitatis eiusdem millesimo quingentesimo quadragesimo secundo, indictione XVma, die quarto mensis martii)</zeugen>
-      <besonderheiten>schlichte Initiale I (Signatur: 195)</besonderheiten>
+      <besonderheit>schlichte Initiale I (Signatur: 195)</besonderheit>
       <beschreibung>Pergament, Latein, 22,2 x 46,4 cm; leicht fleckig, Rasuren auffällig überschrieben, Handzeichen des Notars (Abb. siehe Anhang); Rückvermerk: Datum</beschreibung>
       <signatur>195</signatur>
     </ueberlieferung>
@@ -447,12 +447,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="29" seite-von="34" seite-bis="34" region="Italien - Venedig">
-    <datum>1572 Januar 21</datum>
+    <datum iso="15720121">1572 Januar 21</datum>
     <ausstellungsort>[Venedig]<footnote>46</footnote></ausstellungsort>
     <regest>Notariatsinstrument über das Urteil der Richter Joannes Mauroceno, Franciscus Pasqualico und Petrus Basadona in einem Besitzstreit zwischen dem Ehemann und dem Vater der Cecilia, Heustachius Georgio und Nicolaus Bragadeno, einerseits und dem Bruder der verstorbenen Marieta, Hieronimo Bollani, andererseits. Der im (vorangegangen) Oktober vom venezianischen Notar Paulus Leoncini registrierte Rechtsstreit, einschließlich der testamentarischen Verfügung der Mutter der Marieta, Loredana, sind in italienischer Sprache inseriert. Laut Testament sollte Loredanas Besitz zwischen Cecilia und Marieta geteilt und beim Tod der einen an die andere übergehen. Nachdem sich trotz Vorladung durch den Notar Marcantonio Armani die Erben der verstorbenen Marieta, Troiano und Vincenzo Bollani, nicht gemeldet hatten, erhob Hieronimo Bollani Ansprüche auf den Besitz. Die Richter entscheiden zugunsten des Heustachius Georgio und Nicholaus Bragadeno, dass der gesamte Besitz gemäß der testamentarischen Verfügung an Cecilia fällt.</regest>
     <ueberlieferung>
       <notar>Julius Ravagnano, Notar und curator mobilium Unterzeichnende Richter: Joannes Mauroceno; Franciscus Pasqualico; beide iudices curatores mobilium; die Unterschrift des Petrus Basadona fehlt (anno ab incarnatione domini nostri Ihesu Christi millesimo quingentesimo septuagesimo primo, indictione quinta decima, die vigesimo primo januarii)</notar>
-      <besonderheiten>sehr dickes Pergament, schlichte, stark verblasste Initiale I, Unterschriften der Richter mit sehr dicker Feder geschrieben (Signatur: 207)</besonderheiten>
+      <besonderheit>sehr dickes Pergament, schlichte, stark verblasste Initiale I, Unterschriften der Richter mit sehr dicker Feder geschrieben (Signatur: 207)</besonderheit>
       <beschreibung>Pergament, Latein und Italienisch, 16,3 x 26,7 cm; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: Italienisch</beschreibung>
       <signatur>207</signatur>
     </ueberlieferung>
@@ -461,10 +461,10 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="30" seite-von="35" seite-bis="35" region="Italien - Venedig">
-    <datum>(1605 vor Mai)</datum>
+    <datum iso="16059999">(1605 vor Mai)</datum>
     <regest>Marino Grimano, Doge von Venedig<footnote>47</footnote>, ernennt den Francesco Diedo<footnote>48</footnote> für 16 Monate zum Podestà von Bergamo (Bergomi). Zugleich werden genaue Festlegungen über den Personalbestand und die Entlohnung der Verwaltung getroffen, das Verbot der Getreideausfuhr eingeschärft und detaillierte Regelungen für die Tuchherstellung festgelegt. Der schmuckvoll ausgeführte Text bricht nach der vierten Seite unvermittelt ab.</regest>
     <ueberlieferung>
-      <besonderheiten>Ränder mit dünner Goldkante; floral verzierte Majuskeln (Signatur: 215)</besonderheiten>
+      <besonderheit>Ränder mit dünner Goldkante; floral verzierte Majuskeln (Signatur: 215)</besonderheit>
       <beschreibung>Papier, Latein, in Buchform gefaltet, allseitig beschrieben mit schwarzer, zum Teil goldener Tinte; 33,5 (aufgeklappt) x 22,9 cm</beschreibung>
       <signatur>215</signatur>
     </ueberlieferung>
@@ -474,12 +474,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="31" seite-von="35" seite-bis="35" region="Italien - Venedig">
-    <datum>1657 April 11</datum>
+    <datum iso="16570411">1657 April 11</datum>
     <ausstellungsort>Venedig, Dogenpalast</ausstellungsort>
     <regest>Bertuccio Valier (Valerio), Doge von Venedig<footnote>49</footnote>, weist seine Untertanen mit einem offenen Brief an, dafür Sorge zu tragen, dass eine durch sein Gericht festgestellte Schuldforderung des Bernardinus Maripetro gegenüber Domenico Berbi in Höhe von 210 Pfund sowie die angefallenen Kosten gegen den Schuldner und dessen Güter vollstreckt werden. (die XI aprilis 1657, indictione Xa)</regest>
     <ueberlieferung>
       <rueckvermerke>nicht lesbar</rueckvermerke>
-      <besonderheiten>auf dem Umbug Initialen G und A in verzierten Quadraten (Signatur: 254)</besonderheiten>
+      <besonderheit>auf dem Umbug Initialen G und A in verzierten Quadraten (Signatur: 254)</besonderheit>
       <beschreibung>Pergament, Latein, 17,8 x 11 cm (Umbug: 2 cm); Bleibulle des Dogen an Hanfschnur, Umschrift nur zum Teil erhalten: S M VENE ... BERT VALER..., Heiliger mit Buch (Markus) und Doge, gemeinsam Stab haltend, am oberen Ende des Stabes senkrecht DUX,</beschreibung>
       <signatur>254</signatur>
     </ueberlieferung>
@@ -488,11 +488,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="32" seite-von="35" seite-bis="35" region="Italien - Venedig">
-    <datum iso="1666-07-16">1666 Juli 16 [Venedig</datum>
-    <ausstellungsort>Dogenpalast]</ausstellungsort>
+    <datum iso="16660716">1666 Juli 16</datum>
+    <ausstellungsort>[Venedig Dogenpalast]</ausstellungsort>
     <regest>Domenico Contarini (Dominicus Contareno), Doge von Venedig<footnote>50</footnote>, stellt dem Andreas Colymara auf dessen Bitten vom Vortag ein Beglaubigungsschreiben aus. (die XVI julii, indictione quarta, 1666)</regest>
     <ueberlieferung>
-      <besonderheiten>Text auf dem Umbug (Signatur: 255)</besonderheiten>
+      <besonderheit>Text auf dem Umbug (Signatur: 255)</besonderheit>
       <beschreibung>Pergament, Latein, 22,7 x 13,3 cm (Umbug: 4,1 cm); leicht beschädigte Bleibulle des Dogen an Hanfschnur, Umschrift nur zum Teil lesbar: [DU]X VENETIAR(UM) [DOMINICUS] CONTA[RENO], Heiliger mit Buch (Markus) und Doge, gemeinsam Stab haltend, am oberen Ende des Stabes senkrecht DUX, Rückseite: DOMINICUS CONTARENO [D]EI GRA(TIA) DUX [V]ENETIA(RUM) ET C, in der Mitte (sehr kleine) Darstellung eines Heiligen mit Buch (Markus); Rückvermerke: italienisch</beschreibung>
       <signatur>255</signatur>
     </ueberlieferung>
@@ -501,12 +501,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="33" seite-von="36" seite-bis="36" region="Italien - Venedig">
-    <datum>1706 Juni 25</datum>
+    <datum iso="17060625">1706 Juni 25</datum>
     <ausstellungsort>Rom, S. Maria Maggiore</ausstellungsort>
     <regest>Papst Clemens XI.<footnote>51</footnote> teilt dem Patriarchalkapitel von Venedig mit, dass er auf den Rat der Kardinäle den Kardinalpriester und bisherigen Patriarchen von Venedig Johannes Badoer (Baduarius) als Bischof nach Brescia<footnote>52</footnote> transferiert und den Elekten Petrus Barbarigo (Barbadius)<footnote>53</footnote> auf den Patriarchenstuhl von Venedig erhoben habe. Er weist das Kapitel an, diesen anzunehmen und ihm gehorsam gegenüberzutreten.</regest>
     <ueberlieferung>
       <unterschriften>V. Melchior, H. Costa, Phil. Cappelus, A. de M…, eine weitere nicht lesbar (anno incarnationis dominice millesimo septingentesimo sexto, septimo kal. julii, pontificatus nostri anno sexto)</unterschriften>
-      <besonderheiten>floral verzierte Elongatae; Vermerke auf dem Umbug (Signatur: 231)</besonderheiten>
+      <besonderheit>floral verzierte Elongatae; Vermerke auf dem Umbug (Signatur: 231)</besonderheit>
       <beschreibung>Pergament, Latein, 47,9 x 29,3 cm (Umbug: 6,4 cm); fleckig, Siegelbefestigungslöcher, Rasur an zwei Stellen</beschreibung>
       <signatur>231</signatur>
     </ueberlieferung>
@@ -517,11 +517,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="34" seite-von="36" seite-bis="36" region="Italien - Venedig">
-    <datum>1706 August 2</datum>
+    <datum iso="17060802">1706 August 2</datum>
     <regest>Glaubensbekenntnis des Petrus Barbarigo (Barbadico), Elekten von Venedig<footnote>54</footnote>. Es enthält neben dem Nicaeno-Konstantinopolitanischen Glaubensbekenntnis das Bekenntnis zu den Heiligen Schriften, zur Sakramenten- und zur Transsubstantiationslehre, zur Fegefeuerlehre samt Fürsprache der Heiligen, zum Gehorsam gegenüber der katholischen Kirche und dem Papst, zu den Beschlüssen der ökumenischen Konzilien, insbesondere zum Tridentinum und zum Kirchenrecht sowie schließlich zur alleinigen Heilskraft des katholischen Glaubens, den er nach Kräften verkünden will. Die Urkunde ist von anderer Hand datiert.</regest>
     <ueberlieferung>
       <unterschriften>V. Melchior, H. Costa (1706, 2. agosto)</unterschriften>
-      <besonderheiten>floral verzierte Initiale F; Verschlusslöcher, die auf eine Versendung als littera clausa hindeuten<footnote>55</footnote> (Signatur: 233)</besonderheiten>
+      <besonderheit>floral verzierte Initiale F; Verschlusslöcher, die auf eine Versendung als littera clausa hindeuten<footnote>55</footnote> (Signatur: 233)</besonderheit>
       <beschreibung>Pergament, Latein, 53,2 x 40,0 cm; Schreiberhand identisch mit Nr. 33; Rückvermerk: entspricht dem Urkundenanfang: Forma professionis fidei</beschreibung>
       <signatur>233</signatur>
     </ueberlieferung>
@@ -531,11 +531,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="35" seite-von="37" seite-bis="37" region="Italien - Venedig">
-    <datum>1715 Juli 30</datum>
+    <datum iso="17150730">1715 Juli 30</datum>
     <ausstellungsort>Rom, S. Maria Maggiore</ausstellungsort>
     <regest>Papst Clemens XI.<footnote>56</footnote> weist den Patriarchen von Venedig Petrus Barbarigo (Barbadico)<footnote>57</footnote> an, die Aufsicht über die Kommende der Benediktinerabtei S. Pietro de Colle in Ceneda zu übernehmen. Diese war seinerzeit dem Vorgänger des Petrus, Kardinal Johannes Badoer<footnote>58</footnote>, auf Lebenszeit übertragen worden. Der Kardinal hatte einen gewissen Honorius mit der weltlichen Verwaltung betraut und Clemens XI. diesen nach dem Tod des Johannes Badoer als Verwalter bestätigt. Über dessen Amtsführung war es zum Streit gekommen, so dass der Papst nun den Patriarchen mit der Aufsicht in weltlichen wie geistlichen Dingen und ggf. der Restaurierung des Abteivermögens betraut. Von den 33 Goldgulden, mit denen die Kommende dotiert ist und von denen ein Drittel in den Taxbüchern der apostolischen Kammer als Abgabe an die Kurie verzeichnet ist, darf der Patriarch die der Kirche von Venedig zustehenden Lasten einbehalten. Ferner ist ein Drittel der Einkünfte des Honorius für die Kirchenfabrik, für die Paramente und für die Armenfürsorge zu verwenden. Damit Honorius weder materiell noch geistlich Schaden erleidet, wird der Patriarch verpflichtet, vor dem Bischof von Ceneda oder dessen Generalvikar einen entsprechenden, dem päpstlichen Schreiben beigefügten Eid zu leisten, der auch dem Papst unverzüglich in besiegelter Abschrift zuzuleiten ist. Die Verfügung wird gegen anderslautende Bestimmungen und Privilegien geschützt, unter denen ein Statut Bonifaz’ VIII.<footnote>59</footnote> ausdrücklich erwähnt ist. (anno incarnationis dominice millesimo septingentesimo quinto decimo, tertio kal. Augusti pontificatus nostri anno quinto decimo)</regest>
     <ueberlieferung>
-      <besonderheiten>floral verzierte Bollatica, italienischer Vermerk unter Umbug (Signatur: 235) Übriges Italien</besonderheiten>
+      <besonderheit>floral verzierte Bollatica, italienischer Vermerk unter Umbug (Signatur: 235) Übriges Italien</besonderheit>
       <beschreibung>Pergament, Latein, 43,0 x 69,0 cm (Umbug: 9,5 cm); Faltungsbrüche, fleckig; Befestigungslöcher für Siegel; Rückvermerke: Die rechte Hälfte der Rückseite ist komplett beschrieben. Der Text enthält a) Nachricht des Generalvikars von Ceneda, Basilio Alberto Piazzoni, über die Vorlage der Urkunde Clemens’ XI. durch den Kanoniker Antonio Bettoli, Generalauditor und Bevollmächtigter des Patriarchen von Venedig in dieser Angelegenheit, am 3. September 1715; b) Bestätigung des verlangten Gehorsamseids seitens des Generalvikars von Ceneda unter demselben Datum; c) Urkunde des Jakobus Anselminus Curia, Kanoniker von Ceneda, über die Einführung des Antonio Bettoli, des Bevollmächtigten des Patriarchen von Venedig, in die Abtei S. Pietro de Colle durch Carolus Fabelli, Erzpriester von Colle</beschreibung>
       <signatur>235</signatur>
     </ueberlieferung>
@@ -547,14 +547,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="36" seite-von="38" seite-bis="38" region="Italien - Übriges Italien">
-    <datum>1349 August 8</datum>
+    <datum iso="13490808">1349 August 8</datum>
     <ausstellungsort>Sacili (Prov. Udine)</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Ein Streit zwischen den Adligen Andreas, Sohn des Fantusus (?), und Tomasutus, Sohn des Quecelo, Grafen von Castrum Pulcinici, einerseits und Bartoldus de Toppo, Verwalter (gastalus) von Castrum Canape, mit den Abhängigen des genannten Ortes sowie dem Notar Scotus, einst Höfner des Altars in Castrum Canape, nun geschworener Notar und Beauftragter der Orte Rencani Romani, Vigo Novo und Dalmasoni, andererseits um gewisse von den Einwohnern des Bezirks von Castrum Pulcinici im Ort Fons Sclanciti vorgenommene Verpfändungen. Mit Billigung des Patriarchen Baltrandus von Aquileja<footnote>60</footnote>, zum Besitz von dessen Kirche [St. Maria] der Ort Castrum Canape gehört, kommt es zu folgendem Vergleich: Gerichtsbarkeit und Nießbrauch in dem umstrittenen Gebiet werden anhand von Flurnamen und natürlichen Grenzverläufen genau bestimmt und den einzelnen Parteien zugewiesen, wobei das Herrenrecht der Grafen stets unangetastet bleibt, ebenso die lehensrechtlichen Verpflichtungen gegenüber der Kirche von Aquileja. Es wird eine Konventionalstrafe in Höhe von 100 Mark der Münze von Aquileja für den Fall der Vertragsverletzung festgesetzt, ferner die Übernahme der Prozesskosten durch die vertragsbrüchige Partei.</regest>
     <ueberlieferung>
       <notar>Franciscinus de Mutina, kaiserlicher Notar</notar>
       <zeugen>Gerardus, miles de Cucamia; Franciscus (... ?); Magister Andreas Ciroloico de Crema; Antonius, Sohn des Lodovicius de Brunaria; Priester Antoninus von St. Stefan prope miscu; Pincanus de Soldenariis (anno nativitatis eiusdem MCCC quadragesimo nono, indictione secunda, die octauo augusti)</zeugen>
-      <besonderheiten>sehr dickes Pergament, oberer linker Rand: auf die sechste Zeile hinweisendes Zeichen (Hand mit ausgestrecktem Finger) (Signatur: 29)</besonderheiten>
+      <besonderheit>sehr dickes Pergament, oberer linker Rand: auf die sechste Zeile hinweisendes Zeichen (Hand mit ausgestrecktem Finger) (Signatur: 29)</besonderheit>
       <beschreibung>Pergament, Latein, 35,3 x 43,5 cm; Verfärbungen in der oberen Hälfte, zum Teil verblasste Tinte, an Faltstellen Lesbarkeit eingeschränkt, zwei restaurierte Löcher in der oberen Hälfte, ein gebrochener Knick unten; Rückvermerke: Datum</beschreibung>
       <signatur>29</signatur>
     </ueberlieferung>
@@ -563,11 +563,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="37" seite-von="38" seite-bis="38" region="Italien - Übriges Italien">
-    <datum>1353 August 1</datum>
+    <datum iso="13530801">1353 August 1</datum>
     <ausstellungsort>Prag</ausstellungsort>
     <regest>Der römisch-deutsche König Karl IV.<footnote>61</footnote> ermächtigt den Patriarchen Nikolaus von Aquileja<footnote>62</footnote>, 40 Personen seines Amtsbereichs von rechtlichen Geburtsmakeln zu dispensieren und diese zu befähigen, das elterliche Erbe anzutreten. (anno domini millesimo trecentesimo quinquagesimo tercio, kalendas augusti, indictione sexta, regnorum nostrorum Romani octavo regni quoque Boemie septimo)</regest>
     <ueberlieferung>
-      <besonderheiten>schlichte Initiale K, auf der rechten Seite des Umbugs: Re(gistratum). (Signatur: 34)</besonderheiten>
+      <besonderheit>schlichte Initiale K, auf der rechten Seite des Umbugs: Re(gistratum). (Signatur: 34)</besonderheit>
       <beschreibung>Pergament, Latein, 28,4 x 18,6 cm (Umbug: 4,4 cm); Siegel fehlt, Pressel vorhanden, Abdruck des Siegels auf Urkundenrückseite erkennbar, rote Wachsreste; Rückvermerk: Regest</beschreibung>
       <signatur>34</signatur>
     </ueberlieferung>
@@ -577,14 +577,14 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="38" seite-von="39" seite-bis="39" region="Italien - Übriges Italien">
-    <datum>1370 Juli 2</datum>
+    <datum iso="13700702">1370 Juli 2</datum>
     <ausstellungsort>Padua</ausstellungsort>
     <regest>Notariatsinstrument über den Verkauf eines Grundstücks vor dem Podestà von Padua Scholaio Cavalcanti (Scolario de Chavalcantibus)<footnote>63</footnote> und dem Richter der Stadtgemeinde von Padua und Lizentiaten des Zivilrechts Francesco de Consilva: Sandro Petri verkauft im Namen und im Auftrag des Alberich und des Bellavere de Castrobaldo einem gewissen Baldus, Einwohner von Castrobaldo und Beauftragten des Bartolomeo de Lachamuro, ein in seiner Lage genau bezeichnetes Stück Land samt Gebäuden, Zubehör und Rechten bei Castrobaldo (in campana Castribaldi in contrata Agutani)<footnote>64</footnote> zum Preis von 350 Denaren. Die Modalitäten der Transaktion sind detailliert angeführt.</regest>
     <ueberlieferung>
       <notar>Bandinus, Sohn des Notars Angelus de Bandino, Notar in Padua, kaiserlicher Notar</notar>
       <zeugen>Jacobus Grassus, Arzt; Bartholomeus Trivelinus, Arzt; Pisto(r) Mohane, Ritter aus dem Gefolge des Podestà (anno eiusdem nativitatis millesimo trecentesimo septuagesimo, indictione octava, die marti secundo mensis jullii)</zeugen>
       <rueckvermerke>nicht lesbar (Signatur: 57)</rueckvermerke>
-      <beschreibung>Pergament, Latein, 20,2 x 69,8 cm, schräg nach rechts unten verlaufender unterer Rand; restaurierter Schnitt im unteren Drittel; Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
+      <beschreibung>Pergament, Latein, 20,2 x 69,8 cm; schräg nach rechts unten verlaufender unterer Rand; restaurierter Schnitt im unteren Drittel; Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
       <signatur>57</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -593,11 +593,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="39" seite-von="39" seite-bis="39" region="Italien - Übriges Italien">
-    <datum>1416 Mai 31</datum>
+    <datum iso="14160531">1416 Mai 31</datum>
     <ausstellungsort>Mailand</ausstellungsort>
     <regest>Der Herzog [Filippo Maria Visconti] von Mailand, Graf von Pavia und Angleria<footnote>65</footnote>, überträgt Thomas de Guaschio die ehemaligen Besitztümer von Ludovico und Johannina de Guaschio sowie die Nutzungsrechte für die Güter, die der Herzog dem Montanino, Thomas’ Bruder, übergeben hatte. Thomas und seine Bevollmächtigten werden durch herzogliche Beamte eingewiesen und geschützt, denen er über die Erträge der Güter Rechenschaft schuldig ist. (die ultime mensis maii MCCCC sexto decimo, nona indictione)</regest>
     <ueberlieferung>
-      <besonderheiten>schlichte Initiale D (Signatur: 87)</besonderheiten>
+      <besonderheit>schlichte Initiale D (Signatur: 87)</besonderheit>
       <beschreibung>Pergament, Latein, 27,1 x 21,0 cm; zum Teil restaurierte Faltungsbrüche; Siegel fehlt, Siegeleinschnitte; Rückvermerke: Datum und Regest</beschreibung>
       <signatur>87</signatur>
     </ueberlieferung>
@@ -606,7 +606,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="40" seite-von="40" seite-bis="40" region="Italien - Übriges Italien">
-    <datum>1448 Dezember 7</datum>
+    <datum iso="14481207">1448 Dezember 7</datum>
     <ausstellungsort>Aviano</ausstellungsort>
     <regest>Notarielle Abschrift eines Rechtsgutachtens des Antonius de Belgrado, Doktor des Kirchenrechts, in einem komplizierten Streit zwischen Celottus de Castro Coneglani, Diatricus Pelicie und dessen Sohn Nikolaus sowie dem Magister Pierbono (Petrus Bonus) Paganus, Rektor der Schule in Sacili, in dem Ansprüche auf zu Lehen vergebene Zehnten im Distrikt von Burg und Dorf Aviano konkurrieren. Antonius allegiert in seinem Gutachten ausführlich Bestimmungen des römischen und kanonischen Rechts und nimmt dabei Bezug auf Baldus<footnote>66</footnote> und die Additiones ad Speculum iudiciale G. Durantis des Jo(hannes) An(dreae)<footnote>67</footnote>. Er kommt zu dem Ergebnis, dass die lehnrechtlich vergebenen Zehnten nicht verpfändet werden können. Das Gutachten wurde unter dem oben genannten Datum in einer förmlichen Gerichtsverhandlung verlesen und mit Zustimmung der Parteien als rechtlich bindend verkündet.</regest>
     <ueberlieferung>
@@ -621,22 +621,22 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="41" seite-von="40" seite-bis="40" region="Italien - Übriges Italien">
-    <datum>1458 Dezember 13</datum>
+    <datum iso="14581213">1458 Dezember 13</datum>
     <ausstellungsort>Brescia</ausstellungsort>
     <regest>Notariatsinstrument über die Schulden der Brüder Antoninus und Dominicus de Civetis gegenüber ihrem ehemaligen Grundherren Cataneo de Catani: Die Brüder schuldeten Cataneo einen Geldbetrag von 226 Pfund und 10 Schillingen sowie Abgaben in Höhe von 10 Pfund, bevor sie als Bauern auf den Besitz des Petrus de Bonis gingen, dessen Bruder Ugolino Bürger von Brescia ist. Sie verpflichten sich, die Schuld in jährlichen Abgaben von Naturalien zu begleichen, ferner wird das Rechtsverhältnis der beiden Grundherren untereinander geklärt.</regest>
     <ueberlieferung>
       <notar>Nicolaus de Vulpis, Sohn des Petrus, notarius publicus und kaiserlicher Notar</notar>
       <zeugen>Johannes de Vulpis, Rechtskundiger; Sonardinus de Usto, Notar; Adobatus de Adobatis (anno a natiuitate eiusdem millesimo quadringentessimo quinquagessimo octauo, indictione septima, die tercio decimo mensis decembris) Dominius de Prosanis, Notar (notarius publicus) von Brescia, erklärt, das Instrument am 13. Januar 1459 in das Stadtregister eingetragen zu haben. (die terciodecimo mensis Januarii millesimo CCCC L nono, indictione septima)</zeugen>
-      <beschreibung>Pergament, Latein, 17,5 x 28,6 cm, am rechten Rand natürliche Ausbuchtung; sehr fleckig, zerknittert (jetzt geglättet), zum Teil restaurierte Faltungsbrüche; zwei ähnliche Handzeichen des Notars: oben links vor dem Textbeginn und unten links vor der Unterschrift des Notars (Abb. siehe Anhang); Rückvermerke: zeitgenössisches und späteres Datum</beschreibung>
+      <beschreibung>Pergament, Latein, 17,5 x 28,6 cm; am rechten Rand natürliche Ausbuchtung; sehr fleckig, zerknittert (jetzt geglättet), zum Teil restaurierte Faltungsbrüche; zwei ähnliche Handzeichen des Notars: oben links vor dem Textbeginn und unten links vor der Unterschrift des Notars (Abb. siehe Anhang); Rückvermerke: zeitgenössisches und späteres Datum</beschreibung>
       <signatur>118</signatur>
     </ueberlieferung>
   </urkunde>
   <urkunde nr="42" seite-von="41" seite-bis="41" region="Italien - Übriges Italien">
-    <datum>1551 April 20</datum>
+    <datum iso="15510420">1551 April 20</datum>
     <ausstellungsort>Rom</ausstellungsort>
     <regest>Papst Julius III.<footnote>68</footnote> absolviert den Kleriker Federigo Gonzaga aus Mantua, Sohn des verstorbenen Herzogs Federigo I. und Bruder Guillelmos III., des Herzogs von Mantua und Markgrafen von (Casale) Monferrato, und Neffen des Kardinaldiakons Hercules von S. Maria Nuova, von allen Kirchenstrafen, erteilt ihm Dispens für das unkanonische Alter von elf Jahren und stellt ihm Provisionen auf die Propstei des Zisterzienserklosters Locedio in der Diözese Casale<footnote>69</footnote> im Werte von 4000 Golddukaten und auf das Patronatsrecht der Kirche S. Benedetto del Po (Diöz. Mantua) aus. Zuvor hatte Hercules, Kardinaldiakon von S. Maria Nuova und Bischof von Mantua<footnote>70</footnote>, das Patronatsrecht der Kirche S. Benedetto del Po durch seinen Prokurator, den Kleriker Julius Marionus, in die Hand des Papstes zurückgelegt. Der Papst verfügt ferner, dass die Provision in eine Kommende umgewandelt werden soll, sobald Federigo das 18. Lebensjahr vollendet hat. Die Bischöfe von Bagnoregio, Mantua und Casale sollen ihn dann in die Propstei einweisen. Dazu werden widersprechende Privilegien Bonifaz’ VIII.<footnote>71</footnote> und des Zisterzienserordens außer Kraft gesetzt und alle künftigen Schreiben für wirkungslos erklärt, sofern sie nicht ausdrücklich auf das vorliegende Schreiben Bezug nehmen. Erwähnt wird eine eingelegte Eidesformel für die Verpflichtung des Adressaten gegenüber der römischen Kirche, die durch besiegelte litterae patentes bekräftigt werden sollte; diese Formel ist nicht erhalten. (anno incarnationis dominice millesimo quingentesimo quinquagesimo primo, duodecimo kal. maii, pontificatus nostri anno secundo)</regest>
     <ueberlieferung>
-      <besonderheiten>floral verzierte Elongatae (Signatur: 201)</besonderheiten>
+      <besonderheit>floral verzierte Elongatae (Signatur: 201)</besonderheit>
       <beschreibung>Pergament, Latein, 75,0 x 55,5 cm (Umbug: 6,9 cm); zwei Löcher an Faltungsbrüchen (restauriert), weitere Faltungsbrüche; auf Umbug weiterer Name verzeichnet (Notar?); Befestigungslöcher für Siegel vorhanden; Rückvermerke: drei Kanzleivermerke von jeweils anderer Hand, der dritte in sehr breit gehaltener Elongata: re(gistra)ta in secretaria apostolica<footnote>72</footnote></beschreibung>
       <signatur>201</signatur>
     </ueberlieferung>
@@ -649,7 +649,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="43" seite-von="42" seite-bis="42" region="Italien - Übriges Italien">
-    <datum>1561 Januar 29</datum>
+    <datum iso="15610129">1561 Januar 29</datum>
     <ausstellungsort>Bassano, im Haus des Notars Johannes Ottelus</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Die Brüder Sebastian und Perinus, Söhne des Francesco de Fulatoribus aus Mussolente (Villa Musolenti)<footnote>73</footnote>, verkaufen dem Laurentius Fachinelli, Sohn des Baptist und Bürger von Bassano, ein Viertel eines genau beschriebenen Feldes in Mussolente samt aller zugehörigen Rechte zum Preis von 28 Pfund.</regest>
@@ -657,7 +657,7 @@
       <notar>Johannes Ottelus, Sohn des Francesco, notarius publicus und kaiserlicher Notar</notar>
       <zeugen>Magister Andrea, Sohn des Magister Domenico Carario; Matheo, Sohn des Franco Tormerio, beide Bürger Bassanos (anno nativitatis eiusdem millesimo quingentesimo sexagesimo primo, indictione decima, die mercurii vigesimo nono, mensis januarii)</zeugen>
       <rueckvermerke>verblasst</rueckvermerke>
-      <besonderheiten>schlichte, sehr große Initiale I (Signatur: 205)</besonderheiten>
+      <besonderheit>schlichte, sehr große Initiale I (Signatur: 205)</besonderheit>
       <beschreibung>Pergament, Latein, 16,0 x 30,4 cm; Löcher; Handzeichen des Notars (Abb. siehe Anhang);</beschreibung>
       <signatur>205</signatur>
     </ueberlieferung>
@@ -666,13 +666,13 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="44" seite-von="43" seite-bis="43" region="Italien - Übriges Italien">
-    <datum>1592 August 21</datum>
+    <datum iso="15920821">1592 August 21</datum>
     <ausstellungsort>Rom, St. Markus</ausstellungsort>
     <regest>Papst Clemens VIII.<footnote>74</footnote> reserviert dem Augustinus [Valerius], Bischof von Verona und Kardinalpriester von St. Markus<footnote>75</footnote>, zur Abmilderung der statusbedingten finanziellen Belastungen eine Pfründe des Klosters St. Peter in Osor<footnote>76</footnote> (Ausarensis Ciuitatis) und regelt die Abfindung ihres bisherigen Nutznießers. Die Pfründe war nach dem Tod des Klerikers Petrus Lippomanus dem Augustinus Gradenico, Subdiakon in Venedig, übertragen worden. Der Papst verfügt, dass Letzterem und dessen Nachfolgern jährlich 100 Golddukaten als Ausgleich für die Pfründe in St. Peter zu zahlen sind. Aus dem Zubehör wird ferner dem venezianischen Kleriker Petrus Valerius eine zur Kapitelskirche St. Hieronymus in Tarcento<footnote>77</footnote> (sancti Hieronimi Illicorum de Vrbe ... Trecentorum) gehörende Pfründe von jährlich 100 Goldschilden (centum scutorum auri in auro) übertragen. Als Exekutoren zur Pfründendurchsetzung werden die Bischöfe von Amelia (Ameria) und Osor sowie der Generalauditor der apostolischen Kammer eingesetzt. Ausdrücklich wird die Bestimmung des [Fünften] Laterankonzils über Pensionen aus Benefizialeinkünften außer Kraft gesetzt.<footnote>78</footnote> Der Kardinalpriester Augustinus muss alle Abgaben des Klosters aus den Pfründeinkünften begleichen.</regest>
     <ueberlieferung>
       <schreiber>Glorierius (anno incarnationis dominice millesimo quingentesimo nonagesimo secundo, duodecimo kal. septembris, pontificatus nostri anno primo)</schreiber>
       <rueckvermerke>drei Kanzleivermerke von jeweils anderer Hand, der erste: re(gistra)ta Glorierius in Secretaria Apostolica, zweiter und dritter in italienisch</rueckvermerke>
-      <besonderheiten>restaurierte Siegellöcher, floral verzierte Elongatae (Signatur: 213)</besonderheiten>
+      <besonderheit>restaurierte Siegellöcher, floral verzierte Elongatae (Signatur: 213)</besonderheit>
       <beschreibung>Pergament, Latein, 67,2 x 44,4 cm (Umbug: 6,3 cm); Löcher an einem Faltungsbruch (restauriert), weitere Faltungsbrüche; auf Umbug weiterer Name (?) verzeichnet;</beschreibung>
       <signatur>213</signatur>
     </ueberlieferung>
@@ -685,15 +685,15 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="45" seite-von="43" seite-bis="44" region="Italien - Übriges Italien">
-    <datum>1738 Mai 5</datum>
+    <datum iso="17380505">1738 Mai 5</datum>
     <ausstellungsort>Padua, im Bischofspalast</ausstellungsort>
     <regest>Feierliches Doktordiplom des Aloysius Sanctes Fedrizzi<footnote>79</footnote>, Priester in Venedig. Der Generalvikar Sanctes Veronesius<footnote>80</footnote> nimmt die Ernennung zum Doktor für beide Rechte aufgrund der ihm von Erzbischof Johannes Minotto Otthoboni<footnote>81</footnote> von Padua verliehenen Autorität vor, nachdem das Doktorenkollegium der Juristen des Archigymnasiums zu Padua die Prüfungen abgenommen hat. Prorektor zu dieser Zeit ist Bartholomaeo Fornoni aus Brescia.</regest>
     <ueberlieferung>
       <notar>Ioseph Frascio, Notar des Erzbischofs von Padua</notar>
       <zeugen>aus dem Kollegium: Hercules Francescus Dandinus Caesenas; Antonius Arrighius, Abt aus Korsika; Josephus Alaleona Macerat.; Johannes Andrea De Donolis Ilcinensi; Parmesanus a Curtiuo de Sanctis Patauino (römisches Recht); Nicolaus Comneno Papadopoli, Abt des Klosters St. Zenobius auf Kreta; Cyprianus Benalea Brixiensis, Abt des Benediktinerordens der Kongregation von Montecassino (kanonisches Recht); außerdem Jacobus Johannes Chimotto Veneto; Bartholomaeus de Comitibus Patauino (anno a Christi natiuitate MDCCXXXVIII, indictione prima, die vero lunae V mensis maii, pontificatus autem sanctissimi in Christo patris et domini nostri domni Clementis diuina prouidentia papae XII anno VIII)</zeugen>
       <schreiber>Julius Modelli</schreiber>
-      <besonderheiten>Hervorhebungen im Text durch Großbuchstaben und goldene Tinte; blauer Siegelfaden (Signatur: 240) Polen</besonderheiten>
-      <beschreibung>Pergament (zwei Blätter mit Fadenheftung), Latein, beschrieben mit schwarzer und goldener Tinte, Außenblatt: 34,0 x 23,8 cm, Innenblatt: 34,1 x 23,6 cm</beschreibung>
+      <besonderheit>Hervorhebungen im Text durch Großbuchstaben und goldene Tinte; blauer Siegelfaden (Signatur: 240) Polen</besonderheit>
+      <beschreibung>Pergament (zwei Blätter mit Fadenheftung), Latein, Außenblatt: 34,0 x 23,8 cm; Innenblatt: 34,1 x 23,6 cm; beschrieben mit schwarzer und goldener Tinte</beschreibung>
       <signatur>240</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -703,12 +703,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="46" seite-von="45" seite-bis="45" region="Polen">
-    <datum>[14]66 Juni 21</datum>
+    <datum iso="14660621">[14]66 Juni 21</datum>
     <ausstellungsort>Thorn</ausstellungsort>
     <regest>Gertrud (Girdrud), Witwe des Herrn Wilhelm Jordan, Bürgermeister zu Danzig<footnote>82</footnote>, gibt bekannt, dass der Rat der Stadt Thorn mit Meister Egidio, ihrem Bruder, über ausstehende finanzielle Zahlungen (Schuld, Houptstamm vnnd Czynsen), die ihr und ihrem verstorbenen Ehemann geschuldet werden, entsprechende Vereinbarungen getroffen hat. Es folgt eine Aufzählung der Schulden sowie eine Erläuterung der Rückzahlungsmodalitäten.</regest>
     <ueberlieferung>
       <zeugen>Hermann Pape, Schöffe der Stadt Thorn (am sonnobende vor natiuitatis Johannis Baptiste, im etc. LXVIten iare)</zeugen>
-      <besonderheiten>Wasserzeichen im Papier (Signatur: 126)</besonderheiten>
+      <besonderheit>Wasserzeichen im Papier (Signatur: 126)</besonderheit>
       <beschreibung>Papier, Mittelniederdeutsch, 31,0 x 27,0 cm; fleckig, restaurierte Faltungsbrüche, an Faltstellen Einschränkung der Lesbarkeit, persönliches Siegel des Schöffen (mit Papier abgedeckt); Rückvermerk: Regest</beschreibung>
       <signatur>126</signatur>
     </ueberlieferung>
@@ -717,11 +717,11 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="47" seite-von="45" seite-bis="45" region="Polen">
-    <datum>1770 Juli 17</datum>
+    <datum iso="17700717">1770 Juli 17</datum>
     <ausstellungsort>Rom, S. Maria Maggiore</ausstellungsort>
     <regest>Papst Clemens XIV.<footnote>83</footnote> weist den Bischof von Posen an, den Inhaber einer Altarpfründe in der Marienkirche von Ujšcie (Vschovensis), Antonius Kriiger, nach Prüfung von dessen Eignung als Koadiutor in die Pfarrkirche von Seviaviechoviensis <footnote>84</footnote> einzusetzen. Dort soll dieser den Pfarrer Mattheus Kriiger, dem mit 68 Jahren die Erfüllung seiner seelsorglichen Pflichten zu beschwerlich geworden ist, mit allen diesem Amt zukommenden Rechten vertreten. Mattheus und Antonius Kriiger hatten in dieser Angelegenheit an der päpstlichen Kurie suppliziert. Die Verleihung des Koadiutorenamtes ist durch zahlreiche benefizialrechtliche Klauseln detailliert gesichert. (anno incarnationis dominice millesimo septingentesimo septuagesimo, sexto decimo kal. augusti, pontificatus nostri anno secundo)</regest>
     <ueberlieferung>
-      <besonderheiten>floral verzierte Initiale und ebenso verzierte Anfangsbuchstaben in der ersten Zeile (Signatur: 242)</besonderheiten>
+      <besonderheit>floral verzierte Initiale und ebenso verzierte Anfangsbuchstaben in der ersten Zeile (Signatur: 242)</besonderheit>
       <beschreibung>Pergament, Latein, 77,2 x 48,0 cm; Faltungsbrüche mit Beeinträchtigung der Lesbarkeit, fleckig, Befestigungslöcher für Siegel; Rückvermerke: nicht lesbar</beschreibung>
       <signatur>242</signatur>
     </ueberlieferung>
@@ -731,12 +731,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="48" seite-von="46" seite-bis="46" region="Spanien">
-    <datum>1320 Oktober 7</datum>
+    <datum iso="13201007">1320 Oktober 7</datum>
     <ausstellungsort>Arjona<footnote>85</footnote></ausstellungsort>
     <regest>Bischof Guterius von Jaen<footnote>86</footnote> macht ein Indult Papst Johannes’ XXII.<footnote>87</footnote> vom 30. September 1317<footnote>88</footnote> durch Transsumierung bekannt, das den Franziskanerinnen, hier Klarissen und Gemeinschaft von San Damiano genannt, nach dem Vorbild Bonifaz’ VIII. die Freiheit von Zehnten und allen anderen Abgaben, geistlich wie weltlich, verleiht. Das Transsumpt weist laut Eschatokoll in Zeile acht eine Rasur auf, die aber die Gültigkeit nicht beeinträchtigen soll. (nonas octobris, anno ab incarnatione domini millesimo trecentesimo vicesimo)</regest>
     <ueberlieferung>
       <rueckvermerke>in Spanisch und Latein</rueckvermerke>
-      <besonderheiten>schlichte, große Initiale U, Papstnamen in Majuskeln, weitere Hervorhebungen durch Majuskeln im Text (Signatur: 251d)</besonderheiten>
+      <besonderheit>schlichte, große Initiale U, Papstnamen in Majuskeln, weitere Hervorhebungen durch Majuskeln im Text (Signatur: 251d)</besonderheit>
       <beschreibung>Pergament, Latein, 55,6 x 34,7 cm (Umbug: 4,6 cm); fleckig, Siegel fehlt, Befestigungslöcher für Siegelschnur, gewebte Siegelschnur aus verschiedenfarbiger Seide noch vorhanden;</beschreibung>
       <signatur>251d</signatur>
     </ueberlieferung>
@@ -748,7 +748,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="49" seite-von="46" seite-bis="46" region="Spanien">
-    <datum>1417 Oktober 9</datum>
+    <datum iso="14171009">1417 Oktober 9</datum>
     <ausstellungsort>Sevilla</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
     <regest>Constancia Ramires, Witwe des Lope Ferrandes, aus dem Kirchspiel (Collacion) von Allerheiligen in Sevilla, verkauft an Lope Mas Iurado aus dem Kirchspiel von St. Thomas in Sevilla und seine beim Verkauf abwesende Frau Ysabel Ruys ein Stück Land auf dem Gebiet der Stadt Sevilla bei St. Lazarus für den Preis von 500 Mark. Die Tante der Verkäuferin, Johana Ramires aus dem Kirchspiel von Allerheiligen in Sevilla, tritt als Bürgin für den Verkauf ein.</regest>
@@ -760,14 +760,14 @@
     </ueberlieferung>
   </urkunde>
   <urkunde nr="50" seite-von="47" seite-bis="47" region="Spanien">
-    <datum>1516 Januar 11</datum>
+    <datum iso="15160111">1516 Januar 11</datum>
     <ausstellungsort>Florenz (in der Residenz des Ausstellers)</ausstellungsort>
     <regest>Johannes Baptista Pallavicinus, Bischof von Cavaillon<footnote>89</footnote>, macht Anweisungen zur Visitation des Dritten Ordens der Franziskaner in den Königreichen León und Kastilien sowie in Galizien bekannt, die ihm Papst Leo X.<footnote>90</footnote> mit einem Breve vom 27. Mai 1513 übertragen hatte. Johannes weist alle Amtsträger der kirchlichen Hierarchie an, für die Befolgung der Drittordensregel Sorge zu tragen und den Visitatoren jegliche Hilfe zu gewähren. Er legt detailliert ein mehrstufiges juristisches Vorgehen gegen diejenigen fest, die sich den Anweisungen der Visitatoren bzw. dem Wortlaut der Regel widersetzen. Nach Ausschöpfung der kirchlichen Beugestrafen ist zuletzt der weltliche Arm in Gestalt der spanische Könige Johanna von Kastilien und León sowie Ferdinand von Aragón<footnote>91</footnote> einzuschalten, dem sogar Zwangsmaßnahmen gegen Kleriker, allerdings unter Vermeidung schwerer Körperverletzung, zugestanden werden. Das inserierte Breve Leos X. rekurriert auf nicht näher bezeichnete Privilegien und Schreiben der päpstlichen Vorgänger Nikolaus IV.<footnote>92</footnote>, Martin V.<footnote>93</footnote>, Eugen IV.<footnote>94</footnote> und Julius II.<footnote>95</footnote> in Bezug auf die Drittordensregel sowie auf die Rechte der Visitatoren und Beichtväter im Franziskanerorden.</regest>
     <ueberlieferung>
       <notar>Jacobus de Spalolis, notarius publicus und Skriptor des Archivs der römischen Kurie</notar>
       <zeugen>Jacobus de Gerundellis (?); Bartholomeus de T(...)sis, Mönche aus Cremona (anno a natiuitate domini millesimo quingentesimo sexto decimo, indictione quarta, die vero undecima mensis ianuarii, pontificatus sanctissimi in Christo patris et domini nostri domni Leonis divina providentia pape decimi anno tertio)</zeugen>
-      <besonderheiten>erste Zeile in Auszeichnungsschrift, sonst sehr kleine Schrift (1,5–3 mm Schrifthöhe), Markierungen am linken Rand (Signatur: 251c)</besonderheiten>
-      <beschreibung>Pergament, Latein, 49,3 cm x 67,0 cm, mit Halsansatz; Faltungsbrüche (restauriert) mit zum Teil erheblichem Textverlust, fleckig, zum Teil stark verblasste Tinte, Befestigungslöcher für Siegel vorhanden (vier durch Falz korrespondierende Schnitte); Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: vier von jeweils unterschiedlicher Hand, zum Teil in Spanisch</beschreibung>
+      <besonderheit>erste Zeile in Auszeichnungsschrift, sonst sehr kleine Schrift (1,5–3 mm Schrifthöhe), Markierungen am linken Rand (Signatur: 251c)</besonderheit>
+      <beschreibung>Pergament, Latein, 49,3 cm x 67,0 cm; mit Halsansatz; Faltungsbrüche (restauriert) mit zum Teil erheblichem Textverlust, fleckig, zum Teil stark verblasste Tinte, Befestigungslöcher für Siegel vorhanden (vier durch Falz korrespondierende Schnitte); Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: vier von jeweils unterschiedlicher Hand, zum Teil in Spanisch</beschreibung>
       <signatur>251c</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -781,13 +781,13 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="51" seite-von="48" seite-bis="48" region="Spanien">
-    <datum>1518 März 15</datum>
+    <datum iso="15180315">1518 März 15</datum>
     <ausstellungsort>Granada</ausstellungsort>
     <regest>Notariatsinstrument über eine Verhandlung vor dem Generalvikar von Granada Francisco Muno(z)<footnote>96</footnote> am 15. März 1518: Johannes de la Serena, Guardian von S. Alberto in der Ordensprovinz Santo Vangelo<footnote>97</footnote> präsentiert eine im Stil der römischen Kurie abgefasste Urkunde, die von Kardinal Gabriel Merinus, Erzbischof von Bari und Bischof von León<footnote>98</footnote>, eigenhändig unterzeichnet ist. Sie ist am 21. Juli 1517 in S. Maria Maggiore ausgefertigt und bezeugt, dass Papst Leo X.<footnote>99</footnote> den Franziskanerobservanten in Kastilien genau bezeichnete Gebetsverrichtungen zur Errettung der Seelen aus dem Fegefeuer bestätigt habe. Zudem habe er denjenigen, die im Habit der Franziskanerobservanten beerdigt werden, einen vollständigen Ablass verliehen. Die Urkunde des Kardinals war kopiert und dem Guardian Johannes ausgehändigt worden, sie ist im Wortlaut inseriert.</regest>
     <ueberlieferung>
       <notar>Franciscus de Cavallos, Priester aus der Diözese Badajoz und päpstlicher Notar. Die inserierte Urkunde des Kardinals wurde von einem Sekretär namens Dominicus ausgefertigt.</notar>
       <zeugen>Antonjo de Juste; Joanne de Peralta, Kapläne (der Kirche [St. Maria] von Granada) (anno a natiuitate domini millesimo quingentesimo decimo octauo, indictione VI, videlicet quinto decimo die mensis martii)</zeugen>
-      <besonderheiten>erstes Wort (Universis) in Auszeichnungsschrift, ebenso Beginn der inserierten Urkunde, Papstnamen zum Teil in Majuskeln, weitere Hervorhebungen, Randvermerke, unter dem Handzeichen des Notars durch das Pergament gezogene Schnur (ca. 3 cm lang) mit korrespondierendem Verschlussloch (Signatur: 251a)</besonderheiten>
+      <besonderheit>erstes Wort (Universis) in Auszeichnungsschrift, ebenso Beginn der inserierten Urkunde, Papstnamen zum Teil in Majuskeln, weitere Hervorhebungen, Randvermerke, unter dem Handzeichen des Notars durch das Pergament gezogene Schnur (ca. 3 cm lang) mit korrespondierendem Verschlussloch (Signatur: 251a)</besonderheit>
       <beschreibung>Pergament, Latein, 46,3 x 29,8 cm (unterer Rand geschwungen); starke Beeinträchtigung der Lesbarkeit durch Wasserfleck in der unteren Texthälfte, restaurierte Löcher; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerke: Ano – 1517 – Leon X. Bula; weitere sechs Zeilen in Spanisch</beschreibung>
       <signatur>251a</signatur>
     </ueberlieferung>
@@ -800,13 +800,13 @@
   </urkunde>
   <urkunde nr="52" seite-von="48" seite-bis="49" region="Spanien" pruefen="true">
     <!-- ZUR PRUEFUNG: Kein Jahr in der Datumszeile angegeben (nur Tag/Monat/Ort); im Quelltext ausdrücklich als unsicher datiert (14./15. Jh.) vermerkt. -->
-    <datum>April 22</datum>
+    <datum iso="99990422">April 22</datum>
     <ausstellungsort>Briviesca<footnote>100</footnote></ausstellungsort>
     <regest>Notariatsinstument mit Signum des Notars: T(omas) Ferras und seine Frau Juana verkaufen an Gucaf Bien Beniste zwei Stücke Land aus dem Ort Castil de Peones<footnote>101</footnote> für den Preis von 1000 Mark in kastilischer Münze.</regest>
     <ueberlieferung>
       <notar>T(omas) Ferras de Morillas (escrivano publico) Eine Jahresangabe fehlt, die Schrift macht eine Datierung ins 14. oder 15. Jahrhundert wahrscheinlich. Teile des Regestes sind aus dem Rückvermerk gewonnen, da die Angaben in der Urkunde durch Beschneiden verloren gegangen sind.</notar>
       <zeugen>Goncalo de (…) und (…) de Santo Alfonso</zeugen>
-      <besonderheiten>sehr dickes Pergament (Signatur: 252) Türkei</besonderheiten>
+      <besonderheit>sehr dickes Pergament (Signatur: 252) Türkei</besonderheit>
       <beschreibung>Pergament, Spanisch, 21,0 x 15,8 cm; oben und links beschnitten, löchrig, eingerissener unterer Rand, Textverlust durch beschnittene Ränder; Handzeichen des Notars (Abb. siehe Anhang); Rückvermerk: carta de compra para don Gucaf Bien Beniste de T(omas) Ferras y su mujer vecinos de Castil de Peones de dos tierras mille marcos</beschreibung>
       <signatur>252</signatur>
     </ueberlieferung>
@@ -816,7 +816,7 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="53" seite-von="50" seite-bis="50" region="Türkei">
-    <datum>1735 September 24</datum>
+    <datum iso="17350924">1735 September 24</datum>
     <regest>Befehl an einen Wesir und Generalgouverneur (mir-i miran) hinsichtlich der Einhebung der Kopfsteuer (djizya).<footnote>102</footnote> (6 yaum al-sadis? Cemazi ‘l-ula, 1148)</regest>
     <ueberlieferung>
       <beschreibung>Pergament, Divani, 40,5 x 25,5 cm; Faltungsbrüche (quer, restauriert) mit Textverlust, Verfärbungen an den Längsfalten, Rand dreiseitig unregelmäßig beschnitten, dadurch erheblicher Textverlust</beschreibung>
@@ -827,10 +827,10 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="54" seite-von="50" seite-bis="50" region="Türkei">
-    <datum>1826 Juli 6</datum>
+    <datum iso="18260706">1826 Juli 6</datum>
     <regest>Anweisung des Sultans Mahmud II. an die Zollinspektoren (gümrük emini) in Galata und anderen Häfen<footnote>103</footnote> betreffend die Verzollung der Kohleladung eines englischen Schiffes unter Kapitän James Harry (?) auf dem Weg von England ins Schwarze Meer. Die Anweisung wurde durch eine Note des britischen Botschafters Stratford Canning veranlasst. (Dhu l-Qa’da 1241)</regest>
     <ueberlieferung>
-      <besonderheiten>Tinte mit glitzernden Zusätzen, Wasserzeichen im Papier (Adler oder Phönix mit E(?) A G) (Signatur: 253 II) Ungarn</besonderheiten>
+      <besonderheit>Tinte mit glitzernden Zusätzen, Wasserzeichen im Papier (Adler oder Phönix mit E(?) A G) (Signatur: 253 II) Ungarn</besonderheit>
       <beschreibung>Papier, Türkisch, 55,4 x 78,1 cm; Faltungsbrüche, fleckig; Rückvermerke: Türkisch und Englisch</beschreibung>
       <signatur>253 II</signatur>
     </ueberlieferung>
@@ -839,12 +839,12 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="55" seite-von="51" seite-bis="51" region="Ungarn">
-    <datum>[14]65 Juli 11</datum>
+    <datum iso="14650711">[14]65 Juli 11</datum>
     <ausstellungsort>Buda</ausstellungsort>
     <regest>Matthias Corvinus, König von Ungarn<footnote>104</footnote>, interveniert in einem Konflikt zwischen der Stadt Kreuz/Körös/Križevci und deren Tributnehmern und Zöllnern um die Eintreibung von Abgaben. Er weist die Tributnehmer an, von den Bürgern und Bewohnern der Stadt keine Tribute oder Zölle, weder auf Personen noch auf Güter und Besitzungen, zu erheben, da die Stadt Kreuz von alters her einen privilegierten Rechtsstatus innehabe.<footnote>105</footnote></regest>
     <ueberlieferung>
       <notar>Nicolai Gottschalek de Obyssoes (feria quinta proxima ante festum beate Margarethe virg[inis] sexagesimo quinto, regni nostri anno octavo coronationis vero secundo)</notar>
-      <besonderheiten>sehr dünnes Pergament, am oberen Rand beschnittene Elongatae; links unter dem Text Vermerk: Formulare Nicolai Gotschalek etc. de Obyssoes. Anno domini etc. LXo octavo cancellarie serenissimi domini domni Mathiae regis Ungarie etc. (Signatur: 123)</besonderheiten>
+      <besonderheit>sehr dünnes Pergament, am oberen Rand beschnittene Elongatae; links unter dem Text Vermerk: Formulare Nicolai Gotschalek etc. de Obyssoes. Anno domini etc. LXo octavo cancellarie serenissimi domini domni Mathiae regis Ungarie etc. (Signatur: 123)</besonderheit>
       <beschreibung>Pergament, Latein, 30,4 x 20,3 cm; an allen Seiten unregelmäßig beschnitten, fleckig, Textverlust am rechten Rand, zum Teil restaurierte Faltungsbrüche; Rückvermerke: nicht lesbar</beschreibung>
       <signatur>123</signatur>
     </ueberlieferung>

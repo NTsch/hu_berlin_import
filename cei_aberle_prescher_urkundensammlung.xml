@@ -66,7 +66,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>230 * 95 mm, Umbug 18 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -153,7 +153,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>378/375 * 222/219 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -218,7 +218,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>240 x 85 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -291,7 +291,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>176/178 x 230/234 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>sehr schlecht, Verlust des rechten Teils von mindestens einem Drittel
                   der Urkunde, als Bucheinband verwendet, am rechten Rand
                   Einschnitte</cei:condition>
@@ -353,7 +353,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>280 * 185 mm, Umbug 48/55 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Wasserflecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -420,7 +420,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>185/190 * 94/92 mm, Umbug 24 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, am oberen Rand dunkle Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -491,7 +491,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>187 * 140 mm, Umbug 16 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Wachsflecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -564,7 +564,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>160 x 127 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -642,7 +642,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>150 * 107 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, dunkle Wasserflecken am linken Rand</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -733,7 +733,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>200 * 133 mm, ehemaliger Umbug 12 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, dunkle Flecken in der Mitte links</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -835,7 +835,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>276 * 332 mm, Umbug 32 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleines Loch in der 6. Z. von unten, Tinte an Falzen
                   stellenweise verblaßt</cei:condition>
               </cei:physicalDesc>
@@ -916,7 +916,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>400 * 182 mm, 16 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, an Falzen Tinte z.T. verblaßt</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -982,7 +982,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>346 * 219 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Löcher in der Initiale und in der Urkundenmitte</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1057,7 +1057,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>275 * 152 mm, Umbug 25 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>sehr gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1120,7 +1120,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>351 * 212 mm, Umbug aufgeklappt, ehemals 60 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, an oberen Ecken Mäusefraß (?), Wasserspuren von
                   abgestellten Gefäßen, Tinte stellenweise verblaßt, Löcher am
                   Umbugfalz</cei:condition>
@@ -1196,7 +1196,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>569 * 369 mm, Umbug 41 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, am linken Rand ausgerissenes Stück mit Papierunterlage
                   geklebt, z. T. lose</cei:condition>
               </cei:physicalDesc>
@@ -1267,7 +1267,8 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>370 * 218 mm, Umbug 33 mm</cei:dimensions>
+                <cei:dimension>durch Hitzeeinwirkung am linken Rand beschädigt und durchlöchert,
+                  dadurch Textverlust</cei:dimension>
                 <cei:condition>schlecht, Pergament durch Hitzeeinwirkung am linken Rand beschädigt
                   und durchlöchert, dadurch Textverlust</cei:condition>
               </cei:physicalDesc>
@@ -1352,7 +1353,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>235 * 272 mm, Umbug 45 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, einige dunkle Flecken, unten rechts an kleiner Stelle
                   Rasur</cei:condition>
               </cei:physicalDesc>
@@ -1429,7 +1430,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>402 * 233 mm, Umbug 35 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, dunkle Flecken im linken Teil der Urkunde</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1494,7 +1495,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>400 x 260 mm; Umbug 48 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1593,7 +1594,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>500 * 271 mm, Umbug 51/55 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Tinte an Falzen verblaßt</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1679,7 +1680,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>306 * 257 mm, Umbug 22 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Löcher am horizontalen Knick</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1750,7 +1751,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>203 * 133 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, die erste(n) Zeile(n) und der rechte Rand abgetrennt, am
                   unteren Rand mit anderer Tinte Schriftproben; an mehreren Stellen
                   Radierungen</cei:condition>
@@ -1838,7 +1839,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>244/250 x 378/387 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, als Bucheinband verwendet</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -1907,7 +1908,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>267 * 188 mm, Umbug 24 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Löcher durch Rostfraß</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -2000,7 +2001,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>320 * 265 mm, Umbug 24 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -2071,7 +2072,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>275/280 x 130/135 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht - Fragment, Anfang jeder Zeile fehlt; als Bucheinband
                   verwendet, Wasserflecken an den Rändern</cei:condition>
               </cei:physicalDesc>
@@ -2144,7 +2145,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>290 x 165 mm, Umbug 25 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>sehr gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -2208,7 +2209,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>280 x 210 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht; als Bucheinband verwandt: Tinte durch Klebstoff
                   stellenweise verblaßt; einige kleine Löcher durch Rostfraß</cei:condition>
               </cei:physicalDesc>
@@ -2281,7 +2282,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>336 * 191 mm, Umbug 37 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, im unteren Teil brauner Wasserfleck, ein Riß am
                   horizontalen Knick, der mit Papierpflaster auf der Rückseite notdürftig
                   zusammengehalten wird</cei:condition>
@@ -2348,7 +2349,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>248 x 188 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, als Bucheinband verwendet, an den Rändern
                   beschnitten</cei:condition>
               </cei:physicalDesc>
@@ -2418,7 +2419,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>230 * 150 mm, Umbug 35 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -2494,7 +2495,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>315 * 315 mm, Umbug 38 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut; Wasserflecken im unteren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -2560,7 +2561,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>440 * 300 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht; als Bucheinband verwandt: Tinte stellenweise durch
                   Klebelösung verwaschen, unter dem Text Papierrest verklebt, Falze am
                   Rand</cei:condition>
@@ -2643,7 +2644,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>513/515 * 455/450 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, dunkle Flecken, durch Loch in der 3. Textzeile v. unten
                   geringer Textverlust, Nadeleinstiche an den Rändern (durch zurückliegende
                   Befestigung der Urkunde auf planem Untergrund)</cei:condition>
@@ -2727,7 +2728,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>255 x 165 mm, Umbug 15 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -2803,7 +2804,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>417 * 190 mm, Umbug 57 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleinere Risse an den Knicken, Tinte stellenweise
                   verblaßt</cei:condition>
               </cei:physicalDesc>
@@ -2872,7 +2873,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>275 x 138 mm, Umbug 36 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, brauner Fleck infolge durchgedrungener Flüssigkeit für Tilgung
                   auf der Rückseite</cei:condition>
               </cei:physicalDesc>
@@ -2936,7 +2937,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>255 * 124 mm, Umbug 25 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>sehr gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3006,7 +3007,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>270 * 135 mm, Umbug 31 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3074,7 +3075,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>255 * 130 mm, Umbug 27 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3147,7 +3148,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>275 * 170 mm, Umbug 25 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3231,7 +3232,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>265/272 * 145 mm, ehemaliger Umbug 17 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>schlecht, als Bucheinband verwendet</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3331,7 +3332,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>437 * 312 mm, Umbug 95 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>sehr gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3411,7 +3412,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>554/548 * 224/221 mm, Umbug 73 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, am oberen Rand schwarzer Stockfleck, weitere braune
                   Flecken</cei:condition>
               </cei:physicalDesc>
@@ -3482,7 +3483,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>203 x 80/78 mm, 10/13 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3550,7 +3551,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>170/160 x 72/75 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Löcher</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3625,7 +3626,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>232 x 104/97 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, 2 Flecken im oberen, rechten Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3716,7 +3717,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>351 x 180/177 mm, 21 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken im oberen und mittleren Teil, Einkerbung am oberen,
                   rechten Pergamentrand</cei:condition>
               </cei:physicalDesc>
@@ -3793,7 +3794,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>203 x 96/98 mm, 10 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3866,7 +3867,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>250 x 110/105 mm, 24 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Fleck im oberen Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -3935,7 +3936,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>282/280 x 172/178 mm, 24/22 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken im linken und unteren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -4004,7 +4005,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>547/546 x 298/300 mm, 36/41 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken im unteren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -4084,7 +4085,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>410/415 x 305/309 mm, 40 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>sehr gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -4180,7 +4181,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>247 x 190/186 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>fragmentarisch und schadhaft, ehemals als Einband benutzt, daher an
                   der rechten Seite und unten beschnitten und in den letzten Zeilen Textverlust
                   durch Löcher und Verderbtheit, kleine Löcher im oberen und mittleren Teil
@@ -4293,7 +4294,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>228/214 x 315/310 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>fragmentarisch, Urkunde oben und rechts beschnitten, ca. ein Drittel
                   fehlt, ehemals als Einband benutzt, daher rechts Löcher im Pergament, 4
                   Einschnitte von der Siegelbefestigung und ein Pergamentloch im unteren
@@ -4374,7 +4375,7 @@
               Ausgleich zwei dem Kloster gehörende Hufen mit allem Zubehör, eine in Wörbzig
                 (Wrbizke)<cei:note>Wrbizke: Wörbzig bei Köthen.</cei:note> und die andere in
               Großwülknitz (Wolnizi)<cei:note>Wolnizi: Großwülknitz bei Köthen.</cei:note> gelegen.
-              | Zeugen: Zeugen<cei:note>Die Zeugen sind bei Heinemann: C.D.A., T. 6: Reg.
+              | Zeugen: <cei:note>Die Zeugen sind bei Heinemann: C.D.A., T. 6: Reg.
                 nachw.</cei:note>: Anseimus, Havell[ber]g[ensis] episcopus<cei:note>Bischof Anselm
                 von Havelberg 1126 -1155, † 1158.</cei:note>; Wicherus, Brandeb[ur]g[ensis]
                 episcopus<cei:note>Bischof Wigger von Brandenburg 1138 -1160.</cei:note>; Arnoldus,
@@ -4427,7 +4428,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>365 x 510 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Radierungen und Rasuren im Text<cei:note>S. Anm. 2.</cei:note>,
                   kleine Flecken und Löcher, größere Flecken besonders im mittleren und unteren
                   Teil</cei:condition>
@@ -4529,7 +4530,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>225 x 335 mm, 26/23 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleines Loch bei der Initiale "W" durch Tintenfraß, Flecken im
                   oberen und im unteren Teil</cei:condition>
               </cei:physicalDesc>
@@ -4631,7 +4632,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>508/500 x 480/490 mm, 95/85 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleines Loch und kleine Flecken im rechten, unteren
                   Teil</cei:condition>
               </cei:physicalDesc>
@@ -4691,6 +4692,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
+                <cei:dimension/>
               </cei:physicalDesc>
               <cei:auth>
                 <cei:sealDesc>angekündigtes Siegel des Ausstellers</cei:sealDesc>
@@ -4702,6 +4704,7 @@
               <cei:quoteOriginaldatierung>(Datum Berlin anno eiusdem millesimo CCC° septuagesimo
                 tercio feria quarta proxima post diem Epiphanie domini)</cei:quoteOriginaldatierung>
             </cei:diplomaticAnalysis>
+            <cei:lang_MOM/>
           </cei:chDesc>
         </cei:body>
         <cei:back>
@@ -4737,15 +4740,15 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
+                <cei:dimension/>
               </cei:physicalDesc>
-              <cei:auth>
-                <cei:sealDesc/>
-              </cei:auth>
+              <cei:auth/>
             </cei:witnessOrig>
             <cei:diplomaticAnalysis>
               <cei:quoteOriginaldatierung>(Datum Tangermuende anno domini millesimo tricentesimo
                 quinquagesimo sexto in die Divisionis apostolorum)</cei:quoteOriginaldatierung>
             </cei:diplomaticAnalysis>
+            <cei:lang_MOM/>
           </cei:chDesc>
         </cei:body>
         <cei:back>
@@ -4811,7 +4814,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>300 x 240 mm, 25 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Flecken im unteren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -4874,7 +4877,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>340 x 210 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken am linken Rand</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -4938,7 +4941,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>300 x 240 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5007,7 +5010,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>250 x 160 mm, 15 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5066,7 +5069,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>250 x 150 mm, 15 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5127,7 +5130,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>385 x 180 mm, 30 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5196,7 +5199,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>335 x 235 mm, 40 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5258,7 +5261,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>270 x 168/160 mm, 28 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5326,7 +5329,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>260 x 180 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5393,7 +5396,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>285 x 200 mm, 45 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5454,7 +5457,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>300 x 155 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, ein Fleck im rechten Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5515,7 +5518,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>325 x 180 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5576,7 +5579,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>230 x 190 mm, 23 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, große Flecken im linken Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5655,7 +5658,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>285 x 224 mm, 27/30 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken besonders im unteren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5728,7 +5731,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>353 x 238/244 mm, 31 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5799,7 +5802,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>318 x 230/232 mm, 31/34 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Löcher und Flecken, Riß am unteren Rand</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5859,7 +5862,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>224 x 210 mm, 31 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -5926,7 +5929,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>320 x 215/218 mm, 46 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6015,7 +6018,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>427 x 270/277 mm, 54 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6094,7 +6097,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>470/475 x 295/305 mm, 53/57 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6175,7 +6178,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>270/260 x 110 mm</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Flecken und Löcher, zwei Einschnitte von der
                   Siegelbefestigung am unteren Rand</cei:condition>
               </cei:physicalDesc>
@@ -6254,7 +6257,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>245/255 x 140 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleines Loch in der Mitte zwischen 5. und 6.
                   Zeile</cei:condition>
               </cei:physicalDesc>
@@ -6318,7 +6321,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>345 x 295/300 mm, 45/50 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6383,7 +6386,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>375/380 x 290/295 mm, 45 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken am oberen und unteren Rand, kleine
                   Löcher</cei:condition>
               </cei:physicalDesc>
@@ -6449,7 +6452,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>315 x 200/210 mm, 13/17 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken besonders am rechten Rand und im unteren
                   Teil</cei:condition>
               </cei:physicalDesc>
@@ -6582,7 +6585,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>225 x 152/150 mm, 19 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, kleine Löcher im mittleren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6680,7 +6683,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>287/280 x 174/180 mm, 20 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken im unteren Teil</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6770,7 +6773,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>215 x 130 mm, 25 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken im mittleren Teil und am rechten Rand</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -6830,7 +6833,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>255 x 160 mm, 18 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, Flecken im linken Teil, Einkerbungen am oberen, linken
                   Pergamentrand, 2 Einschnitte von der Siegelbefestigung im Umbug</cei:condition>
               </cei:physicalDesc>
@@ -6907,7 +6910,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>275 x 120 mm, 21/25 mm Umbug</cei:dimensions>
+                <cei:dimension>am oberen Rand beschädigt und im Umbug genäht</cei:dimension>
                 <cei:condition>gut, Flecken und kleine Löcher im oberen Teil, Pergament am oberen
                   Rand beschädigt und im Umbug genäht</cei:condition>
               </cei:physicalDesc>
@@ -6977,7 +6980,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>279/276 x 165/163 mm, 40/35 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, 2 Löcher in der 8. Zeile, 1 Loch in der 14. Zeile, besonders im
                   mittleren und rechten Teil kleine Flecken </cei:condition>
               </cei:physicalDesc>
@@ -7093,7 +7096,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>560 x 440 mm, 120 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, besonders im rechten und unteren Teil Flecken, ein kreisrunder
                   Fleck rechts oben, vermutlich vom Siegel, Risse im linken Falz und im Umbug an der
                   Siegelbefestigung</cei:condition>
@@ -7170,7 +7173,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>341/337 x 175/165 mm, 34 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, besonders im mittleren Teil kleine Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -7247,7 +7250,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>321/323 x 144/135 mm, 24 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, besonders im mittleren Teil Flecken</cei:condition>
               </cei:physicalDesc>
               <cei:auth>
@@ -7318,7 +7321,7 @@
               </cei:archIdentifier>
               <cei:physicalDesc>
                 <cei:material>Pergament</cei:material>
-                <cei:dimensions>420/422 x 245/243 mm, 61/62 mm Umbug</cei:dimensions>
+                <cei:dimension/>
                 <cei:condition>gut, besonders im mittleren und unteren Teil Flecken, Umbug links
                   beschnitten</cei:condition>
               </cei:physicalDesc>
