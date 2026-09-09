@@ -2,7 +2,8 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    xmlns:cei="http://www.monasterium.net/NS/cei" exclude-result-prefixes="xs math" version="3.0">
+    xmlns:cei="http://www.monasterium.net/NS/cei" exclude-result-prefixes="xs math" version="3.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0">
     <xsl:template match="/">
         <cei:cei>
             <cei:teiHeader>
@@ -48,16 +49,29 @@
         <xsl:param name="main-charter-ref"/>
         <xsl:variable name="signatur" select="ueberlieferung/signatur/text()"/>
         <xsl:variable name="record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $signatur, ','))]]"/>
+        <xsl:variable name="metadata-entry" select="doc('urkundensammlung_metadaten.xml')/tei:TEI/tei:text/tei:body/tei:table/tei:row[tei:cell[@n='1'][text() = concat('Urk. ', $signatur)]]"/>
         <xsl:variable name="access-no" select="$record/accession-num/text()"/>
         <cei:text type="charter">
             <cei:front>
                 <cei:sourceDesc>
-                    <xsl:if test="ueberlieferung/druck or ueberlieferung/literatur_regest">
-                      <cei:sourceDescRegest>
-                          <xsl:apply-templates select="ueberlieferung/druck"/>
-                          <xsl:apply-templates select="ueberlieferung/literatur_regest"/>
-                      </cei:sourceDescRegest>
-                    </xsl:if>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>
+                            <xsl:choose>
+                                <xsl:when test="contains(document-uri(/), 'aberle')">
+                                    <xsl:text>Aberle, Johanna, und Ina Prescher. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte. Inventar: Sammlungsgeschichte, -beschreibung und Regesten der Urkunden nordalpiner Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 60. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 1997. https://doi.org/10.18452/5011</xsl:text>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:text>Müller, Harald, Michael Brauer, Uta Kirchner, Andrea Kutschke, Constanze Trapp, und Kordula Wolf. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin. Teil 2: Regesten der Urkunden nichtdeutscher Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 62. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 2007. https://doi.org/10.18452/5018</xsl:text>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            <xsl:if test="$metadata-entry/tei:cell[@n='8']/normalize-space()">
+                                <xsl:text>, </xsl:text>
+                                <xsl:value-of select="concat('Seite digitalisiert unter: ', $metadata-entry/tei:cell[@n='8']/text())"/>
+                            </xsl:if>
+                        </cei:bibl>
+                        <xsl:apply-templates select="ueberlieferung/druck"/>
+                        <xsl:apply-templates select="ueberlieferung/literatur_regest"/>
+                  </cei:sourceDescRegest>
                 </cei:sourceDesc>
             </cei:front>
             <cei:body>
@@ -89,7 +103,18 @@
                             <xsl:with-param name="access-no" select="$access-no"/>
                         </xsl:call-template>
                         <cei:archIdentifier>
-                            <cei:institution>Humboldt-Universität zu Berlin</cei:institution>
+                            <cei:settlement>Berlin</cei:settlement>
+                            <cei:institution>Universitätsbibliothek der Humboldt-Universität zu Berlin, Abteilung Historische Sammlungen</cei:institution>
+                            <xsl:choose>
+                                <xsl:when test="ueberlieferung/signatur">
+                                    <xsl:apply-templates select="ueberlieferung/signatur"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <cei:idno>
+                                        <xsl:value-of select="$main-charter-ref"/>
+                                    </cei:idno>
+                                </xsl:otherwise>
+                            </xsl:choose>
                             <xsl:call-template name="charter-link">
                                 <xsl:with-param name="access-no" select="$access-no"/>
                             </xsl:call-template>
@@ -105,7 +130,7 @@
                                     </xsl:otherwise>
                                 </xsl:choose>
                             </cei:material>
-                            <cei:dimension>
+                            <cei:dimensions>
                                 <xsl:choose>
                                     <xsl:when test="contains(document-uri(/), 'aberle')">
                                         <xsl:value-of select="substring-after(string-join(ueberlieferung/erhaltungszustand//text()), 'Pergament ')"/>
@@ -114,7 +139,7 @@
                                         <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[3]"/>
                                     </xsl:otherwise>
                                 </xsl:choose>
-                            </cei:dimension>
+                            </cei:dimensions>
                             <xsl:apply-templates select="ueberlieferung/erhaltungszustand"/>
                             <xsl:if test="contains(document-uri(/), 'mueller')">
                                 <cei:p>
@@ -161,7 +186,7 @@
     </xsl:template>
     <xsl:template match="signatur">
         <cei:idno id="{./text()}">
-            <xsl:apply-templates/>
+            <xsl:value-of select="concat('Urk. ', text())"/>
         </cei:idno>
     </xsl:template>
     <xsl:template match="regest">
@@ -249,7 +274,7 @@
         <xsl:for-each select="1 to $image-no">
             <cei:figure>
                 <cei:graphic
-                    url="https://www.digi-hub.de/viewer/api/v1/records/{$access-no}/files/images/0000000{position()}.tif/full/!1000,1000/0/default.jpg"
+                    url="https://www.digi-hub.de/viewer/api/v1/records/{$access-no}/files/images/0000000{position()}.tif/full/max/0/default.jpg"
                 />
             </cei:figure>
         </xsl:for-each>

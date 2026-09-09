@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">signatur</cell>
+               <cell n="2">titel</cell>
+               <cell n="3">place</cell>
+               <cell n="4">date-issued</cell>
+               <cell n="5">date-year</cell>
+               <cell n="6">URN</cell>
+               <cell n="7">Literatur</cell>
+               <cell n="8">Literatur, direkt Link</cell>
+               <cell n="9">link-images</cell>
+               <cell n="10">oai_id&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 30</cell>
+               <cell n="2">Urkunde 30, 1349 September 3, Köln</cell>
+               <cell n="3">Köln</cell>
+               <cell n="4">Des donresdaichs na sent Geliis dage zo Ceulne in der stat in den jairen uns Herrn  drutzeinhundert jair ind in deme nuin ind virtzichme jairen</cell>
+               <cell n="5">1349</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712800</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/35/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597821581552/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597821581552/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597821581552/full/0/00000003.jpg</cell>
+               <cell n="10">1597821581552&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 42</cell>
+               <cell n="2">Urkunde 42, 1361 April 19, Köln</cell>
+               <cell n="3">[Köln]</cell>
+               <cell n="4">Datum anno domini millesimo CCC? sexagesimoprimo feria secunda post  dominicam Jubilate</cell>
+               <cell n="5">1361</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712806</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/37/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597844174761/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597844174761/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597844174761/full/0/00000003.jpg</cell>
+               <cell n="10">1597844174761&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 64</cell>
+               <cell n="2">Urkunde 64, 1380 März, Köln</cell>
+               <cell n="3">[Köln]</cell>
+               <cell n="4">Datum anno domini M°“ trecentesimo octuagesimo mensis martii die ...</cell>
+               <cell n="5">1380</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712808</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/39/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597909821837/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597909821837/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597909821837/full/0/00000003.jpg</cell>
+               <cell n="10">1597909821837&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 153</cell>
+               <cell n="2">Urkunde 153, 1485 August 26, Niederrhein</cell>
+               <cell n="3">Niederrhein</cell>
+               <cell n="4">Gegeben in den jairen uns Hern duysent vierhundert vunffundeichtzich uf  donresdach neist na sent Bartholomeisdage des hilligen apostell</cell>
+               <cell n="5">1485</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712809</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/40/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597911106602/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597911106602/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597911106602/full/0/00000003.jpg</cell>
+               <cell n="10">1597911106602&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 182</cell>
+               <cell n="2">Urkunde 182, 1520 März 25, Niederrhein</cell>
+               <cell n="3">Niederrhein</cell>
+               <cell n="4">Gegeven int jaer ons Heren do men screeff dusent vyffhundert inde twyntich op  onser lyever Vrowen dach genant Annunciacionis</cell>
+               <cell n="5">1520</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712810</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/41/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597913027053/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597913027053/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597913027053/full/0/00000003.jpg</cell>
+               <cell n="10">1597913027053&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 58</cell>
+               <cell n="2">Urkunde 58, 1377 April 9, Niederrhein</cell>
+               <cell n="3">Niederrhein</cell>
+               <cell n="4">Gegeben ist nach Cristes geburt druczehenhundert jar und darnach in dem  sibenundsibenczigsten jare am nehsten donrstag nach dem suntag  Quasimodogeniti</cell>
+               <cell n="5">1377</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712807</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/38/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597845350307/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597845350307/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597845350307/full/0/00000003.jpg</cell>
+               <cell n="10">1597845350307&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 6</cell>
+               <cell n="2">Urkunde 6, 1270 März 7, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Actum anno domini M» CC? LXX feria sexta ante dominicam Reminiscere</cell>
+               <cell n="5">1270</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712811</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/42/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597915714638/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597915714638/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597915714638/full/0/00000003.jpg</cell>
+               <cell n="10">1597915714638&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 11</cell>
+               <cell n="2">Urkunde 11, 1300 Mai 28, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Datum anno domini millesimo CCC° festo Penthecostes</cell>
+               <cell n="5">1300</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712814</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/45/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597928223660/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597928223660/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597928223660/full/0/00000003.jpg</cell>
+               <cell n="10">1597928223660&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 8</cell>
+               <cell n="2">Urkunde 8, 1290 Mai 12, Worms</cell>
+               <cell n="3">[Worms]</cell>
+               <cell n="4">Anno domini M° CC° LXXXX° in crastino Ascensionis domini</cell>
+               <cell n="5">1290</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712813</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/44/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597925048684/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597925048684/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597925048684/full/0/00000003.jpg</cell>
+               <cell n="10">1597925048684&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 7</cell>
+               <cell n="2">Urkunde 7, 1270 Dezember 21, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Actum anno domini M° CC° LX°X° in festo beati Thome apostoli</cell>
+               <cell n="5">1270</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712812</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/43/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597922275724/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597922275724/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597922275724/full/0/00000003.jpg</cell>
+               <cell n="10">1597922275724&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 13</cell>
+               <cell n="2">Urkunde 13, 1307 Juli 27, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Diz geschach und dirre brief ist gegeben an deme dunrestage vor sante Natzerien  tage da man zalthe von Cristes geburthe druzehen hundert jar und dar nach in deme  sibendem jare</cell>
+               <cell n="5">1307</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712815</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/47/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597929797693/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597929797693/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597929797693/full/0/00000003.jpg</cell>
+               <cell n="10">1597929797693&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 28</cell>
+               <cell n="2">Urkunde 28, 1346 Januar 2, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Datum anno domini M CCC° X°Lsexto secunda die mensis januarii</cell>
+               <cell n="5">1346</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712816</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/49/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1597931380491/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1597931380491/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1597931380491/full/0/00000003.jpg</cell>
+               <cell n="10">1597931380491&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 37</cell>
+               <cell n="2">Urkunde 37, 1356 Februar 17, Oppenheim</cell>
+               <cell n="3">Oppenheim</cell>
+               <cell n="4">Anno domini millesimo trecentessimo quinquagesimo sexto quinta feria post festum  beati Valentini hora prime actum et factatum in claustro fratrum mynorum oppidi  Oppenheim</cell>
+               <cell n="5">1356</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712820</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/50/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1598002489684/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1598002489684/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1598002489684/full/0/00000003.jpg</cell>
+               <cell n="10">1598002489684&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 141</cell>
+               <cell n="2">Urkunde 141, 1475 September 20, Dirmstein</cell>
+               <cell n="3">Dirmstein</cell>
+               <cell n="4">Datum in castro nostro Dirmstein vicesima die mensis septembris anno domini  millesimoquadringentesimo septuagesimo quinto</cell>
+               <cell n="5">1475</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712824</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/52/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1598008819472/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1598008819472/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1598008819472/full/0/00000003.jpg</cell>
+               <cell n="10">1598008819472&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 147</cell>
+               <cell n="2">Urkunde 147, 1478 Februar 9, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Geben in dem jare alß man zalt noch Christi unßers lieben Herrn geburt dußent  vierhundert siebentzick und acht jare uff montag noch unßer lieben Frauwen tag  Purificationis czu latin genant</cell>
+               <cell n="5">1478</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712825</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/53/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1598009836088/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1598009836088/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1598009836088/full/0/00000003.jpg</cell>
+               <cell n="10">1598009836088&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 105</cell>
+               <cell n="2">Urkunde 105, 1446, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Gegeben is do man schreiff von Gotes gebuort in latin millesimo quadringentesimo  quadragesimo sexto</cell>
+               <cell n="5">1446</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712823</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/51/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1598007625962/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1598007625962/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1598007625962/full/0/00000003.jpg</cell>
+               <cell n="10">1598007625962&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 155</cell>
+               <cell n="2">Urkunde 155, 1487 Juli 26, Mittelrhein</cell>
+               <cell n="3">Mittelrhein</cell>
+               <cell n="4">Geben uff dornstag nach sant Jacobs des heilgen apposteln tag anno domini  thuosent vierhundert achtzig und sieben jare</cell>
+               <cell n="5">1487</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712847</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/54/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599567777219/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599567777219/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599567777219/full/0/00000003.jpg</cell>
+               <cell n="10">1599567777219&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 236</cell>
+               <cell n="2">Urkunde 236, 1715  August 6, Appenzell</cell>
+               <cell n="3">Appenzell</cell>
+               <cell n="4">So geben den sechsten tag Augusti im jahr nach der gnad- und trostreichen geburt  und menschwerdung unsers Herren und Heilands Jesu Christi ein tausend sieben  hundert und fünf zehen</cell>
+               <cell n="5">1715</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712851</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/58/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599570994390/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599570994390/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599570994390/full/0/00000003.jpg</cell>
+               <cell n="10">1599570994390&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 197</cell>
+               <cell n="2">Urkunde 197, 1543 November 28, Aschaffenburg</cell>
+               <cell n="3">Aschaffenburg</cell>
+               <cell n="4">Der geben ist zu Aschaffenburgck uff mitwochen nach Catharine nach Christi  unsers lieben Hern geburth tawsent funfhundert und im drey und viertzigisten jare</cell>
+               <cell n="5">1543</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712850</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/57/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599569824330/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599569824330/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599569824330/full/0/00000003.jpg</cell>
+               <cell n="10">1599569824330&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 172</cell>
+               <cell n="2">Urkunde 172, 1500 März 6, Frankenthal</cell>
+               <cell n="3">Frankenthal</cell>
+               <cell n="4">Gescheen zu Franckentall uff dem keller im iar noch der geburt unsers lieben Hern  Jesu Christi funfftzehen hundert uff den sehsten tag des Myertz der do was uff ein  frytag</cell>
+               <cell n="5">1500</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712849</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/55/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599568619561/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599568619561/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599568619561/full/0/00000003.jpg</cell>
+               <cell n="10">1599568619561&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 238</cell>
+               <cell n="2">Urkunde 238, 1718 August 5, Rom</cell>
+               <cell n="3">Rom</cell>
+               <cell n="4">Datum Rome apud sanctam Mariam maiorem anno incarnationis dominice millesimo  septingentesimo decimooctavo quinto diem augusti pontificatus nostri anno  decimoctavo</cell>
+               <cell n="5">1718</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712853</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/59/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599572775498/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599572775498/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599572775498/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1599572775498/full/0/00000004.jpg</cell>
+               <cell n="10">1599572775498&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 74</cell>
+               <cell n="2">Urkunde 74, 1390 Dezember 19, Zabern</cell>
+               <cell n="3">Zabern</cell>
+               <cell n="4">Geben des nehsten mandages vor dem heillig[en]* Wihnaht dage in dem jore do  man zalte nach gotz gebuert? drueczehenhundert und nuenczig jore</cell>
+               <cell n="5">1390</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712857</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/63/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599652382071/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599652382071/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599652382071/full/0/00000003.jpg</cell>
+               <cell n="10">1599652382071&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 22</cell>
+               <cell n="2">Urkunde 22, 1336 Juni 9, Speyer</cell>
+               <cell n="3">Speyer</cell>
+               <cell n="4">Datum anno domini M° CCC° XXXVI° feria secunda ante Barnabe apostoli</cell>
+               <cell n="5">1336</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712856</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/61/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599649450548/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599649450548/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599649450548/full/0/00000003.jpg</cell>
+               <cell n="10">1599649450548&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 148</cell>
+               <cell n="2">Urkunde 148, 1478 April 13, Straßburg</cell>
+               <cell n="3">Straßburg</cell>
+               <cell n="4">Anno domini millesimo quadringentesimo septuagesimo octavo indictione undecima  die vero lune tredecima mensis aprilis infra ducdecimam et primam horas post  meridiem pontificatus sanctissimi in Christo patris et domini nostri domini Sixti' divina  providentia pape quarti anno eius septimo</cell>
+               <cell n="5">1478</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712858</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/64/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599653768359/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599653768359/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599653768359/full/0/00000003.jpg</cell>
+               <cell n="10">1599653768359&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 54</cell>
+               <cell n="2">Urkunde 54, 1369 Juli 27, Stuttgart</cell>
+               <cell n="3">Stuttgart</cell>
+               <cell n="4">Der brief ist geben ze Stuegarten an dem nehsten fritag nach sant Jacobs tag dez  heilgen zwelfboten, do man zalt von Cristes gebuort drueczehen huendert jare und in  dem nuenden und sehczzigesten jare</cell>
+               <cell n="5">1369</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712859</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/66/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599655038738/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599655038738/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599655038738/full/0/00000003.jpg</cell>
+               <cell n="10">1599655038738&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 48</cell>
+               <cell n="2">Urkunde 48, 1365 November 12, Bayern</cell>
+               <cell n="3">Bayern</cell>
+               <cell n="4">Daz [geschah] mitichen nach sand Marttins tag do man zalt von Christes gepurt  drewzehenhundert iar und in dem fuenf und sechczigistem jar</cell>
+               <cell n="5">1365</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712861</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/69/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599656452749/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599656452749/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599656452749/full/0/00000003.jpg</cell>
+               <cell n="10">1599656452749&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 66</cell>
+               <cell n="2">Urkunde 66, 1383 Juli 12, Bayern</cell>
+               <cell n="3">Bayern</cell>
+               <cell n="4">Daz ist geschehen an sand Margreten tag do man zalt von Kristi gepurd drutzehen  hundert iar und in dem drew und achczigistem jar</cell>
+               <cell n="5">1383</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712862</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/70/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599656976898/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599656976898/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599656976898/full/0/00000003.jpg</cell>
+               <cell n="10">1599656976898&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 20</cell>
+               <cell n="2">Urkunde 20, 1326 September 27, Nürnberg</cell>
+               <cell n="3">Nürnberg</cell>
+               <cell n="4">Der brif ist gegeben do man zalt von Gotes gebuert dreutzenhundert jar dar nach in  dem sechse und zweintzgistem jar an dem samtztag vor sant Remigien tag</cell>
+               <cell n="5">1326</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712860</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/67/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599655964802/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599655964802/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599655964802/full/0/00000003.jpg</cell>
+               <cell n="10">1599655964802&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 99</cell>
+               <cell n="2">Urkunde 99, 1437 Oktober 24, Straubing</cell>
+               <cell n="3">Straubing</cell>
+               <cell n="4">Geben zue Strawbing an pfintztag nach der Aindelf tausent maidtag da mann zelet  nach Cristi unsers lieben Herren gepurd viertzechenhundert und in dem sibnunddreissigısten jare</cell>
+               <cell n="5">1437</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712865</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/73/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599659380507/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599659380507/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599659380507/full/0/00000003.jpg</cell>
+               <cell n="10">1599659380507&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 72</cell>
+               <cell n="2">Urkunde 72, 1387 April 9, Bayern</cell>
+               <cell n="3">Bayern</cell>
+               <cell n="4">Daz ist geschehen nach Cristus gepurt drewczehen hundert jar und in dem siben  und achczigistem jar dez erichtagez in der heiligen Oster wochen</cell>
+               <cell n="5">1387</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712864</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/72/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599658033369/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599658033369/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599658033369/full/0/00000003.jpg</cell>
+               <cell n="10">1599658033369&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 70</cell>
+               <cell n="2">Urkunde 70, 1385 November 10, Bayern</cell>
+               <cell n="3">Bayern</cell>
+               <cell n="4">Daz geschach nach Christus gebuort drueczehenhuondert jar und dar nach in dem  fuenften und ahtzgestem jare an sant Martins abent dez hailigen byschofs</cell>
+               <cell n="5">1385</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712863</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/71/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599657514453/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599657514453/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599657514453/full/0/00000003.jpg</cell>
+               <cell n="10">1599657514453&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 188</cell>
+               <cell n="2">Urkunde 188, 1526 Januar 16, Nürnberg</cell>
+               <cell n="3">Nürnberg</cell>
+               <cell n="4">Geben am monntag nach sand Mauritientag den funfzehenden des monats  Januarii nach Crists unsers liebsten Herren und Seligmachers geburd funfzehen-  hundert und in dem sechsundzwaintzigisten jaren</cell>
+               <cell n="5">1526</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712868</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/76/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599739133179/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599739133179/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599739133179/full/0/00000003.jpg</cell>
+               <cell n="10">1599739133179&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 128</cell>
+               <cell n="2">Urkunde 128, 1469 Februar 13, Nürnberg</cell>
+               <cell n="3">Nürnberg</cell>
+               <cell n="4">Datum in conventu nostro Nu[ren]bergensis provincie Argentoratensis' anno domini  millesimo quadringentesimo sexagesimo? nono mensis vero februarii die tercia-  decima</cell>
+               <cell n="5">1469</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712866</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/74/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599735359337/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599735359337/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599735359337/full/0/00000003.jpg</cell>
+               <cell n="10">1599735359337&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 159</cell>
+               <cell n="2">Urkunde 159, 1488 August 3, Nürnberg</cell>
+               <cell n="3">Nürnberg</cell>
+               <cell n="4">Der geben ist am sampstag nach sandt Peters tag ketchen feyer nach Cristi gepurt  vierzehenhundert und in dem achtunachczigisten jare</cell>
+               <cell n="5">1488</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712867</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/75/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599737157784/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599737157784/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599737157784/full/0/00000003.jpg</cell>
+               <cell n="10">1599737157784&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 1</cell>
+               <cell n="2">Urkunde 1, 879 November 22, Regensburg</cell>
+               <cell n="3">Regensburg</cell>
+               <cell n="4">Data X kalendas decembris anno dominicae incarnationis DCCCLXXVIIII,  indictione XI anno IIII regni Hludouuici regis in orientali Francia regnantis actum  Reganesburg</cell>
+               <cell n="5">879</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712869</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/77/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599741666260/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599741666260/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599741666260/full/0/00000003.jpg</cell>
+               <cell n="10">1599741666260&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 50</cell>
+               <cell n="2">Urkunde 50, 1366 Januar 17, Österreich</cell>
+               <cell n="3">Österreich</cell>
+               <cell n="4">Der brief ist geben nach Chrystes gepürd uber dreutzehen hundert jar dar nach in  dem sechs und sechczkysten iar an dez heyligen herren sand Antonii tag</cell>
+               <cell n="5">1366</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712873</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/83/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599747140023/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599747140023/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599747140023/full/0/00000003.jpg</cell>
+               <cell n="10">1599747140023&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 44</cell>
+               <cell n="2">Urkunde 44, 1362 Juni 25, Haimburg</cell>
+               <cell n="3">Haimburg</cell>
+               <cell n="4">Geben ze Haimburch an samztag nach Sunewenden nach Christs gepurd drew-  zehen hundert jar darnach in dem zway und sechczigistem jar unsers alters in dem  drew und zwainczigistem und unsers gewalts in dem vierden jar</cell>
+               <cell n="5">1362</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712871</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/80/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599745352447/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599745352447/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599745352447/full/0/00000003.jpg</cell>
+               <cell n="10">1599745352447&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 31</cell>
+               <cell n="2">Urkunde 31, 1352 April 12, Winterthur</cell>
+               <cell n="3">Winterthur</cell>
+               <cell n="4">Der geben ward ze Winterrut in dem jar do man zalt von Cristes gebuirt druizehen-  hundert jar darnah in dem zwai und fuinfczigesten jar an dem naehsten fritag ze  ussgaender Osterwcchen</cell>
+               <cell n="5">1352</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712870</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/79/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599744922214/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599744922214/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599744922214/full/0/00000003.jpg</cell>
+               <cell n="10">1599744922214&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 45</cell>
+               <cell n="2">Urkunde 45, 1362 September 3, Österreich</cell>
+               <cell n="3">Österreich</cell>
+               <cell n="4">Nach Christes geburde dreuczehen hundert iar dar nach in dem zwai und  sechczgisten iar dez nachsten sambstags nach sant Giligen tage</cell>
+               <cell n="5">1362</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712872</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/82/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599746331472/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599746331472/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599746331472/full/0/00000003.jpg</cell>
+               <cell n="10">1599746331472&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 60</cell>
+               <cell n="2">Urkunde 60, 1377 November 23, Wien</cell>
+               <cell n="3">Wien</cell>
+               <cell n="4">Geben ze Wien an montag vor Katherine nach Kristi gepurt dreuczehenhundert jar  darnach in dem siben und sibenczigistem jare</cell>
+               <cell n="5">1377</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712877</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/85/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599821411176/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599821411176/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599821411176/full/0/00000003.jpg</cell>
+               <cell n="10">1599821411176&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 59</cell>
+               <cell n="2">Urkunde 59, 1377 September 8, Wien</cell>
+               <cell n="3">Wien</cell>
+               <cell n="4">Geben ze Wien an unsr Frawen tag ze herbste nach Kristi gepuerd dreutzehn hun-  dert jar darnach in dem siben und sibenczigistem jare</cell>
+               <cell n="5">1377</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712876</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/84/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1599820625398/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1599820625398/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1599820625398/full/0/00000003.jpg</cell>
+               <cell n="10">1599820625398&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 139</cell>
+               <cell n="2">Urkunde 139, 1475 Februar 4, Österreich</cell>
+               <cell n="3">Österreich</cell>
+               <cell n="4">Gebn ist nach Christs gebuorde im virtzehenhundert und funfundsybntzigisten jaren  am sambstag vor sand Dorothea tag der heiligis junkhfraun</cell>
+               <cell n="5">1475</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712878</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/86/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600169371597/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600169371597/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600169371597/full/0/00000003.jpg</cell>
+               <cell n="10">1600169371597&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 176</cell>
+               <cell n="2">Urkunde 176, 1507 Juli 7, Wohlau</cell>
+               <cell n="3">Wohlau</cell>
+               <cell n="4">Geschehen zu Wolaw am mittwoch nach Procopii nach Christi unsers Herrn geburt  funffzehenhundert unnd im sebenden jare</cell>
+               <cell n="5">1507</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712880</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/89/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600172923986/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600172923986/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600172923986/full/0/00000003.jpg</cell>
+               <cell n="10">1600172923986&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 151</cell>
+               <cell n="2">Urkunde 151, 1482 April 30, Freystadt</cell>
+               <cell n="3">Freystadt</cell>
+               <cell n="4">Gegebin am obinde Philippi und Jacobi der heiligen zwelffbothen noch Cristi  geborth virzehnhundirt jor dornoch im zweundachzigisten jore</cell>
+               <cell n="5">1482</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712879</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/87/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600171950616/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600171950616/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600171950616/full/0/00000003.jpg</cell>
+               <cell n="10">1600171950616&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 180</cell>
+               <cell n="2">Urkunde 180, 1513 April 25, Breslau</cell>
+               <cell n="3">Breslau</cell>
+               <cell n="4">Gescheen zu Bresslaw am tage Marci des heyligen ewangelisten nach Christi  unsers Herrn geburt funffczehenhundert und im dreyczehenden jare</cell>
+               <cell n="5">1513</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712882</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/91/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600175357173/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600175357173/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600175357173/full/0/00000003.jpg</cell>
+               <cell n="10">1600175357173&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 24</cell>
+               <cell n="2">Urkunde 24, 1337 März 30, Niedersachsen und Hamburg</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Datum et actum anno domini M° CCC° tricesimo septimo dominico die qua cantatur  Letare</cell>
+               <cell n="5">1337</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712885</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/93/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600341447438/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600341447438/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600341447438/full/0/00000003.jpg</cell>
+               <cell n="10">1600341447438&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 23</cell>
+               <cell n="2">Urkunde 23, 1337 Dezember 28, Niedersachsen und Hamburg</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Datum anno domini M° CCC° XXX° VII° in die Innocentum</cell>
+               <cell n="5">1337</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712887</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/94/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600342161588/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600342161588/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600342161588/full/0/00000003.jpg</cell>
+               <cell n="10">1600342161588&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 76</cell>
+               <cell n="2">Urkunde 76, 1392 Februar 21, Niedersachsen</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Datum anno domini M° CCC° nonagesimo secundo in profesto beati Petri quod  dicitur cathedra Petri</cell>
+               <cell n="5">1392</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712888</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/95/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600343377746/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600343377746/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600343377746/full/0/00000003.jpg</cell>
+               <cell n="10">1600343377746&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 91</cell>
+               <cell n="2">Urkunde 91, 1428 Januar 8, Niedersachsen</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Gegeven is na Godesbort dusent veirhundert in dem achteundtwintigestem jare am  donnersdage na der hilgen drier Konninge dage</cell>
+               <cell n="5">1428</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712891</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/98/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600347882893/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600347882893/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600347882893/full/0/00000003.jpg</cell>
+               <cell n="10">1600347882893&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 81</cell>
+               <cell n="2">Urkunde 81, 1400 Juli 13, Niedersachsen</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Ghegeven is na Godes bort unses Heren in deme veyrteynhunderdesten jare in  sunte Margareten daghe der hilghen juncvrowen</cell>
+               <cell n="5">1400</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712889</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/96/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600344211866/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600344211866/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600344211866/full/0/00000003.jpg</cell>
+               <cell n="10">1600344211866&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 158</cell>
+               <cell n="2">Urkunde 158, 1488 Juni 9, Niedersachsen</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Gegeven na der gebort Christi dusent verhundert jare dar na in dem [...] achten  unde achtentigesten jare ame mandaghe na Bonifacij des hilgein martelers</cell>
+               <cell n="5">1488</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712892</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/99/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1600348664721/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1600348664721/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1600348664721/full/0/00000003.jpg</cell>
+               <cell n="10">1600348664721&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 190</cell>
+               <cell n="2">Urkunde 190, 1538 Dezember 7, Niedersachsen</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Gescheen und gegeven nach Christi unßes Hern gebortt im veffteinhundersten und  achtunddrittigsten jaren am avende Conceptionis Marie virginis</cell>
+               <cell n="5">1538</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712904</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/100/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1601033276103/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1601033276103/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1601033276103/full/0/00000003.jpg</cell>
+               <cell n="10">1601033276103&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 221</cell>
+               <cell n="2">Urkunde 221, 1601 Januar 31, Hamburg</cell>
+               <cell n="3">Hamburg</cell>
+               <cell n="4">Geschehen den ein und dreissigsten Januarij anno Christi ein tausent sechshundert  und ein</cell>
+               <cell n="5">1601</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712906</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/102/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1601036338426/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1601036338426/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1601036338426/full/0/00000003.jpg</cell>
+               <cell n="10">1601036338426&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 211</cell>
+               <cell n="2">Urkunde 211, 1591 April 5, Niedersachsen</cell>
+               <cell n="3">Niedersachsen</cell>
+               <cell n="4">Gescheen montags in den heiligen Ostern anno der weiniger zahl einundneunzigk</cell>
+               <cell n="5">1591</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712905</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/101/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1601034957363/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1601034957363/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1601034957363/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1601034957363/full/0/00000004.jpg</cell>
+               <cell n="10">1601034957363&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 47</cell>
+               <cell n="2">Urkunde 47, 1365 Februar 20, Westfalen</cell>
+               <cell n="3">Westfalen</cell>
+               <cell n="4">Datum Avinione X. kalendas ma[rtii/ii] [pontificatus] nostri anno tertio</cell>
+               <cell n="5">1365</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712916</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/103/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1601558263612/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1601558263612/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1601558263612/full/0/00000003.jpg</cell>
+               <cell n="10">1601558263612&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 112</cell>
+               <cell n="2">Urkunde 112, 1451 Dezember 22, Coesfeld</cell>
+               <cell n="3">Coesfeld</cell>
+               <cell n="4">Datum anno domini M CCCC L primo feria quarta post Thome apostoli. ... Acta  fuerunt hec in domo confessoris sororum in Cosveldia ...</cell>
+               <cell n="5">1451</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712918</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/105/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1601641469353/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1601641469353/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1601641469353/full/0/00000003.jpg</cell>
+               <cell n="10">1601641469353&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 3</cell>
+               <cell n="2">Urkunde 3, 1149 Januar 15, Magdeburg</cell>
+               <cell n="3">Magdeburg</cell>
+               <cell n="4">Data XVIII kalendas februarii anno dominice incarnationis M° C° XL° VIIII° indictione  Xa  anno autem pontificatus domini Fritherici Magdeburgensis archiepiscopi VII°.  Actum Magdeburg in dei nomine feliciter amen</cell>
+               <cell n="5">1149</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712926</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/107/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602676836048/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602676836048/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602676836048/full/0/00000003.jpg</cell>
+               <cell n="10">1602676836048&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 173</cell>
+               <cell n="2">Urkunde 173, 1503 Mai 21, Lebus</cell>
+               <cell n="3">Lebus</cell>
+               <cell n="4">Datum castro nostro Lubus dominica vocem Jocunditatis anno domini millesimo-  quingentesimo tercio</cell>
+               <cell n="5">1503</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712929</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/112/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602679020380/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602679020380/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602679020380/full/0/00000003.jpg</cell>
+               <cell n="10">1602679020380&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk.5</cell>
+               <cell n="2">Urkunde 5, 1246 Juli 19, Magdeburg</cell>
+               <cell n="3">Magdeburg</cell>
+               <cell n="4">Datum Magdeburg per manum Thitmari notarii anno gratie M CC XLVI , XIIII kalen-das augusti pontificatus nostri anno XII</cell>
+               <cell n="5">1246</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712928</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/110/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602677886928/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602677886928/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602677886928/full/0/00000003.jpg</cell>
+               <cell n="10">1602677886928&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 101</cell>
+               <cell n="2">Urkunde 101, 1444 Oktober 22 , Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegeben ist an sente Severi tage episcopi anno domini M°CCCC° XL° quarto</cell>
+               <cell n="5">1444</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712930</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/115/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602681180287/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602681180287/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602681180287/full/0/00000003.jpg</cell>
+               <cell n="10">1602681180287&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 109</cell>
+               <cell n="2">Urkunde 109, 1449 Mai 26, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Datum anno domini M° CCCC° XLIX° deß nehisten tages noch Urbani deß  heylghen bobyst</cell>
+               <cell n="5">1449</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712932</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/117/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602683452686/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602683452686/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602683452686/full/0/00000003.jpg</cell>
+               <cell n="10">1602683452686&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 108</cell>
+               <cell n="2">Urkunde 108, 1449 Mai 2 , Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Datum anno domini M° CCCC° XLIX° def nehisten fritages noch Walpurgis</cell>
+               <cell n="5">1449</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712931</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/116/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602682489609/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602682489609/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602682489609/full/0/00000003.jpg</cell>
+               <cell n="10">1602682489609&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 124</cell>
+               <cell n="2">Urkunde 124, 1465 Oktober 9, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Datum ipso die sancti Dyonisii episcopi anno domini M° CCCC° LX° quinto</cell>
+               <cell n="5">1465</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712936</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/119/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602851016953/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602851016953/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602851016953/full/0/00000003.jpg</cell>
+               <cell n="10">1602851016953&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 130</cell>
+               <cell n="2">Urkunde 130, 1470 November 22, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin ist nach Cristi unsers Hern geburt tusintvierhundert darnach in dem  sobinczigsten jare uff donnerstag nach Elizabeth der heiligen frawen</cell>
+               <cell n="5">1470</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712937</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/120/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602852388649/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602852388649/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602852388649/full/0/00000003.jpg</cell>
+               <cell n="10">1602852388649&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 116</cell>
+               <cell n="2">Urkunde 116, 1457 September 17, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Datum ipso die sancti Lampperti episcopi anno domini M° CCCC° L° septimo</cell>
+               <cell n="5">1457</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712935</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/118/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602850147218/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602850147218/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602850147218/full/0/00000003.jpg</cell>
+               <cell n="10">1602850147218&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 137</cell>
+               <cell n="2">Urkunde 137, 1474 Oktober 19, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegeben nach Cristi unßers Hern geburdt tusent vierhundirt jare darnach yn deme  vierundesobentzigisten jare uff mittewoch nehist nach Galli</cell>
+               <cell n="5">1474</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712940</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/123/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602854795963/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602854795963/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602854795963/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1602854795963/full/0/00000004.jpg</cell>
+               <cell n="10">1602854795963&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 140</cell>
+               <cell n="2">Urkunde 140, 1475 Mai 9, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin nach Cristi unßers Hern geburdt tusent vierhundirt jare darnach yn deme  funffundesobentzigisten jare uff dinstag nehist nach Johannis ante portam latine</cell>
+               <cell n="5">1475</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712941</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/124/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603457172991/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603457172991/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603457172991/full/0/00000003.jpg</cell>
+               <cell n="10">1603457172991&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 132</cell>
+               <cell n="2">Urkunde 132, 1471 September 19, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin ist nach Christi geburt thusentffierhundirt darnach in deme eynundesueb-  benczigisten jare an deme donnerstage nach deme tage sancti Lamperti des heilgen  bisschoffen</cell>
+               <cell n="5">1471</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712938</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/121/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602853117018/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602853117018/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602853117018/full/0/00000003.jpg</cell>
+               <cell n="10">1602853117018&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 136</cell>
+               <cell n="2">Urkunde 136, 1474 Juli 23, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin nach Cristi unßers Hern geburdt tusent vierhundirt jare darnach in deme  vierundesobentzigisten jare uff sonabint nehist vor Jacobi</cell>
+               <cell n="5">1474</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712939</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/122/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1602854268915/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1602854268915/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1602854268915/full/0/00000003.jpg</cell>
+               <cell n="10">1602854268915&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 149</cell>
+               <cell n="2">Urkunde 149, 1478 Oktober 27, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin nach Cristi unßers Hern geburdt tusent vierhundirt jare darnach in deme  achtundesobentzigisten jare uff dinstag vigilia sanctorum Symonis et Jude aposto-  lorum</cell>
+               <cell n="5">1478</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712944</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/127/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603458662115/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603458662115/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603458662115/full/0/00000003.jpg</cell>
+               <cell n="10">1603458662115&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 145</cell>
+               <cell n="2">Urkunde 145, 1477 September 22, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin nach Cristi unßers Hern geburdt tusent vierhundirt jare darnach in deme  sobinundesobentzigisten jare uff den montag nehist nach Lamperti</cell>
+               <cell n="5">1477</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712943</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/126/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603458280686/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603458280686/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603458280686/full/0/00000003.jpg</cell>
+               <cell n="10">1603458280686&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 143</cell>
+               <cell n="2">Urkunde 143, 1476 Dezember 17, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegeben nach Cristi unßers Hern geburdt tusent vierhundirt jare darnach yn deme  sechßundesobentzigisten jare uff dinstag nehist nach Lucie virginis et cetera</cell>
+               <cell n="5">1476</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712942</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/125/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603457748946/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603457748946/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603457748946/full/0/00000003.jpg</cell>
+               <cell n="10">1603457748946&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 156</cell>
+               <cell n="2">Urkunde 156, 1487 November 22, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gescheen uff donnerstag noch Elizabeth in deme sobinundeachczigesten jore der  mynner zcael</cell>
+               <cell n="5">1487</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712946</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/128/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603802006771/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603802006771/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603802006771/full/0/00000003.jpg</cell>
+               <cell n="10">1603802006771&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 178</cell>
+               <cell n="2">Urkunde 178, 1512 März 30, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Geben nach Crist geburt unßers Hern tausent funffhundertt zweylff jar am dinstag  nach Judica in der heilgen fasten</cell>
+               <cell n="5">1512</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712948</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/130/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603804365119/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603804365119/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603804365119/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1603804365119/full/0/00000004.jpg</cell>
+               <cell n="10">1603804365119&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 161</cell>
+               <cell n="2">Urkunde 161, 1489 Juni 13, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin nach Cristi unßers liben Heren gepurth als man schreib tusint vierhundert  darnach yn deme nuenundeachtzigistim iare uff sonnabendt nehist vor dem sontage  genant der heiligin Drivaldikeyt et cetera</cell>
+               <cell n="5">1489</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712947</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/129/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603803118819/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603803118819/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603803118819/full/0/00000003.jpg</cell>
+               <cell n="10">1603803118819&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 184</cell>
+               <cell n="2">Urkunde 184, 1523 August 28, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Geben freytag nach Bartholomei apostoli nach Christi geburt tausent funfhundert  und in dem dreyundzwenzigsten jare</cell>
+               <cell n="5">1523</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712949</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/131/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603805228378/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603805228378/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603805228378/full/0/00000003.jpg</cell>
+               <cell n="10">1603805228378&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 186</cell>
+               <cell n="2">Urkunde 186, 1524 Februar 20, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Geben sonnabent nach Invocavit nach Christi geburt tausent funfhundert und in  dem vierundzwenzigsten</cell>
+               <cell n="5">1524</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712950</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/132/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603806454794/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603806454794/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603806454794/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1603806454794/full/0/00000004.jpg</cell>
+               <cell n="10">1603806454794&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 223</cell>
+               <cell n="2">Urkunde 223, 1610 April 8, Erfurt</cell>
+               <cell n="3">Erfurt</cell>
+               <cell n="4">Actum Erffordt in die Resurrectionis domini nach Christi unsers Herren undt Selig-  machers geburdt im sechtzehenhunderten undt zehenden jhare</cell>
+               <cell n="5">1610</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712951</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/133/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1603807738710/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1603807738710/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1603807738710/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1603807738710/full/0/00000004.jpg|https://www.digi-hub.de/viewer/content/1603807738710/full/0/00000005.jpg|https://www.digi-hub.de/viewer/content/1603807738710/full/0/00000006.jpg</cell>
+               <cell n="10">1603807738710&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 225</cell>
+               <cell n="2">Urkunde 225, 1623 Oktober 24, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Actum freittages war der vierundtzwantziegste monatstagk Octobris nach Christi  unsers Herren undt Seliegmachers geburdt im sechtzehenhunderten drey undt  zwantziegsten jhare</cell>
+               <cell n="5">1623</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712989</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/135/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604059925388/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604059925388/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604059925388/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1604059925388/full/0/00000004.jpg</cell>
+               <cell n="10">1604059925388&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 4</cell>
+               <cell n="2">Urkunde 4, [1227 September 14], Erfurt</cell>
+               <cell n="3">Erfurt</cell>
+               <cell n="4">[Nach 1227 September 14]</cell>
+               <cell n="5">1227</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712990</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/136/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604060968371/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604060968371/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604060968371/full/0/00000003.jpg</cell>
+               <cell n="10">1604060968371&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk.95</cell>
+               <cell n="2">Urkunde 95, 1433  Juli 28, Erfurt</cell>
+               <cell n="3">Erfurt</cell>
+               <cell n="4">Gegebin nach Cristi geburt vierczenhundert jare in deme dryundedryRigesten jare  am dinstage nach sendte Jacoffs tage dez heilgin zcwolffboten</cell>
+               <cell n="5">1433</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712993</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/140/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604389519793/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604389519793/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604389519793/full/0/00000003.jpg</cell>
+               <cell n="10">1604389519793&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 26</cell>
+               <cell n="2">Urkunde 26, 1339 Juli 17, Erfurt</cell>
+               <cell n="3">Erfurt</cell>
+               <cell n="4">Actum et datum Erfordie anno domini M° CCC° XXXIX° sabbato proximo post  festum sancte Margarete</cell>
+               <cell n="5">1339</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712991</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/138/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604061585359/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604061585359/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604061585359/full/0/00000003.jpg</cell>
+               <cell n="10">1604061585359&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 103</cell>
+               <cell n="2">Urkunde 103, 1445 April 18, Erfurt</cell>
+               <cell n="3">Erfurt</cell>
+               <cell n="4">Gegebin nach Christi unßers [Herrn] gebort virczenhundert darnach yn deme  fuenffundvirczigesteme iare am suntage als man singet Jubilate deo in der heiligen  kerchin</cell>
+               <cell n="5">1445</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712994</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/141/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604391363607/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604391363607/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604391363607/full/0/00000003.jpg</cell>
+               <cell n="10">1604391363607&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 89</cell>
+               <cell n="2">Urkunde 89, 1424 März 10, Erfurt</cell>
+               <cell n="3">Erfurt</cell>
+               <cell n="4">Gegebin nach Cristi gebort vierczenhundert jar in deme vierundeczwenczigesten  jare am nesten fritage nach Esto michi</cell>
+               <cell n="5">1424</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712992</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/139/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604062376666/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604062376666/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604062376666/full/0/00000003.jpg</cell>
+               <cell n="10">1604062376666&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 33</cell>
+               <cell n="2">Urkunde 33, 1352 Juli 8, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Daz si geschen sint na Gotis geburt thusent jar dry hundert jar in dem cweyunde-  fumfzichistem jare an dem suntage des heyligen tage sente Kyliani</cell>
+               <cell n="5">1352</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712996</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/145/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604394002577/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604394002577/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604394002577/full/0/00000003.jpg</cell>
+               <cell n="10">1604394002577&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 56</cell>
+               <cell n="2">Urkunde 56, 1370 Juni 8, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Anno domini M° CCC° LXX sabato in septimana penthecostes</cell>
+               <cell n="5">1370</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712998</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/149/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604395747133/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604395747133/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604395747133/full/0/00000003.jpg</cell>
+               <cell n="10">1604395747133&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 40</cell>
+               <cell n="2">Urkunde 40, 1358 April 20, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Datum et actum anno domini M° CCC° LV° III° feria sexta ante dominicam qua can-  tatur Jubilate</cell>
+               <cell n="5">1358</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712997</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/147/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604394841089/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604394841089/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604394841089/full/0/00000003.jpg</cell>
+               <cell n="10">1604394841089&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 10</cell>
+               <cell n="2">Urkunde 10, 1297 Juli 26, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Actum et datum sub anno nativitatis domini M° CC° XC° VII° in crastino beati Jacobi  apostoli et cetera</cell>
+               <cell n="5">1297</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712995</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/142/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604393169459/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604393169459/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604393169459/full/0/00000003.jpg</cell>
+               <cell n="10">1604393169459&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 83</cell>
+               <cell n="2">Urkunde 83, 1402 Mai 21, Altenburg</cell>
+               <cell n="3">Altenburg</cell>
+               <cell n="4">Gegeben ist zcu Aldenburg am suntage den heiligen Dryvaldigheittage nach Gots  gebort virczenhundert jar unde darnach in dem andern jare</cell>
+               <cell n="5">1402</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713000</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/152/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604397796214/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604397796214/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604397796214/full/0/00000003.jpg</cell>
+               <cell n="10">1604397796214&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 203</cell>
+               <cell n="2">Urkunde 203, 1554 Februar 13, Dresden</cell>
+               <cell n="3">Dresden</cell>
+               <cell n="4">Geben zu Dresden dinstags nach Invocavit und der geburt Christi unsers lieben  Herren und Seligmachers tawsentfunffhundert und im vierundfunffzigsten</cell>
+               <cell n="5">1554</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713001</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/154/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604398722442/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604398722442/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604398722442/full/0/00000003.jpg</cell>
+               <cell n="10">1604398722442&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 62</cell>
+               <cell n="2">Urkunde 62, 1379 August 21, Thüringen</cell>
+               <cell n="3">Thüringen</cell>
+               <cell n="4">Gegebin ist noch Cristi gebort dryeczenhuondert jar in deme nuoyn und sobinczi-  gestin jare an deme nestin suontage noch unsir Vrouowen tage assumpcionis</cell>
+               <cell n="5">1379</cell>
+               <cell n="6">urn:nbn:de:kobv:11-712999</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/150/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604396683135/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604396683135/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604396683135/full/0/00000003.jpg</cell>
+               <cell n="10">1604396683135&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 192</cell>
+               <cell n="2">Urkunde 192, 1539 Mai 12, Böhmen</cell>
+               <cell n="3">Böhmen</cell>
+               <cell n="4">Geben ist am montag nach Vocem jocunditatis und Cristi geburt funffzehenhundert  und im neununddreissigisten jaren</cell>
+               <cell n="5">1539</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713002</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/156/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604399742263/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604399742263/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604399742263/full/0/00000003.jpg</cell>
+               <cell n="10">1604399742263&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 111</cell>
+               <cell n="2">Urkunde 111, 1551 März 11, Böhmen</cell>
+               <cell n="3">Böhmen</cell>
+               <cell n="4">Geben am mittwoch noch Letare anno domini ainundfunfzigk der wenigern zall</cell>
+               <cell n="5">1551</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713003</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/157/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604400331898/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604400331898/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604400331898/full/0/00000003.jpg</cell>
+               <cell n="10">1604400331898&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 227</cell>
+               <cell n="2">Urkunde 227, 1684 April 7, Stolp</cell>
+               <cell n="3">Stolp</cell>
+               <cell n="4">Geschehen zu Stolp am 7. tage des monaths Aprilis im jahr sechszehenhundert vier  undt achtzig</cell>
+               <cell n="5">1684</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713006</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216108/158/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1604415159963/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1604415159963/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1604415159963/full/0/00000003.jpg</cell>
+               <cell n="10">1604415159963&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 9</cell>
+               <cell n="2">Urkunde 9, 1295 April, Frankreich</cell>
+               <cell n="3">Frankreich</cell>
+               <cell n="4">datum anno domini millesimo ducentesimo nonagesimo quinto, mense april</cell>
+               <cell n="5">1295</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713037</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/17/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605617470463/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605617470463/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605617470463/full/0/00000003.jpg</cell>
+               <cell n="10">1605617470463&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 17a</cell>
+               <cell n="2">Urkunde 17a, 1353 Frühjahr, Frankreich</cell>
+               <cell n="3">Frankreich</cell>
+               <cell n="4">1342-1352, domni C. pape sexti  praedecessoris vestri</cell>
+               <cell n="5">1353</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713038</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/17/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605618298204/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605618298204/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605618298204/full/0/00000003.jpg</cell>
+               <cell n="10">1605618298204&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 260</cell>
+               <cell n="2">Urkunde 260, 1232 Juli, Kreta</cell>
+               <cell n="3">Kreta</cell>
+               <cell n="4">anno domini millesimo ducentesimo trecesimo secundo, indictione quinta, de mense iulio</cell>
+               <cell n="5">1232</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713041</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/19/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605622857789/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605622857789/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605622857789/full/0/00000003.jpg</cell>
+               <cell n="10">1605622857789&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 258</cell>
+               <cell n="2">Urkunde 258, 1218 Mai 30, Konstantinopel</cell>
+               <cell n="3">Konstantinopel</cell>
+               <cell n="4">anno domini millesimo CCX VIII, penultimo die madii, indictione VT, patriarcbatus vero nostri anno tertio</cell>
+               <cell n="5">1218</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713040</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/19/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605620991537/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605620991537/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605620991537/full/0/00000003.jpg</cell>
+               <cell n="10">1605620991537&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 17b</cell>
+               <cell n="2">Urkunde 17b, 14. Jh., Frankreich</cell>
+               <cell n="3">Frankreich</cell>
+               <cell n="4">1378-1417</cell>
+               <cell n="5">1378-1417</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713039</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/18/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605619554536/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605619554536/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605619554536/full/0/00000003.jpg</cell>
+               <cell n="10">1605619554536&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 259</cell>
+               <cell n="2">Urkunde 259, 1243 Februar 25, Kreta</cell>
+               <cell n="3">Kreta</cell>
+               <cell n="4">anno domini millesimo ducentesimo quadragesimo secundo, indictione quinta. decima, die quarto exeunte  februarii</cell>
+               <cell n="5">1243</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713048</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/20/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605878059459/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605878059459/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605878059459/full/0/00000003.jpg</cell>
+               <cell n="10">1605878059459&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 262</cell>
+               <cell n="2">Urkunde 262, 1279 August 2, Rialto (Venedig)</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anno ab incarnacione domini nostri Ibesu Christi gullesimo ducentesimo septuagesimo nono, mense augusto,  die secundo intrante, indictione septima</cell>
+               <cell n="5">1279</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713049</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/20/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605878517885/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605878517885/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605878517885/full/0/00000003.jpg</cell>
+               <cell n="10">1605878517885&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 257</cell>
+               <cell n="2">Urkunde 257, 1304 März 8, Kreta</cell>
+               <cell n="3">Kreta</cell>
+               <cell n="4">anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quarto, mense mardi, die octavo  intrante, indictione secunda</cell>
+               <cell n="5">1304</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713051</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/21/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605880185343/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605880185343/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605880185343/full/0/00000003.jpg</cell>
+               <cell n="10">1605880185343&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 256</cell>
+               <cell n="2">Urkunde 256, 1305 Februar 19, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anno eiusdem nativitatis millesimo trecentesimo quarto, indictione secunda, die decimo nono, mense februarii</cell>
+               <cell n="5">1305</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713052</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/22/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1606480767483/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1606480767483/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1606480767483/full/0/00000003.jpg</cell>
+               <cell n="10">1606480767483&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 266 + 266a</cell>
+               <cell n="2">Urkunde 266, 1303 April 10, Kreta</cell>
+               <cell n="3">Kreta</cell>
+               <cell n="4">anno eiusdem millesimo trecentesimo tercio, indictione prima, die [...] decimo intrante aprilis</cell>
+               <cell n="5">1303</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713050</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/21/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1605879176947/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1605879176947/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1605879176947/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1605879176947/full/0/00000004.jpg|https://www.digi-hub.de/viewer/content/1605879176947/full/0/00000005.jpg|https://www.digi-hub.de/viewer/content/1605879176947/full/0/00000006.jpg</cell>
+               <cell n="10">1605879176947&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 263</cell>
+               <cell n="2">Urkunde 263, 1328 Januar 25, Torcello, Venedig</cell>
+               <cell n="3">Torcello, Venedig</cell>
+               <cell n="4">anno domini millesimo trecentesimo vigesimo septimo, indictione decima, die vigesimo quinto intrante mensis  Tanuari</cell>
+               <cell n="5">1328</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713054</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/24/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1606483231073/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1606483231073/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1606483231073/full/0/00000003.jpg</cell>
+               <cell n="10">1606483231073&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 265</cell>
+               <cell n="2">Urkunde 265, 1328 Januar 25, Torcello, Venedig</cell>
+               <cell n="3">Torcello, Venedig</cell>
+               <cell n="4">anno domini millesimo trecentesimo vigesimo septimo, indictione decima, die vigesimoquinto intrante mense  Januarii</cell>
+               <cell n="5">1328</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713055</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/25/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1606484839332/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1606484839332/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1606484839332/full/0/00000003.jpg</cell>
+               <cell n="10">1606484839332&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 264</cell>
+               <cell n="2">Urkunde 264, 1309 März 3, Malamocco</cell>
+               <cell n="3">Malamocco</cell>
+               <cell n="4">anno eiusdem millesimo trecentesimo nono, indictione septima, die tercio [mensis] mar[tri]</cell>
+               <cell n="5">1309</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713053</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/23/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1606481741645/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1606481741645/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1606481741645/full/0/00000003.jpg</cell>
+               <cell n="10">1606481741645&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 268</cell>
+               <cell n="2">Urkunde 268, 1330 Januar 10, Italien</cell>
+               <cell n="3">Italien</cell>
+               <cell n="4">(anno millesimo trecentesimo vigintesimo nono, indictione duodecima, die decimo intrante mense ianuarit</cell>
+               <cell n="5">1330</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713057</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/25/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607005384362/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607005384362/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607005384362/full/0/00000003.jpg</cell>
+               <cell n="10">1607005384362&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 267</cell>
+               <cell n="2">Urkunde 267, 1338 April 1, Torcello, Venedig</cell>
+               <cell n="3">Torcello, Venedig</cell>
+               <cell n="4">anno nativitatis ciusdem millessimo tricentessimo trigessimo octavo, indictione sexta, ... die primo mensis  aprilis</cell>
+               <cell n="5">1338</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713058</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/26/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607006061160/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607006061160/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607006061160/full/0/00000003.jpg</cell>
+               <cell n="10">1607006061160&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 270</cell>
+               <cell n="2">Urkunde 270, 1340 März 15, Rialto (Venedig)</cell>
+               <cell n="3">Rialto (Venedig)</cell>
+               <cell n="4">anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quadragesimo, mense martii, die  quinta decima intrante, indictione octaua</cell>
+               <cell n="5">1340</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713059</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/26/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607006593709/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607006593709/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607006593709/full/0/00000003.jpg</cell>
+               <cell n="10">1607006593709&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 269</cell>
+               <cell n="2">Urkunde 269, 1381 Juni, 2, Italien</cell>
+               <cell n="3">Italien</cell>
+               <cell n="4">anno millesimo trecentesimo octuagesimo, indictione tercia, tempore serenissimi patris et domini nostri  domini Urbani divina providentia bape sexti anno tercio, die septimo mensis septembris</cell>
+               <cell n="5">1381</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713066</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/28/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607520943638/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607520943638/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607520943638/full/0/00000003.jpg</cell>
+               <cell n="10">1607520943638&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 261</cell>
+               <cell n="2">Urkunde 261, 1304 Januar 23, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">millesimo frecentesimo quarto, indictione secunda, die lovis X XIII intrante januarii</cell>
+               <cell n="5">1304</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713067</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/29/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607521526210/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607521526210/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607521526210/full/0/00000003.jpg</cell>
+               <cell n="10">1607521526210&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 85</cell>
+               <cell n="2">Urkunde 85, 1407 Dezember 17, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">amno eiusdem: natiuitatis millesimo quadringentesimo septimo, indictione quinta decima, die sabati decimo  septimo mensis decembris</cell>
+               <cell n="5">1407</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713068</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/30/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607522174983/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607522174983/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607522174983/full/0/00000003.jpg</cell>
+               <cell n="10">1607522174983&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 93</cell>
+               <cell n="2">Urkunde 93, 1430 März 31, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">anno eiusdem nativitatis millesimo quadringentessimo trigesimo, indictione octaua, die veneris vltimo mensis  marcii</cell>
+               <cell n="5">1430</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713069</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/31/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607522762661/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607522762661/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607522762661/full/0/00000003.jpg</cell>
+               <cell n="10">1607522762661&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 193</cell>
+               <cell n="2">Urkunde 193, 1539 Mai 16, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">anno eiusdem natiuitatis millesimo quingentesimo trigesimo nono, indictione duodecima, die vero veneris sexto  decimo mensis maid</cell>
+               <cell n="5">1539</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713072</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/32/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607525274760/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607525274760/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607525274760/full/0/00000003.jpg</cell>
+               <cell n="10">1607525274760&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 114</cell>
+               <cell n="2">Urkunde 114, 1453 März 16, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">anno eiusdem natiuitatis millesimo quadringentesimo quinquagesimo terio, indictione prima, die vero veneris  sexto decimo mensis martii</cell>
+               <cell n="5">1453</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713070</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/31/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607523387814/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607523387814/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607523387814/full/0/00000003.jpg</cell>
+               <cell n="10">1607523387814&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 174</cell>
+               <cell n="2">Urkunde 174, 1504 September 30, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">anno eiusdem natiuitatis millesimo quingentesimo quarto, indictione septima, die uero lune XXX mensis  setembris</cell>
+               <cell n="5">1504</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713071</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/32/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607523928183/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607523928183/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607523928183/full/0/00000003.jpg</cell>
+               <cell n="10">1607523928183&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 209</cell>
+               <cell n="2">Urkunde 209, 1581 Juli 3, Treviso</cell>
+               <cell n="3">Treviso</cell>
+               <cell n="4">anno eiusdem natiuitatis millesimo quingentesimo octingentesimo primo, indictione nona, die lunae tertio  mensis juli</cell>
+               <cell n="5">1581</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713073</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/33/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1607526030351/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1607526030351/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1607526030351/full/0/00000003.jpg</cell>
+               <cell n="10">1607526030351&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 195</cell>
+               <cell n="2">Urkunde 195, 1542 März 4,  Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anno natiuitatis eiusdem millesimo quingentesimo quadragesimo secundo, indictione XV ma, die quarto  mensis marti</cell>
+               <cell n="5">1542</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713081</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/34/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608622952266/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608622952266/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608622952266/full/0/00000003.jpg</cell>
+               <cell n="10">1608622952266&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 121</cell>
+               <cell n="2">Urkunde 121, 1460 September 13, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anno ab incarnatione domini nostr: Jesu Christi millesimo quadringentesizo sexagesimo, mensis sebtembris,  die tertio decimo, indictione decima</cell>
+               <cell n="5">1460</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713079</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/34/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608620012622/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608620012622/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608620012622/full/0/00000003.jpg</cell>
+               <cell n="10">1608620012622&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 207</cell>
+               <cell n="2">Urkunde 207, 1572 Januar 21, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anto ab incarnatione domini nostri Ihesu. Christi millesimo quingentesimo septuagesimo primo, indictione  quinta decizma, die vigesimo primo januarii</cell>
+               <cell n="5">1572</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713082</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/35/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608624401372/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608624401372/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608624401372/full/0/00000003.jpg</cell>
+               <cell n="10">1608624401372&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 171</cell>
+               <cell n="2">Urkunde 171, 1501 Februar 3, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anno nativitatis eiusdem millesimo quingentesizo, indifione tertia, die tertio mensis februarii</cell>
+               <cell n="5">1501</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713080</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/34/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608622219116/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608622219116/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608622219116/full/0/00000003.jpg</cell>
+               <cell n="10">1608622219116&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 215</cell>
+               <cell n="2">Urkunde 215, 1605 vor Mai, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">1605</cell>
+               <cell n="5">1605</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713083</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/36/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608625284125/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608625284125/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608625284125/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1608625284125/full/0/00000004.jpg</cell>
+               <cell n="10">1608625284125&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 255</cell>
+               <cell n="2">Urkunde 255, 1666 Juli 16, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">die XVI juli, indictione quarta, 1666</cell>
+               <cell n="5">1666</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713085</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/36/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608627869687/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608627869687/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608627869687/full/0/00000003.jpg</cell>
+               <cell n="10">1608627869687&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 254</cell>
+               <cell n="2">Urkunde 254, 1657 April 11, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">die XI aprilis 1657, indictione Xa</cell>
+               <cell n="5">1657</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713084</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/36/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608626746245/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608626746245/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608626746245/full/0/00000003.jpg</cell>
+               <cell n="10">1608626746245&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 235</cell>
+               <cell n="2">Urkunde 235, 1715 Juli 30, Rom</cell>
+               <cell n="3">Rom</cell>
+               <cell n="4">anno incarnationis dominice millesimo septingentesimo quinto decimo, tertio kal. Augusti pontificatus nostri  anno quinto decimo</cell>
+               <cell n="5">1715</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713087</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/38/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608630749721/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608630749721/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608630749721/full/0/00000003.jpg</cell>
+               <cell n="10">1608630749721&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 231</cell>
+               <cell n="2">Urkunde 231, 1706 Juni 25, Rom</cell>
+               <cell n="3">Rom</cell>
+               <cell n="4">anno incarnationis dominice müllesimo septingentesimo sexto, septimo kal. juli, pontificatus nostri anno  sexo</cell>
+               <cell n="5">1706</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713086</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/37/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608629111484/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608629111484/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608629111484/full/0/00000003.jpg</cell>
+               <cell n="10">1608629111484&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 29</cell>
+               <cell n="2">Urkunde 29, 1349 August 8, Sacili</cell>
+               <cell n="3">Sacili</cell>
+               <cell n="4">anno nativitatis eiusdem MCCC quadragesimo nono, indictione secunda, die octauo august</cell>
+               <cell n="5">1349</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713088</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/39/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608633040806/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608633040806/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608633040806/full/0/00000003.jpg</cell>
+               <cell n="10">1608633040806&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 34</cell>
+               <cell n="2">Urkunde 34, 1353 August 1, Prag</cell>
+               <cell n="3">Prag</cell>
+               <cell n="4">anno domini millesimo trecentesimo quinquagesimo Tercio, kalendas augusti, indictione sexta, regnorum  nostrorum Romani octavo regni quoque Boemie septimo</cell>
+               <cell n="5">1353</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713089</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/39/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608635868024/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608635868024/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608635868024/full/0/00000003.jpg</cell>
+               <cell n="10">1608635868024&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 87</cell>
+               <cell n="2">Urkunde 87, 1416 Mai 31, Mailand</cell>
+               <cell n="3">Mailand</cell>
+               <cell n="4">die ultime mensis maii MCCCC sexcto decimo, nona indictione</cell>
+               <cell n="5">1416</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713091</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/40/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608640924068/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608640924068/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608640924068/full/0/00000003.jpg</cell>
+               <cell n="10">1608640924068&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 107</cell>
+               <cell n="2">Urkunde 107, 1448 Dezember 7, Aviano</cell>
+               <cell n="3">Aviano</cell>
+               <cell n="4">millesimo quadringentesimo quadragesimo octavo, inditione undecima, die septimo mensis decembris</cell>
+               <cell n="5">1448</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713092</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/41/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608641552349/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608641552349/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608641552349/full/0/00000003.jpg</cell>
+               <cell n="10">1608641552349&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 57</cell>
+               <cell n="2">Urkunde 57, 1370 Juli 2, Padua</cell>
+               <cell n="3">Padua</cell>
+               <cell n="4">anno eiusdem nativitatis millesimo trecentesimo septuagesimo, indictione octava, die marti secundo mensis  ulli</cell>
+               <cell n="5">1370</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713090</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/40/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608637387426/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608637387426/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608637387426/full/0/00000003.jpg</cell>
+               <cell n="10">1608637387426&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 201</cell>
+               <cell n="2">Urkunde 201, 1551 April 20, Rom</cell>
+               <cell n="3">Rom</cell>
+               <cell n="4">anno incarnationis dominice millesimo quingentesimo quinquagesimo primo, duodecimo kal mai,  pontificatus nostri anno secundo</cell>
+               <cell n="5">1551</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713094</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/42/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608644162727/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608644162727/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608644162727/full/0/00000003.jpg</cell>
+               <cell n="10">1608644162727&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 118</cell>
+               <cell n="2">Urkunde 118, 1458 Dezember 13, Brescia</cell>
+               <cell n="3">Brescia</cell>
+               <cell n="4">anno a natiuitate eiusdem millesimo quadringentessimo quinquagessimo octauo, indictione septima, die tercio  decimo mensis decembris</cell>
+               <cell n="5">1458</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713093</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/41/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608642552933/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608642552933/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608642552933/full/0/00000003.jpg</cell>
+               <cell n="10">1608642552933&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 205</cell>
+               <cell n="2">Urkunde 205, 1561 Januar 29, Bassano</cell>
+               <cell n="3">Bassano</cell>
+               <cell n="4">anno nativitatis eiusdem maüllesimo quingentesimo sexagesimo primo, indictione decima, die mercurii vigesimo  nono, mensis januari</cell>
+               <cell n="5">1561</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713099</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/43/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608646011206/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608646011206/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608646011206/full/0/00000003.jpg</cell>
+               <cell n="10">1608646011206&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 213</cell>
+               <cell n="2">Urkunde 213, 1592 August 21, Rom</cell>
+               <cell n="3">Rom</cell>
+               <cell n="4">anno incarnationis dominice millesimo quingentesimo nonagesimo secundo, duodecimo kal septembris,  pontificatus nostri anno primo</cell>
+               <cell n="5">1592</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713100</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/44/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608705593270/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608705593270/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608705593270/full/0/00000003.jpg</cell>
+               <cell n="10">1608705593270&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 126</cell>
+               <cell n="2">Urkunde 126, 1466 Juni 21, Thorn</cell>
+               <cell n="3">Thorn</cell>
+               <cell n="4">am sonnobende vor natiuitatis Johannis Baptiste, im etc. LXVTten iare</cell>
+               <cell n="5">1466</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713102</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/46/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608707839473/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608707839473/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608707839473/full/0/00000003.jpg</cell>
+               <cell n="10">1608707839473&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 240</cell>
+               <cell n="2">Urkunde 240, 1738 Mai 5, Padua</cell>
+               <cell n="3">Padua</cell>
+               <cell n="4">anno a Christi natiuitate MDCCXXXVIII, indictione prima, die vero lunae V mensis maii, pontificatus  aulem sanctissimi in. Cibristo patris et domini nostri dormi Clementis diuina prouidentia babae XII anno  VIII</cell>
+               <cell n="5">1738</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713101</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/44/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608706784574/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608706784574/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608706784574/full/0/00000003.jpg|https://www.digi-hub.de/viewer/content/1608706784574/full/0/00000004.jpg|https://www.digi-hub.de/viewer/content/1608706784574/full/0/00000005.jpg</cell>
+               <cell n="10">1608706784574&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 242</cell>
+               <cell n="2">Urkunde 242, 1770 Juli 17, Rom</cell>
+               <cell n="3">Rom</cell>
+               <cell n="4">anno incarnationis dominice millesimo sebtingentesimo septuagesimo, sexto decimo kal. augusti, pontificatus  nostri anno secundo</cell>
+               <cell n="5">1770</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713103</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/46/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608708899681/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608708899681/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608708899681/full/0/00000003.jpg</cell>
+               <cell n="10">1608708899681&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 251d</cell>
+               <cell n="2">Urkunde 251d, 1320 Oktober 7, Arjona</cell>
+               <cell n="3">Arjona</cell>
+               <cell n="4">nonas octobris, anno ab incarnatione domini millesimo trecentesimo vicesimo</cell>
+               <cell n="5">1320</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713104</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/47/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608710259204/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608710259204/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608710259204/full/0/00000003.jpg</cell>
+               <cell n="10">1608710259204&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 251b</cell>
+               <cell n="2">Urkunde 251b, 1417 Oktober 9, Sevilla</cell>
+               <cell n="3">Sevilla</cell>
+               <cell n="4">nueve dias de octubre, Christi de mil e quatrocientos e dies e siete anos</cell>
+               <cell n="5">1417</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713105</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/47/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608711627883/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608711627883/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608711627883/full/0/00000003.jpg</cell>
+               <cell n="10">1608711627883&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 251a</cell>
+               <cell n="2">Urkunde 251a, 1518 März 15, Granada</cell>
+               <cell n="3">Granada</cell>
+               <cell n="4">anno a natiuitate domini millesimo quingentesimo decimo octauo, indictione VI, videlicet quinto decimo die  mensis marii</cell>
+               <cell n="5">1518</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713107</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/49/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608713632810/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608713632810/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608713632810/full/0/00000003.jpg</cell>
+               <cell n="10">1608713632810&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 251c</cell>
+               <cell n="2">Urkunde 251c, 1516 Januar 11, Florenz</cell>
+               <cell n="3">Florenz</cell>
+               <cell n="4">anno a natiuitate domini millesimo quingentesimo sexto decimo, indictione quarta, die vero undecima mensis  ianuarii, pontificatus sanctissimi in. Christo patris et domini nostri domni Leonis divina providentia pape  decimi anno tertio</cell>
+               <cell n="5">1516</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713106</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/48/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608712356415/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608712356415/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608712356415/full/0/00000003.jpg</cell>
+               <cell n="10">1608712356415&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 123</cell>
+               <cell n="2">Urkunde 123, 1465 Juli 11, Buda</cell>
+               <cell n="3">Buda</cell>
+               <cell n="4">feria quinta proxima ante festum beate Margarethe virg[inis] sexagesimo quinto, regni nostri anno octavo  corotiationis vero secundo</cell>
+               <cell n="5">1465</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713111</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/52/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608718984607/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608718984607/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608718984607/full/0/00000003.jpg</cell>
+               <cell n="10">1608718984607&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 253 I</cell>
+               <cell n="2">Urkunde 253 I, 1735 September 24, Türkei</cell>
+               <cell n="3">Türkei</cell>
+               <cell n="4">6 yaum al-sadis? Cemazi Lula, 1148</cell>
+               <cell n="5">1735</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713109</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/51/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608716679421/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608716679421/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608716679421/full/0/00000003.jpg</cell>
+               <cell n="10">1608716679421&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 253 II</cell>
+               <cell n="2">Urkunde 253 II, 1826 Juli 6, Türkei</cell>
+               <cell n="3">Türkei</cell>
+               <cell n="4">Dhu L-Qa'da 1241</cell>
+               <cell n="5">1826</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713110</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/51/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608717736017/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608717736017/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608717736017/full/0/00000003.jpg</cell>
+               <cell n="10">1608717736017&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 252</cell>
+               <cell n="2">Urkunde 252, April 22, Briviesca</cell>
+               <cell n="3">Briviesca</cell>
+               <cell n="4">14. oder 15. Jahrhundert</cell>
+               <cell n="5">15. Jahrhundert</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713108</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/49/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608715037857/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608715037857/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608715037857/full/0/00000003.jpg</cell>
+               <cell n="10">1608715037857&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 68</cell>
+               <cell n="2">Urkunde 68, 1384 Juni 25, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">anno natiuitatis eiusdem millisimo trecentesimo octogesimo quarto, indictione septima, die vigesimo quinto  mensis juni</cell>
+               <cell n="5">1384</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713113</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/33/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608721356906/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608721356906/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608721356906/full/0/00000003.jpg</cell>
+               <cell n="10">1608721356906&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1">Urk. 233</cell>
+               <cell n="2">Urkunde 233, 1706 August 2, Venedig</cell>
+               <cell n="3">Venedig</cell>
+               <cell n="4">1706, 2. agosto</cell>
+               <cell n="5">1706</cell>
+               <cell n="6">urn:nbn:de:kobv:11-713112</cell>
+               <cell n="7">Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, Teil 2: Regesten der Urkunden nichtdeutscher Provenienz</cell>
+               <cell n="8">https://www.digi-hub.de/viewer/image/BV046216670/37/</cell>
+               <cell n="9">https://www.digi-hub.de/viewer/content/1608720784966/full/0/00000001.jpg|https://www.digi-hub.de/viewer/content/1608720784966/full/0/00000002.jpg|https://www.digi-hub.de/viewer/content/1608720784966/full/0/00000003.jpg</cell>
+               <cell n="10">1608720784966&#xD;</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

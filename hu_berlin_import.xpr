@@ -10,16 +10,16 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>mueller_urkundensammlung.xml</String>
+                                    <String>corporize.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>to_CEI</String>
+                                        <String>corporize</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
+                                        <String>XQUERY</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -50,36 +50,16 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxygen:/eXist$monasterium-localhost/db/niklas/import/corporize.xquery</String>
+                                    <String>mueller_urkundensammlung.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>corporize</String>
+                                        <String>to_CEI</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XQUERY</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>corporize.xquery</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>corporize</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XQUERY</String>
+                                        <String>XSL</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -95,6 +75,26 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>validity_check</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>oxygen:/eXist$monasterium-localhost/db/niklas/import/corporize.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>corporize</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -273,7 +273,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>monasterium-localhost</String>
+                                    <String>Saxon-EE XQuery</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
