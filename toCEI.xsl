@@ -50,7 +50,17 @@
         <xsl:variable name="signatur" select="ueberlieferung/signatur/text()"/>
         <xsl:variable name="record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $signatur, ','))]]"/>
         <xsl:variable name="metadata-entry" select="doc('urkundensammlung_metadaten.xml')/tei:TEI/tei:text/tei:body/tei:table/tei:row[tei:cell[@n='1'][text() = concat('Urk. ', $signatur)]]"/>
-        <xsl:variable name="access-no" select="$record/accession-num/text()"/>
+        <xsl:variable name="access-no">
+            <xsl:choose>
+                <xsl:when test="$record">
+                    <xsl:value-of select="$record/accession-num/text()"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:variable name="main-char-record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $main-charter-ref, ','))]]"/>
+                    <xsl:value-of select="$main-char-record/accession-num/text()"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <cei:text type="charter">
             <cei:front>
                 <cei:sourceDesc>
@@ -58,15 +68,19 @@
                         <cei:bibl>
                             <xsl:choose>
                                 <xsl:when test="contains(document-uri(/), 'aberle')">
-                                    <xsl:text>Aberle, Johanna, und Ina Prescher. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte. Inventar: Sammlungsgeschichte, -beschreibung und Regesten der Urkunden nordalpiner Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 60. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 1997. https://doi.org/10.18452/5011</xsl:text>
+                                    <xsl:text>Aberle, Johanna, und Ina Prescher. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte. Inventar: Sammlungsgeschichte, -beschreibung und Regesten der Urkunden nordalpiner Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 60. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 1997. </xsl:text>
+                                    <cei:ref target='https://doi.org/10.18452/5011'>https://doi.org/10.18452/5011</cei:ref>
                                 </xsl:when>
                                 <xsl:otherwise>
-                                    <xsl:text>Müller, Harald, Michael Brauer, Uta Kirchner, Andrea Kutschke, Constanze Trapp, und Kordula Wolf. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin. Teil 2: Regesten der Urkunden nichtdeutscher Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 62. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 2007. https://doi.org/10.18452/5018</xsl:text>
+                                    <xsl:text>Müller, Harald, Michael Brauer, Uta Kirchner, Andrea Kutschke, Constanze Trapp, und Kordula Wolf. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin. Teil 2: Regesten der Urkunden nichtdeutscher Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 62. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 2007. </xsl:text>
+                                    <cei:ref targe='https://doi.org/10.18452/5018'>https://doi.org/10.18452/5018</cei:ref>
                                 </xsl:otherwise>
                             </xsl:choose>
                             <xsl:if test="$metadata-entry/tei:cell[@n='8']/normalize-space()">
-                                <xsl:text>, </xsl:text>
-                                <xsl:value-of select="concat('Seite digitalisiert unter: ', $metadata-entry/tei:cell[@n='8']/text())"/>
+                                <xsl:text>, Seite digitalisiert unter: </xsl:text>
+                                <cei:ref target="{$metadata-entry/tei:cell[@n='8']/text()}">
+                                    <xsl:value-of select="$metadata-entry/tei:cell[@n='8']/text()"/>
+                                </cei:ref>
                             </xsl:if>
                         </cei:bibl>
                         <xsl:apply-templates select="ueberlieferung/druck"/>
@@ -282,7 +296,9 @@
     <xsl:template name="charter-link">
         <xsl:param name="access-no"/>
         <cei:ref>
-            <xsl:value-of select="concat('https://www.digi-hub.de/viewer/image/', $access-no)"/>
+            <xsl:attribute name="target">
+                <xsl:value-of select="concat('https://www.digi-hub.de/viewer/image/', $access-no)"/>
+            </xsl:attribute>
         </cei:ref>
     </xsl:template>
 </xsl:stylesheet>
