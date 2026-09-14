@@ -73,7 +73,7 @@
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <xsl:text>Müller, Harald, Michael Brauer, Uta Kirchner, Andrea Kutschke, Constanze Trapp, und Kordula Wolf. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin. Teil 2: Regesten der Urkunden nichtdeutscher Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 62. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 2007. </xsl:text>
-                                    <cei:ref targe='https://doi.org/10.18452/5018'>https://doi.org/10.18452/5018</cei:ref>
+                                    <cei:ref target='https://doi.org/10.18452/5018'>https://doi.org/10.18452/5018</cei:ref>
                                 </xsl:otherwise>
                             </xsl:choose>
                             <xsl:if test="$metadata-entry/tei:cell[@n='8']/normalize-space()">
@@ -100,6 +100,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <cei:chDesc>
+                    <xsl:variable name="description-tokens" select="tokenize(ueberlieferung/beschreibung/text(), '; ')"/>
                     <cei:abstract>
                         <xsl:apply-templates select="regest"/>
                         <xsl:if test="ueberlieferung/zeugen">
@@ -156,9 +157,9 @@
                             </cei:dimensions>
                             <xsl:apply-templates select="ueberlieferung/erhaltungszustand"/>
                             <xsl:if test="contains(document-uri(/), 'mueller')">
-                                <cei:p>
-                                    <xsl:value-of select="substring-after(ueberlieferung/beschreibung/text(), '; ')"/>
-                                </cei:p>
+                                <cei:condition>
+                                    <xsl:value-of select="$description-tokens[2]"/>
+                                </cei:condition>
                             </xsl:if>
                         </cei:physicalDesc>
                         <xsl:apply-templates select="ueberlieferung/rueckvermerke"/>
@@ -174,6 +175,11 @@
                         <xsl:apply-templates select="ueberlieferung/besonderheit"/>
                         <xsl:apply-templates select="datierungsvermerk"/>
                         <xsl:apply-templates select="ueberlieferung/schreiber"/>
+                        <xsl:if test="contains(document-uri(/), 'mueller')">
+                            <cei:rubrum>
+                                <xsl:value-of select="$description-tokens[contains(., 'Rückvermerk')]"/>
+                            </cei:rubrum>
+                        </xsl:if>
                     </cei:diplomaticAnalysis>
                     <cei:lang_MOM>
                         <xsl:choose>
@@ -302,3 +308,4 @@
         </cei:ref>
     </xsl:template>
 </xsl:stylesheet>
+<!--TODO: <cei:idno>173</cei:idno> ohne Urk.-->

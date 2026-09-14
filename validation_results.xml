@@ -1,15 +1,753 @@
 <result>
     <validationResult>
-        <charterUri>/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml</charterUri>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">11</duration>
+            <message level="Error" line="65" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">11</duration>
+            <message level="Error" line="61" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="59" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="55" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">15</duration>
+            <message level="Error" line="59" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="61" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="56" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="53" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="60" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="59" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="59" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="57" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="74" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="55" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="66" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="57" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="71" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="68" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="59" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="56" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="72" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="73" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="58" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="70" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="56" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="83" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="70" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="44" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="51" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="51" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="53" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="52" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="78" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
         <report>
             <status>invalid</status>
             <duration unit="msec">12</duration>
-            <message level="Error" line="80" column="78">cvc-complex-type.2.4.a: Invalid content was
+            <message level="Error" line="82" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="53" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="54" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="64" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="57" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="57" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+            <message level="Error" line="65" column="80">cvc-complex-type.2.4.a: Invalid content was
                 found starting with element 'cei:note'. One of
+                '{"http://www.monasterium.net/NS/cei":notariusSub,
+                "http://www.monasterium.net/NS/cei":notariusSign,
+                "http://www.monasterium.net/NS/cei":quote,
+                "http://www.monasterium.net/NS/cei":persName,
+                "http://www.monasterium.net/NS/cei":placeName,
+                "http://www.monasterium.net/NS/cei":geogName,
+                "http://www.monasterium.net/NS/cei":index, "http://www.monasterium.net/NS/cei":num}'
+                is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="82" column="41">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="44" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="61" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="66" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="63" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="61" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="65" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="89" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="82" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="69" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="134" column="94">cvc-complex-type.2.4.a: Invalid content
+                was found starting with element 'cei:note'. One of
                 '{"http://www.monasterium.net/NS/cei":foreign,
                 "http://www.monasterium.net/NS/cei":hi, "http://www.monasterium.net/NS/cei":lb,
                 "http://www.monasterium.net/NS/cei":pb, "http://www.monasterium.net/NS/cei":sup,
                 "http://www.monasterium.net/NS/cei":c}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="55" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="64" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="55" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="68" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="57" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">8</duration>
+            <message level="Error" line="53" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
+        </report>
+    </validationResult>
+    <validationResult>
+        <charterUri>/db/niklas/import/corpus_complete.xml</charterUri>
+        <report>
+            <status>invalid</status>
+            <duration unit="msec">9</duration>
+            <message level="Error" line="57" column="40">cvc-complex-type.2.4.a: Invalid content was
+                found starting with element 'cei:p'. One of
+                '{"http://www.monasterium.net/NS/cei":material,
+                "http://www.monasterium.net/NS/cei":dimensions,
+                "http://www.monasterium.net/NS/cei":condition,
+                "http://www.monasterium.net/NS/cei":decoDesc}' is expected.</message>
         </report>
     </validationResult>
 </result>
