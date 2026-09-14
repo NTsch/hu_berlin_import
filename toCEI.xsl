@@ -111,6 +111,23 @@
                         <xsl:apply-templates select="ausstellungsort"/>
                     </cei:issued>
                     <cei:witnessOrig>
+                       <cei:traditioForm>
+                           <xsl:choose>
+                               <xsl:when test="$sub-charter-type = 'transfix'">
+                                   <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref)"/>
+                               </xsl:when>
+                               <xsl:when test="$sub-charter-type = 'insert'">
+                                   <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref)"/>
+                               </xsl:when>
+                               <xsl:when test="ancestor::urkunde/teildokumente">
+                                   <xsl:text>Teildokumente dieser Rahmenurkunde: </xsl:text>
+                                   <xsl:for-each select="ancestor::urkunde/teildokumente/teildokument">
+                                       <xsl:value-of select="concat($signatur, '.', position())"/>
+                                       <xsl:if test="position() != last()">, </xsl:if>
+                                   </xsl:for-each>
+                               </xsl:when>
+                            </xsl:choose>
+                       </cei:traditioForm>
                         <xsl:call-template name="images">
                             <xsl:with-param name="record" select="$effective-record"/>
                             <xsl:with-param name="access-no" select="$access-no"/>
@@ -196,10 +213,10 @@
                 <cei:class>
                     <xsl:choose>
                         <xsl:when test="$sub-charter-type = 'transfix'">
-                            <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) inseriert in Urk. ', $main-charter-ref)"/>
+                            <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref)"/>
                         </xsl:when>
                         <xsl:when test="$sub-charter-type = 'insert'">
-                            <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) inseriert in Urk. ', $main-charter-ref)"/>
+                            <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref)"/>
                         </xsl:when>
                     </xsl:choose>
                 </cei:class>
@@ -329,7 +346,3 @@
         </cei:ref>
     </xsl:template>
 </xsl:stylesheet>
-<!--TODO:
-    main charter must have references to inserted charters
-    inserted charter reference to main charter is currently not visible
--->
