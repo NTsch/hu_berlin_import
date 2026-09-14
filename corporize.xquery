@@ -22,7 +22,7 @@ declare function local:strip-ws($nodes as node()*) as node()* {
 };
 
 let $charters := 
-    for $charter in doc('hu_berlin/cei_aberle_prescher_urkundensammlung.xml')//cei:text[@type='charter']
+    for $charter in doc('/db/niklas/import/hu_berlin/cei_aberle_prescher_urkundensammlung.xml')//cei:text[@type='charter']
     order by $charter/cei:body/cei:idno
     return local:strip-ws($charter)
 
