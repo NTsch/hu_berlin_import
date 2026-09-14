@@ -30,37 +30,34 @@
     <xsl:template match="urkunde">
         <xsl:choose>
             <xsl:when test="teildokumente">
-                <xsl:apply-templates select="teildokumente/ueberlieferungseinheit"/>
+                <xsl:apply-templates select="teildokumente/*"/>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:call-template name="charter-contents"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="ueberlieferungseinheit[1]">
+    <xsl:template match="*[parent::teildokumente][1]">
         <xsl:call-template name="charter-contents"/>
     </xsl:template>
-    <xsl:template match="ueberlieferungseinheit[position() != 1]">
+    <xsl:template match="*[parent::teildokumente][position() != 1]">
         <xsl:call-template name="charter-contents">
-            <xsl:with-param name="main-charter-ref" select="..//signatur/text()"/>
+            <xsl:with-param name="main-charter-ref" select="../rahmenurkunde/ueberlieferung/signatur/text()"/>
+            <xsl:with-param name="position" select="position()"/>
+            <xsl:with-param name="sub-charter-type" select="@type/data()"/>
         </xsl:call-template>
     </xsl:template>
     <xsl:template name="charter-contents">
         <xsl:param name="main-charter-ref"/>
+        <xsl:param name="position" as="xs:integer?" select="()"/>
+        <xsl:param name="sub-charter-type"/>
+        <xsl:variable name="sub-charter-ref" select="concat($main-charter-ref, '.', $position - 1)"/>
         <xsl:variable name="signatur" select="ueberlieferung/signatur/text()"/>
         <xsl:variable name="record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $signatur, ','))]]"/>
         <xsl:variable name="metadata-entry" select="doc('urkundensammlung_metadaten.xml')/tei:TEI/tei:text/tei:body/tei:table/tei:row[tei:cell[@n='1'][text() = concat('Urk. ', $signatur)]]"/>
-        <xsl:variable name="access-no">
-            <xsl:choose>
-                <xsl:when test="$record">
-                    <xsl:value-of select="$record/accession-num/text()"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:variable name="main-char-record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $main-charter-ref, ','))]]"/>
-                    <xsl:value-of select="$main-char-record/accession-num/text()"/>
-                </xsl:otherwise>
-            </xsl:choose>
-        </xsl:variable>
+        <xsl:variable name="main-char-record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $main-charter-ref, ','))]]"/>
+        <xsl:variable name="effective-record" select="if ($record) then $record else $main-char-record"/>
+        <xsl:variable name="access-no" select="$effective-record/accession-num/text()"/>
         <cei:text type="charter">
             <cei:front>
                 <cei:sourceDesc>
@@ -95,7 +92,8 @@
                     </xsl:when>
                     <xsl:otherwise>
                         <cei:idno>
-                            <xsl:value-of select="$main-charter-ref"/>
+                            <xsl:attribute name="id" select="$sub-charter-ref"/>
+                            <xsl:value-of select="concat( 'Urk. ', $sub-charter-ref)"/>
                         </cei:idno>
                     </xsl:otherwise>
                 </xsl:choose>
@@ -114,8 +112,9 @@
                     </cei:issued>
                     <cei:witnessOrig>
                         <xsl:call-template name="images">
-                            <xsl:with-param name="record" select="$record"/>
+                            <xsl:with-param name="record" select="$effective-record"/>
                             <xsl:with-param name="access-no" select="$access-no"/>
+                            <xsl:with-param name="sub-charter-ref" select="$sub-charter-ref"/>
                         </xsl:call-template>
                         <cei:archIdentifier>
                             <cei:settlement>Berlin</cei:settlement>
@@ -126,7 +125,7 @@
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <cei:idno>
-                                        <xsl:value-of select="$main-charter-ref"/>
+                                        <xsl:value-of select="concat('Urk. ', $main-charter-ref)"/>
                                     </cei:idno>
                                 </xsl:otherwise>
                             </xsl:choose>
@@ -195,11 +194,14 @@
             </cei:body>
             <cei:back>
                 <cei:class>
-                    <xsl:if test="$main-charter-ref">
-                        <xsl:value-of
-                            select="concat('Diese Urkunde ist ein Transfix (VID #71) inseriert in: ', $main-charter-ref, '.1')"
-                        />
-                    </xsl:if>
+                    <xsl:choose>
+                        <xsl:when test="$sub-charter-type = 'transfix'">
+                            <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) inseriert in Urk. ', $main-charter-ref)"/>
+                        </xsl:when>
+                        <xsl:when test="$sub-charter-type = 'insert'">
+                            <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) inseriert in Urk. ', $main-charter-ref)"/>
+                        </xsl:when>
+                    </xsl:choose>
                 </cei:class>
             </cei:back>
         </cei:text>
@@ -290,14 +292,33 @@
     <xsl:template name="images">
         <xsl:param name="record"/>
         <xsl:param name="access-no"/>
+        <xsl:param name="sub-charter-ref"/>
         <xsl:variable name="image-no" select="xs:int($record/pages/text())"/>
-        <xsl:for-each select="1 to $image-no">
-            <cei:figure>
-                <cei:graphic
-                    url="https://www.digi-hub.de/viewer/api/v1/records/{$access-no}/files/images/0000000{position()}.tif/full/max/0/default.jpg"
-                />
-            </cei:figure>
-        </xsl:for-each>
+        <xsl:choose>
+            <xsl:when test="$sub-charter-ref and $sub-charter-ref = '42.1'">
+                <cei:figure>
+                    <cei:graphic
+                        url="https://www.digi-hub.de/viewer/api/v1/records/1597844174761/files/images/00000001.tif/2750,2500,2000,2000/max/210/default.jpg"
+                    />
+                </cei:figure>
+            </xsl:when>
+            <xsl:when test="$sub-charter-ref and $sub-charter-ref = '42.2'">
+                <cei:figure>
+                    <cei:graphic
+                        url="https://www.digi-hub.de/viewer/api/v1/records/1597844174761/files/images/00000001.tif/1850,2500,2000,2000/max/210/default.jpg"
+                    />
+                </cei:figure>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:for-each select="1 to $image-no">
+                    <cei:figure>
+                        <cei:graphic
+                            url="https://www.digi-hub.de/viewer/api/v1/records/{$access-no}/files/images/0000000{position()}.tif/full/max/0/default.jpg"
+                        />
+                    </cei:figure>
+                </xsl:for-each>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template name="charter-link">
         <xsl:param name="access-no"/>
@@ -308,4 +329,7 @@
         </cei:ref>
     </xsl:template>
 </xsl:stylesheet>
-<!--TODO: <cei:idno>173</cei:idno> ohne Urk.-->
+<!--TODO:
+    main charter must have references to inserted charters
+    inserted charter reference to main charter is currently not visible
+-->
