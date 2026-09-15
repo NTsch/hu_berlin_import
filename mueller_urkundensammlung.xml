@@ -42,20 +42,27 @@
   auftrennen; bitte manuell prüfen.
 --><urkundensammlung quelle="mueller_urkundensammlung.pdf" seiten-gedruckt="11-46" anzahl="56">
   <urkunde nr="1" seite-von="16" seite-bis="16" region="Frankreich">
-    <datum iso="12950499">1295 April</datum>
-    <datierungsvermerk>(datum anno domini millesimo ducentesimo nonagesimo quinto, mense aprili)</datierungsvermerk>
-    <regest>Prior Stephan von St. Arnulf in Crépy-en-Valois (Crispeyo)<footnote>1</footnote> bestätigt im Namen des Priorats Varenelles dem Priorat de Fontanis den Besitz eines Gartens. | Insert: Guiars von Estuiens, Herr von Mailg, beurkundet, dass Auclos, Witwe des Raoul le Vidant, und ihre Kinder Agnesoz, Jehannete, Perrinez und Jehannin dem Prior Pierre, der Priorin und dem Konvent von Fontaines ein Grundstück in Mailg für die Summe von 6 kleinen Pfund der Münze von Tours verkauft haben.</regest>
-    <ueberlieferung>
-      <material>Pergament</material>
-      <sprache>Latein und Französisch</sprache>
-      <dimension>28,0 x 30,7 cm</dimension>
-      <umbug>3, 8 cm</umbug>
-      <besonderheit>sehr dünnes Pergament, schlichte Initiale A (Signatur: 9)</besonderheit>
-      <erhaltungszustand>fleckig, Faltungsbrüche; verblasster Vermerk</erhaltungszustand>
-      <siegel>Befestigungslöcher für Siegel</siegel>
-      <rueckvermerke>Datum</rueckvermerke>
-      <signatur>9</signatur>
-    </ueberlieferung>
+    <teildokumente>
+      <rahmenurkunde>
+        <regest>Prior Stephan von St. Arnulf in Crépy-en-Valois (Crispeyo)<footnote>1</footnote> bestätigt im Namen des Priorats Varenelles dem Priorat de Fontanis den Besitz eines Gartens.</regest>
+        <datum iso="12950499">1295 April</datum>
+        <datierungsvermerk>(datum anno domini millesimo ducentesimo nonagesimo quinto, mense aprili)</datierungsvermerk>
+        <ueberlieferung>
+          <material>Pergament</material>
+          <sprache>Latein und Französisch</sprache>
+          <dimension>28,0 x 30,7 cm</dimension>
+          <umbug>3, 8 cm</umbug>
+          <besonderheit>sehr dünnes Pergament, schlichte Initiale A (Signatur: 9)</besonderheit>
+          <erhaltungszustand>fleckig, Faltungsbrüche; verblasster Vermerk</erhaltungszustand>
+          <siegel>Befestigungslöcher für Siegel</siegel>
+          <rueckvermerke>Datum</rueckvermerke>
+          <signatur>9</signatur>
+        </ueberlieferung>
+      </rahmenurkunde>
+      <teildokument type="insert">
+        <regest>Guiars von Estuiens, Herr von Mailg, beurkundet, dass Auclos, Witwe des Raoul le Vidant, und ihre Kinder Agnesoz, Jehannete, Perrinez und Jehannin dem Prior Pierre, der Priorin und dem Konvent von Fontaines ein Grundstück in Mailg für die Summe von 6 kleinen Pfund der Münze von Tours verkauft haben.</regest>
+      </teildokument>
+    </teildokumente>
     <anmerkungen>
       <anmerkung seite="16" nr="1">Cluniazenserkloster in der Diözese Senlis.</anmerkung>
     </anmerkungen>
@@ -75,8 +82,7 @@
       <anmerkung seite="16" nr="2">Andreas Meyer, Arme Kleriker auf Pfründensuche. Eine Studie über das ‚in forma pauperum’-Register Gregors XII. von 1407 und über päpstliche Anwartschaften im Spätmittelalter. (Forschungen zur kirchlichen Rechtsgeschichte und zum Kirchenrecht, Bd. 20.) Köln 1990, 67.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="3" seite-von="17" seite-bis="17" region="Frankreich" pruefen="true">
-    <!-- ZUR PRUEFUNG: Kein Jahr im Regest angegeben (Datierung unsicher, aus Wasserzeichen/Schrift erschlossen); Datum bleibt unvollständig. -->
+  <urkunde nr="3" seite-von="17" seite-bis="17" region="Frankreich">
     <datum iso="13789999">(1378–1417)</datum>
     <regest>Supplik des Simon Guarnerii, Priester in der Diözese Evreux, an Papst (Clemens VII., 1378– 1394, oder Benedikt XII., 1394–1417), ihm ein Benefizium aus der Kollatur der folgenden Klöster zuzuweisen: einer (nicht identifizierten) Abtei Notre-Dame (Diöz. Evreux)<footnote>3</footnote>, SaintLéger in Préaux (Diöz. Lisieux), Saint-Pierre de Chateauneuf (Castelnouo, Diöz. Coutances), Le Bec-Helluin (Diöz. Rouen), Saint-Évroult (Diöz. Lisieux). Zugewiesen wird ihm ein Benefizium aus dem Besitz der Abtei St-Pierre in Préaux (Diöz. Lisieux). Die Schrift macht eine Datierung ins 14. Jh. wahrscheinlich. Die Entwicklung des Formulars scheint in die spät- oder nachavignonesische Zeit zu weisen; nach 1378 gehörte die Region der avignonesischen Observanz an.</regest>
     <ueberlieferung>
@@ -145,7 +151,7 @@
       <erhaltungszustand>stark verblasste und abgeplatzte Tinte</erhaltungszustand>
       <siegel>Siegel fehlt; 36 cm lange Hanfschnur zur Siegelbefestigung</siegel>
       <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
-      <sonstiges>Vgl. Nr. 4.</sonstiges>
+      <besonderheit>Vgl. Nr. 4.</besonderheit>
       <signatur>259</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -173,39 +179,50 @@
       <anmerkung seite="19" nr="8">Fees, Stadt, 286, weist ihn in diesem Amt für 1260–1261 nach.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="8" seite-von="20" seite-bis="20" region="Italien - Torcello" pruefen="true">
-    <!-- ZUR PRUEFUNG: Physische Beschreibung bezieht sich auf zwei zusammengehörige Fragmente (Nr. 8a/8b) eines Rotulus; nicht als getrennte Einheiten modelliert, siehe &lt;beschreibung&gt;. -->
+  <urkunde nr="8" seite-von="20" seite-bis="20" region="Italien - Torcello">
     <datum iso="13030410">1303 April 10</datum>
     <datierungsvermerk>(anno eiusdem millesimo trecentesimo tercio, indictione prima, die [...] decimo intrante aprilis)</datierungsvermerk>
     <regest>Detailliertes Verzeichnis der Ländereien und Besitztümer des Klosters St. Thomas in Torcello, gegliedert in die villae Falla, Caltana, Scaltania, Scortegarie, Prohencagi, Marani, Caselis, Ca()gnani, Burbiagii. Die Bestandsaufnahme erfolgte auf Initiative des Mönchs Gerardus, Syndikus und Prokurator des Klosters, und wurde von Benedikt, apertegator de Balato, aufgezeichnet.</regest>
     <ueberlieferung>
       <material>Pergament</material>
       <sprache>Latein</sprache>
-      <dimension>hochrechteckiger Streifen von 17,0–17,5 x 80 cm</dimension>
+      <dimension>8a: hochrechteckiger Streifen von 17,0–17,5 x 80 cm; 8b: 17,7–18,7 x 41,3–43,5 cm; unten stumpfwinklig auslaufend</dimension>
       <zeugen>Gerardus; Henricus Faber de Scaltanigo; Johannes Faber de Sala; Jacobinus, Pelegrinus de Caltana und Petrus de Caltana</zeugen>
       <besonderheit>Am unteren Rand von Nr. 8a sind Nahtlöcher erkennbar, die aus der ursprünglichen Verbindung mit Nr. 8b resultieren; beide Stücke stammen von derselben Hand. Die Aufbewahrung des Gesamtstückes als Rotulus ist wahrscheinlich, da Nr. 8b keinerlei Feuchtigkeitsspuren aufweist und das Rolleninnere gebildet haben dürfte. In der unteren linken Hälfte von Nr. 8a Riss durch Naht geschlossen. (Signatur: 266 / 266a)</besonderheit>
-      <erhaltungszustand>Lesbarkeit durch Feuchtigkeit stark beeinträchtigt; Latein, 17, 7–18, 7 x 41, 3–43, 5 cm; unten stumpfwinklig auslaufend; am rechten unteren Rand geringer Textverlust durch Abriss eines Pergamentstücks</erhaltungszustand>
-      <rueckvermerke>Daten und Regesten Nr. 8b: Pergament; keine Rückvermerke</rueckvermerke>
+      <erhaltungszustand>8a: Lesbarkeit durch Feuchtigkeit stark beeinträchtigt; 8b: am rechten unteren Rand geringer Textverlust durch Abriss eines Pergamentstücks</erhaltungszustand>
+      <rueckvermerke>8a: Daten und Regesten; 8b: keine Rückvermerke</rueckvermerke>
       <signatur>266</signatur>
     </ueberlieferung>
   </urkunde>
-  <urkunde nr="9" seite-von="20" seite-bis="20" region="Italien - Torcello" pruefen="true">
-    <!-- ZUR PRUEFUNG: Enthält ein inseriertes Notariatsinstrument mit eigenem Datum/Notar/Zeugen (1217, 1304); Verschachtelung nicht separat modelliert, im Fließtext enthalten. -->
-    <datum iso="13040308">1304 März 8</datum>
-    <datierungsvermerk>(anno domini millesimo ducentesimo septimodecimo, mense septembris, indictione sexta), (anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quarto, mense marcii, die octavo intrante, indictione secunda)</datierungsvermerk>
-    <regest>Notarielle Bestätigung einer im Wortlaut kopierten Urkunde: Pietro Ziani, Doge von Venedig<footnote>9</footnote>, hat im September 1217 mit Zustimmung seiner iudices und consiliarii dem Abt Aymo<footnote>10</footnote> und den Zisterziensermönchen des Thomasklosters in Torcello das Kloster Gergeri auf Kreta mit allem Zubehör und allen Besitzungen übertragen, um mit seiner Familie der Wohltaten und Gebete der Mönche teilhaftig zu werden. Von der Übertragung ausgenommen sind Güter, die sich auf denjenigen Ländereien befinden, die der Doge den Rittern der Insel übertragen hatte, sowie einige näher bezeichnete, die in seinem (oder Venedigs?) Besitz verbleiben sollten. Mit der Ausführung der Übertragung war der Vertreter des Dogen auf Kreta, der duca di Candia Paolo Querino (Paulus Quirinus)<footnote>11</footnote>, beauftragt worden.<footnote>12</footnote> Inserierte Abschrift der Urkunde von 1217 September, Rialto (Venedig)</regest>
-    <ueberlieferung>
-      <material>Pergament</material>
-      <sprache>Latein</sprache>
-      <dimension>28,9 x 59,1 cm</dimension>
-      <notar>Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen | Antonius, Priester von St. Bartholomäus und Notar</notar>
-      <zeugen>Philippus Marcello, consiliator; Johannes Badoua(r)ius, iudex; Marinus Permarino, consiliator; Marinus Gradonico, iudex; Jacobus Longo, iudex; Jacobus Damolino, consiliator; Daniel Teupolo, consiliarius; Marinus Storlato, consiliator; Dominicus Quirinus, consiliator; Marcus Barbani, camelarior communis; Johannes Maurocenus, avocator communis; Nicolas Faletro, avocator; Benedictus Nauaglario, vicedominus; Octavianus Quirinus; Pantaleon Barbo; Jonatha Fuscarenus | Petrus Barba(rus), Priester von St. Martin und Notar; Johannes Viliani, iudex, bestätigen die Übereinstimmung der Abschrift mit dem Original.</zeugen>
-      <besonderheit>Ausrisse am Rand (meist restauriert), auffällige Initiale (Abb. siehe Anhang) (Signatur: 257); Vgl. Nr. 16.</besonderheit>
-      <erhaltungszustand>Rücken mit Halsansatz</erhaltungszustand>
-      <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
-      <rueckvermerke>nicht lesbar</rueckvermerke>
-      <signatur>257</signatur>
-    </ueberlieferung>
+  <urkunde nr="9" seite-von="20" seite-bis="20" region="Italien - Torcello">
+    <teildokumente>
+      <rahmenurkunde>
+        <datum iso="13040308">1304 März 8</datum>
+        <datierungsvermerk>(anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quarto, mense marcii, die octavo intrante, indictione secunda)</datierungsvermerk>
+        <regest>Notarielle Bestätigung einer im Wortlaut kopierten Urkunde: Pietro Ziani, Doge von Venedig<footnote>9</footnote>, hat im September 1217 mit Zustimmung seiner iudices und consiliarii dem Abt Aymo<footnote>10</footnote> und den Zisterziensermönchen des Thomasklosters in Torcello das Kloster Gergeri auf Kreta mit allem Zubehör und allen Besitzungen übertragen, um mit seiner Familie der Wohltaten und Gebete der Mönche teilhaftig zu werden. Von der Übertragung ausgenommen sind Güter, die sich auf denjenigen Ländereien befinden, die der Doge den Rittern der Insel übertragen hatte, sowie einige näher bezeichnete, die in seinem (oder Venedigs?) Besitz verbleiben sollten. Mit der Ausführung der Übertragung war der Vertreter des Dogen auf Kreta, der duca di Candia Paolo Querino (Paulus Quirinus)<footnote>11</footnote>, beauftragt worden.<footnote>12</footnote></regest>
+        <ueberlieferung>
+          <material>Pergament</material>
+          <sprache>Latein</sprache>
+          <dimension>28,9 x 59,1 cm</dimension>
+          <notar>Antonius, Priester von St. Bartholomäus und Notar</notar>
+          <zeugen>Petrus Barba(rus), Priester von St. Martin und Notar; Johannes Viliani, iudex, bestätigen die Übereinstimmung der Abschrift mit dem Original.</zeugen>
+          <besonderheit>Ausrisse am Rand (meist restauriert), auffällige Initiale (Abb. siehe Anhang) (Signatur: 257); Vgl. Nr. 16.</besonderheit>
+          <erhaltungszustand>Rücken mit Halsansatz</erhaltungszustand>
+          <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
+          <rueckvermerke>nicht lesbar</rueckvermerke>
+          <signatur>257</signatur>
+        </ueberlieferung>
+      </rahmenurkunde>
+      <teildokument type="insert">
+        <datum iso="12170999">1217 September</datum>
+        <ausstellungsort>Rialto (Venedig)</ausstellungsort>
+        <datierungsvermerk>(anno domini millesimo ducentesimo septimodecimo, mense septembris, indictione sexta)</datierungsvermerk>
+        <ueberlieferung>
+          <notar>Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen</notar>
+          <zeugen>Philippus Marcello, consiliator; Johannes Badoua(r)ius, iudex; Marinus Permarino, consiliator; Marinus Gradonico, iudex; Jacobus Longo, iudex; Jacobus Damolino, consiliator; Daniel Teupolo, consiliarius; Marinus Storlato, consiliator; Dominicus Quirinus, consiliator; Marcus Barbani, camelarior communis; Johannes Maurocenus, avocator communis; Nicolas Faletro, avocator; Benedictus Nauaglario, vicedominus; Octavianus Quirinus; Pantaleon Barbo; Jonatha Fuscarenus</zeugen>
+        </ueberlieferung>
+      </teildokument>
+    </teildokumente>
     <anmerkungen>
       <anmerkung seite="20" nr="9">Doge von Venedig 5.8.1205–26.2.1229; Marco Pozza, Dogen v. Venedig, LMA 9, 1998, Stammtafeln, Herrscher- und Papstlisten.</anmerkung>
       <anmerkung seite="20" nr="10">Aimon I., Abt des Thomasklosters spätestens seit September 1217–1230. Diese Datierungen ergeben sich aus dem in Nr. 9 erwähnten Insert und den Angaben bei Cornaro, Notizie storiche, 576.</anmerkung>
@@ -293,7 +310,7 @@
       <erhaltungszustand>fleckig</erhaltungszustand>
       <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
       <rueckvermerke>Rückvermerke verblasst</rueckvermerke>
-      <signatur>263a[Platzhalter]</signatur>
+      <signatur>263a</signatur>
     </ueberlieferung>
     <anmerkungen>
       <anmerkung seite="23" nr="21">Bei der Umrechnung des Datums wurde der venezianische Stil berücksichtigt, der das Jahr am 1. März nach dem Jahresanfang moderner Zeitrechnung beginnen lässt.</anmerkung>
@@ -368,17 +385,39 @@
       <anmerkung seite="25" nr="27">Abt des Thomasklosters wohl 1327–(1344); Cornaro, Notizie storiche, 578.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="16" seite-von="25" seite-bis="26" region="Italien - Torcello" pruefen="true">
-    <datum iso="13400315">1340 März 15</datum>
-    <datierungsvermerk>(anno millesimo ducentesimo septimo decimo, mense septembris, indictione sexta), (anno ab incarnatione domini nostri Jhesu Christi Millesimo trigentesimo quarto mensis Marcii die octauo intrante, indictione secunda), (anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quadragesimo, mense martii, die quinta decima intrante, indictione octaua)</datierungsvermerk>
-    <ausstellungsort>Rialto (Venedig)</ausstellungsort>
-    <regest>Der Doge Bartolomeo Gradenigo (Bartholomeus Gradonico)<footnote>28</footnote> bestätigt die von Abt Nikolaus<footnote>29</footnote> von St. Thomas in Torcello vorgelegte Abschrift einer Schenkungsurkunde, die vollständig inseriert ist: Im September 1217 hat der Doge Pietro Ziani (Petrus Ciani)<footnote>30</footnote> dem Abt Aymo<footnote>31</footnote> von St. Thomas und dessen Nachfolgern das Kloster Gereri auf Kreta mit all seinen Besitzungen zum Nießbrauch übertragen. Dabei wird Paolo Querino (Paulus Quirinus), Herzog von Kreta, als Ausführender der Schenkung genannt. Die Abschrift des offenbar verlorenen Originals wurde am 8. März 1304 angefertigt.<footnote>32</footnote> Verlorene Schenkungsurkunde von 1217 September, Rialto (Venedig)</regest>
+  <urkunde nr="16" seite-von="25" seite-bis="26" region="Italien - Torcello">
+    <teildokumente>
+      <rahmenurkunde>
+        <datum iso="13400315">1340 März 15</datum>
+        <datierungsvermerk>(anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quadragesimo, mense martii, die quinta decima intrante, indictione octaua)</datierungsvermerk>
+        <ausstellungsort>Rialto (Venedig)</ausstellungsort>
+        <regest>Der Doge Bartolomeo Gradenigo (Bartholomeus Gradonico)<footnote>28</footnote> bestätigt die von Abt Nikolaus<footnote>29</footnote> von St. Thomas in Torcello vorgelegte Abschrift einer Schenkungsurkunde, die vollständig inseriert ist.</regest>
+      </rahmenurkunde>
+      <teildokument>
+        <datum iso="12170999">1217 September</datum>
+        <datierungsvermerk>(anno millesimo ducentesimo septimo decimo, mense septembris, indictione sexta)</datierungsvermerk>
+        <ausstellungsort>Rialto (Venedig)</ausstellungsort>
+        <regest>Im September 1217 hat der Doge Pietro Ziani (Petrus Ciani)<footnote>30</footnote> dem Abt Aymo<footnote>31</footnote> von St. Thomas und dessen Nachfolgern das Kloster Gereri auf Kreta mit all seinen Besitzungen zum Nießbrauch übertragen. Dabei wird Paolo Querino (Paulus Quirinus), Herzog von Kreta, als Ausführender der Schenkung genannt. Die Abschrift des offenbar verlorenen Originals wurde am 8. März 1304 angefertigt.<footnote>32</footnote></regest>
+        <ueberlieferung>
+          <zeugen>Phylippus Marcello, consiliator<footnote>33</footnote>; Johannes Badouarius, iudex; Marinus Permarino, consiliator; Marinus Gradonico, iudex; Jacobus Longo, iudex communis; Jacobus de Mol(ino), consiliator; Daniel Teupulo, consiliator; Marinus Storlato, consiliator; Dominicus Quirinus, consiliator; Marcus Barbani, camerarius comunis; Johannes Mauroceno, aduocator comunis; Nicolao Falet(r)o, aduocator; Benedictus Nauiaglario vicedominus; Octauianus Querinus; Pantaleon Barbo; Jonatha Fuscarenus</zeugen>
+          <notar>Priester Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen von Venedig</notar>
+        </ueberlieferung>
+      </teildokument>
+      <teildokument>
+        <datum iso="13040308">1304 März 8</datum>
+        <datierungsvermerk>(anno ab incarnatione domini nostri Jhesu Christi Millesimo trigentesimo quarto mensis Marcii die octauo intrante, indictione secunda)</datierungsvermerk>
+        <ueberlieferung>
+          <notar>Antonius, Priester von St. Bartholomäus und Notar</notar>
+          <zeugen>Petrus Barba(rus), Priester von St. Martin und Notar; Johannes Viliani, iudex, bestätigen die Übereinstimmung der Abschrift mit dem Original.</zeugen>
+        </ueberlieferung>
+      </teildokument>
+    </teildokumente>
     <ueberlieferung>
       <material>Pergament</material>
       <sprache>Latein</sprache>
       <dimension>36,2 x 66,8 cm</dimension>
-      <notar>Priester Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen von Venedig | Antonius, Priester von St. Bartholomäus und Notar | Priester Nikolaus, Pleban von S. Canc(iano), Notar und Kanzler des Dogen von Venedig</notar>
-      <zeugen>Phylippus Marcello, consiliator<footnote>33</footnote>; Johannes Badouarius, iudex; Marinus Permarino, consiliator; Marinus Gradonico, iudex; Jacobus Longo, iudex communis; Jacobus de Mol(ino), consiliator; Daniel Teupulo, consiliator; Marinus Storlato, consiliator; Dominicus Quirinus, consiliator; Marcus Barbani, camerarius comunis; Johannes Mauroceno, aduocator comunis; Nicolao Falet(r)o, aduocator; Benedictus Nauiaglario vicedominus; Octauianus Querinus; Pantaleon Barbo; Jonatha Fuscarenus | Petrus Barba(rus), Priester von St. Martin und Notar; Johannes Viliani, iudex, bestätigen die Übereinstimmung der Abschrift mit dem Original. | Ioanes Nicolao Michael und Marinus Pasqualigo, beide iudices, mit eigenhändiger Unterschrift</zeugen>
+      <notar>Priester Nikolaus, Pleban von S. Canc(iano), Notar und Kanzler des Dogen von Venedig</notar>
+      <zeugen>Ioanes Nicolao Michael und Marinus Pasqualigo, beide iudices, mit eigenhändiger Unterschrift</zeugen>
       <besonderheit>Pergament zeigt Umrisse des Tieres: Rücken mit Halsansatz unten; sehr große, schlichte Initiale I (Signatur: 270); Inserierte Abschrift der vorausgehenden Urkunde von 1304 März 8; Vgl. Nr. 9.</besonderheit>
       <erhaltungszustand>restaurierte Löcher; Randbemerkung des Schreibers 1217 markiert den Beginn des Inserts</erhaltungszustand>
       <rueckvermerke>drei von jeweils anderer Hand</rueckvermerke>
@@ -394,18 +433,48 @@
     </anmerkungen>
   </urkunde>
   <urkunde nr="17" seite-von="27" seite-bis="27" region="Italien - Torcello">
-    <datum iso="13810602">1381 Juni 2</datum>
+    <teildokumente>
+      <rahmenurkunde>
+        <datum iso="13810602">1381 Juni 2</datum>
+        <datierungsvermerk>(anno ab incarnatione domini nostri Ihesu Christi millesimo trecentesimo octuagesimo primo, mense Iunii, die secundo, indictione quarta)</datierungsvermerk>
+        <regest>Vier Dokumente werden im Wortlaut wiedergegeben, welche die als Kommende verliehene Abtei St. Thomas in Torcello sowie deren Besitz auf Kreta, namentlich das Kloster St. Maria de Cavalense in Heraklion, betreffen.</regest>
+      </rahmenurkunde>
+      <teildokument>
+        <datum iso="13800907">1380 September 7</datum>
+        <ausstellungsort>Rom, Haus des Bischofs von Faenza</ausstellungsort>
+        <datierungsvermerk>(anno millesimo trecentesimo octuagesimo, indictione tercia, tempore serenissimi patris et domini nostri domini Urbani divina providentia pape sexti anno tercio, die septimo mensis septembris)</datierungsvermerk>
+        <regest>Franciscus de Urbino, Bischof von Faenza<footnote>34</footnote>und Administrator des Klosters St. Thomas in Torcello, bestellt Bischof Julianus von Chersonisos auf Kreta (Chironensis)<footnote>35</footnote>und Bartholomeus Jacobi de Regio, Kanoniker in Chersonisos, zu Prokuratoren des Klosters St. Maria de Cavalense in Heraklion (de Candida [!]) und stattet diese mit umfassenden Handlungsvollmachten aus.</regest>
+        <ueberlieferung>
+          <zeugen>Petrus de Fani; Paulus de Urbin(o), Kaplan des Bischof von Faenza</zeugen>
+          <notar>Jacobus Cictareli</notar>
+        </ueberlieferung>
+      </teildokument>
+      <teildokument>
+        <datum iso="13801008">1380 Oktober 8</datum>
+        <ausstellungsort>Rom, Senatorenpalast auf dem Kapitol</ausstellungsort>
+        <regest>Der Senator Petrus de Passis (oficium sacri senatus regentes in alma urbe)<footnote>36</footnote> bestätigt ein Instrument des römischen Notars Jacobus Cictareli vom 15. September (1380) für Bischof Petrus von Pánormus auf Kreta (Millopota)<footnote>37</footnote>, dessen Inhalt nicht genannt wird, sowie die vorgenannte Prokuratorenvollmacht des Bischofs von Faenza für Bartholomeus Jacobi vom 7. September 1380.</regest>
+        <datierungsvermerk>(die octavo mensis octobris, pontificatus eminentissimi in Christo patris domini nostri domni Urbani diuina providentia papae sexti anno tercio, mccclxxx, indictione tercia)</datierungsvermerk>
+      </teildokument>
+      <teildokument>
+        <datum iso="13800907">1380 September 7</datum>
+        <ausstellungsort>Rom, St. Peter</ausstellungsort>
+        <regest>Papst Urban VI.<footnote>38</footnote> überträgt dem Franciscus de Urbino, Bischof von Faenza, das Kloster St. Thomas in Torcello als Kommende.</regest>
+        <datierungsvermerk>(VII idus septembris pontificatus nostri anno tercio)</datierungsvermerk>
+      </teildokument>
+      <teildokument>
+        <datum iso="13819999">(1381 vor Juni 2)</datum>
+        <regest>Bischof Julianus (von Chersonisos, Prokurator des Bischofs Franciscus von Faenza als Kommendatar der Abtei St. Thomas in Torcello) verpachtet dem Jacobus Manolesus das Kloster (St. Maria de Cavalense) auf Kreta für 310 Golddukaten. Von diesen Einnahmen hat der Pächter den Unterhalt des Priesters in der Klosterkirche zu tragen. Das Datum ergibt sich aus der inhaltlichen Folge der Inserte, deren jüngstes es sein muss, und dem Datum der Gesamturkunde.</regest>
+      </teildokument>
+    </teildokumente>
     <dokumentform>Notariatsinstrument</dokumentform>
-    <datierungsvermerk>(anno millesimo trecentesimo octuagesimo, indictione tercia, tempore serenissimi patris et domini nostri domini Urbani divina providentia pape sexti anno tercio, die septimo mensis septembris), (anno ab incarnatione domini nostri Ihesu Christi millesimo trecentesimo octuagesimo primo, mense Iunii, die secundo, indictione quarta)</datierungsvermerk>
-    <regest>Vier Dokumente werden im Wortlaut wiedergegeben, welche die als Kommende verliehene Abtei St. Thomas in Torcello sowie deren Besitz auf Kreta, namentlich das Kloster St. Maria de Cavalense in Heraklion, betreffen. Im Einzelnen sind dies (in der Reihenfolge des Dokuments): 1380 September 7, Rom, Haus des Bischofs von Faenza Franciscus de Urbino, Bischof von Faenza<footnote>34</footnote>und Administrator des Klosters St. Thomas in Torcello, bestellt Bischof Julianus von Chersonisos auf Kreta (Chironensis)<footnote>35</footnote>und Bartholomeus Jacobi de Regio, Kanoniker in Chersonisos, zu Prokuratoren des Klosters St. Maria de Cavalense in Heraklion (de Candida [!]) und stattet diese mit umfassenden Handlungsvollmachten aus.</regest>
     <ueberlieferung>
       <material>Pergament</material>
       <sprache>Latein</sprache>
       <dimension>32,2 x 51,2 cm</dimension>
-      <notar>Jacobus Cictareli | Georgus Aymo</notar>
-      <zeugen>Petrus de Fani; Paulus de Urbin(o), Kaplan des Bischof von Faenza 1380 Oktober 8, Rom, Senatorenpalast auf dem Kapitol Der Senator Petrus de Passis (oficium sacri senatus regentes in alma urbe)<footnote>36</footnote> bestätigt ein Instrument des römischen Notars Jacobus Cictareli vom 15. September (1380) für Bischof Petrus von Pánormus auf Kreta (Millopota)<footnote>37</footnote>, dessen Inhalt nicht genannt wird, sowie die vorgenannte Prokuratorenvollmacht des Bischofs von Faenza für Bartholomeus Jacobi vom 7. September 1380. (die octavo mensis octobris, pontificatus eminentissimi in Christo patris domini nostri domni Urbani diuina providentia papae sexti anno tercio, mccclxxx, indictione tercia) 1380 September 7, Rom, St. Peter Papst Urban VI.<footnote>38</footnote> überträgt dem Franciscus de Urbino, Bischof von Faenza, das Kloster St. Thomas in Torcello als Kommende. (VII idus septembris pontificatus nostri anno tercio) (1381 vor Juni 2) Bischof Julianus (von Chersonisos, Prokurator des Bischofs Franciscus von Faenza als Kommendatar der Abtei St. Thomas in Torcello) verpachtet dem Jacobus Manolesus das Kloster (St. Maria de Cavalense) auf Kreta für 310 Golddukaten. Von diesen Einnahmen hat der Pächter den Unterhalt des Priesters in der Klosterkirche zu tragen. Das Datum ergibt sich aus der inhaltlichen Folge der Inserte, deren jüngstes es sein muss, und dem Datum der Gesamturkunde. | Amadeus de Laude; Gerardus Desde, beide Priester </zeugen>
+      <notar>Georgus Aymo</notar>
+      <zeugen>Amadeus de Laude; Gerardus Desde, beide Priester</zeugen>
       <rueckvermerke>Datum</rueckvermerke>
-      <besonderheit>Unterstreichungen Das genannte Kloster St. Maria de Cavalense in Heraklion dürfte mit der in Nr. 7, 10 und 15 genannten Kirche St. Maria de militibus identisch sein (vgl. oben die Einleitung Torcello– Kreta). (Signatur: 269) Treviso</besonderheit>
+      <besonderheit>Unterstreichungen; Das genannte Kloster St. Maria de Cavalense in Heraklion dürfte mit der in Nr. 7, 10 und 15 genannten Kirche St. Maria de militibus identisch sein (vgl. oben die Einleitung Torcello– Kreta). (Signatur: 269) Treviso</besonderheit>
       <erhaltungszustand>Textverlust durch Löcher am rechten Rand, restauriert; Unterschriften zum Teil nicht lesbar</erhaltungszustand>
       <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
       <signatur>269</signatur>
@@ -471,8 +540,7 @@
       <signatur>93</signatur>
     </ueberlieferung>
   </urkunde>
-  <urkunde nr="21" seite-von="30" seite-bis="30" region="Italien - Treviso" pruefen="true">
-    <!-- ZUR PRUEFUNG: Enthält im Fließtext eine Geldbetragsangabe ('88 Pfund') am Zeilenanfang, die bei der automatisierten Fussnotenerkennung Sonderbehandlung brauchte; Text wurde geprüft und ist vollständig, aber bitte gegenlesen. -->
+  <urkunde nr="21" seite-von="30" seite-bis="30" region="Italien - Treviso">
     <datum iso="14530316">1453 März 16</datum>
     <ausstellungsort>Treviso, Palazzo comunale</ausstellungsort>
     <dokumentform>Notariatsinstrument</dokumentform>
@@ -892,10 +960,10 @@
       <sprache>Latein</sprache>
       <dimension>75,0 x 55,5 cm</dimension>
       <umbug>6,9 cm</umbug>
-      <besonderheit>floral verzierte Elongatae (Signatur: 201)</besonderheit>
-      <erhaltungszustand>zwei Löcher an Faltungsbrüchen (restauriert), weitere Faltungsbrüche; auf Umbug weiterer Name verzeichnet (Notar?); der dritte in sehr breit gehaltener Elongata: re(gistra)ta in secretaria apostolica</erhaltungszustand>
+      <besonderheit>floral verzierte Elongatae</besonderheit>
+      <erhaltungszustand>zwei Löcher an Faltungsbrüchen (restauriert), weitere Faltungsbrüche; auf Umbug weiterer Name verzeichnet (Notar?);</erhaltungszustand>
       <siegel>Befestigungslöcher für Siegel vorhanden</siegel>
-      <rueckvermerke>drei Kanzleivermerke von jeweils anderer Hand</rueckvermerke>
+      <rueckvermerke>drei Kanzleivermerke von jeweils anderer Hand, der dritte in sehr breit gehaltener Elongata: re(gistra)ta in secretaria apostolica<footnote>72</footnote></rueckvermerke>
       <signatur>201</signatur>
     </ueberlieferung>
     <anmerkungen>
@@ -1105,8 +1173,7 @@
       <anmerkung seite="48" nr="99">Papst 19.3.1513–1.12.1521.</anmerkung>
     </anmerkungen>
   </urkunde>
-  <urkunde nr="52" seite-von="48" seite-bis="49" region="Spanien" pruefen="true">
-    <!-- ZUR PRUEFUNG: Kein Jahr in der Datumszeile angegeben (nur Tag/Monat/Ort); im Quelltext ausdrücklich als unsicher datiert (14./15. Jh.) vermerkt. -->
+  <urkunde nr="52" seite-von="48" seite-bis="49" region="Spanien">
     <datum iso="99990422">April 22</datum>
     <ausstellungsort>Briviesca<footnote>100</footnote>
     </ausstellungsort>

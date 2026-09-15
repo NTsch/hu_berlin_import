@@ -114,10 +114,10 @@
                        <cei:traditioForm>
                            <xsl:choose>
                                <xsl:when test="$sub-charter-type = 'transfix'">
-                                   <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref)"/>
+                                   <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref), '.'"/>
                                </xsl:when>
                                <xsl:when test="$sub-charter-type = 'insert'">
-                                   <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref)"/>
+                                   <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref), '.'"/>
                                </xsl:when>
                                <xsl:when test="ancestor::urkunde/teildokumente">
                                    <xsl:text>Teildokumente dieser Rahmenurkunde: </xsl:text>
@@ -157,7 +157,7 @@
                                         <xsl:text>Pergament</xsl:text>
                                     </xsl:when>
                                     <xsl:otherwise>
-                                        <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[1]"/>
+                                        <xsl:apply-templates select="ueberlieferung/material"/>
                                     </xsl:otherwise>
                                 </xsl:choose>
                             </cei:material>
@@ -167,16 +167,16 @@
                                         <xsl:value-of select="substring-after(string-join(ueberlieferung/erhaltungszustand//text()), 'Pergament ')"/>
                                     </xsl:when>
                                     <xsl:otherwise>
-                                        <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[3]"/>
+                                        <xsl:apply-templates select="ueberlieferung/dimension"/>
                                     </xsl:otherwise>
                                 </xsl:choose>
+                                <xsl:if test="ueberlieferung/umbug">
+                                    <xsl:text>; Umbug: </xsl:text>
+                                    <xsl:apply-templates select="ueberlieferung/umbug"/>
+                                </xsl:if>
                             </cei:dimensions>
                             <xsl:apply-templates select="ueberlieferung/erhaltungszustand"/>
-                            <xsl:if test="contains(document-uri(/), 'mueller')">
-                                <cei:condition>
-                                    <xsl:value-of select="$description-tokens[2]"/>
-                                </cei:condition>
-                            </xsl:if>
+                            <xsl:apply-templates select="ueberlieferung/handzeichen"/>
                         </cei:physicalDesc>
                         <xsl:apply-templates select="ueberlieferung/rueckvermerke"/>
                         <cei:auth>
@@ -191,32 +191,19 @@
                         <xsl:apply-templates select="ueberlieferung/besonderheit"/>
                         <xsl:apply-templates select="datierungsvermerk"/>
                         <xsl:apply-templates select="ueberlieferung/schreiber"/>
-                        <xsl:if test="contains(document-uri(/), 'mueller')">
-                            <cei:rubrum>
-                                <xsl:value-of select="$description-tokens[contains(., 'Rückvermerk')]"/>
-                            </cei:rubrum>
-                        </xsl:if>
+                        <xsl:apply-templates select="rueckvermerke"/>
                     </cei:diplomaticAnalysis>
-                    <cei:lang_MOM>
-                        <xsl:choose>
-                            <xsl:when test="contains(document-uri(/), 'aberle')">
-                                <xsl:apply-templates select="ueberlieferung/sprache"/>
-                            </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="tokenize(ueberlieferung/beschreibung, ', ')[2]"/>
-                        </xsl:otherwise>
-                        </xsl:choose>
-                    </cei:lang_MOM>
+                    <xsl:apply-templates select="ueberlieferung/sprache"/>
                 </cei:chDesc>
             </cei:body>
             <cei:back>
                 <cei:class>
                     <xsl:choose>
                         <xsl:when test="$sub-charter-type = 'transfix'">
-                            <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref)"/>
+                            <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref, '.')"/>
                         </xsl:when>
                         <xsl:when test="$sub-charter-type = 'insert'">
-                            <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref)"/>
+                            <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref, '.')"/>
                         </xsl:when>
                     </xsl:choose>
                 </cei:class>
@@ -294,12 +281,33 @@
             <xsl:apply-templates/>
         </cei:rubrum>
     </xsl:template>
+    <xsl:template match="sprache">
+        <cei:lang_MOM>
+            <xsl:apply-templates/>
+        </cei:lang_MOM>
+    </xsl:template>
+    <xsl:template match="material">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="dimension">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="umbug">
+        <xsl:apply-templates/>
+    </xsl:template>
     <xsl:template match="schreiber">
         <cei:scriptDesc>
             <cei:scribe>
                 <xsl:apply-templates/>
             </cei:scribe>
         </cei:scriptDesc>
+    </xsl:template>
+    <xsl:template match="handzeichen">
+        <cei:decoDesc>
+            <cei:p>
+                <xsl:apply-templates/>
+            </cei:p>
+        </cei:decoDesc>
     </xsl:template>
     <xsl:template match="footnote">
         <cei:note>
