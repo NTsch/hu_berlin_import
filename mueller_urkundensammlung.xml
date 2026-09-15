@@ -392,8 +392,19 @@
         <datierungsvermerk>(anno ab incarnatione domini nostri Jhesu Christi millesimo trecentesimo quadragesimo, mense martii, die quinta decima intrante, indictione octaua)</datierungsvermerk>
         <ausstellungsort>Rialto (Venedig)</ausstellungsort>
         <regest>Der Doge Bartolomeo Gradenigo (Bartholomeus Gradonico)<footnote>28</footnote> bestätigt die von Abt Nikolaus<footnote>29</footnote> von St. Thomas in Torcello vorgelegte Abschrift einer Schenkungsurkunde, die vollständig inseriert ist.</regest>
+        <ueberlieferung>
+          <material>Pergament</material>
+          <sprache>Latein</sprache>
+          <dimension>36,2 x 66,8 cm</dimension>
+          <notar>Priester Nikolaus, Pleban von S. Canc(iano), Notar und Kanzler des Dogen von Venedig</notar>
+          <zeugen>Ioanes Nicolao Michael und Marinus Pasqualigo, beide iudices, mit eigenhändiger Unterschrift</zeugen>
+          <besonderheit>Pergament zeigt Umrisse des Tieres: Rücken mit Halsansatz unten; sehr große, schlichte Initiale I (Signatur: 270); Inserierte Abschrift der vorausgehenden Urkunde von 1304 März 8; Vgl. Nr. 9.</besonderheit>
+          <erhaltungszustand>restaurierte Löcher; Randbemerkung des Schreibers 1217 markiert den Beginn des Inserts</erhaltungszustand>
+          <rueckvermerke>drei von jeweils anderer Hand</rueckvermerke>
+          <signatur>270</signatur>
+        </ueberlieferung>
       </rahmenurkunde>
-      <teildokument>
+      <teildokument type="insert">
         <datum iso="12170999">1217 September</datum>
         <datierungsvermerk>(anno millesimo ducentesimo septimo decimo, mense septembris, indictione sexta)</datierungsvermerk>
         <ausstellungsort>Rialto (Venedig)</ausstellungsort>
@@ -403,7 +414,7 @@
           <notar>Priester Michael Bonifacius, Pleban zu S. Maria Iubanico und Kanzler des Dogen von Venedig</notar>
         </ueberlieferung>
       </teildokument>
-      <teildokument>
+      <teildokument type="insert">
         <datum iso="13040308">1304 März 8</datum>
         <datierungsvermerk>(anno ab incarnatione domini nostri Jhesu Christi Millesimo trigentesimo quarto mensis Marcii die octauo intrante, indictione secunda)</datierungsvermerk>
         <ueberlieferung>
@@ -412,17 +423,6 @@
         </ueberlieferung>
       </teildokument>
     </teildokumente>
-    <ueberlieferung>
-      <material>Pergament</material>
-      <sprache>Latein</sprache>
-      <dimension>36,2 x 66,8 cm</dimension>
-      <notar>Priester Nikolaus, Pleban von S. Canc(iano), Notar und Kanzler des Dogen von Venedig</notar>
-      <zeugen>Ioanes Nicolao Michael und Marinus Pasqualigo, beide iudices, mit eigenhändiger Unterschrift</zeugen>
-      <besonderheit>Pergament zeigt Umrisse des Tieres: Rücken mit Halsansatz unten; sehr große, schlichte Initiale I (Signatur: 270); Inserierte Abschrift der vorausgehenden Urkunde von 1304 März 8; Vgl. Nr. 9.</besonderheit>
-      <erhaltungszustand>restaurierte Löcher; Randbemerkung des Schreibers 1217 markiert den Beginn des Inserts</erhaltungszustand>
-      <rueckvermerke>drei von jeweils anderer Hand</rueckvermerke>
-      <signatur>270</signatur>
-    </ueberlieferung>
     <anmerkungen>
       <anmerkung seite="25" nr="28">Doge von Venedig 7.11.1339–Dez. 1342; Marco Pozza, Dogen v. Venedig, LMA 9, 1998, Stammtafeln, Herrscher- und Papstlisten.</anmerkung>
       <anmerkung seite="25" nr="29">Abt des Thomasklosters wohl 1327–(1344); Cornaro, Notizie storiche, 578.</anmerkung>
@@ -438,8 +438,20 @@
         <datum iso="13810602">1381 Juni 2</datum>
         <datierungsvermerk>(anno ab incarnatione domini nostri Ihesu Christi millesimo trecentesimo octuagesimo primo, mense Iunii, die secundo, indictione quarta)</datierungsvermerk>
         <regest>Vier Dokumente werden im Wortlaut wiedergegeben, welche die als Kommende verliehene Abtei St. Thomas in Torcello sowie deren Besitz auf Kreta, namentlich das Kloster St. Maria de Cavalense in Heraklion, betreffen.</regest>
+        <ueberlieferung>
+          <material>Pergament</material>
+          <sprache>Latein</sprache>
+          <dimension>32,2 x 51,2 cm</dimension>
+          <notar>Georgus Aymo</notar>
+          <zeugen>Amadeus de Laude; Gerardus Desde, beide Priester</zeugen>
+          <rueckvermerke>Datum</rueckvermerke>
+          <besonderheit>Unterstreichungen; Das genannte Kloster St. Maria de Cavalense in Heraklion dürfte mit der in Nr. 7, 10 und 15 genannten Kirche St. Maria de militibus identisch sein (vgl. oben die Einleitung Torcello– Kreta). (Signatur: 269) Treviso</besonderheit>
+          <erhaltungszustand>Textverlust durch Löcher am rechten Rand, restauriert; Unterschriften zum Teil nicht lesbar</erhaltungszustand>
+          <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
+          <signatur>269</signatur>
+        </ueberlieferung>
       </rahmenurkunde>
-      <teildokument>
+      <teildokument type="insert">
         <datum iso="13800907">1380 September 7</datum>
         <ausstellungsort>Rom, Haus des Bischofs von Faenza</ausstellungsort>
         <datierungsvermerk>(anno millesimo trecentesimo octuagesimo, indictione tercia, tempore serenissimi patris et domini nostri domini Urbani divina providentia pape sexti anno tercio, die septimo mensis septembris)</datierungsvermerk>
@@ -449,36 +461,24 @@
           <notar>Jacobus Cictareli</notar>
         </ueberlieferung>
       </teildokument>
-      <teildokument>
+      <teildokument type="insert">
         <datum iso="13801008">1380 Oktober 8</datum>
         <ausstellungsort>Rom, Senatorenpalast auf dem Kapitol</ausstellungsort>
         <regest>Der Senator Petrus de Passis (oficium sacri senatus regentes in alma urbe)<footnote>36</footnote> bestätigt ein Instrument des römischen Notars Jacobus Cictareli vom 15. September (1380) für Bischof Petrus von Pánormus auf Kreta (Millopota)<footnote>37</footnote>, dessen Inhalt nicht genannt wird, sowie die vorgenannte Prokuratorenvollmacht des Bischofs von Faenza für Bartholomeus Jacobi vom 7. September 1380.</regest>
         <datierungsvermerk>(die octavo mensis octobris, pontificatus eminentissimi in Christo patris domini nostri domni Urbani diuina providentia papae sexti anno tercio, mccclxxx, indictione tercia)</datierungsvermerk>
       </teildokument>
-      <teildokument>
+      <teildokument type="insert">
         <datum iso="13800907">1380 September 7</datum>
         <ausstellungsort>Rom, St. Peter</ausstellungsort>
         <regest>Papst Urban VI.<footnote>38</footnote> überträgt dem Franciscus de Urbino, Bischof von Faenza, das Kloster St. Thomas in Torcello als Kommende.</regest>
         <datierungsvermerk>(VII idus septembris pontificatus nostri anno tercio)</datierungsvermerk>
       </teildokument>
-      <teildokument>
+      <teildokument type="insert">
         <datum iso="13819999">(1381 vor Juni 2)</datum>
         <regest>Bischof Julianus (von Chersonisos, Prokurator des Bischofs Franciscus von Faenza als Kommendatar der Abtei St. Thomas in Torcello) verpachtet dem Jacobus Manolesus das Kloster (St. Maria de Cavalense) auf Kreta für 310 Golddukaten. Von diesen Einnahmen hat der Pächter den Unterhalt des Priesters in der Klosterkirche zu tragen. Das Datum ergibt sich aus der inhaltlichen Folge der Inserte, deren jüngstes es sein muss, und dem Datum der Gesamturkunde.</regest>
       </teildokument>
     </teildokumente>
     <dokumentform>Notariatsinstrument</dokumentform>
-    <ueberlieferung>
-      <material>Pergament</material>
-      <sprache>Latein</sprache>
-      <dimension>32,2 x 51,2 cm</dimension>
-      <notar>Georgus Aymo</notar>
-      <zeugen>Amadeus de Laude; Gerardus Desde, beide Priester</zeugen>
-      <rueckvermerke>Datum</rueckvermerke>
-      <besonderheit>Unterstreichungen; Das genannte Kloster St. Maria de Cavalense in Heraklion dürfte mit der in Nr. 7, 10 und 15 genannten Kirche St. Maria de militibus identisch sein (vgl. oben die Einleitung Torcello– Kreta). (Signatur: 269) Treviso</besonderheit>
-      <erhaltungszustand>Textverlust durch Löcher am rechten Rand, restauriert; Unterschriften zum Teil nicht lesbar</erhaltungszustand>
-      <handzeichen>Handzeichen des Notars (Abb. siehe Anhang)</handzeichen>
-      <signatur>269</signatur>
-    </ueberlieferung>
     <anmerkungen>
       <anmerkung seite="27" nr="34">Bischof von Faenza 1378–1387, Anhänger Urbans VI; Eubel, Hierarchia 1, 246.</anmerkung>
       <anmerkung seite="27" nr="35">Julianus Angeli, OPraed., Bischof von Chersonisos (Kreta) 6.4.1377–26.9.1398, zuvor Bischof von Hierapetra (Kreta); Eubel, Hierarchia 1, 185.</anmerkung>

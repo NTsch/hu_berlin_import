@@ -101,8 +101,11 @@
                     <xsl:variable name="description-tokens" select="tokenize(ueberlieferung/beschreibung/text(), '; ')"/>
                     <cei:abstract>
                         <xsl:apply-templates select="regest"/>
+                        <xsl:if test="regest and ueberlieferung/zeugen">
+                            <xsl:text> | </xsl:text>
+                        </xsl:if>
                         <xsl:if test="ueberlieferung/zeugen">
-                            <xsl:text> | Zeugen: </xsl:text>
+                            <xsl:text>Zeugen: </xsl:text>
                         </xsl:if>
                         <xsl:apply-templates select="ueberlieferung/zeugen"/>
                     </cei:abstract>
@@ -114,12 +117,12 @@
                        <cei:traditioForm>
                            <xsl:choose>
                                <xsl:when test="$sub-charter-type = 'transfix'">
-                                   <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref), '.'"/>
+                                   <xsl:value-of select="concat('Diese Urkunde ist ein Transfix (VID #71) in Urk. ', $main-charter-ref, '.')"/>
                                </xsl:when>
                                <xsl:when test="$sub-charter-type = 'insert'">
-                                   <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref), '.'"/>
+                                   <xsl:value-of select="concat('Diese Urkunde ist ein Insert (VID #65) in Urk. ', $main-charter-ref, '.')"/>
                                </xsl:when>
-                               <xsl:when test="ancestor::urkunde/teildokumente">
+                               <xsl:when test="self::rahmenurkunde">
                                    <xsl:text>Teildokumente dieser Rahmenurkunde: </xsl:text>
                                    <xsl:for-each select="ancestor::urkunde/teildokumente/teildokument">
                                        <xsl:value-of select="concat($signatur, '.', position())"/>
