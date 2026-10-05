@@ -58,6 +58,7 @@
         <xsl:variable name="main-char-record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $main-charter-ref, ','))]]"/>
         <xsl:variable name="effective-record" select="if ($record) then $record else $main-char-record"/>
         <xsl:variable name="access-no" select="$effective-record/accession-num/text()"/>
+        <xsl:variable name="charter-no" select="concat('Urkunde Nr. ', @nr/data(), '. ')"/>
         <cei:text type="charter">
             <cei:front>
                 <cei:sourceDesc>
@@ -66,10 +67,12 @@
                             <xsl:choose>
                                 <xsl:when test="contains(document-uri(/), 'aberle')">
                                     <xsl:text>Aberle, Johanna, und Ina Prescher. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin, heute in der Universitätsbibliothek der Humboldt-Universität, Zweigbibliothek Geschichte. Inventar: Sammlungsgeschichte, -beschreibung und Regesten der Urkunden nordalpiner Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 60. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 1997. </xsl:text>
+                                    <xsl:value-of select="$charter-no"/>
                                     <cei:ref target='https://doi.org/10.18452/5011'>https://doi.org/10.18452/5011</cei:ref>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <xsl:text>Müller, Harald, Michael Brauer, Uta Kirchner, Andrea Kutschke, Constanze Trapp, und Kordula Wolf. Die Urkundensammlung des Historischen Seminars der Friedrich-Wilhelms-Universität zu Berlin. Teil 2: Regesten der Urkunden nichtdeutscher Provenienz. Schriftenreihe der Universitätsbibliothek der Humboldt-Universität zu Berlin 62. Humboldt-Universität zu Berlin, Universitätsbibliothek der Humboldt-Universität, 2007. </xsl:text>
+                                    <xsl:value-of select="$charter-no"/>
                                     <cei:ref target='https://doi.org/10.18452/5018'>https://doi.org/10.18452/5018</cei:ref>
                                 </xsl:otherwise>
                             </xsl:choose>
@@ -80,6 +83,7 @@
                                 </cei:ref>
                             </xsl:if>
                         </cei:bibl>
+                        <xsl:apply-templates select="ueberlieferung/bibl"/>
                         <xsl:apply-templates select="ueberlieferung/druck"/>
                         <xsl:apply-templates select="ueberlieferung/literatur_regest"/>
                   </cei:sourceDescRegest>
@@ -241,7 +245,7 @@
                 <xsl:value-of select="ueberlieferung/siegel"/>
             </cei:sealDesc></xsl:if>
     </xsl:template>
-    <xsl:template match="druck | literatur_regest">
+    <xsl:template match="druck | literatur_regest | bibl">
         <cei:bibl>
             <xsl:apply-templates/>
         </cei:bibl>
