@@ -54,11 +54,12 @@
         <xsl:variable name="sub-charter-ref" select="concat($main-charter-ref, '.', $position - 1)"/>
         <xsl:variable name="signatur" select="ueberlieferung/signatur/text()"/>
         <xsl:variable name="record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $signatur, ','))]]"/>
-        <xsl:variable name="metadata-entry" select="doc('urkundensammlung_metadaten.xml')/tei:TEI/tei:text/tei:body/tei:table/tei:row[tei:cell[@n='1'][text() = concat('Urk. ', $signatur)]]"/>
+        <xsl:variable name="metadata-entry" select="doc('urkundensammlung_metadaten.xml')/TEI/text/body/table/row[cell[@n='1'][text() = concat('Urk. ', $signatur)]]"/>
         <xsl:variable name="main-char-record" select="doc('records.xml')/records/record[titles/title[contains(text(), concat('Urkunde ', $main-charter-ref, ','))]]"/>
         <xsl:variable name="effective-record" select="if ($record) then $record else $main-char-record"/>
         <xsl:variable name="access-no" select="$effective-record/accession-num/text()"/>
-        <xsl:variable name="charter-no" select="concat('Urkunde Nr. ', @nr/data(), '. ')"/>
+        <xsl:variable name="charter-no" select="concat('Urkunde Nr. ', ancestor-or-self::urkunde/@nr/data(), '. ')"/>
+        <xsl:variable name="tei-entry" select="doc('info/HU_Urkundensammlung_TEI.xml')/tei:teiCorpus/tei:TEI//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[contains(text(), concat('(Signatur ', $signatur, ')'))]/ancestor::tei:TEI"/>
         <cei:text type="charter">
             <cei:front>
                 <cei:sourceDesc>
@@ -76,14 +77,14 @@
                                     <cei:ref target='https://doi.org/10.18452/5018'>https://doi.org/10.18452/5018</cei:ref>
                                 </xsl:otherwise>
                             </xsl:choose>
-                            <xsl:if test="$metadata-entry/tei:cell[@n='8']/normalize-space()">
+                            <xsl:if test="$metadata-entry/cell[@n='8']/normalize-space()">
                                 <xsl:text>, Seite digitalisiert unter: </xsl:text>
-                                <cei:ref target="{$metadata-entry/tei:cell[@n='8']/text()}">
-                                    <xsl:value-of select="$metadata-entry/tei:cell[@n='8']/text()"/>
+                                <cei:ref target="{$metadata-entry/cell[@n='8']/text()}">
+                                    <xsl:value-of select="$metadata-entry/cell[@n='8']/text()"/>
                                 </cei:ref>
                             </xsl:if>
                         </cei:bibl>
-                        <xsl:apply-templates select="ueberlieferung/bibl"/>
+                        <xsl:apply-templates select="$tei-entry//tei:bibl[not(@sameAs)]"/>
                         <xsl:apply-templates select="ueberlieferung/druck"/>
                         <xsl:apply-templates select="ueberlieferung/literatur_regest"/>
                   </cei:sourceDescRegest>
@@ -243,9 +244,10 @@
                     <xsl:text>; </xsl:text>
                 </xsl:if>
                 <xsl:value-of select="ueberlieferung/siegel"/>
-            </cei:sealDesc></xsl:if>
+            </cei:sealDesc>
+        </xsl:if>
     </xsl:template>
-    <xsl:template match="druck | literatur_regest | bibl">
+    <xsl:template match="druck | literatur_regest | bibl | tei:bibl[not(@sameAs)]">
         <cei:bibl>
             <xsl:apply-templates/>
         </cei:bibl>
